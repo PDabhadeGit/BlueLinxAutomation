@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_311Add branch information in Agility</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0840a88-11e7-4e56-b0c3-67063eeab84c</testCaseGuid>
+</TestCaseEntity>

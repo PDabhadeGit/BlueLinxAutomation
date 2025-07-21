@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add Tracking Event</name>
+   <tag></tag>
+   <elementGuidId>bed37c6d-3cb1-4f7a-a177-cf1688de1f3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='actionTree.1_8_5_3.k']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Add Tracking Event&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4bd39c17-9ae9-461b-81c6-933c58b3845b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionTree.1_8_5_3.k</value>
+      <webElementGuid>52ff7777-3fb6-475a-b1af-30e560b0165e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>d58dfe43-7d4a-4c53-98e7-171b376891b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1750425672422\x3FbcKey\x3DMTc1MDQyNTY3MjQyMzox\x26action_name\x3Dadd_tracking_event\x26finder_set_gid\x3DBUY_SHIPMENT')</value>
+      <webElementGuid>9bda2a4e-e52a-4898-a1e9-61d50b2e7e28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Tracking Event</value>
+      <webElementGuid>3390290d-be5a-4e03-82b9-abc6982b56a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionTree.1_8_5_3.k&quot;)</value>
+      <webElementGuid>5dc80a36-ce84-4a15-8449-e4f1f35901e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipments Result/iframe_concat(id(, , actionFrame, , ))_actionFrame</value>
+      <webElementGuid>e8d2934d-d46d-4c11-a618-43bfb4e745f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='actionTree.1_8_5_3.k']</value>
+      <webElementGuid>84b0953f-acdd-439c-b6c1-71c07433b500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='actionTree.1_8_5_3.l']/a</value>
+      <webElementGuid>9258b987-4335-4a84-b5ff-a112ea820160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add Tracking Event')]</value>
+      <webElementGuid>360766a6-5416-4df1-b9f8-09b4d9d98b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Shipment Tracking Event'])[1]/following::a[1]</value>
+      <webElementGuid>44cfcdf0-7334-45c5-8e4b-78519089f4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Event For Location'])[1]/following::a[2]</value>
+      <webElementGuid>69de2558-1961-49de-9506-c0da04b300b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Tracking Events to Shipments'])[1]/preceding::a[1]</value>
+      <webElementGuid>19d10a15-5f99-4c27-b140-2f2b2f09ff44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roll Back Sighting'])[1]/preceding::a[2]</value>
+      <webElementGuid>4d3fd7d3-ed9e-4019-9d7e-eed9dd4b24ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Tracking Event']/parent::*</value>
+      <webElementGuid>3e2c4858-7ef8-4e60-98b3-6624294ee712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1750425672422\x3FbcKey\x3DMTc1MDQyNTY3MjQyMzox\x26action_name\x3Dadd_tracking_event\x26finder_set_gid\x3DBUY_SHIPMENT')&quot;)]</value>
+      <webElementGuid>973d97cc-54c5-4fe0-99dc-90ee9ce0aa5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[16]/td/div/table/tbody/tr[10]/td/div/table/tbody/tr[3]/td/span[2]/a</value>
+      <webElementGuid>9d1abaed-bead-4a5d-a461-52323d6a8d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_8_5_3.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1750425672422\x3FbcKey\x3DMTc1MDQyNTY3MjQyMzox\x26action_name\x3Dadd_tracking_event\x26finder_set_gid\x3DBUY_SHIPMENT&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Add Tracking Event' or . = 'Add Tracking Event')]</value>
+      <webElementGuid>f79c64bd-306f-484c-8972-32c1c8c03c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1750419233630\x3FbcKey\x3DMTc1MDQxOTIzMzYzMTox\x26action_name\x3Dadd_tracking_event\x26finder_set_gid\x3DBUY_SHIPMENT')&quot;)]</value>
+      <webElementGuid>82f9abf5-3309-4a98-a9ce-409aee97d41d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_8_5_3.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1750419233630\x3FbcKey\x3DMTc1MDQxOTIzMzYzMTox\x26action_name\x3Dadd_tracking_event\x26finder_set_gid\x3DBUY_SHIPMENT&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Add Tracking Event' or . = 'Add Tracking Event')]</value>
+      <webElementGuid>df2c5bd8-7358-441e-b03b-0bfed9fe85f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

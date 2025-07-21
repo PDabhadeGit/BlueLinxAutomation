@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create billing address link existing shipping Loc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b0b1b85-f68e-43c5-be9e-31309c3665b0</testCaseGuid>
+</TestCaseEntity>

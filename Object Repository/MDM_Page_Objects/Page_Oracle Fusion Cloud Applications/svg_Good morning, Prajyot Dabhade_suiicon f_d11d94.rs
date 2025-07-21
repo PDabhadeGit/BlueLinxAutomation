@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Good morning, Prajyot Dabhade_suiicon f_d11d94</name>
+   <tag></tag>
+   <elementGuidId>5708a6a3-977b-4849-817c-0f50890fd20c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='DEV2'])[1]/following::*[name()='svg'][8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.suiicon.flat-tabs-overflow-right-svg.svg-bkgd05</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#clusters-right-nav svg</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>eceb0cc7-246d-4fb3-9bcc-36ffdf1e25f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 48 48</value>
+      <webElementGuid>8b4140f3-955b-45b7-a811-7cad0fecc20d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>suiicon flat-tabs-overflow-right-svg svg-bkgd05</value>
+      <webElementGuid>3974c4af-6b0f-4cc7-9d08-5192973acec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>navi_caretright</value>
+      <webElementGuid>10fd30e9-24a5-43a3-a31d-886452c7c7a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d0ed0888-f3d9-4d15-97bb-1f2216ddba8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>e3c03af7-586b-4308-aec3-84a2af94f568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>67b55499-5981-4f66-a38c-4be382126de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;clusters-right-nav&quot;)/svg[@class=&quot;suiicon flat-tabs-overflow-right-svg svg-bkgd05&quot;]</value>
+      <webElementGuid>527b7caa-1902-4ee1-ba34-021d9c1341c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Good morning, Prajyot Dabhade'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>f5a48022-c6e1-404e-9c4b-27d26890cfb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEV2'])[1]/following::*[name()='svg'][8]</value>
+      <webElementGuid>4a347239-d815-42d3-b463-66b67b7e9981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Actions'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f13e8dd4-8f09-4ed0-9f15-b79a3e32fc8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/preceding::*[name()='svg'][22]</value>
+      <webElementGuid>573bafa6-4e28-4d6d-a27c-7d72c39d4926</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

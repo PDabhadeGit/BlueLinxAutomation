@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Groups and Charges</name>
+   <tag></tag>
+   <elementGuidId>cd997122-0c6b-423d-99cd-01d899ef2ea6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;tabShipmentGroupCharges&quot;]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bodyDataFooterContDiv > table.buttonsCont > tbody > tr > td:nth-of-type(2) > div.buttonCont > button.enButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Groups and Charges&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24436338-4d2c-47a4-8d5e-2fbf5a11aaf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enButton</value>
+      <webElementGuid>bb55173c-caf2-49a8-875b-d462da731f5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>92647399-c6dd-4cfe-90e4-577f397245f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>function t() {  return true; } if(t.call(this) !== false) { javascript:if(checkData('management_main')){ setRedirect('ShipmentRemarks');document.management_main.submit();}; } else { return false; }</value>
+      <webElementGuid>4623d553-5369-49f7-942a-476578d054c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Groups and Charges</value>
+      <webElementGuid>a430b95b-b2dd-433b-8299-b5026d37a3e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataFooterContDiv&quot;)/table[@class=&quot;buttonsCont&quot;]/tbody[1]/tr[1]/td[2]/div[@class=&quot;buttonCont&quot;]/button[@class=&quot;enButton&quot;]</value>
+      <webElementGuid>053348ce-3bd7-4d98-a8b0-00c7700db4e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment - Remarks/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>bcf4da31-63c4-456a-a180-2fa4c177e46a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>4e1c5381-8109-4794-9e2a-a6f72f6689ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataFooterContDiv']/table/tbody/tr/td[2]/div/button</value>
+      <webElementGuid>644ba24d-a855-4224-b053-8534c6fc23da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top'])[1]/following::button[1]</value>
+      <webElementGuid>e12248e0-897a-478a-ba52-642535b2dae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/following::button[2]</value>
+      <webElementGuid>2437d949-31ab-4b46-a361-128a219c466b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/table/tbody/tr/td[2]/div/button</value>
+      <webElementGuid>520af66b-bee1-4b0c-9b4d-c004b4d7a579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Groups and Charges' or . = 'Groups and Charges')]</value>
+      <webElementGuid>b674d0bd-1d30-4845-8f29-23a7b21115e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>bb93bf4e-195d-4ac6-ab36-74de9dc114cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internal Instructions'])[1]/following::button[4]</value>
+      <webElementGuid>6f2d8822-1b1f-4fb3-819f-14a3364638b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

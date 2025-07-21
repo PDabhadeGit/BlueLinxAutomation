@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mark Complete</name>
+   <tag></tag>
+   <elementGuidId>4e10bdcb-d2bb-4440-958f-626bdf0c3054</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.xrm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:AP1:ctbtaskcomp']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Mark Complete&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6de81ba3-3ac4-4488-baf2-76710b4778cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xrm</value>
+      <webElementGuid>a82497e6-a5fd-47f4-9260-3db31fb433c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mark Complete</value>
+      <webElementGuid>d2362f9b-d33d-4f4d-bb1a-ec61eaec947d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:AP1:ctbtaskcomp&quot;)/a[@class=&quot;xri&quot;]/span[@class=&quot;xrm&quot;]</value>
+      <webElementGuid>7613a45e-ddb2-4cfa-ab7c-fb135573f45e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:AP1:ctbtaskcomp']/a/span</value>
+      <webElementGuid>8ef5047b-4be8-4136-baa5-372cbba593cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Task Status'])[1]/following::span[1]</value>
+      <webElementGuid>98958a13-c26f-41ca-aa39-00a2eebae820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>bff14e84-ccf2-4ad8-bc1f-6d400505d569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mark the assigned definition step complete'])[1]/preceding::span[1]</value>
+      <webElementGuid>f0924ae5-bb5b-4a99-a3b8-a0c3e62280d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim Task'])[1]/preceding::span[2]</value>
+      <webElementGuid>6297291f-7f49-4e9d-9a70-f7a097a134a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mark Complete']/parent::*</value>
+      <webElementGuid>4457594e-e5bd-4d13-80ef-f2a0d59254e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>c6896541-e953-4d90-8f7f-0f3dcf900acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mark Complete' or . = 'Mark Complete')]</value>
+      <webElementGuid>16974b8f-21ce-404a-84d3-20b7175ab37d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

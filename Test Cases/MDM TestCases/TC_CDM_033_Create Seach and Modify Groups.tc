@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_033_Create Seach and Modify Groups</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e750d197-09dd-4be4-b916-2c7967066332</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ACE Transport-Hialeah</name>
+   <tag></tag>
+   <elementGuidId>c89e8dd8-6beb-46e9-bbbd-b2dc6afbf7c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:r2:1:AT1:table2::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;ACE Transport-Hialeah&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f421de5-a5c3-4ef4-93cc-56b1263064d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x2hl</value>
+      <webElementGuid>dbd95e3c-8e7a-4d37-8529-63e9b8b989fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACE Transport-Hialeah</value>
+      <webElementGuid>07407c88-3e1d-46c1-8c1a-188b7e3f6ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:r2:1:AT1:table2::db&quot;)/table[@class=&quot;x1hi x1i6&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[2]/div[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;xen&quot;]/span[@class=&quot;x2hl&quot;]</value>
+      <webElementGuid>b4387243-77bb-45b4-b91b-9b4f0f53b790</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:r2:1:AT1:table2::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td[2]/span</value>
+      <webElementGuid>820405c3-fba6-40fc-a774-8b235130eb86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACH'])[1]/following::span[1]</value>
+      <webElementGuid>0db1f765-5aae-480e-8010-dfa1178358ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Name'])[5]/following::span[3]</value>
+      <webElementGuid>54057aeb-be92-402e-b78d-2e5ed7804ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACM'])[1]/preceding::span[2]</value>
+      <webElementGuid>ef7bee1e-0b93-40f1-930b-8cdd464f130b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACE Transport-Miami'])[1]/preceding::span[3]</value>
+      <webElementGuid>98dc52eb-35bd-4e92-bd7d-af4d39352422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ACE Transport-Hialeah']/parent::*</value>
+      <webElementGuid>6b4d3dee-15af-4ac3-b3d2-5435917b410e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div[2]/table/tbody/tr/td[2]/div/table/tbody/tr/td[2]/span</value>
+      <webElementGuid>3cafff21-1cf7-409d-b001-f79e65a3f3eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ACE Transport-Hialeah' or . = 'ACE Transport-Hialeah')]</value>
+      <webElementGuid>e1ee278d-293a-4f49-b2bc-8c9e29ffabe2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

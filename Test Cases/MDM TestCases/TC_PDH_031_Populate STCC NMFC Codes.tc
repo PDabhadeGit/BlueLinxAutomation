@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_031_Populate STCC NMFC Codes</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>686a461c-110b-4ee1-b9ba-8a3a1c6fd2fc</testCaseGuid>
+</TestCaseEntity>

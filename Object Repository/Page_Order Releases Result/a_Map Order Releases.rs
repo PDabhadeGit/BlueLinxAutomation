@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Map Order Releases</name>
+   <tag></tag>
+   <elementGuidId>7483eeed-f61c-4fa5-8231-66df3d632879</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;actionTree.1_8_7_1.k&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Map Order Releases&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d6f3fc51-2704-44fb-a9c8-dc40c1b80ef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionTree.1_7_6_1.k</value>
+      <webElementGuid>d21211ce-12f5-4a18-a546-626016fbe3c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>ed2f5dd4-204d-4d78-a19e-2f3af9602ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747289087042\x3FbcKey\x3DMTc0NzI4OTA4NzA0Mzox\x26action_name\x3Dmap_order_release\x26finder_set_gid\x3DORDER_RELEASE_WO_STOP')</value>
+      <webElementGuid>c6f7f099-73e3-42e2-b5d1-2b00e79e256d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Map Order Releases</value>
+      <webElementGuid>b9e7f354-3583-427e-890c-017a4f7f4050</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionTree.1_7_6_1.k&quot;)</value>
+      <webElementGuid>682c310d-192d-4e0c-ae76-418f52070f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Order Releases Result/iframe_concat(id(, , actionFrame, , ))_actionFrame_1</value>
+      <webElementGuid>4998b90e-8a43-4fff-ac39-2d2ebde17102</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='actionTree.1_7_6_1.k']</value>
+      <webElementGuid>0949a645-4855-4a81-a8ab-a113a133f9d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='actionTree.1_7_6_1.l']/a</value>
+      <webElementGuid>a1380ad5-47e5-4c49-8f2f-7a1ed0b109c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Map Order Releases')]</value>
+      <webElementGuid>a3e45438-8605-4672-91e8-0091e3d43245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Map'])[1]/following::a[1]</value>
+      <webElementGuid>f0cb790f-ec9e-418a-898d-da8fb2ae1030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='With Best Itinerary'])[2]/following::a[1]</value>
+      <webElementGuid>4421c9ee-9621-4315-9105-63da561c70b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unassign Order Release'])[1]/preceding::a[1]</value>
+      <webElementGuid>2b9b8be7-eaee-491b-88b7-d17e54fe2b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unassign and Retain Order Movements - Buy'])[1]/preceding::a[1]</value>
+      <webElementGuid>46cd3e9f-f353-44f5-a347-ed4835204169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Map Order Releases']/parent::*</value>
+      <webElementGuid>0b5c8bb2-c14f-42e0-80b0-5f28cb1c9b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747289087042\x3FbcKey\x3DMTc0NzI4OTA4NzA0Mzox\x26action_name\x3Dmap_order_release\x26finder_set_gid\x3DORDER_RELEASE_WO_STOP')&quot;)]</value>
+      <webElementGuid>f8123798-3fda-4d58-8759-9b97c60b5855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td/div/table/tbody/tr/td/span[2]/a</value>
+      <webElementGuid>9f87f117-5997-4f66-8323-73c97d289fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_7_6_1.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747289087042\x3FbcKey\x3DMTc0NzI4OTA4NzA0Mzox\x26action_name\x3Dmap_order_release\x26finder_set_gid\x3DORDER_RELEASE_WO_STOP&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Map Order Releases' or . = 'Map Order Releases')]</value>
+      <webElementGuid>2b1dc549-2cd7-4cca-a319-63c8f82f19b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747288437944\x3FbcKey\x3DMTc0NzI4ODQzNzk0Njox\x26action_name\x3Dmap_order_release\x26finder_set_gid\x3DORDER_RELEASE_WO_STOP')&quot;)]</value>
+      <webElementGuid>90d634e5-e5a0-4187-b780-6769710b331d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_7_6_1.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747288437944\x3FbcKey\x3DMTc0NzI4ODQzNzk0Njox\x26action_name\x3Dmap_order_release\x26finder_set_gid\x3DORDER_RELEASE_WO_STOP&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Map Order Releases' or . = 'Map Order Releases')]</value>
+      <webElementGuid>023c20f8-f9b4-4d3f-bbaa-b8972eb136cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

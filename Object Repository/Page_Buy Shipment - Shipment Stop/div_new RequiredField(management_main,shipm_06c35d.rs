@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_new RequiredField(management_main,shipm_06c35d</name>
+   <tag></tag>
+   <elementGuidId>14390a85-aa3d-4306-9cc1-b8b17067e440</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bodyDataDiv']/div/table/tbody/tr/td/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fieldCont</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;* Stop Number Stop Number&quot;i] >> div >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>63812152-a260-48bf-994e-e213f5ec404d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fieldCont</value>
+      <webElementGuid>39cdacf1-545e-450d-8fff-c9928973f2d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>new RequiredField('management_main','shipment_stop\x2Fstop_num\x40PRF','Stop\x20Number','null');* Stop Numbernew NumberField('management_main','shipment_stop\x2Fstop_num\x40PRF','Stop\x20Number',16,0,false,0,1000000000000000,'null','false');</value>
+      <webElementGuid>afa1e13d-8bb9-4fc0-bd0e-42efd844bcfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont bodySectBG&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;fieldCont&quot;]</value>
+      <webElementGuid>5bac0937-fc35-4d27-b58f-524f83f83386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment - Shipment Stop/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>a1435be0-f125-4ce7-8ed4-2581714aabc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div/table/tbody/tr/td/div</value>
+      <webElementGuid>2223754c-0507-4181-a83d-eeb1f5430281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Stop'])[1]/following::div[6]</value>
+      <webElementGuid>bf181e25-019b-4bfc-801d-20c01d4c34ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Shipment'])[1]/following::div[6]</value>
+      <webElementGuid>73fac459-84a1-4329-bbe5-e0dd62c32007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div</value>
+      <webElementGuid>a9c86faa-f3a5-455c-bb47-013c1f7e5922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;new RequiredField(&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;shipment_stop\x2Fstop_num\x40PRF&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;Stop\x20Number&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;null&quot; , &quot;'&quot; , &quot;);* Stop Numbernew NumberField(&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;shipment_stop\x2Fstop_num\x40PRF&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;Stop\x20Number&quot; , &quot;'&quot; , &quot;,16,0,false,0,1000000000000000,&quot; , &quot;'&quot; , &quot;null&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;false&quot; , &quot;'&quot; , &quot;);&quot;) or . = concat(&quot;new RequiredField(&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;shipment_stop\x2Fstop_num\x40PRF&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;Stop\x20Number&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;null&quot; , &quot;'&quot; , &quot;);* Stop Numbernew NumberField(&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;shipment_stop\x2Fstop_num\x40PRF&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;Stop\x20Number&quot; , &quot;'&quot; , &quot;,16,0,false,0,1000000000000000,&quot; , &quot;'&quot; , &quot;null&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;false&quot; , &quot;'&quot; , &quot;);&quot;))]</value>
+      <webElementGuid>99de4846-c4df-4fc1-9d5c-c09583784fd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

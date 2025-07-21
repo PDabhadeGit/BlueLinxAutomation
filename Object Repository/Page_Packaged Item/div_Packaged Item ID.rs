@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Packaged Item ID</name>
+   <tag></tag>
+   <elementGuidId>d62e190f-2b03-45a3-8d3b-2778ca638567</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fieldLabel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bodyDataDiv']/div/table/tbody/tr/td/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Packaged Item ID&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68916e35-22db-4b78-bfea-a6a6b00f92c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fieldLabel</value>
+      <webElementGuid>7219cb1f-a989-4a11-8899-7e327f2930ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Packaged Item ID</value>
+      <webElementGuid>5d454a80-962c-4992-8f35-f8dd70a1a563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;fieldCont&quot;]/div[@class=&quot;fieldLabel&quot;]</value>
+      <webElementGuid>7d2376ca-939e-47be-8e01-82323f440075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Packaged Item/iframe_mainBody</value>
+      <webElementGuid>df714c5f-bbd4-4b79-afe9-9171c2cd8139</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div/table/tbody/tr/td/div/div</value>
+      <webElementGuid>8c907a25-f5ec-4544-a165-84d20a1db5bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::div[5]</value>
+      <webElementGuid>e3372ebb-934f-4d11-939a-0fff5433eba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::div[6]</value>
+      <webElementGuid>c9d73bcd-fa86-4575-a147-11c8fa5e33cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::div[2]</value>
+      <webElementGuid>7252e120-34e1-4a41-aa3c-7cbafb5ed623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Packaged Item ID']/parent::*</value>
+      <webElementGuid>cdc5e722-1d27-4940-af6f-326e2fb9dbbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div</value>
+      <webElementGuid>63ea4762-7a84-47c2-8add-b2482ae08edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Packaged Item ID' or . = 'Packaged Item ID')]</value>
+      <webElementGuid>e54372f6-430f-4aa3-9bb4-847ede274f9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

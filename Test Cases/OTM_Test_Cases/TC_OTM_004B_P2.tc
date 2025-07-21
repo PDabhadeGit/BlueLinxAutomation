@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OTM_004B_P2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ca30d85-cbdd-47a8-baa2-66c164ef74b6</testCaseGuid>
+</TestCaseEntity>

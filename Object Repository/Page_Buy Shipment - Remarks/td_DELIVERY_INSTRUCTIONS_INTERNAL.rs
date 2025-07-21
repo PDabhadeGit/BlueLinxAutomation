@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_DELIVERY_INSTRUCTIONS_INTERNAL</name>
+   <tag></tag>
+   <elementGuidId>72f67c79-184f-4f57-aa90-b2ef7acaa27d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'DELIVERY_INSTRUCTIONS_INTERNAL' or . = 'DELIVERY_INSTRUCTIONS_INTERNAL')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='3019 BXC.6007']/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;DELIVERY_INSTRUCTIONS_INTERNAL&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>a2fa75a1-c73c-4634-a9fc-bf7a72e09422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>e485bf99-9b46-4bd3-8f0e-8e666c610cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gridBodyCell</value>
+      <webElementGuid>5a247284-be17-4889-9ec6-cd952e62d2ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DELIVERY_INSTRUCTIONS_INTERNAL</value>
+      <webElementGuid>cbbcc946-c1c8-428d-a150-dfc3065b25e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;3019 BXC.6007&quot;)/td[@class=&quot;gridBodyCell&quot;]</value>
+      <webElementGuid>04694b2c-9ce3-4bd5-85ce-822276988349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment - Remarks/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>5bb99892-b918-4bf0-87cb-1630e3240c01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='3019 BXC.6007']/td</value>
+      <webElementGuid>fe74b354-7f1e-4456-9023-a9c7dd8f4207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='External Instructions'])[1]/following::td[4]</value>
+      <webElementGuid>e92fc266-3b38-459d-b29a-cd2cdf803345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DELIVERY_INSTRUCTIONS_EXTERNAL'])[2]/following::td[5]</value>
+      <webElementGuid>71eb5aaa-0dc2-4482-bc41-effb149104bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internal Instructions'])[1]/preceding::td[1]</value>
+      <webElementGuid>928034f7-22cd-43e3-b6b2-70d6e15043c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td</value>
+      <webElementGuid>7782c6c6-7bd9-449d-9880-dacf9eb74faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'DELIVERY_INSTRUCTIONS_INTERNAL' or . = 'DELIVERY_INSTRUCTIONS_INTERNAL')]</value>
+      <webElementGuid>102969ca-bc2c-499c-9374-d95c6a373436</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tender Offer Status</name>
+   <tag></tag>
+   <elementGuidId>98f8f871-6be7-4eaf-ac87-eec81ba1ec9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bodyDataDiv']/div/table/tbody/tr/td/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fieldLabel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bodyDataDiv >> internal:text=&quot;Tender Offer Status&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d1558a60-a4fe-436d-bfda-73ba5b605015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fieldLabel</value>
+      <webElementGuid>07109576-08b4-48da-a6eb-eb019fbda39a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tender Offer Status</value>
+      <webElementGuid>cf02921c-6583-41ee-8de1-2146444fad39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont bodySectBG&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;fieldCont&quot;]/div[@class=&quot;fieldLabel&quot;]</value>
+      <webElementGuid>07cf0e3f-57cf-4e40-9d7e-181bc010f111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Online BookingTendering - Identification/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>73138184-a27d-49f7-bd9d-5124cd93ea6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div/table/tbody/tr/td/div/div</value>
+      <webElementGuid>71345afb-2709-4f70-a04c-f4286d67d2fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOT APPLICABLE'])[1]/following::div[9]</value>
+      <webElementGuid>a3ad1652-07fe-4676-97a8-4098df28dcaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tender Offer Status'])[1]/following::div[9]</value>
+      <webElementGuid>2319d2ae-5954-4bea-8ce3-35378d9e191c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOT APPLICABLE'])[2]/preceding::div[1]</value>
+      <webElementGuid>154678c8-b052-4bf7-a90e-5c5170303af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Respond By'])[1]/preceding::div[2]</value>
+      <webElementGuid>a31aec27-9dcc-4418-8b89-5d73727b8734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div</value>
+      <webElementGuid>927f67c7-c203-4c58-9334-fb65b9f131a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tender Offer Status' or . = 'Tender Offer Status')]</value>
+      <webElementGuid>acf49708-3deb-449f-961d-9f2368a1a63c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

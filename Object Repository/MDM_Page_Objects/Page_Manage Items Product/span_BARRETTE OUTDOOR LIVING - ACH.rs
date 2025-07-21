@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_BARRETTE OUTDOOR LIVING - ACH</name>
+   <tag></tag>
+   <elementGuidId>f1229d77-deef-47f6-bfcc-f9ca6e201a77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:supplierId_DispId::dropdownPopup::dropDownContent::db']/table/tbody/tr/td/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.x2hl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;BARRETTE OUTDOOR LIVING - ACH&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>121c6145-1e08-45fc-bf69-b7fb55326a05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x2hl</value>
+      <webElementGuid>7c397c0b-6ac1-4496-a329-52ee2d6cba6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BARRETTE OUTDOOR LIVING - ACH</value>
+      <webElementGuid>79abe183-7205-4b46-9054-338c705543ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:supplierId_DispId::dropdownPopup::dropDownContent::db&quot;)/table[@class=&quot;x1hi&quot;]/tbody[1]/tr[@class=&quot;p_AFFocused xem p_AFSelected&quot;]/td[@class=&quot;xen&quot;]/span[@class=&quot;x2hl&quot;]</value>
+      <webElementGuid>a78084a1-9459-4195-b59f-72881045b24d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:supplierId_DispId::dropdownPopup::dropDownContent::db']/table/tbody/tr/td/span</value>
+      <webElementGuid>4e237755-a9c7-4b16-91f1-1909eb37e1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[5]/following::span[1]</value>
+      <webElementGuid>7480287e-5d50-4234-b6c0-f4181bcbe4b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C'])[2]/following::span[2]</value>
+      <webElementGuid>0a5b28e5-6030-4b8b-9f03-04d21644f4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CLARKDIETRICH BUILDING SYS-ACH'])[1]/preceding::span[2]</value>
+      <webElementGuid>525528b3-10ee-4df6-ac60-5596f3be102a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DDP SPECIALTY ELECTRONIC - ACH'])[1]/preceding::span[4]</value>
+      <webElementGuid>f24f5b73-9717-4a73-a6c9-60ef5ccad25c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BARRETTE OUTDOOR LIVING - ACH']/parent::*</value>
+      <webElementGuid>bf5508b3-27e2-47b3-8161-766589ab4512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td/span</value>
+      <webElementGuid>83aa5e15-0d09-4bf7-847e-784a921ccf28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'BARRETTE OUTDOOR LIVING - ACH' or . = 'BARRETTE OUTDOOR LIVING - ACH')]</value>
+      <webElementGuid>37d5586f-9156-4d0f-b2a6-a545e2a80d46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

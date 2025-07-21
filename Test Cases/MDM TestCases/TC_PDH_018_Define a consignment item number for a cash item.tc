@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_018_Define a consignment item number for a cash item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae9dbb53-0d76-49a2-8635-6ff83341a4ac</testCaseGuid>
+</TestCaseEntity>

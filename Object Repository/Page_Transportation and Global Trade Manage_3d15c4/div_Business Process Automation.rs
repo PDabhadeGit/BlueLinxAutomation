@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Business Process Automation</name>
+   <tag></tag>
+   <elementGuidId>56999ba9-c9f9-4567-82e6-805b1e86b565</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='label4']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#label4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Menu&quot;s >> internal:text=&quot;Business Process Automation&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c51d2518-8760-4b94-bfe3-c671e1e7cb98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:id</name>
+      <type>Main</type>
+      <value>[[getLabelId(menu.index)]]</value>
+      <webElementGuid>392b5e50-b0e1-46ce-bac4-4aa37fe0fd91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tm-text-align-center tm-sb-tile-label</value>
+      <webElementGuid>32e473f6-595b-4439-91b2-2f834035499a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:style</name>
+      <type>Main</type>
+      <value>[[{'color':theme_main_font_color}]]</value>
+      <webElementGuid>62a9a399-1c5e-4ead-baf3-c58e02faa9f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label4</value>
+      <webElementGuid>ae580b35-c0a3-4a69-80ef-f08dd210d0a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Business Process Automation
+                </value>
+      <webElementGuid>2a054ac4-83d3-48aa-a066-cdd4cad29a20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;label4&quot;)</value>
+      <webElementGuid>e18d9dc4-897c-4fd1-8be3-f0063ea66b7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='label4']</value>
+      <webElementGuid>df07a669-f617-429a-90ad-1a448f8c6f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sb_3']/div/div/div[2]</value>
+      <webElementGuid>3b2dec97-33a2-4713-8952-d64ac70841fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[7]/following::div[5]</value>
+      <webElementGuid>24e73def-2ffb-451c-b998-0f57c68508a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[8]/preceding::div[1]</value>
+      <webElementGuid>7969b22e-a96c-46c8-aeed-3ad22b6985df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]</value>
+      <webElementGuid>ec9d5f11-2549-46e8-8455-e569844354cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'label4' and (text() = '
+                  Business Process Automation
+                ' or . = '
+                  Business Process Automation
+                ')]</value>
+      <webElementGuid>326e618d-4229-46da-8724-bd4984fa3075</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

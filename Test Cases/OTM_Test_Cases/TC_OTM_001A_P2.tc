@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OTM_001A_P2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20d8e3fa-714c-4253-8060-3ce73d5a7fa4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lane Definitions</name>
+   <tag></tag>
+   <elementGuidId>3719f369-efe0-469f-8e76-c20b6da9e5d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tabItineraryXLane > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabItineraryXLane']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Lane Definitions&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>175fc84d-1b07-4430-a912-5b65e88f9a1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:if(checkData('management_main')){ document.management_main.redirect.value = formatUrl(servlet_link+'?management_action=edit&amp;step=ItineraryXLane&amp;manager_layout_gid=ITINERARY&amp;show_act_smtlnk=&amp;adf_wrapper=');document.management_main.submit();}</value>
+      <webElementGuid>7c6e9814-4020-4249-b729-686be34f5491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>0058cda6-802d-479e-8fa2-6c1652ddc524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>ccc2e143-6dca-47c9-87b6-4e5662e87225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4e8f9fe8-bcec-4b2d-b442-d4bb14421e82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-setsize</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>4dfda111-1abc-42b4-ac31-79e839345c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-posinset</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>0ce45124-4a6b-4b52-819f-bb793f3c7918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lane Definitions</value>
+      <webElementGuid>0c7170de-b1a3-4793-99d5-7028f69abe5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabItineraryXLane&quot;)/a[1]</value>
+      <webElementGuid>e880fa9a-6add-4da3-b19d-26316a40e230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Itinerary - Parameters/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>de9f9796-6ef3-4564-a30c-e792ddebe065</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabItineraryXLane']/a</value>
+      <webElementGuid>16000ec8-81b9-4de1-85dc-0b5a7c7f01a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lane Definitions')]</value>
+      <webElementGuid>02a454be-4d98-4cb5-8ee2-bd2177f3567d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parameters'])[1]/following::a[1]</value>
+      <webElementGuid>2ff0cad2-49d4-48f3-92e1-a2493caa0910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Profile'])[1]/following::a[3]</value>
+      <webElementGuid>de8e7adf-4517-43b7-82a4-0cbc683496d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Legs'])[1]/preceding::a[1]</value>
+      <webElementGuid>7f471d53-0410-4bf0-9c1c-fa54b0a32367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Itinerary ID'])[1]/preceding::a[4]</value>
+      <webElementGuid>89f5c5c0-6cea-4d88-ba0f-75469565a506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lane Definitions']/parent::*</value>
+      <webElementGuid>f75a11c2-c85f-40c9-9bc4-6e15d365abf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:if(checkData('management_main')){ document.management_main.redirect.value = formatUrl(servlet_link+'?management_action=edit&amp;step=ItineraryXLane&amp;manager_layout_gid=ITINERARY&amp;show_act_smtlnk=&amp;adf_wrapper=');document.management_main.submit();}&quot;)]</value>
+      <webElementGuid>9d923327-ff79-44db-a31f-bad1f5aaa660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>91ad9cb0-a256-444c-9147-26a4c28621ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:if(checkData(&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;)){ document.management_main.redirect.value = formatUrl(servlet_link+&quot; , &quot;'&quot; , &quot;?management_action=edit&amp;step=ItineraryXLane&amp;manager_layout_gid=ITINERARY&amp;show_act_smtlnk=&amp;adf_wrapper=&quot; , &quot;'&quot; , &quot;);document.management_main.submit();}&quot;) and (text() = 'Lane Definitions' or . = 'Lane Definitions')]</value>
+      <webElementGuid>653e475f-57b1-4f69-bf06-94fca7fc29a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_029_Customer - Admin Address Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b832c07-f97c-4a4e-aba0-780eaedca074</testCaseGuid>
+</TestCaseEntity>

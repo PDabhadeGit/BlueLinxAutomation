@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Accept Address</name>
+   <tag></tag>
+   <elementGuidId>46adb298-2165-4fb5-be7d-b1f80a1de8fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:dynam1:0:cb2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Accept Address&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>309548d9-5423-4c6c-bf30-f448d9d682c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:dynam1:0:cb2</value>
+      <webElementGuid>fe71f071-5d0c-481e-9560-be855066b14a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget xuz p_AFTextOnly</value>
+      <webElementGuid>2fa6e118-2773-4648-85d4-aeafe31b7724</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>139ac532-fa57-474f-adae-4c555d75c227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accept Address</value>
+      <webElementGuid>1aaa795c-c655-4508-9b3a-dca9ad2a056e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:dynam1:0:cb2&quot;)</value>
+      <webElementGuid>308c15e2-77c6-450a-87dc-75e93a231424</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:dynam1:0:cb2']</value>
+      <webElementGuid>1d72ec31-230c-41ae-8ba3-1f65bc8f887e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:dynam1:0:pgl2']/tbody/tr/td[4]/button</value>
+      <webElementGuid>20ef11d4-0b49-4671-b244-c2acb08b4e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO BOX 123ADDYSTON, OH 45001HAMILTON'])[1]/following::button[1]</value>
+      <webElementGuid>c3656c3a-78f5-4059-98f9-60ca76ef3232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[4]/following::button[1]</value>
+      <webElementGuid>4b2b5697-949f-4c33-87c5-3832a5bce284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C'])[3]/preceding::button[1]</value>
+      <webElementGuid>842e35ce-5c22-4b1b-ab77-60ee6ca6e696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accept Address']/parent::*</value>
+      <webElementGuid>e23c0181-f9a6-4705-9a2c-0d6a8bb84247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/button</value>
+      <webElementGuid>186bb3b1-1381-44ea-a184-075157d3ecd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:dynam1:0:cb2' and (text() = 'Accept Address' or . = 'Accept Address')]</value>
+      <webElementGuid>e6668de9-f1ce-429f-8df3-733adacb1a9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

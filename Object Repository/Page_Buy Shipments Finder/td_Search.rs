@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Search</name>
+   <tag></tag>
+   <elementGuidId>a4be01ab-3d20-43cb-bf21-758a751f4de6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>table.buttonsCont > tbody > tr > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bodyDataFooterContDiv']/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Search&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0140649b-1042-4ded-b20f-d1bc111d0331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>064b52ac-f86b-4c6a-8ac2-983e669b3210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataFooterContDiv&quot;)/table[@class=&quot;buttonsCont&quot;]/tbody[1]/tr[1]/td[1]</value>
+      <webElementGuid>be2ab7a7-2d13-44cb-bfe3-3e5064cfd611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipments Finder/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>12ad8e52-29d1-4891-87d6-f4648f49088e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataFooterContDiv']/table/tbody/tr/td</value>
+      <webElementGuid>6e15857d-8700-44ab-9620-edd91ee90986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Standard Document Type'])[1]/following::td[9]</value>
+      <webElementGuid>5ead3148-cbbb-442f-b8fa-57ec90f68857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Combination Equipment Group ID'])[1]/following::td[18]</value>
+      <webElementGuid>0baac439-1261-4325-8300-10bbfacf720b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::td[1]</value>
+      <webElementGuid>cb028f2a-13bf-41de-8d49-328aeb8fc470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/table/tbody/tr/td</value>
+      <webElementGuid>b20fb7c7-b3b3-47cb-a500-001430be0541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>e5789adb-17e6-4232-a841-5ec39b69f04f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

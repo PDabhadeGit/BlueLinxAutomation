@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Withdraw Tender</name>
+   <tag></tag>
+   <elementGuidId>56de6eb2-d19b-40d3-b47b-384708f5b680</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='actionTree.1_8_9_14.k']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Withdraw Tender&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7c823617-9db7-487e-8dfa-703290ea597a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionTree.1_8_9_14.k</value>
+      <webElementGuid>3a76cc1d-57f2-4a7d-ba7a-ab285ef0f810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>31c892fd-1c44-4613-b277-0932d172f8bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747211908461\x3FbcKey\x3DMTc0NzIxMTkwODQ2Mjox\x26action_name\x3Dwithdraw_tender\x26finder_set_gid\x3DBUY_SHIPMENT')</value>
+      <webElementGuid>f98f9cad-d8b3-47b8-92c2-1db18e4b42e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Withdraw Tender</value>
+      <webElementGuid>3736e5e4-d4aa-43c0-86b5-f944dd7721cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionTree.1_8_9_14.k&quot;)</value>
+      <webElementGuid>342a38ef-2350-4454-bec1-a10306996dd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipments Result/iframe_concat(id(, , actionFrame, , ))_actionFrame</value>
+      <webElementGuid>025d185d-547d-4def-843d-e9572705ed8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='actionTree.1_8_9_14.k']</value>
+      <webElementGuid>7b3dff23-1a42-47ac-860e-f4728c957138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='actionTree.1_8_9_14.l']/a</value>
+      <webElementGuid>3051e11d-3fa9-41b5-8a6f-3b57b72b713a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Withdraw Tender')]</value>
+      <webElementGuid>21749bb8-2829-4202-b71f-49927877063b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tender Shipment'])[1]/following::a[1]</value>
+      <webElementGuid>b75042dc-773e-44d2-885a-e401b593b741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step Tender Shipment'])[1]/following::a[2]</value>
+      <webElementGuid>8c91957e-cb0a-4dc5-9a25-834d20879dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utilities'])[4]/preceding::a[1]</value>
+      <webElementGuid>6e876504-66a2-41cb-995f-a30a8b814c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Build Sell Shipment From Buy Shipment'])[1]/preceding::a[1]</value>
+      <webElementGuid>aa876019-7bd5-4730-bdf9-bb0a1d1a3a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Withdraw Tender']/parent::*</value>
+      <webElementGuid>c519fc8d-be80-400e-a0fc-7a545c634bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747211908461\x3FbcKey\x3DMTc0NzIxMTkwODQ2Mjox\x26action_name\x3Dwithdraw_tender\x26finder_set_gid\x3DBUY_SHIPMENT')&quot;)]</value>
+      <webElementGuid>7af42024-75d6-4a70-b003-d58d36af1472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[14]/td/span[2]/a</value>
+      <webElementGuid>563c65af-656c-4cb0-8e2c-91102ab7f999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_8_9_14.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747211908461\x3FbcKey\x3DMTc0NzIxMTkwODQ2Mjox\x26action_name\x3Dwithdraw_tender\x26finder_set_gid\x3DBUY_SHIPMENT&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Withdraw Tender' or . = 'Withdraw Tender')]</value>
+      <webElementGuid>bae5f708-3610-4580-9b43-d9d34fdf14ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1746033058669\x3FbcKey\x3DMTc0NjAzMzA1ODY3Mjox\x26action_name\x3Dwithdraw_tender\x26finder_set_gid\x3DBUY_SHIPMENT')&quot;)]</value>
+      <webElementGuid>f933cdbf-3038-4e9e-8755-b7ce8d3381c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_8_9_14.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1746033058669\x3FbcKey\x3DMTc0NjAzMzA1ODY3Mjox\x26action_name\x3Dwithdraw_tender\x26finder_set_gid\x3DBUY_SHIPMENT&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Withdraw Tender' or . = 'Withdraw Tender')]</value>
+      <webElementGuid>e6d17ceb-1b2f-4053-9ddc-b29e2718f113</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

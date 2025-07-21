@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Other Attributes</name>
+   <tag></tag>
+   <elementGuidId>9aee7901-dba2-4da2-ad7a-9301da4e50a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bodyDataFooterContDiv > table.buttonsCont > tbody > tr > td:nth-of-type(2) > div.buttonCont > button.enButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Other Attributes&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bb14edb1-6eaa-4484-8afb-961e005b1d43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enButton</value>
+      <webElementGuid>f3feed7b-2ae0-48de-a289-af1ba4ad6756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4cb46b1a-3387-4ba7-a0dc-ff1ce4c82d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>function t() {  return true; } if(t.call(this) !== false) { javascript:if(checkData('management_main')){ setRedirect('OrderReleaseInvolvedParties');document.management_main.submit();}; } else { return false; }</value>
+      <webElementGuid>0768fa6c-6d44-4e43-8319-7eb283179649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Other Attributes</value>
+      <webElementGuid>74780f8c-3015-4f4b-8354-8164d1c0207c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataFooterContDiv&quot;)/table[@class=&quot;buttonsCont&quot;]/tbody[1]/tr[1]/td[2]/div[@class=&quot;buttonCont&quot;]/button[@class=&quot;enButton&quot;]</value>
+      <webElementGuid>54530ffe-00c2-4960-a87d-7cc0b266dafa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Order Release - Involved Parties/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>dbb20845-375b-45ab-b306-a3d2d521132d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>7ef5710d-d3d6-4c6f-9a8f-466ccb250b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataFooterContDiv']/table/tbody/tr/td[2]/div/button</value>
+      <webElementGuid>8dcd2e8d-492e-4926-a290-391185a0c835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top'])[1]/following::button[1]</value>
+      <webElementGuid>345f3620-341f-4d24-a1b3-8adc728c88bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[3]/following::button[2]</value>
+      <webElementGuid>8a62fdb3-6940-4824-b1a5-8e1e8fd52bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/table/tbody/tr/td[2]/div/button</value>
+      <webElementGuid>fd797bf9-28e5-4c39-aacf-865cdda25764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Other Attributes' or . = 'Other Attributes')]</value>
+      <webElementGuid>9d7f1c03-eb50-4a2d-816f-3073bb90d9b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sales and Order Management</name>
+   <tag></tag>
+   <elementGuidId>4e3fb53b-c489-40f1-b2c1-4d1f70578887</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:seln']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Sales and Order Management&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b235da94-83c2-4d84-afb1-f2f27299777e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:seln</value>
+      <webElementGuid>941f6116-b6be-4a18-b862-5012eb98d788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget xmx</value>
+      <webElementGuid>cb152e46-9a03-41a9-b8a9-59c4147ee391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>9f1de810-3454-4a2d-bcea-fa1a57011e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>25ff38f7-2b60-4445-8450-d5c2b37e26ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sales and Order Management</value>
+      <webElementGuid>dc07b949-c0d7-4553-b581-e3325a2501f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:seln&quot;)</value>
+      <webElementGuid>1ace8308-41de-49df-9fb0-afe1b588514e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:seln']</value>
+      <webElementGuid>efac3b3c-66fd-4321-b860-d25c12a989c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:panelFormLayout2']/table/tbody/tr/td/table/tbody/tr[6]/td[2]/a</value>
+      <webElementGuid>749b6906-154f-47bf-a593-50f33e4889dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sales and Order Management')]</value>
+      <webElementGuid>8d8341d1-9715-4ca5-9151-1bd8b4bf3411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item Organization'])[1]/following::a[5]</value>
+      <webElementGuid>038990df-7755-4791-92ee-122c66610d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item Revision'])[1]/following::a[9]</value>
+      <webElementGuid>9d2a6587-3c42-475a-a0e2-7832e95dab79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item Organization: Physical Attributes'])[1]/preceding::a[4]</value>
+      <webElementGuid>d535d97d-10a6-4caf-bb22-8dc302381719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dimensions'])[1]/preceding::a[5]</value>
+      <webElementGuid>f8906c5a-e153-40e9-95b0-a2b7764ace3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sales and Order Management']/parent::*</value>
+      <webElementGuid>c0a70c79-6451-4825-8b2f-492e65e37a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[70]</value>
+      <webElementGuid>39fb907c-8e8d-4a9b-b532-db7bf5ce1ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/a</value>
+      <webElementGuid>dc4f0130-c197-42b7-a424-3de760ba91b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:seln' and @href = '#' and (text() = 'Sales and Order Management' or . = 'Sales and Order Management')]</value>
+      <webElementGuid>167be945-effd-4891-8dbe-5a7b1502cb31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

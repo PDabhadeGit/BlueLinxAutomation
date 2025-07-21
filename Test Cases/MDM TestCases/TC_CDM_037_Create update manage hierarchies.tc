@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_037_Create update manage hierarchies</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ad920c8-16b9-4329-b0de-74658b07555e</testCaseGuid>
+</TestCaseEntity>

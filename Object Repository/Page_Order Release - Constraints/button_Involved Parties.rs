@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Involved Parties</name>
+   <tag></tag>
+   <elementGuidId>61015530-849a-4188-b258-e6bf0a42199c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bodyDataFooterContDiv > table.buttonsCont > tbody > tr > td:nth-of-type(2) > div.buttonCont > button.enButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Involved Parties&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4be287be-94a3-4e4d-a01e-eea9905e4c7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enButton</value>
+      <webElementGuid>c3bff7cd-3aa8-437c-82d3-7a2de10f459b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cdf7cf3d-556d-48bf-8cbb-7bbb44374567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>function t() {  return true; } if(t.call(this) !== false) { javascript:if(checkData('management_main')){ setRedirect('OrderReleaseConstraints');document.management_main.submit();}; } else { return false; }</value>
+      <webElementGuid>6b7231c0-cff6-49ff-804b-dcf3c7b7b2e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Involved Parties</value>
+      <webElementGuid>addfa519-5ef8-4bb9-953b-ecd08f2f223f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataFooterContDiv&quot;)/table[@class=&quot;buttonsCont&quot;]/tbody[1]/tr[1]/td[2]/div[@class=&quot;buttonCont&quot;]/button[@class=&quot;enButton&quot;]</value>
+      <webElementGuid>f0b35ff8-c002-49e5-9d57-92096affb44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Order Release - Constraints/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>b37fe15a-2e55-4883-9f18-eecce280a17b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>42709782-1178-49e6-9f70-22bbc5230c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataFooterContDiv']/table/tbody/tr/td[2]/div/button</value>
+      <webElementGuid>beee32d0-85c5-45fc-8a08-47ee106363f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top'])[1]/following::button[1]</value>
+      <webElementGuid>d2833640-03a9-4f82-b5af-9d7db418af1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Order Release Constraint'])[1]/following::button[2]</value>
+      <webElementGuid>e7a134f6-351c-4189-b22f-8a5190df4b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/table/tbody/tr/td[2]/div/button</value>
+      <webElementGuid>0c3c1fbf-6fea-4af9-b31e-ab77d5911fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Involved Parties' or . = 'Involved Parties')]</value>
+      <webElementGuid>93640dd9-011d-45d7-91dd-f8ab97f4c40c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

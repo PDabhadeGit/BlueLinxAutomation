@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>table_Save</name>
+   <tag></tag>
+   <elementGuidId>45499e39-4dba-4a99-80de-876839f7cfcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_shipment_remark_grid']/tbody/tr/th[3]/table</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#table_shipment_remark_grid > tbody > tr[type=&quot;header&quot;] > th.gridHeadCell.gridHeadBtnsCell > table.gridButtonsCont</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=columnheader[name=&quot;Save&quot;s] >> internal:role=table</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>table</value>
+      <webElementGuid>dc16c9a3-9032-4b54-88a9-cf08d4f2d13d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gridButtonsCont</value>
+      <webElementGuid>56ab6a63-80a4-4760-8fdc-bb90efcc88da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>40e5799d-7c72-47bc-a484-aa92033bc14b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_shipment_remark_grid&quot;)/tbody[1]/tr[1]/th[@class=&quot;gridHeadCell gridHeadBtnsCell&quot;]/table[@class=&quot;gridButtonsCont&quot;]</value>
+      <webElementGuid>ab660548-87cd-4b05-b8c6-d929c0370a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment - Remarks/iframe_mainBody</value>
+      <webElementGuid>bcb10f3e-d51f-4497-9943-6c186ba34101</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_shipment_remark_grid']/tbody/tr/th[3]/table</value>
+      <webElementGuid>7ce3a96a-04a8-4614-b601-7bd7efcc6a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::table[1]</value>
+      <webElementGuid>c3b9732e-5610-4a2f-8c60-08c5ce31a067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::table[1]</value>
+      <webElementGuid>47862357-a093-4807-9be0-f3bdcf41dc91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DELIVERY_INSTRUCTIONS_EXTERNAL'])[2]/preceding::table[1]</value>
+      <webElementGuid>ab9f1ccd-c34c-4b1b-af18-aca2c6a2133f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/table</value>
+      <webElementGuid>e8f91093-f11c-4d2b-b3c2-f6be933453a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//table[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>3df76121-51ef-4727-9acd-ad41863ab566</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_323 New supplier and add address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a2b7a39-62da-4968-ac50-8cf6f7e9e391</testCaseGuid>
+</TestCaseEntity>

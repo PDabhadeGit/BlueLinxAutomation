@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Refine Query</name>
+   <tag></tag>
+   <elementGuidId>c451a661-b565-42c9-b07d-9f134d34e3c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@name=''])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > div.buttonCont > button.enButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Refine Query&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d4927dd6-7527-4d12-b159-bd90f66c6551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6a1a1e4f-00cf-469f-a499-4a8f74db2cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enButton</value>
+      <webElementGuid>f8cdae00-1732-4610-af61-c64701926d0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>function t() {  return true; } if(t.call(this) !== false) { javascript:refineSearch(); } else { return false; }</value>
+      <webElementGuid>6eba7f09-f34c-4b63-b508-3e4e36281a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refine Query</value>
+      <webElementGuid>caf83660-c9e5-44ed-9e8c-f6b91c14f662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;queryLine&quot;)/table[@class=&quot;buttonsCont&quot;]/tbody[1]/tr[1]/td[2]/div[@class=&quot;buttonCont&quot;]/button[@class=&quot;enButton&quot;]</value>
+      <webElementGuid>00107eea-4d2b-44d4-a2bb-2b10128deabb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Order Releases Result/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>0997498e-906d-46a2-9219-0a3dad6d328a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@name=''])[3]</value>
+      <webElementGuid>a778267b-6c79-4edc-be4f-ce909cf59066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='queryLine']/table/tbody/tr/td[2]/div/button</value>
+      <webElementGuid>c98a1b30-f0c2-4ab0-adb0-68e66aff72ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Query'])[1]/following::button[1]</value>
+      <webElementGuid>69d690a7-6cc1-44a7-bfa4-7f4ba3c571ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[4]/following::button[2]</value>
+      <webElementGuid>426bdb46-4da1-4d8f-8483-6c2e5fd12a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[2]/preceding::button[1]</value>
+      <webElementGuid>0dac0998-9165-4bfe-af0b-225a02dc7803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved Query:'])[1]/preceding::button[2]</value>
+      <webElementGuid>255d571a-9343-4682-afa8-d224098ee598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Refine Query']/parent::*</value>
+      <webElementGuid>bf26600d-e9d4-4090-8545-5ebc2190f3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/button</value>
+      <webElementGuid>df584038-57bd-4e61-955a-ce5a2c49f9ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Refine Query' or . = 'Refine Query')]</value>
+      <webElementGuid>af932a5e-017c-487e-a293-6abcfc06d64c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

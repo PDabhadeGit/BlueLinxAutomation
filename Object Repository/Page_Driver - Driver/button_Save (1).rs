@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save (1)</name>
+   <tag></tag>
+   <elementGuidId>ee6b3fd5-24c7-4e8c-8c78-dfe853c9c1b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#table_driver_power_unit_grid > tbody > tr[type=&quot;header&quot;] > th.gridHeadCell.gridHeadBtnsCell > table.gridButtonsCont > tbody > tr > td > div.buttonCont > button.enButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Power Unit ID Power Unit ID Search Power Unit ID View Power Unit ID New Calendar ID Calendar ID Search Calendar ID View Calendar ID New Effective Date Effective Date Calendar Expiration Date Expiration Date Calendar Save&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>86bee493-c3af-4606-96f2-625f5b8c0966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enButton</value>
+      <webElementGuid>c6e4fe34-7bd9-4587-b163-6a24f8de66bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c04cdbf5-f929-4401-968b-b95eea815077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>function t() { return checkGrid('driver_power_unit_grid'); return true; } if(t.call(this) !== false) { javascript:addGridElement('driver_power_unit_grid', 'management_main', true); } else { return false; }</value>
+      <webElementGuid>fe541278-6de6-498c-8910-8c84532a9721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>9dcac118-2129-4d32-92d7-a1f5a854d05e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_driver_power_unit_grid&quot;)/tbody[1]/tr[1]/th[@class=&quot;gridHeadCell gridHeadBtnsCell&quot;]/table[@class=&quot;gridButtonsCont&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;buttonCont&quot;]/button[@class=&quot;enButton&quot;]</value>
+      <webElementGuid>4624b4ea-6440-4959-b935-f0722515ce59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Driver - Driver/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>ff50c3a6-7842-4274-b78a-94d96e741615</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>08b15fb7-84f6-430a-aabd-f2a665cde1e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_driver_power_unit_grid']/tbody/tr/th[5]/table/tbody/tr/td/div/button</value>
+      <webElementGuid>e5bb90f7-067c-4bbd-bef4-253d572bbaf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::button[1]</value>
+      <webElementGuid>cabc2c51-ea76-4102-8fef-9dc27c9c8bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::button[1]</value>
+      <webElementGuid>5c289490-1f4c-4e31-a674-962c6a523ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEFAULT FOR PLANNING'])[2]/preceding::button[1]</value>
+      <webElementGuid>bd2df22a-83d3-4f7d-8493-94414d15a92f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference Numbers'])[1]/preceding::button[3]</value>
+      <webElementGuid>6a83cbc8-01e4-4071-8b44-7d6c6a1c4f7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]/table/tbody/tr/td/div/button</value>
+      <webElementGuid>e7613969-f7ea-4301-8103-fd93de9fb214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>de9e2f91-944b-4c5b-afc6-c829de837643</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

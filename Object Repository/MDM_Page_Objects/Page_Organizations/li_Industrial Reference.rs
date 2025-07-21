@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Industrial Reference</name>
+   <tag></tag>
+   <elementGuidId>690940fe-0834-4da8-9e16-20ef2764edb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Number'])[2]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;__af_Z_window&quot;] >> internal:text=&quot;Industrial Reference&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>df85fb17-1b3d-401f-aaf4-0adb73670342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1l7</value>
+      <webElementGuid>6ca8fb05-6ebf-421b-b547-20449e3e26dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_adfiv</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>0cb1f99d-9454-457d-ba10-5614e95cbc29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Industrial Reference</value>
+      <webElementGuid>435d0a5a-91dd-4999-8db9-467d7adaeacc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAnt2:1:r1:0:AP3:r3:0:AT2:_ATp:table2:0:soc1::pop&quot;)/li[@class=&quot;x1l7&quot;]</value>
+      <webElementGuid>8bc33d12-11a7-4082-ade9-fbdc7ed80d4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pt1:_FOr1:1:_FONSr2:0:MAnt2:1:r1:0:AP3:r3:0:AT2:_ATp:table2:0:soc1::pop']/li[7]</value>
+      <webElementGuid>910939cd-4d63-43b7-a750-4069490140c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Number'])[2]/following::li[1]</value>
+      <webElementGuid>ae8d68a5-ad2d-451c-bd13-d122782c2b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Service Number'])[2]/following::li[2]</value>
+      <webElementGuid>cbb35122-3239-4f06-aa36-8e85940db002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unique Superannuation Identifier'])[2]/preceding::li[1]</value>
+      <webElementGuid>274f02f4-39ab-417a-af10-9aa687a53b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::li[2]</value>
+      <webElementGuid>d447be07-9b0b-4ed1-83cc-5c171c0dbbaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/ul/li[7]</value>
+      <webElementGuid>8e128fe0-cb01-407e-a796-5a640caa6fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Industrial Reference' or . = 'Industrial Reference')]</value>
+      <webElementGuid>834d46af-fefb-4d20-8533-e7931ed4d28e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

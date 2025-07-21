@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Global Variables Data</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Order Releases Result/a_BXC.SO_1234576')</initValue>
+      <name>Select_Order_Id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('OTM Test Data/OTM Order Test Data').getValue(1, 1)</initValue>
+      <name>Enter_order_Id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[findTestObject('Page_Order Releases Result/a_BXC.SO_1234576'), 'SO_1234576']</initValue>
+      <name>Shipment_Id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('OTM Test Data/OTM Shipment Test Data').getValue(1, 1)</initValue>
+      <name>Enter_Shipment_ID</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

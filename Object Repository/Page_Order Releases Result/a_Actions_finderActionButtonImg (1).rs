@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Actions_finderActionButtonImg (1)</name>
+   <tag></tag>
+   <elementGuidId>21be0abf-2863-41a3-b1b9-73c4f91f646d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;javascript:return loadFinderActionFrameAndAddCssClassToFinder(queryName, finderSetGid, this,'finderButtonOnClick', event);&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.finderActionButtonImg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Actions&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>71748052-7cea-4b46-a71e-5c4f1c2c2d4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>cb2a24cc-8748-41ac-b379-af423d6d04f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>finderActionButtonImg</value>
+      <webElementGuid>42cc60f6-5591-49e6-82f5-dd86f19191f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>202f3194-339a-4215-965c-e7f1dbc5f326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:return loadFinderActionFrameAndAddCssClassToFinder(queryName, finderSetGid, this,'finderButtonOnClick', event);</value>
+      <webElementGuid>e24abade-23c1-49f4-921d-6be9b46a4c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frToolbar&quot;)/tbody[1]/tr[1]/td[1]/div[@class=&quot;finderButton sgCaptionCol&quot;]/a[@class=&quot;finderActionButtonImg&quot;]</value>
+      <webElementGuid>14fed623-627c-418c-a830-fec5b103b9e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Order Releases Result/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>59a6f443-444f-48c6-b9e1-f061a97ac5b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;javascript:return loadFinderActionFrameAndAddCssClassToFinder(queryName, finderSetGid, this,'finderButtonOnClick', event);&quot;]</value>
+      <webElementGuid>2e190543-7183-415e-a0ec-04d789657e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='frToolbar']/tbody/tr/td/div/a</value>
+      <webElementGuid>d96f86e8-e73f-4393-9355-3ad0e96be18c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::a[1]</value>
+      <webElementGuid>7d6f7eae-4fa6-4e9f-8947-3c0b7f2f9e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/preceding::a[1]</value>
+      <webElementGuid>6ed4aac6-8e80-450a-afd1-2ab54df6e63c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0);')]</value>
+      <webElementGuid>15df196d-4008-473a-b229-5ac27a314fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>a146119c-cb88-472d-b0de-016b6c7f81d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);']</value>
+      <webElementGuid>65347a81-c0fc-46d4-8ac4-ee295f97e616</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

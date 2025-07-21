@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_PDH_306_Create a new item through NIR</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe29ac18-f22f-4235-9e2d-8023a65e734d</testCaseGuid>
+</TestCaseEntity>

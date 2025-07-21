@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_HOS Rule Header</name>
+   <tag></tag>
+   <elementGuidId>c2c02961-6039-4708-9e8b-fdf472ffb623</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;oj-listbox-result-label-188&quot;]/oj-option/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;HOS Rule Header&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>992f8c68-88b1-4e81-94fc-2d6ac85db912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>178a1e87-939f-4fba-9632-cd883333ddd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-posinset</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>ce383118-f19b-4741-9d2e-e5649c428dfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-setsize</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>950b9059-3177-4b0e-baa4-27b6b5c7d350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>4a5eb448-5ac5-4e00-9a91-310875286b54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>6d58493c-4360-4eb7-9e32-d715c3f850c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript: if(checkData('management_main')) {document.forms['management_main'].action='/GC3/glog.webserver.util.DocumentUpdateServlet/1745575246309?bcKey=MTc0NTU3NTIwMzg1MDox';document.forms['management_main'].redirect.value='/GC3/glog.webserver.hosrule.HosRuleManagementServlet/1745575246309?bcKey=MTc0NTU3NTIwMzg1MDox&amp;hos_rule_stylesheet=hosrule/HosRuleHeader.xsl';document.forms['management_main'].submit();}</value>
+      <webElementGuid>51803310-948f-45c5-b818-f4efda4e1ac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HOS Rule Header</value>
+      <webElementGuid>5f6de43b-8fd7-400b-be4e-52f037197145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hosrule/HosRuleHeader.xsl&quot;)/div[@class=&quot;tabLabelCont tabDim&quot;]/span[1]/a[1]</value>
+      <webElementGuid>36a21664-e22d-4ebc-b1e3-c22f687cdacf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_HOS Rule - Details/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>5df55115-dea9-41be-9cb7-12bb21a392be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@name='']</value>
+      <webElementGuid>c8e0f83e-81f2-47fe-bf8a-262b4f2fe014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hosrule/HosRuleHeader.xsl']/div/span/a</value>
+      <webElementGuid>262b66b8-86b7-4d8b-b6e7-0d7a294da269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'HOS Rule Header')]</value>
+      <webElementGuid>2f6be696-441d-404a-bf09-bd26fa4579f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finished'])[1]/following::a[2]</value>
+      <webElementGuid>de3e7ad6-ea46-449c-b43c-fa77ea9dd082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::a[2]</value>
+      <webElementGuid>86e2b138-7ad7-4ca0-9728-9273b9d4ef17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/preceding::a[1]</value>
+      <webElementGuid>e358e503-b0e9-44b8-8ef3-770460301e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HOS Rule Header']/parent::*</value>
+      <webElementGuid>6512111a-e513-4e8f-94bb-4a3639420804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript: if(checkData('management_main')) {document.forms['management_main'].action='/GC3/glog.webserver.util.DocumentUpdateServlet/1745575246309?bcKey=MTc0NTU3NTIwMzg1MDox';document.forms['management_main'].redirect.value='/GC3/glog.webserver.hosrule.HosRuleManagementServlet/1745575246309?bcKey=MTc0NTU3NTIwMzg1MDox&amp;hos_rule_stylesheet=hosrule/HosRuleHeader.xsl';document.forms['management_main'].submit();}&quot;)]</value>
+      <webElementGuid>b5c5b6da-709f-4b19-8af9-ff1ed91e54d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>c21dfe3c-b540-4b7b-92fb-c9ef1fd10d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript: if(checkData(&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;)) {document.forms[&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;].action=&quot; , &quot;'&quot; , &quot;/GC3/glog.webserver.util.DocumentUpdateServlet/1745575246309?bcKey=MTc0NTU3NTIwMzg1MDox&quot; , &quot;'&quot; , &quot;;document.forms[&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;].redirect.value=&quot; , &quot;'&quot; , &quot;/GC3/glog.webserver.hosrule.HosRuleManagementServlet/1745575246309?bcKey=MTc0NTU3NTIwMzg1MDox&amp;hos_rule_stylesheet=hosrule/HosRuleHeader.xsl&quot; , &quot;'&quot; , &quot;;document.forms[&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;].submit();}&quot;) and (text() = 'HOS Rule Header' or . = 'HOS Rule Header')]</value>
+      <webElementGuid>accb2ccc-c702-4a3c-8944-d5eb795a68c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

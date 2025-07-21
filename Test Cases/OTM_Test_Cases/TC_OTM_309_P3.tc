@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OTM_309_P3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>809b5b56-97c4-4893-a2e8-531bca8d4e67</testCaseGuid>
+</TestCaseEntity>

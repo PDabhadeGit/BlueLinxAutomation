@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_66040</name>
+   <tag></tag>
+   <elementGuidId>342be58f-7181-4126-8ee1-4095b48c2d72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > div > table > tbody > tr > td.xen > span.x2hl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;__af_Z_window&quot;] >> internal:text=&quot;66040&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c0c8b4fb-fa61-44da-91b8-b9eae2c3f3e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x2hl</value>
+      <webElementGuid>19de7316-066f-4d33-a4d6-77fa62cb2076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>66040</value>
+      <webElementGuid>344116db-4eec-47c3-a114-600f8fe85a84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:table1:0:ExtGen_colattr_LinkBillTo_c_Address1:lov_i1_afrLovInternalTableId::db&quot;)/table[@class=&quot;x1hi x1i6&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[2]/div[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;xen&quot;]/span[@class=&quot;x2hl&quot;]</value>
+      <webElementGuid>e7450337-552d-4fbb-8b38-5c4aa007ce36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:table1:0:ExtGen_colattr_LinkBillTo_c_Address1:lov_i1_afrLovInternalTableId::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td/span</value>
+      <webElementGuid>55518afb-e461-44f7-8f72-6e3fa7b1ae9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Number'])[6]/following::span[2]</value>
+      <webElementGuid>370d586e-7e9e-4362-9359-6272c493c051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::span[4]</value>
+      <webElementGuid>9a7f4b42-8911-4cab-8c1e-13cc0dc2032a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::span[9]</value>
+      <webElementGuid>aa7d262d-4b97-4e0c-9db1-1d022e3ad159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::span[9]</value>
+      <webElementGuid>1e45d252-5659-4752-a272-27c651eb5706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/table/tbody/tr/td/span</value>
+      <webElementGuid>f1cc882f-6797-4d97-9ed3-a7d3d7931a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '66040' or . = '66040')]</value>
+      <webElementGuid>03a64344-8513-4d55-a0d1-8f8c0eb21c73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Test BPM</name>
+   <tag></tag>
+   <elementGuidId>75fac931-e1ec-4c41-9d29-26e66096705b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.xen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sRelFl:1:RelatedItemResults:ip21:Popup1:0:Advan1:0:rstab:_ATp:table1::db']/table/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Test BPM&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0b41b5cd-7512-495b-95c2-8c11da8b1b49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xen</value>
+      <webElementGuid>b0b93f4c-f520-4740-bbfe-13204521a019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>28cc200a-51d0-4c50-83fb-9faeabaea619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test BPM</value>
+      <webElementGuid>2b4bc1e7-df3d-44fb-ac93-cb7fbf471263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sRelFl:1:RelatedItemResults:ip21:Popup1:0:Advan1:0:rstab:_ATp:table1::db&quot;)/table[@class=&quot;x1hi x1i6&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[@class=&quot;xen&quot;]</value>
+      <webElementGuid>8ca6e82a-a83f-47c9-9769-f0beb9d67c5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sRelFl:1:RelatedItemResults:ip21:Popup1:0:Advan1:0:rstab:_ATp:table1::db']/table/tbody/tr/td[3]</value>
+      <webElementGuid>ce98c570-745c-490c-ac88-44cfad9c0074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revision Code'])[1]/following::td[3]</value>
+      <webElementGuid>f6e566ba-e1c7-44da-b157-8846837ff120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[2]/following::td[5]</value>
+      <webElementGuid>173a52ef-4899-4eab-9aff-7cfe7f1a01fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='user descriptor Testbrandname TestBrand MCA Testproducttype 2X3X4 TestBluelinx'])[1]/preceding::td[6]</value>
+      <webElementGuid>bcccaa94-a0ae-46a8-9f95-afe3c68e939a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[3]</value>
+      <webElementGuid>291ccd5c-1925-4923-b48b-d0cf6c342800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Test BPM' or . = 'Test BPM')]</value>
+      <webElementGuid>eaf3b23d-8258-4077-8035-67164ce43d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST SKU LB'])[1]/preceding::td[5]</value>
+      <webElementGuid>b233c6b7-a486-499b-a116-76684e6ebb21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

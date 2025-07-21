@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Total Actual Cost</name>
+   <tag></tag>
+   <elementGuidId>52d5297e-8a84-4fd3-9485-a40e6b767885</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Total Actual Cost&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>776c0308-c433-45d6-b253-34c2c30337a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gridHeadLabel</value>
+      <webElementGuid>6a0e0e8c-82cb-4de5-807f-ad0910f9564d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total Actual Cost</value>
+      <webElementGuid>51a1d639-a46e-43ab-9ccd-72a3da27921a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont&quot;]/table[@class=&quot;grid w100&quot;]/thead[1]/tr[1]/td[@class=&quot;gridHeadCell&quot;]/span[@class=&quot;gridHeadLabel&quot;]</value>
+      <webElementGuid>39f6e979-7bed-4499-917f-94754f42e309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Secure Resources/iframe_concat(id(, , mainBodyFrame, , ))_mainBody</value>
+      <webElementGuid>cff591ef-3ea2-42ac-bb02-7476296b054d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div/table/thead/tr/td[2]/span</value>
+      <webElementGuid>f05c889e-8294-4dc1-8f2e-2e8b84b263e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::span[1]</value>
+      <webElementGuid>f387accb-2622-47d8-90bf-aedebfbc3107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secure Resources'])[2]/following::span[2]</value>
+      <webElementGuid>2fcaeda1-08c0-4981-a535-bc9fb3f8736c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Weighted Cost'])[1]/preceding::span[1]</value>
+      <webElementGuid>3e5030fa-0d54-4070-91d8-9552b67f183b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Time'])[1]/preceding::span[2]</value>
+      <webElementGuid>5cb4874a-f055-4fdb-bddf-d93b8f5314f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Total Actual Cost']/parent::*</value>
+      <webElementGuid>01f8e722-080a-4ba0-96ba-926098dc01c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span</value>
+      <webElementGuid>1f2e5cd7-4c5f-4174-ab94-c6957028ed76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Total Actual Cost' or . = 'Total Actual Cost')]</value>
+      <webElementGuid>f5f38f25-c258-4f1f-b4e2-ba42aaa01d59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

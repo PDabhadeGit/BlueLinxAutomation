@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_HOME BUILDING MATERIALS INC</name>
+   <tag></tag>
+   <elementGuidId>bcfe95ce-3414-4e1e-866b-59d9d8d50a9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.xen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;More... HOME BUILDING MATERIALS INC&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0f714633-c8fd-4d0f-b3de-fd953dae5057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xen</value>
+      <webElementGuid>277f7a7c-8d64-4867-a3a1-4bc57e140d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> HOME BUILDING MATERIALS INC</value>
+      <webElementGuid>13f81ee8-42c1-4289-a47e-48064a40005f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1::db&quot;)/table[@class=&quot;x1hi x1i6&quot;]/tbody[1]/tr[@class=&quot;p_AFFocused xem p_AFSelected&quot;]/td[2]/div[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;xen&quot;]</value>
+      <webElementGuid>6aee9174-021a-4a84-a908-ab3128152efb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>9547e366-3a3d-4bdf-ac31-7df8db77f4ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Phone'])[3]/following::td[3]</value>
+      <webElementGuid>decec5e7-b1ea-48b0-820c-0e704a0290ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Email'])[2]/following::td[5]</value>
+      <webElementGuid>82771cce-8ff2-4410-8a55-25749d9aa0bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORGANIZATION'])[1]/preceding::td[2]</value>
+      <webElementGuid>a884bed7-7310-47c7-a5d7-de685841d600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>f91c1ba5-1b06-4c65-a0b0-4783b656a53b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' HOME BUILDING MATERIALS INC' or . = ' HOME BUILDING MATERIALS INC')]</value>
+      <webElementGuid>4fa5b6d3-44e8-42ce-9218-fb7c3ff19e3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

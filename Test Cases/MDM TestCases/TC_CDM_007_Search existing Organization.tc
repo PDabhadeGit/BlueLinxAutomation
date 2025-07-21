@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_007_Search existing Organization</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37e684e9-acf4-4b3d-ae57-4f1f8a268511</testCaseGuid>
+</TestCaseEntity>

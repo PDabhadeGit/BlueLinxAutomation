@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Trading Partner Items</name>
+   <tag></tag>
+   <elementGuidId>3c8b5b8a-c145-4f90-9123-c1dc31cb673f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:np1:cni2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Trading Partner Items&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>912f973f-a5c5-4d59-b8a0-e53eae8b874a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:np1:cni2</value>
+      <webElementGuid>e2c67ac7-8ccb-457a-a82f-83e10a8c3be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget xkg xv6</value>
+      <webElementGuid>ed43186b-e544-4c30-9bfb-906991446d70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>59c84ad0-a0e2-45ec-8bc8-62e1f549643f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>0aa02e44-b4bb-4d5d-b2cf-5157b0016dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trading Partner Items</value>
+      <webElementGuid>a65cb889-5073-419c-b0d0-522b6a349163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:np1:cni2&quot;)</value>
+      <webElementGuid>ac798b74-e297-4967-83c1-7a597a29a89e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:np1:cni2']</value>
+      <webElementGuid>2f35b72e-c804-4bce-b477-c38c0526fe42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:np1::oc']/a[2]</value>
+      <webElementGuid>9bb75360-d8d6-4378-8966-155f29eb91ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Trading Partner Items')]</value>
+      <webElementGuid>87c4eff2-da6c-4c19-bec9-052f2a86632f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation Date'])[1]/following::a[25]</value>
+      <webElementGuid>d6dfd5c0-20c2-4898-8e5f-cc384a7ae992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item'])[2]/following::a[25]</value>
+      <webElementGuid>25b0481e-ae7a-41c4-986b-bb91b322921f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::a[6]</value>
+      <webElementGuid>ffc58e53-4c80-4317-9c34-2354445c5ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::a[6]</value>
+      <webElementGuid>d0649240-11e9-43ee-a27a-4acc2e631de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Trading Partner Items']/parent::*</value>
+      <webElementGuid>62bd61d9-5070-4779-9ffb-c56c153436f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[61]</value>
+      <webElementGuid>1193ee4b-ea6b-4583-9261-8621190d6a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/a[2]</value>
+      <webElementGuid>e8a369d6-9fdd-461d-9d3d-6fd458f82cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:np1:cni2' and @href = '#' and (text() = 'Trading Partner Items' or . = 'Trading Partner Items')]</value>
+      <webElementGuid>b467a50e-9fb7-4661-bc3d-3d3722229621</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

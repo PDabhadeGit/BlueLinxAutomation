@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Ship to (2)</name>
+   <tag></tag>
+   <elementGuidId>b7c1006b-14a8-452b-84fd-43d8ebe168d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:AT1:_ATp:table1:0:selectOneChoice9::pop']/li[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;__af_Z_window&quot;] >> internal:text=&quot;Ship to&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8592903d-b7d2-490b-a424-9c35a89cb90d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1l7</value>
+      <webElementGuid>baf5c843-a836-4cf4-8a7a-c6744f049133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_adfiv</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>f66ec787-6873-4143-8ec7-52bece1c2b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ship to</value>
+      <webElementGuid>4df9b298-1a55-415e-8f34-9e4c089f2531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:AT1:_ATp:table1:0:selectOneChoice9::pop&quot;)/li[@class=&quot;x1l7&quot;]</value>
+      <webElementGuid>c6db8125-2c7a-4861-9f51-569c85968f58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:AT1:_ATp:table1:0:selectOneChoice9::pop']/li[8]</value>
+      <webElementGuid>8c9cdffc-d774-46bc-bbb1-25754f2a87c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bill to'])[1]/following::li[1]</value>
+      <webElementGuid>c1487590-072e-438e-a3c0-9992305c23e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ship from'])[1]/following::li[2]</value>
+      <webElementGuid>45be9c85-e94d-4dfa-9bd9-9134079b4e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[2]/preceding::li[1]</value>
+      <webElementGuid>8e5976bc-e00c-40dc-80e2-dfc73ea1eba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/preceding::li[1]</value>
+      <webElementGuid>eb7945bd-05e0-41f8-909c-04601d781e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/ul/li[8]</value>
+      <webElementGuid>2355bc52-62fc-45a2-9785-301cbcdb89a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Ship to' or . = 'Ship to')]</value>
+      <webElementGuid>6f4b2984-efcb-469d-b4dd-a9307e9eb75b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

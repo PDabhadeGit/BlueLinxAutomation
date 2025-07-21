@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_United Kingdom</name>
+   <tag></tag>
+   <elementGuidId>69e0c4be-e166-445a-ac43-369105857a2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:dynam1:0:s2:LocationCountry::pop']/li[237]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;United Kingdom&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>76ebefb3-b93c-42c7-bcc0-ce68aca52cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1l7</value>
+      <webElementGuid>9bcb96f6-44ae-44a4-ad44-61fcb5237225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_adfiv</name>
+      <type>Main</type>
+      <value>235</value>
+      <webElementGuid>d94a767e-9962-48a5-9b40-22472b58a44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>United Kingdom</value>
+      <webElementGuid>9713c931-ea39-495a-bf20-61bd2bea756e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:dynam1:0:s2:LocationCountry::pop&quot;)/li[@class=&quot;x1l7&quot;]</value>
+      <webElementGuid>391e5d65-ed42-48ec-a6f9-75ac6cfd3212</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:dynam1:0:s2:LocationCountry::pop']/li[237]</value>
+      <webElementGuid>c378d416-019d-409d-9bba-6762af6f4370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United Arab Emirates'])[1]/following::li[1]</value>
+      <webElementGuid>d7a75059-e156-40c5-b467-334290e0d22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ukraine'])[1]/following::li[2]</value>
+      <webElementGuid>830dede5-780a-45db-8a3d-3a84c13c1a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States'])[1]/preceding::li[1]</value>
+      <webElementGuid>9c833e2a-6381-4a92-b2c7-86c4f37c5b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States Minor Outlying Islands'])[1]/preceding::li[2]</value>
+      <webElementGuid>6829c6d7-f780-4888-ba9b-d35a80b93354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='United Kingdom']/parent::*</value>
+      <webElementGuid>8682c3ad-4e20-4ea2-9b0d-cf8553f0c330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[237]</value>
+      <webElementGuid>b89ecfa5-ac6b-4bb9-9c72-023759c572b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'United Kingdom' or . = 'United Kingdom')]</value>
+      <webElementGuid>b9a5cf28-57f2-4b68-94dd-b9da80e03afe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

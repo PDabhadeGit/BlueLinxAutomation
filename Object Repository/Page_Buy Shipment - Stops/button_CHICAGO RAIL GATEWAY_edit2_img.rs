@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CHICAGO RAIL GATEWAY_edit2_img</name>
+   <tag></tag>
+   <elementGuidId>2832c80f-7512-4ad1-a65a-0cec51c58776</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;2 D CHGO
+CHICAGO IL CHICAGO RAIL GATEWAY 2025-04-01 11:00 America/Chicago 2025-04-01 11:00 America/Chicago 2025-04-01 11:00 America/Chicago 0.00 MI 1 Edit Load/Unload Points&quot;i] >> internal:attr=[title=&quot;Edit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e7c2f525-9e4c-4763-b2b6-47cc638bfe1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>363f5fa2-1b82-4b48-a1ae-674b8a829dfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>function t() {  return true; } if(t.call(this) !== false) { window.location.href= '\x2FGC3\x2FAddShipmentStop\x2F1745850085189\x3FbcKey\x3DMTc0NTg1MDA3MzEwOTox\x26manager_layout_gid\x3DSHIPMENT\x26step\x3DShipmentStop\x26ID\x3DBXC.9002\x25202'; } else { return false; }</value>
+      <webElementGuid>fd90c38a-ea9c-486b-a9e8-cbd2c80100b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>28312856-3d3e-47f6-bffc-f26799804072</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>e6767060-6000-4ea5-b712-c7c669facf1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>edit2_img</value>
+      <webElementGuid>60e7c7d3-4d41-4b97-a240-e0f0c57e6c13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BXC.9002 2&quot;)/td[@class=&quot;gridBodyCell gridBodyBtnsCell&quot;]/table[@class=&quot;gridButtonsCont&quot;]/tbody[1]/tr[1]/td[1]/button[@class=&quot;edit2_img&quot;]</value>
+      <webElementGuid>9979fd13-2501-4dd0-a0c7-5f1457b686fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment - Stops/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>3e8d142c-aaec-4164-812b-60a874d36e81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>a5ce73a6-7e1d-4684-ac40-3f1fc79d1f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='BXC.9002 2']/td[16]/table/tbody/tr/td/button</value>
+      <webElementGuid>e8a55d4f-35bd-4484-895a-9d34fe7fbe1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[16]/table/tbody/tr/td/button</value>
+      <webElementGuid>eac43a7d-2f3e-41ab-97be-bd4b20a1c677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @alt = 'Edit' and @title = 'Edit']</value>
+      <webElementGuid>ee3d1adc-1801-4f1c-897e-2c772c1ea3a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

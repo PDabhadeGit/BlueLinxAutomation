@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Test Customer</name>
+   <tag></tag>
+   <elementGuidId>46ad257d-098f-4441-a68f-afe0542d5199</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:0:commandLink2&quot;]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Test Customer&quot;s] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ad0d5c7f-dbd8-4f4a-bf70-c266ceffebf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Customer</value>
+      <webElementGuid>61cb956d-198e-4d80-827d-de7a37c60a8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:25:commandLink2&quot;)/a[@class=&quot;xmx&quot;]/span[1]</value>
+      <webElementGuid>d2e19ab9-cabc-4cff-980f-e7b334532d1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:25:commandLink2']/a/span</value>
+      <webElementGuid>01354776-67be-4eed-a2ee-0769b76fec72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buying Customer'])[1]/following::span[9]</value>
+      <webElementGuid>360418e9-a626-4e7d-9119-9b63aab8061b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buying Customer'])[2]/preceding::span[7]</value>
+      <webElementGuid>3a224096-4491-4d2d-b3ef-34d1d00d11f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test Customer']/parent::*</value>
+      <webElementGuid>320ae75c-2729-477b-b4c6-209afca24d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]/span/span/a/span</value>
+      <webElementGuid>34c6e051-8a6a-4987-b349-6a703cd88fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Test Customer' or . = 'Test Customer')]</value>
+      <webElementGuid>f044b97f-c9c8-463f-a216-a493ce113df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:2:commandLink2']/a/span</value>
+      <webElementGuid>21477659-f13f-4755-b43e-67b061b98725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Address Hub'])[1]/following::span[8]</value>
+      <webElementGuid>cbf43aa5-c6b0-4459-9453-04efcd01b9f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buying Customer'])[2]/following::span[9]</value>
+      <webElementGuid>73add8d2-7413-4b89-b7cf-b3d1ec69e53a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buying Customer'])[3]/preceding::span[7]</value>
+      <webElementGuid>ec020aa6-c2d5-4a3e-933e-ff69406782b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]/span/span/a/span</value>
+      <webElementGuid>77232285-e082-43af-8edc-257e7345fc72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sources'])[2]/following::span[8]</value>
+      <webElementGuid>b034e62d-e81f-4563-9db3-afdb4f15a9b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usages'])[2]/following::span[9]</value>
+      <webElementGuid>8aaa9da9-3592-44bd-addd-0ca136909478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buying Customer'])[1]/preceding::span[7]</value>
+      <webElementGuid>9ae0378a-59ab-42f8-9e65-bb3121adf657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/span</value>
+      <webElementGuid>4a78e7f4-edf5-48f2-9fba-585a6d7a2ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:2:commandLink2']/a/span</value>
+      <webElementGuid>871ad45b-3834-485d-93b2-4ab4b3484387</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

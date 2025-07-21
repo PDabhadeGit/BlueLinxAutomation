@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Organisation as Customer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>201e3e1c-ec4d-4821-bd6d-99d91dd9771d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_53FT_CURTAINSIDE _45K</name>
+   <tag></tag>
+   <elementGuidId>38fba270-c84c-4eec-b7f1-f40031da36f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.acSelItem > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='equipment_group/xid::dropdownPopup::content::db']/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;53FT_CURTAINSIDE _45K&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ad32e499-62f7-4344-8de7-9569c893d44f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>acea05b5-4cba-42e1-afbb-9c232f94610a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>53FT_CURTAINSIDE _45K</value>
+      <webElementGuid>f48e3246-a368-42d5-81ae-86bf8478bf3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;equipment_group/xid::dropdownPopup::content::db&quot;)/table[@class=&quot;acTable&quot;]/tbody[1]/tr[@class=&quot;acSelItem&quot;]/td[1]</value>
+      <webElementGuid>f3fcc82a-1c11-471b-8550-eb27694cfed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Change Equipment Group/iframe_mainBody</value>
+      <webElementGuid>f595d603-6197-45e9-96ec-0f28ee2b2072</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='equipment_group/xid::dropdownPopup::content::db']/table/tbody/tr/td</value>
+      <webElementGuid>ff498907-c459-4c47-b38f-4d18f12aa4ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::td[2]</value>
+      <webElementGuid>e71d1d11-4aae-40c7-8a01-1de629058ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimize'])[1]/following::td[3]</value>
+      <webElementGuid>dfd72bd8-9cb9-4b92-894f-713b201f91eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='53FT_CURTAINSIDE _45K']/parent::*</value>
+      <webElementGuid>b5f90048-a468-428c-8112-85d410de1bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/table/tbody/tr/td</value>
+      <webElementGuid>72751ec1-36c7-46bf-8af5-37c5459257c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '53FT_CURTAINSIDE _45K' or . = '53FT_CURTAINSIDE _45K')]</value>
+      <webElementGuid>d1e528cd-5ca4-4783-a46a-138f4fe71321</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

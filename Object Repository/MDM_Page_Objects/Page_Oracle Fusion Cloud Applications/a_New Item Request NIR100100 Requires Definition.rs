@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_New Item Request NIR100100 Requires Definition</name>
+   <tag></tag>
+   <elementGuidId>81886294-5f11-4d3f-a60f-dd21699fa8d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='pt1:_UISatr:0:lv4:0:cl4']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Pending Notifications&quot;i] >> internal:role=link[name=&quot;New Item Request NIR100100 Requires Definition&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>08088ba2-1d17-40fc-a882-f940bd5a14e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pt1:_UISatr:0:lv4:0:cl4</value>
+      <webElementGuid>91677485-83d5-4ea5-8b10-67103107d305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value> New Item Request NIR100100 Requires Definition</value>
+      <webElementGuid>0cc0194e-cd49-4f8c-b149-4f83c0a1473b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget title unread x2vs xmx</value>
+      <webElementGuid>48f31789-12f8-4793-ac68-a7c52d142088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>e8b43088-8409-4688-a145-bac9882ffef2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>bb09c257-a615-485c-8b89-d5665345b6b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> New Item Request NIR100100 Requires Definition</value>
+      <webElementGuid>a133b9ea-713a-446b-98bf-ddb9a29b5652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_UISatr:0:lv4:0:cl4&quot;)</value>
+      <webElementGuid>7322c1fa-3ad6-412c-bc07-212df963a0cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='pt1:_UISatr:0:lv4:0:cl4']</value>
+      <webElementGuid>6dfe2444-09d2-4910-9b87-73ec2a04bcb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='pt1:_UISatr:0:lv4:0:gc6']/a</value>
+      <webElementGuid>872ccf65-2175-441c-8e5c-fafe69d96ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'New Item Request NIR100100 Requires Definition')])[3]</value>
+      <webElementGuid>34f5784f-adca-45c9-8bb8-a40ae40c33df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action Required'])[4]/following::a[1]</value>
+      <webElementGuid>a58eccc0-a960-4922-bb6c-52b482c21226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All'])[2]/following::a[1]</value>
+      <webElementGuid>370b8861-27f9-4060-9fec-2a2718271330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prajyot Dabhade'])[6]/preceding::a[2]</value>
+      <webElementGuid>7e7d7208-10ab-491d-9443-d081b7dd2014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FYI'])[6]/preceding::a[2]</value>
+      <webElementGuid>8e24f8c6-be72-48b0-85da-c5d3d268f800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[108]</value>
+      <webElementGuid>256f3afe-433f-4c76-88e7-094ecf392bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/a</value>
+      <webElementGuid>82ece870-4542-429b-93e6-297e0bd1f24a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'pt1:_UISatr:0:lv4:0:cl4' and @title = ' New Item Request NIR100100 Requires Definition' and @href = '#' and (text() = ' New Item Request NIR100100 Requires Definition' or . = ' New Item Request NIR100100 Requires Definition')]</value>
+      <webElementGuid>849bf0bd-1581-4560-ad21-7675ed838156</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

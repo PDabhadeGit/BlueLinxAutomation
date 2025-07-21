@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_005_Create Trading Partner Items</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ffd0d60f-1792-49a2-a4b9-fb59dc3db324</testCaseGuid>
+</TestCaseEntity>

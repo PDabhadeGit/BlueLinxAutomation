@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_PDH_309_Add a product to multiple catalog category</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f0c7d6b-9f35-461e-b047-3263a7eea93a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_APPOINTMENTHANDLINGLINEHAULNON FREIG_c6dca6</name>
+   <tag></tag>
+   <elementGuidId>22659073-104c-441c-86f2-90a469e35bd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;shipment/shipment_type_xid@ID&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='shipment/shipment_type_xid@ID']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Shipment Type ID&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a5c7b728-4129-49ff-a880-6c705cf2bf3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Shipment Type ID</value>
+      <webElementGuid>7eaed508-0e48-449b-9286-7634dbedefbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6a1cca25-4649-433c-866e-be4d96d53e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>shipment/shipment_type_xid@ID</value>
+      <webElementGuid>8846848e-43e2-48af-8be2-3e718bb1c2ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>document.forms['management_main'].elements['display_shipment/shipment_type_xid'].value = this.options[this.selectedIndex].text;</value>
+      <webElementGuid>ce8748ac-ba57-4f5f-ac66-23eeb8e5c56f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeydown</name>
+      <type>Main</type>
+      <value>return dropListHandler('glog.server.query.shipment.ShipmentTypeQuery','','management_main','display_shipment\x2Fshipment_type_xid','Shipment\x20Type\x20ID','false','false',event);</value>
+      <webElementGuid>806cdbc7-1150-4462-95af-d8c9f556de58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>APPOINTMENTHANDLINGLINEHAULNON FREIGHT RELATED CHARGEPOOLRECHARGEREPOSITIONSECONDARY CHARGETRANSPORT</value>
+      <webElementGuid>653431db-b3b6-4939-99cb-843b873404d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont bodySectBG&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[3]/td[2]/div[@class=&quot;fieldCont&quot;]/select[1]</value>
+      <webElementGuid>ce380c6c-5043-41e8-a483-49414411bb76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment - Identification/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>ce56b7a2-283a-41d6-ba6d-81ee2abb9638</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='shipment/shipment_type_xid@ID']</value>
+      <webElementGuid>86ca3c29-88bc-436c-af43-585ca989caf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div/table/tbody/tr[3]/td[2]/div/select</value>
+      <webElementGuid>1504c466-0c52-4c8b-810a-dcc75458be71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>f4729a48-a85c-442c-a4b6-6a4302f5d071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enroute Status'])[1]/preceding::select[1]</value>
+      <webElementGuid>0ac95c2a-15d1-40a7-886c-677f4c585b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Planned Transport Mode'])[1]/preceding::select[1]</value>
+      <webElementGuid>552586de-d544-4138-a656-f165337f028f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/div/select</value>
+      <webElementGuid>4580903f-d9a2-423f-bb8d-6c61c466d6e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'shipment/shipment_type_xid@ID' and (text() = 'APPOINTMENTHANDLINGLINEHAULNON FREIGHT RELATED CHARGEPOOLRECHARGEREPOSITIONSECONDARY CHARGETRANSPORT' or . = 'APPOINTMENTHANDLINGLINEHAULNON FREIGHT RELATED CHARGEPOOLRECHARGEREPOSITIONSECONDARY CHARGETRANSPORT')]</value>
+      <webElementGuid>3461550a-9399-4b62-bacc-41807fe4a592</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

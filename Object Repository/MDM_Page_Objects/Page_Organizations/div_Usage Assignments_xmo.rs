@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Usage Assignments_xmo</name>
+   <tag></tag>
+   <elementGuidId>6e70fdba-53b0-4f90-aed9-147bbaee8247</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.xmo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r3:0:UsageAssignment:UsageAssignments:_ATp:ATm']/div/table/tbody/tr/td[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Actions&quot;i >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>272b93cc-a2c8-48ae-af0e-901c048e5bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xmo</value>
+      <webElementGuid>b8674d74-5699-4845-8cb4-e9c41e48d48e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r3:0:UsageAssignment:UsageAssignments:_ATp:ATm&quot;)/div[@class=&quot;x1jr&quot;]/table[1]/tbody[1]/tr[1]/td[3]/div[@class=&quot;xmo&quot;]</value>
+      <webElementGuid>ca156467-1005-4c1d-bae7-8bfcde25af84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r3:0:UsageAssignment:UsageAssignments:_ATp:ATm']/div/table/tbody/tr/td[3]/div</value>
+      <webElementGuid>9dbca98e-0a1b-430b-8798-86d28f023b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usage Assignments'])[2]/following::div[12]</value>
+      <webElementGuid>f727c7de-11fd-45f4-bf4d-36012f8c809d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Phone'])[1]/following::div[20]</value>
+      <webElementGuid>04e7e7d6-e107-4cfa-9a91-1299143c21e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About This Record'])[1]/preceding::div[5]</value>
+      <webElementGuid>c60997c4-74ec-4c35-8d2c-6f0b496f4b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Columns'])[1]/preceding::div[10]</value>
+      <webElementGuid>81c3f10b-8870-4c8f-b898-27e3a56c0553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/table/tbody/tr/td[3]/div</value>
+      <webElementGuid>29242bf6-1828-4482-82c1-5f434203d642</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

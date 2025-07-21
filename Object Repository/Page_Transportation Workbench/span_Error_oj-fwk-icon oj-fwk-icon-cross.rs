@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Error_oj-fwk-icon oj-fwk-icon-cross</name>
+   <tag></tag>
+   <elementGuidId>47964e66-c33c-4c1a-824c-1f59b58e2dd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_oj866_mc']/div/div[2]/div/oj-button/button/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.oj-fwk-icon.oj-fwk-icon-cross</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Close&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>09e08479-bdb3-4af6-9da1-537a4f59deac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>startIcon</value>
+      <webElementGuid>3fa2fdaf-d423-42d3-90c0-fd381cece5c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-fwk-icon oj-fwk-icon-cross</value>
+      <webElementGuid>e1b182d6-f291-4209-888f-6621f87b5392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_oj866_mc&quot;)/div[@class=&quot;oj-message-header&quot;]/div[@class=&quot;oj-message-trailing-header&quot;]/div[@class=&quot;oj-message-close oj-message-auto-timeout-close&quot;]/oj-button[@class=&quot;oj-button-sm oj-button oj-button-half-chrome oj-button-icon-only oj-enabled oj-complete oj-hover oj-focus&quot;]/button[@class=&quot;oj-button-button&quot;]/div[@class=&quot;oj-button-label&quot;]/span[@class=&quot;oj-button-icon oj-start&quot;]/span[@class=&quot;oj-fwk-icon oj-fwk-icon-cross&quot;]</value>
+      <webElementGuid>93133557-5ecb-47f1-89ee-93c7bcdc1a84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Transportation Workbench/frame_html1frameset1frame1_W36</value>
+      <webElementGuid>1957b670-efc9-4ada-9dd6-35c57b1c06e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_oj866_mc']/div/div[2]/div/oj-button/button/div/span/span</value>
+      <webElementGuid>996616bb-2e51-414a-8e41-13b31a5717e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>91e35efe-17fe-40cd-afd7-5b614a4f4ee5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

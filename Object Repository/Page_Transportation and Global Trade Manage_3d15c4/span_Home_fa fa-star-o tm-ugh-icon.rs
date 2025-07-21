@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Home_fa fa-star-o tm-ugh-icon</name>
+   <tag></tag>
+   <elementGuidId>a23f0fba-cc21-48e5-a89a-30aed00c0f62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-star-o.tm-ugh-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//oj-button[@id='favoritesButton']/button/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Favorites&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>893a3f1e-ef1d-4eca-8ef8-0af746f31873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>startIcon</value>
+      <webElementGuid>6210597b-d4fb-47ea-bb4d-aeb7d97082ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-star-o tm-ugh-icon</value>
+      <webElementGuid>eee8c7f8-eaa6-4861-881d-e1da6a568c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;favoritesButton&quot;)/button[@class=&quot;oj-button-button&quot;]/div[@class=&quot;oj-button-label&quot;]/span[@class=&quot;oj-button-icon oj-start&quot;]/span[@class=&quot;fa fa-star-o tm-ugh-icon&quot;]</value>
+      <webElementGuid>cfcd4f53-ae86-489d-b77e-27a7eb6c57a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//oj-button[@id='favoritesButton']/button/div/span/span</value>
+      <webElementGuid>260337b2-3d08-451d-8771-4e1c33094762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/oj-button[2]/button/div/span/span</value>
+      <webElementGuid>4bbcf6b0-3037-4bcd-8e08-cf415b32f077</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

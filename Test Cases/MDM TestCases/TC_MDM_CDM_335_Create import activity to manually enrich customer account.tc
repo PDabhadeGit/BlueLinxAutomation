@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_335_Create import activity to manually enrich customer account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73c75b4a-3901-41d5-abda-149f4d11eb1b</testCaseGuid>
+</TestCaseEntity>

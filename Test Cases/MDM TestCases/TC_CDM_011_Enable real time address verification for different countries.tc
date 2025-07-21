@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_011_Enable real time address verification for different countries</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ae4e54b-97c4-4426-ae12-c3e5941f4d4c</testCaseGuid>
+</TestCaseEntity>

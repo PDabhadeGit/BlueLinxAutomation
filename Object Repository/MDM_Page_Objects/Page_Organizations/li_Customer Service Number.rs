@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Customer Service Number</name>
+   <tag></tag>
+   <elementGuidId>929985f3-3242-4f2b-b374-cb72bac3414b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Biller Code'])[2]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;__af_Z_window&quot;] >> internal:text=&quot;Customer Service Number&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>84ea19f5-4bf7-4f4c-8098-ac59be71f57e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1l7</value>
+      <webElementGuid>229f8f36-a361-42ba-aeda-39d54892e054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_adfiv</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>72a7d5fe-3726-4e5a-95c7-3c6928c04db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer Service Number</value>
+      <webElementGuid>1cc73389-54b6-4501-8419-3bde23a56df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAnt2:1:r1:0:AP3:r3:0:AT2:_ATp:table2:0:soc1::pop&quot;)/li[@class=&quot;x1l7&quot;]</value>
+      <webElementGuid>c49a881f-d481-4a21-98cf-80c2d2a3a09b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pt1:_FOr1:1:_FONSr2:0:MAnt2:1:r1:0:AP3:r3:0:AT2:_ATp:table2:0:soc1::pop']/li[5]</value>
+      <webElementGuid>a4a09350-4d51-4a0a-abc0-621c36c9b452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biller Code'])[2]/following::li[1]</value>
+      <webElementGuid>f378bbf1-c9a2-4fca-a438-02add8c5be79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Australian Business Number'])[2]/following::li[2]</value>
+      <webElementGuid>cc2c6bf9-6929-405f-a94e-6422d2df32e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Number'])[2]/preceding::li[1]</value>
+      <webElementGuid>540018eb-605e-4f49-848e-a6d42ac07684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industrial Reference'])[2]/preceding::li[2]</value>
+      <webElementGuid>97af33e6-2421-4e4c-ab98-a60310a34819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/ul/li[5]</value>
+      <webElementGuid>b62b15c1-74b2-4438-91a5-197b42c62810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Customer Service Number' or . = 'Customer Service Number')]</value>
+      <webElementGuid>37fc6ee6-1ffb-4573-b9d3-9bce20021f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r3:0:AT2:_ATp:table2:0:soc1::pop']/li[5]</value>
+      <webElementGuid>01bd0db8-a141-4a9b-ac55-37c099e15bec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

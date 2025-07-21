@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_307_Link Multiple Shipping Locations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96a6bf8d-77f7-4bc9-9e52-204a5d4207b9</testCaseGuid>
+</TestCaseEntity>

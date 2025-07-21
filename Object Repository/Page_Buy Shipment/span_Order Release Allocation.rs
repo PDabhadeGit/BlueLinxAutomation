@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Order Release Allocation</name>
+   <tag></tag>
+   <elementGuidId>8a7faae7-f150-4c22-884f-81b24616eed4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='label_table_ora_grid']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#label_table_ora_grid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Order Release Allocation&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b3ae3423-c38a-47dc-8c78-9c4827b44586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label_table_ora_grid</value>
+      <webElementGuid>6bc1d178-b74e-4eeb-b679-80fb4e343f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order Release Allocation</value>
+      <webElementGuid>ff8adc04-0f92-4447-a7eb-efa079c40d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;label_table_ora_grid&quot;)</value>
+      <webElementGuid>e7f0d5dc-1d5a-45f5-b806-192e7549f6b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>1022f6a4-880d-432f-a4f9-85e78dd5765b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='label_table_ora_grid']</value>
+      <webElementGuid>5209bf1c-568c-471d-b060-6a80315021bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='shipmentDetails']/tbody/tr[31]/td/div/h2/span</value>
+      <webElementGuid>00f613c0-5fe6-473e-9137-f4bc51ae32aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cargo/Passenger'])[1]/following::span[1]</value>
+      <webElementGuid>427597fe-458c-42ba-b732-cb0ba58c12d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Provider ID'])[3]/following::span[2]</value>
+      <webElementGuid>8e569925-0452-4a9e-a1f6-def6b6e15d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Release ID'])[2]/preceding::span[1]</value>
+      <webElementGuid>ce2bdf8b-74cb-4147-b257-953136061c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment ID'])[3]/preceding::span[2]</value>
+      <webElementGuid>3dc49d4e-ff7c-477a-9758-dd1cd9b4b16e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Order Release Allocation']/parent::*</value>
+      <webElementGuid>3e93fad4-919c-41ff-8bd9-c7905d360929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[31]/td/div/h2/span</value>
+      <webElementGuid>260abe2c-45c4-4e6d-b4a8-ebaeca7d387f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'label_table_ora_grid' and (text() = 'Order Release Allocation' or . = 'Order Release Allocation')]</value>
+      <webElementGuid>7a999954-7d24-47d7-bed1-94731ab4a58c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

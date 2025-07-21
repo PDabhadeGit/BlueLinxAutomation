@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_005_Edit Customer with additional details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25a8e815-65d2-4141-b4ea-6ebdb7b2806d</testCaseGuid>
+</TestCaseEntity>

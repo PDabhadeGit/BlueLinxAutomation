@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Flagged as non-saleable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75417901-f7fc-48ab-8ff2-d729b08c3d2f</testCaseGuid>
+</TestCaseEntity>

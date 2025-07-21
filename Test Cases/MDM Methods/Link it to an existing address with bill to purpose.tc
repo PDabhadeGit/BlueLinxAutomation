@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Link it to an existing address with bill to purpose</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af20a2ed-7981-49e1-9d67-8cf355b52350</testCaseGuid>
+</TestCaseEntity>

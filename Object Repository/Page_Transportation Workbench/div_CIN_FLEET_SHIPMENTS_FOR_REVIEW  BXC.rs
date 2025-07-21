@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CIN_FLEET_SHIPMENTS_FOR_REVIEW  BXC</name>
+   <tag></tag>
+   <elementGuidId>21f9a5ea-2c72-4da9-bbb7-20d23d225124</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-595 > div.oj-listview-cell-element</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ui-id-595']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;CIN_FLEET_SHIPMENTS_FOR_REVIEW | BXC&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>676924d6-1fb6-462b-a70e-eea9f269a5de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>da9dcb1f-1bf9-455b-91fd-6a9e6c8aede6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-listview-cell-element</value>
+      <webElementGuid>b166be56-ddcd-472d-9748-33a1df672688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>527a4d36-7489-4657-80d7-135b04703d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CIN_FLEET_SHIPMENTS_FOR_REVIEW | BXC</value>
+      <webElementGuid>409b8f20-da26-4faa-b27e-48543da04779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-595&quot;)/div[@class=&quot;oj-listview-cell-element&quot;]</value>
+      <webElementGuid>298ed875-a436-4bce-a277-2ae14604eee0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ui-id-595']/div</value>
+      <webElementGuid>5c2a2216-e87f-4438-a953-1b7c1c4156ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BXC_ATL_SHIPMENTS_FOR_REVIEW | BXC'])[1]/following::div[1]</value>
+      <webElementGuid>2f31068b-137b-4c76-a0d0-1e1a46146fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ATL_CUS_LOWBLDNORNC | BXC'])[1]/following::div[2]</value>
+      <webElementGuid>338609de-c86d-46b9-8ee9-c71fcca597f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEMO_S2_SHIP | BXC'])[1]/preceding::div[1]</value>
+      <webElementGuid>223538c6-d21d-4dbe-b7ad-c1e9a8bd1d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div</value>
+      <webElementGuid>101854d6-08f7-4047-8078-6218b6f63e07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CIN_FLEET_SHIPMENTS_FOR_REVIEW | BXC' or . = 'CIN_FLEET_SHIPMENTS_FOR_REVIEW | BXC')]</value>
+      <webElementGuid>713ccbfe-e98c-4e3a-91d4-c2f16b92a7c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

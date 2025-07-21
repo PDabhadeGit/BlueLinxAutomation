@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_5.00LB</name>
+   <tag></tag>
+   <elementGuidId>0f5bccea-399b-4f33-8603-7f6e9d9ff4b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td > div.fieldCont > div.fieldData</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bodyDataDiv']/div/table/tbody/tr[4]/td/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;5.00 LB&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e601e4f-a59b-4cd3-8280-eda16ae529ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fieldData</value>
+      <webElementGuid>7b52607c-0d68-4cd8-b2ca-aa8749c7575a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5.00 LB</value>
+      <webElementGuid>a772cacd-22c5-49d4-ae21-9ecc54ff4826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[4]/td[1]/div[@class=&quot;fieldCont&quot;]/div[@class=&quot;fieldData&quot;]</value>
+      <webElementGuid>b5a26078-529d-4b71-8352-ca1840cc184d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Packaged Item/iframe_concat(id(, , mainBodyFrame, , ))_mainBody</value>
+      <webElementGuid>f9a414c2-c6c2-4d7f-86af-d6f28381fd4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div/table/tbody/tr[4]/td/div/div[2]</value>
+      <webElementGuid>7bca22d9-c019-46f1-ae42-12d6d5dd5e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Package Weight'])[1]/following::div[1]</value>
+      <webElementGuid>6d0c270f-cdb3-4bce-b641-3ee07f242b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mixable'])[1]/following::div[4]</value>
+      <webElementGuid>104d27de-5a6a-4664-a2b3-814cbadc822f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Volume'])[1]/preceding::div[1]</value>
+      <webElementGuid>7d08aa93-0d12-41bc-900b-08345fbb6463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Packaging'])[1]/preceding::div[4]</value>
+      <webElementGuid>571840fa-ed55-4643-b24e-6ca08ecdf41e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='5.00 LB']/parent::*</value>
+      <webElementGuid>22bca300-454b-4a48-b7c5-1232f0be442b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/div/div[2]</value>
+      <webElementGuid>8b6c8659-816f-42ae-93cd-f006524e6cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '5.00 LB' or . = '5.00 LB')]</value>
+      <webElementGuid>93ac4c10-f1eb-4ad0-b208-39f720d62206</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

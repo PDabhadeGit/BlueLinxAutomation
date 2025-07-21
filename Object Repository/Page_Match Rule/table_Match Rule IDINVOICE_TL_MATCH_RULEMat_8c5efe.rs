@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>table_Match Rule IDINVOICE_TL_MATCH_RULEMat_8c5efe</name>
+   <tag></tag>
+   <elementGuidId>b2620e26-4892-44ee-9d94-43b63a4399f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bodyDataDiv']/div/table</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>table.bodySectInCont.w100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>table >> internal:has-text=&quot;Match Rule IDINVOICE_TL_MATCH_RULEMatch Rule NameTL MATCH RULEMatch Rule Descrip&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>table</value>
+      <webElementGuid>0d8b156e-2e7e-49c8-bb67-f245f2982665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>a89550d9-460f-4f1f-b47d-609371d6195a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bodySectInCont w100</value>
+      <webElementGuid>0b55b7bd-3fab-474b-a56b-fd60f9c77798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Match Rule IDINVOICE_TL_MATCH_RULEMatch Rule NameTL MATCH RULEMatch Rule DescriptionTL MATCH RULE SHIPMENT ID, CARRIER SCAC, AND BOLMatch Rule TypeINVOICEMatch Rule OutcomeSHIPMENT</value>
+      <webElementGuid>be48715f-eb13-4fbc-be5c-04407ca18434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont&quot;]/table[@class=&quot;bodySectInCont w100&quot;]</value>
+      <webElementGuid>93baf304-fbdb-42a8-9f5e-bd7ce8ded713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Match Rule/iframe_mainBody</value>
+      <webElementGuid>46c42e32-241d-46ec-9501-e0c4ae1cbbcc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div/table</value>
+      <webElementGuid>791bdc79-ca20-41b7-98a0-db0de1cb1999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::table[1]</value>
+      <webElementGuid>d6bf3233-b9ca-4287-8fd2-6ef8171133a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::table[1]</value>
+      <webElementGuid>f9356416-9974-40ca-a983-5eaf644f09e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/table</value>
+      <webElementGuid>ffc27ceb-d15e-47d6-97a6-f420925d768a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//table[(text() = 'Match Rule IDINVOICE_TL_MATCH_RULEMatch Rule NameTL MATCH RULEMatch Rule DescriptionTL MATCH RULE SHIPMENT ID, CARRIER SCAC, AND BOLMatch Rule TypeINVOICEMatch Rule OutcomeSHIPMENT' or . = 'Match Rule IDINVOICE_TL_MATCH_RULEMatch Rule NameTL MATCH RULEMatch Rule DescriptionTL MATCH RULE SHIPMENT ID, CARRIER SCAC, AND BOLMatch Rule TypeINVOICEMatch Rule OutcomeSHIPMENT')]</value>
+      <webElementGuid>ce0e00e1-a8f3-4719-a6d5-2b2524654b8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

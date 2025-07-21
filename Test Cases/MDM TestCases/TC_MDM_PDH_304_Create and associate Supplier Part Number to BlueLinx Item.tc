@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_PDH_304_Create and associate Supplier Part Number to BlueLinx Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e38791d0-682a-43c7-8d2d-c8a411a79169</testCaseGuid>
+</TestCaseEntity>

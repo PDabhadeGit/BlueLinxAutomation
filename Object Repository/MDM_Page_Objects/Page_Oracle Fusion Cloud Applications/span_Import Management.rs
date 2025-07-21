@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Import Management</name>
+   <tag></tag>
+   <elementGuidId>0e9b3270-15b9-4c57-ac1f-986f82fa5d44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='pt1:_UISnvr:0:nv_itemNode_tools_ImportManagement']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Import Management&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b04576f3-4e69-47fe-9c41-d302d906cf23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xmv</value>
+      <webElementGuid>33a66333-a25e-4ff0-8270-5aea9109cf3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Import Management</value>
+      <webElementGuid>a87d6600-1761-4926-af46-cba4e254b2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_UISnvr:0:nv_itemNode_tools_ImportManagement&quot;)/span[@class=&quot;xmv&quot;]</value>
+      <webElementGuid>cf3f72e9-4a29-42d1-b0b8-43adcff34309</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='pt1:_UISnvr:0:nv_itemNode_tools_ImportManagement']/span</value>
+      <webElementGuid>ee969bca-76b9-410b-ba49-23e7730a89ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales and Service Access Management'])[1]/following::span[1]</value>
+      <webElementGuid>c2d42669-e15b-40c2-8314-b88cd64f5677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled Processes'])[2]/following::span[2]</value>
+      <webElementGuid>1b49fecf-37c2-4883-aa79-88d707f0875d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Management'])[1]/preceding::span[1]</value>
+      <webElementGuid>99a75f5e-0f3a-4b8d-9f4e-bb5c57294c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Import and Export'])[1]/preceding::span[2]</value>
+      <webElementGuid>cea0f04a-79ee-457f-b82a-c523cbca09f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Import Management']/parent::*</value>
+      <webElementGuid>795c8d96-bfc9-44b6-ace5-87d50838a698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[24]/div/div[2]/div/div[11]/a/span</value>
+      <webElementGuid>7a1253d7-82da-47c9-89b1-fa2145d9d388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Import Management' or . = 'Import Management')]</value>
+      <webElementGuid>2712c08d-3cd3-4a37-b3a7-eea237124b3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

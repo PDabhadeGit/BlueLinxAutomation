@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_306_Define Customer Type on the address level</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>157b593b-200b-4f4f-ba53-06b285b9d01b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login MDM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20d567b6-9d9b-4f9f-9ed0-6a89f0bfe50c</testCaseGuid>
+</TestCaseEntity>

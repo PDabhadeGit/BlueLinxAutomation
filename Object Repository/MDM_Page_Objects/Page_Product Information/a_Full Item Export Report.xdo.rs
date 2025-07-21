@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Full Item Export Report.xdo</name>
+   <tag></tag>
+   <elementGuidId>1a0c73d9-dd9f-4c2e-b5d9-4481e8eb8a6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:_FOTRaTj_id_3:1:tree:2:link1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Full Item Export Report.xdo&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aaaae3e5-207c-486c-ac93-011a16a218aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pt1:_FOr1:1:_FONSr2:0:_FOTRaTj_id_3:1:tree:2:link1</value>
+      <webElementGuid>6ff1997d-36bf-4e59-9755-2c51398fdc8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget xmx</value>
+      <webElementGuid>0222ec92-9d0c-4ac0-aa9d-bbc4471ed1bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>68f7b173-a3bd-4177-947d-1432aec52947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9803bc1f-2fd1-46e0-b15b-854ed7e277c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Full Item Export Report.xdo</value>
+      <webElementGuid>d0b85576-2b3a-4181-9ef3-c0b8fa54e0d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:_FOTRaTj_id_3:1:tree:2:link1&quot;)</value>
+      <webElementGuid>fa469de8-951e-4462-8704-417376a656a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:_FOTRaTj_id_3:1:tree:2:link1']</value>
+      <webElementGuid>a3736980-374d-4fbe-92a1-9acc9483c62d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='pt1:_FOr1:1:_FONSr2:0:_FOTRaTj_id_3:1:tree:2:panelGroupLayoutTreeNode']/span/a</value>
+      <webElementGuid>3510a869-103b-4407-bd03-91480a04a197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Full Item Export Report.xdo')]</value>
+      <webElementGuid>21f086ed-3765-4bf0-a418-c6268a361ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shared Reports and Analytics'])[1]/following::a[1]</value>
+      <webElementGuid>e94c191c-9cd6-405e-88dd-2fa3542480f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Folders'])[1]/following::a[2]</value>
+      <webElementGuid>01534775-fdc6-4969-8cd2-37b509a63d00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse'])[1]/preceding::a[1]</value>
+      <webElementGuid>d87c3190-1eab-443d-b122-dc451e51e5ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand'])[1]/preceding::a[1]</value>
+      <webElementGuid>f46d8c25-0abc-4df3-a6cc-bdd785193478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Full Item Export Report.xdo']/parent::*</value>
+      <webElementGuid>f6edf6de-557a-4396-acfa-54c6fd7b8789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[59]</value>
+      <webElementGuid>83eef9ec-cf56-4086-9e69-30e22e256fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span/a</value>
+      <webElementGuid>587079cf-b452-456a-acb2-4c7eeac7b140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'pt1:_FOr1:1:_FONSr2:0:_FOTRaTj_id_3:1:tree:2:link1' and @href = '#' and (text() = 'Full Item Export Report.xdo' or . = 'Full Item Export Report.xdo')]</value>
+      <webElementGuid>d09a9a1a-780d-494c-8190-1c1036eb8531</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

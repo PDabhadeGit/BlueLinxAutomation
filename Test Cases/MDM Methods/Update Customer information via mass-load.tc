@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update Customer information via mass-load</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>500a7475-0c37-4159-b387-cd870e0f8c9b</testCaseGuid>
+</TestCaseEntity>

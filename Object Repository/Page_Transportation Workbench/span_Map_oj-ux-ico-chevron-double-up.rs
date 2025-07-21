@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Map_oj-ux-ico-chevron-double-up</name>
+   <tag></tag>
+   <elementGuidId>ad38afb4-7d34-4c9f-9165-8552f1c91740</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>oj-button.oj-button-sm.oj-button.oj-button-half-chrome.oj-button-text-only.oj-enabled.oj-complete.oj-hover.oj-focus > button.oj-button-button > div.oj-button-label > span.oj-button-text > span.oj-ux-ico-chevron-double-up</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RootPane_2_Tabbar']/div/oj-button/button/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#RootPane_2_Tabbar >> internal:label=&quot;Collapse tabs&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>69c2a617-e50c-430b-ba38-9945f842be2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:class</name>
+      <type>Main</type>
+      <value>[[tabBarCollapseExpandIcon]]</value>
+      <webElementGuid>ef9d5ef8-52ff-4487-ab04-15b9846e282c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-ux-ico-chevron-double-up</value>
+      <webElementGuid>5a2b40c8-3b28-4120-899f-d88e71bc088f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RootPane_2_Tabbar&quot;)/div[@class=&quot;wb-tab-container-right-tabbar&quot;]/oj-button[@class=&quot;oj-button-sm oj-button oj-button-half-chrome oj-button-text-only oj-enabled oj-complete oj-hover oj-focus&quot;]/button[@class=&quot;oj-button-button&quot;]/div[@class=&quot;oj-button-label&quot;]/span[@class=&quot;oj-button-text&quot;]/span[@class=&quot;oj-ux-ico-chevron-double-up&quot;]</value>
+      <webElementGuid>66618854-44f2-42ce-9e87-8cf9c9f235f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Transportation Workbench/frame_W49</value>
+      <webElementGuid>dba0c01a-b611-4abd-9208-8b581bfe1b48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RootPane_2_Tabbar']/div/oj-button/button/div/span/span</value>
+      <webElementGuid>ff4d5027-0b9f-430a-b03f-42fb51d2b562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/wb-layout/div/div[2]/div/wb-region/div/div/div/oj-button/button/div/span/span</value>
+      <webElementGuid>026dce7c-2eff-483e-89dc-67c85d1e59f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

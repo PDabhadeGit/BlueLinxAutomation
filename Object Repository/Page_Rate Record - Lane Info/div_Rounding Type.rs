@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rounding Type</name>
+   <tag></tag>
+   <elementGuidId>7198bc59-3895-48fb-a944-7e5b8f98f16b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bodyDataDiv']/div[9]/table/tbody/tr/td/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Rounding Type&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ee66cac-f84e-4dd9-a4f6-43e1bb3a5a69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fieldLabel</value>
+      <webElementGuid>bdf38f03-c7fa-4a78-b3c1-15c543e46922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rounding Type</value>
+      <webElementGuid>bbf86da0-2884-4c2d-8af8-b7d3b84bd019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont bodySectBG&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;fieldCont&quot;]/div[@class=&quot;fieldLabel&quot;]</value>
+      <webElementGuid>0846f14d-1279-45cc-87e9-6461a8a3a60a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Rate Record - Lane Info/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>91a53c7b-2cd5-4ce6-bd5e-f7b4a75cc31f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div[9]/table/tbody/tr/td/div/div</value>
+      <webElementGuid>0e88c6bb-5c5c-4eae-b953-3e3eac6ae345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIA Dest Location Profile ID'])[1]/following::div[6]</value>
+      <webElementGuid>cd351462-16d8-460f-aa51-758d6b8abc4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIA Source Location Profile ID'])[1]/following::div[10]</value>
+      <webElementGuid>0479488d-ba35-4985-a14f-714caee0741b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rounding Interval'])[1]/preceding::div[1]</value>
+      <webElementGuid>b07e5a6a-0752-47dd-8ee7-bdf11884728c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rounding Fields Level'])[1]/preceding::div[3]</value>
+      <webElementGuid>1f96b856-a7d6-443e-bed2-f609acff02b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rounding Type']/parent::*</value>
+      <webElementGuid>97a5d77f-18df-495a-845a-82b3f8fd7d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/table/tbody/tr/td/div/div</value>
+      <webElementGuid>450262ed-c06b-46d5-8155-4d65e6db5bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rounding Type' or . = 'Rounding Type')]</value>
+      <webElementGuid>921845c5-7964-4cf5-9f85-4ad41af2689e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

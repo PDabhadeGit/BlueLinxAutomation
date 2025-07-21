@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New Stop_1</name>
+   <tag></tag>
+   <elementGuidId>b35d00d1-a70e-44b5-aa47-28618a444efe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.gridFooterCont > table.gridButtonsCont > tbody > tr > td > div.buttonCont > button.enButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;New Stop&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ac966c82-c43b-4b17-aa6f-a8dc8bebb27b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enButton</value>
+      <webElementGuid>d904b28a-f26a-4584-83bb-c6789c0bdf3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4835a12a-26e7-4d84-a32c-1795b7197be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>function t() {  return true; } if(t.call(this) !== false) { window.location.href= '\x2FGC3\x2FAddShipmentStop\x2F1751386575352\x3FbcKey\x3DMTc1MTM4NjU1NjIyOTox\x26manager_layout_gid\x3DSHIPMENT\x26step\x3DShipmentStop\x26new\x3Dy'; } else { return false; }</value>
+      <webElementGuid>df05962d-b514-428f-b62f-711feeb489e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Stop</value>
+      <webElementGuid>ff19b69a-0fad-488d-9b0e-9fdcfcb7bf24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_shipment_s_equipment_join_grid&quot;)/tbody[1]/tr[3]/td[@class=&quot;gridFooterCont&quot;]/table[@class=&quot;gridButtonsCont&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;buttonCont&quot;]/button[@class=&quot;enButton&quot;]</value>
+      <webElementGuid>76fb9181-e148-4734-ba0d-6add8aa7ee80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment - Stops/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>df6d911f-231e-4b3a-9286-6974d803fb72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>34c03dcc-196c-464e-ae77-10a2a839846a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_shipment_s_equipment_join_grid']/tbody/tr[3]/td/table/tbody/tr/td/div/button</value>
+      <webElementGuid>2f06bc66-e81f-4544-81fb-ec08ee5a72e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load/Unload Points'])[1]/following::button[1]</value>
+      <webElementGuid>97d33396-a3e5-4d1a-9f7d-6c0c91fb764a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MI'])[1]/following::button[4]</value>
+      <webElementGuid>a6b84536-7f3b-46c2-936e-32b39d4ce88c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top'])[1]/preceding::button[1]</value>
+      <webElementGuid>62856525-b415-4bbb-8fee-d6d159aa3f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financials'])[2]/preceding::button[2]</value>
+      <webElementGuid>7ecc73c0-8b0f-47d7-9899-05b9c8d893f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Stop']/parent::*</value>
+      <webElementGuid>6078776a-8dda-498d-b335-1e270f02df45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/table/tbody/tr/td/div/button</value>
+      <webElementGuid>fa77c432-6ea1-40ab-bed0-7330de0dd918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'New Stop' or . = 'New Stop')]</value>
+      <webElementGuid>988b7ec3-d4d7-46b7-9373-df074897503b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

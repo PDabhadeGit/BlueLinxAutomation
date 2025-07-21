@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Export Management</name>
+   <tag></tag>
+   <elementGuidId>97bb2c01-2bf6-4878-8c28-5665595690c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='pt1:_UISnvr:0:nv_itemNode_tools_ExportManagement']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Export Management&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>384b9d39-40af-4abb-b1cc-e744a554aa60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xmv</value>
+      <webElementGuid>8db8c7f6-7052-499f-b334-92f7fbf3d2cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Export Management</value>
+      <webElementGuid>7e5359dc-6e56-4a38-887d-ddce34f37bcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_UISnvr:0:nv_itemNode_tools_ExportManagement&quot;)/span[@class=&quot;xmv&quot;]</value>
+      <webElementGuid>9f8b88a2-fbcb-427a-bc8f-7ef2ec40cbec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='pt1:_UISnvr:0:nv_itemNode_tools_ExportManagement']/span</value>
+      <webElementGuid>513b9228-30f6-49c5-94ca-4bb4a4a52960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Management'])[1]/following::span[1]</value>
+      <webElementGuid>faa2f627-be9f-460f-8229-e46d2e32c009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled Processes'])[1]/following::span[2]</value>
+      <webElementGuid>5f02b4b5-da97-48d1-9e1c-a7f47cad0dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Import and Export'])[1]/preceding::span[1]</value>
+      <webElementGuid>ff5bc3f6-3575-4fc4-8b11-600c263a678c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audit Reports'])[1]/preceding::span[2]</value>
+      <webElementGuid>6e1954d9-f77c-4b68-aca4-fdb4b46d2bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Export Management']/parent::*</value>
+      <webElementGuid>2d6b4417-4637-41b5-809f-97ff93761784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]/div/div[6]/a/span</value>
+      <webElementGuid>77fdba22-f121-41c1-9a75-3cb5d146fabc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Export Management' or . = 'Export Management')]</value>
+      <webElementGuid>2252c684-6583-4230-bbd2-73c2a86d0e0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

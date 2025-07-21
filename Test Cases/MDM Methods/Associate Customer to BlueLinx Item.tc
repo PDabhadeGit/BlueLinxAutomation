@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Associate Customer to BlueLinx Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7fa4b6af-6893-4f6b-acbe-f31d827cfdb3</testCaseGuid>
+</TestCaseEntity>

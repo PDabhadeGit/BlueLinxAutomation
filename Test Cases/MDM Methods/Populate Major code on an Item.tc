@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Populate Major code on an Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>09a71bbe-3c32-4eca-ae8f-f37533f1649c</testCaseGuid>
+</TestCaseEntity>

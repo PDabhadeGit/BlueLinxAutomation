@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Supplier FaxSupplier PhoneShip from FaxS_cc98c6</name>
+   <tag></tag>
+   <elementGuidId>46281e05-157b-4df1-b4c1-c4bacdf41439</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:pfl1']/table/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Supplier Fax Supplier Phone Ship from Fax Ship from Phone Non Salable Flag Remit to Phone Sold to Phone Sold to Fax Bill to Phone Bill to Fax Ship to Phone Ship to Fax Remit to Fax Pay Term to Credit Pay Term to use Invoice Comments Latitude Longitude Validated Validated Validated Date Validation Status&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7ce3bc93-7c01-41dd-84c2-f1ec0d1b01fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x4w</value>
+      <webElementGuid>99c6c1a2-8ece-4494-b522-856480dfe30c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>a90da974-2aaa-48a4-9215-e6d84b1390bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Supplier FaxSupplier PhoneShip from FaxShip from PhoneNon Salable FlagRemit to PhoneSold to PhoneSold to FaxBill to PhoneBill to FaxShip to PhoneShip to FaxRemit to FaxPay Term to CreditCredit InvoiceSupplier DefaultPay Term to use InvoiceInvoiceSupplier DefaultCommentsLatitudeLongitudeValidatedValidatedValidated DateValidation Status</value>
+      <webElementGuid>54760cef-98c2-4470-bcbd-47157a2c9cb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:pfl1&quot;)/table[1]/tbody[1]/tr[1]/td[@class=&quot;x4w&quot;]</value>
+      <webElementGuid>3d2067e4-e940-4045-931f-cbb929bf3f84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:pfl1']/table/tbody/tr/td[2]</value>
+      <webElementGuid>dc544875-007d-4510-bf01-8cddeb29bce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fed Tax Id'])[4]/following::td[2]</value>
+      <webElementGuid>9d7a777e-a801-42e2-8cf8-3b4e499c79c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zone'])[4]/following::td[6]</value>
+      <webElementGuid>15fffecd-ad8c-4565-90b9-2ddace69c249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/div/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>58ec1ebf-a033-4375-bf21-5eb1889fbb72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Supplier FaxSupplier PhoneShip from FaxShip from PhoneNon Salable FlagRemit to PhoneSold to PhoneSold to FaxBill to PhoneBill to FaxShip to PhoneShip to FaxRemit to FaxPay Term to CreditCredit InvoiceSupplier DefaultPay Term to use InvoiceInvoiceSupplier DefaultCommentsLatitudeLongitudeValidatedValidatedValidated DateValidation Status' or . = 'Supplier FaxSupplier PhoneShip from FaxShip from PhoneNon Salable FlagRemit to PhoneSold to PhoneSold to FaxBill to PhoneBill to FaxShip to PhoneShip to FaxRemit to FaxPay Term to CreditCredit InvoiceSupplier DefaultPay Term to use InvoiceInvoiceSupplier DefaultCommentsLatitudeLongitudeValidatedValidatedValidated DateValidation Status')]</value>
+      <webElementGuid>53cd3ebc-2dd5-4a6a-a121-33cacf0b639c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

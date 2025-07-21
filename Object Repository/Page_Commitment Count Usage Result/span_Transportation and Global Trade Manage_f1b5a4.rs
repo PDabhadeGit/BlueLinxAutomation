@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Transportation and Global Trade Manage_f1b5a4</name>
+   <tag></tag>
+   <elementGuidId>32c5b5f7-ddba-4171-840f-f59b8766b71b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-home.tm-ugh-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//oj-button[@id='homeButton']/button/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Home&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>173ce3cc-3d08-4644-976b-18bf598cb146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>startIcon</value>
+      <webElementGuid>2a53be83-fcd5-4cc4-91cf-840fbb3b1a4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-home tm-ugh-icon</value>
+      <webElementGuid>fa570f8a-917f-4f9b-983c-744e6d0aca46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;homeButton&quot;)/button[@class=&quot;oj-button-button&quot;]/div[@class=&quot;oj-button-label&quot;]/span[@class=&quot;oj-button-icon oj-start&quot;]/span[@class=&quot;fa fa-home tm-ugh-icon&quot;]</value>
+      <webElementGuid>a1fd4dce-f6c2-46df-922c-7a04c001940f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//oj-button[@id='homeButton']/button/div/span/span</value>
+      <webElementGuid>8c6b171c-1296-42a3-9e58-00a6f02cc2da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/oj-button/button/div/span/span</value>
+      <webElementGuid>8bebc487-12f3-43d7-bbcd-75340cbac7c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

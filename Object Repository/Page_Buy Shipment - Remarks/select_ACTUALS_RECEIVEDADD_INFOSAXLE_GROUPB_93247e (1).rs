@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ACTUALS_RECEIVEDADD_INFOSAXLE_GROUPB_93247e (1)</name>
+   <tag></tag>
+   <elementGuidId>7a06c7da-6d67-48d5-99af-b2ef3900eada</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;shipment_remark/remark_qual/xid@ID&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Remark Qualifier ID&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c9f783e4-bef9-4c10-bc47-24fc87249ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Remark Qualifier ID</value>
+      <webElementGuid>e1e021ad-5480-400e-83c1-0e78ff83f79c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f0e67dcd-9a8f-4e16-bd43-4a9a0976c73e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>shipment_remark/remark_qual/xid@ID</value>
+      <webElementGuid>6ad2a13e-755f-4335-9086-d2e193a9d2cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>document.forms['management_main'].elements['display_shipment_remark/remark_qual/xid'].value = this.options[this.selectedIndex].text;javascript:getqualtype(this.value,'management_main','shipment_remark/text',event,'templateList','shipment_remark/text_template/xid');</value>
+      <webElementGuid>4fa77946-73b3-4f0b-ae9d-7b2a00056126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeydown</name>
+      <type>Main</type>
+      <value>return dropListHandler('glog.webserver.finder.models.RemarkQualFinderModel','','management_main','display_shipment_remark\x2Fremark_qual\x2Fxid','Remark\x20Qualifier\x20ID','false','false',event);</value>
+      <webElementGuid>ff51ce68-7332-44b4-b5c9-f7b469961349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACTUALS_RECEIVEDADD_INFOSAXLE_GROUPBOND TYPEBUILDERCARRIER_IDCHECK_NUMBERCITIZENSHIP_COUNTRY_CODECOLORCONFIG_ITEMCONTACT_PARTY_NUMBERDECLINE REASONDELIVERY_INSTRUCTIONS_EXTERNALDELIVERY_INSTRUCTIONS_INTERNALDELIVERY_INSTRUCTIONS_LINE_1DELIVERY_INSTRUCTIONS_LINE_2DEL_DESCRIPTIONDIVISIONDRYICEWTDRYICE_PKGTYPEEBS QUANTITYEBS_OP_UNITEBS_REFERENCE_KEYEBS_TRANSACTION_KEYELIGIBLE PARTY CERTIFICATIONEMERGENCYCONTACTNAMEEMERGENCYCONTACTPHONEENGINE_MFGENTRY NUMBERENTRY TYPEEQUIPMENT INITIAL NUMBERESTIMATED_WEIGHTEXPORT INFORMATION CODEEXPORT LICENSE CONTROL CODEEXTERNAL_QUOTE_TYPEFILING OPTIONFOB_POINT_CODEFOREIGN TRADE ZONE IDENTIFIERFREIGHT_TERMS_CODEFROM_EBSHAS_TRK_DEVICEHAZARD_CLASSHAZMAT_ALL_PACKEDHAZMAT_CONCENTRATION_PERCENTHAZMAT_IDG_ADDITIONAL_DESCINFOHAZMAT_IDG_PROPER_SHIPPING_NAMEHAZMAT_OUTER_PACKAGING_TYPEHAZMAT_OUTER_PACKING_COUNTHAZMAT_OVERPACKHAZMAT_PACKAGETYPEHAZMAT_PACKINGINSTRUCTIONSHAZMAT_QUANTITYHAZMAT_UNITSINBOND CODEIS_SHIPPER_KNOWNITEM_IDITEM_TYPEITEM_UOMLINE_NUMBERLINE_OF_BUSINESSLINING_DATELINING_TYPELOADING_WEIGHTLOCATION OF GOODSMOBILENET_WEIGHTNUMBER_OF_COMPARTMENTSOP_UNITOP_UNIT_NAMEORDER_TYPEORG_IDORIGINORIGINAL COST IDOWNER_NAMEOWNER_TYPEPAINT_DATEPAINT_TYPEPARCEL_PACKTYPEPARTY_IDPARTY_NUMBERPARTY_SITE_NUMBERPARTY_TYPEPARTY_TYPE_IDPAYMENT TERMSPAYMENT_AMOUNTPAYMENT_DATEPAYMENT_METHODPAYMENT_STATUSPLANNER_INSTRUCTIONSQUOTERELATED COMPANYREMROUTED EXPORT TRANSACTIONROUTING_INSTRSEAL NUMBERSERVICE PROVIDER EQUIPMENT NUMBERSHIPMENT_PRIORITY_CODESHIP_SET_NAMESHIP_UNITSHOLLSOLD EN ROUTESOURCE_ORDER_SYSTEMSPOT COST CONTACT EMAILSPOT COST CONTACT NAMESPOT COST CONTACT PHONESPOT COST NUMBERSRC_ORG_IDSUB_ITEM_TYPE_CODESUSPENSION_TYPETARIFF PREFERENCETASK_NAMETIRE_TYPETOTAL_WEIGHTTRAVEL_DOC_COUNTRY_CODETRAVEL_DOC_NUMTRAVEL_DOC_STATETRAVEL_DOC_TYPETRSP_REASONURLVEHICLE ID TYPEVEHICLE TITLE STATE CODEVOLUMEWHEEL_BASE</value>
+      <webElementGuid>412bb2f8-e9b3-4deb-9521-7c0c1ebe9037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_shipment_remark_grid&quot;)/tbody[1]/tr[1]/th[@class=&quot;gridHeadCell&quot;]/div[@class=&quot;fieldCont&quot;]/select[1]</value>
+      <webElementGuid>b2b34230-cb37-4d14-8a1e-8b58ff4f4758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment - Remarks/iframe_mainBody</value>
+      <webElementGuid>3ebf9768-71d2-40b2-919d-775e7db67aa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='shipment_remark/remark_qual/xid@ID']</value>
+      <webElementGuid>21c3ea87-2cc2-45cb-8f41-1d6aeb87f866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_shipment_remark_grid']/tbody/tr/th/div/select</value>
+      <webElementGuid>60cd8df8-e837-471a-9743-feb1164ecd2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>009a4823-b41e-4e91-9a67-f3d74ad2e8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[2]/following::select[1]</value>
+      <webElementGuid>f3f2d8b3-8d84-4dc6-b73d-68923583a9e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>5c6a38a3-8eb9-4ece-8c8e-7ce7b25a35ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/preceding::select[2]</value>
+      <webElementGuid>26d1de3e-1a0c-475b-9e56-749575cfec46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr/th/div/select</value>
+      <webElementGuid>4fa2c165-315d-4426-8d3c-503267f885c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'shipment_remark/remark_qual/xid@ID' and (text() = 'ACTUALS_RECEIVEDADD_INFOSAXLE_GROUPBOND TYPEBUILDERCARRIER_IDCHECK_NUMBERCITIZENSHIP_COUNTRY_CODECOLORCONFIG_ITEMCONTACT_PARTY_NUMBERDECLINE REASONDELIVERY_INSTRUCTIONS_EXTERNALDELIVERY_INSTRUCTIONS_INTERNALDELIVERY_INSTRUCTIONS_LINE_1DELIVERY_INSTRUCTIONS_LINE_2DEL_DESCRIPTIONDIVISIONDRYICEWTDRYICE_PKGTYPEEBS QUANTITYEBS_OP_UNITEBS_REFERENCE_KEYEBS_TRANSACTION_KEYELIGIBLE PARTY CERTIFICATIONEMERGENCYCONTACTNAMEEMERGENCYCONTACTPHONEENGINE_MFGENTRY NUMBERENTRY TYPEEQUIPMENT INITIAL NUMBERESTIMATED_WEIGHTEXPORT INFORMATION CODEEXPORT LICENSE CONTROL CODEEXTERNAL_QUOTE_TYPEFILING OPTIONFOB_POINT_CODEFOREIGN TRADE ZONE IDENTIFIERFREIGHT_TERMS_CODEFROM_EBSHAS_TRK_DEVICEHAZARD_CLASSHAZMAT_ALL_PACKEDHAZMAT_CONCENTRATION_PERCENTHAZMAT_IDG_ADDITIONAL_DESCINFOHAZMAT_IDG_PROPER_SHIPPING_NAMEHAZMAT_OUTER_PACKAGING_TYPEHAZMAT_OUTER_PACKING_COUNTHAZMAT_OVERPACKHAZMAT_PACKAGETYPEHAZMAT_PACKINGINSTRUCTIONSHAZMAT_QUANTITYHAZMAT_UNITSINBOND CODEIS_SHIPPER_KNOWNITEM_IDITEM_TYPEITEM_UOMLINE_NUMBERLINE_OF_BUSINESSLINING_DATELINING_TYPELOADING_WEIGHTLOCATION OF GOODSMOBILENET_WEIGHTNUMBER_OF_COMPARTMENTSOP_UNITOP_UNIT_NAMEORDER_TYPEORG_IDORIGINORIGINAL COST IDOWNER_NAMEOWNER_TYPEPAINT_DATEPAINT_TYPEPARCEL_PACKTYPEPARTY_IDPARTY_NUMBERPARTY_SITE_NUMBERPARTY_TYPEPARTY_TYPE_IDPAYMENT TERMSPAYMENT_AMOUNTPAYMENT_DATEPAYMENT_METHODPAYMENT_STATUSPLANNER_INSTRUCTIONSQUOTERELATED COMPANYREMROUTED EXPORT TRANSACTIONROUTING_INSTRSEAL NUMBERSERVICE PROVIDER EQUIPMENT NUMBERSHIPMENT_PRIORITY_CODESHIP_SET_NAMESHIP_UNITSHOLLSOLD EN ROUTESOURCE_ORDER_SYSTEMSPOT COST CONTACT EMAILSPOT COST CONTACT NAMESPOT COST CONTACT PHONESPOT COST NUMBERSRC_ORG_IDSUB_ITEM_TYPE_CODESUSPENSION_TYPETARIFF PREFERENCETASK_NAMETIRE_TYPETOTAL_WEIGHTTRAVEL_DOC_COUNTRY_CODETRAVEL_DOC_NUMTRAVEL_DOC_STATETRAVEL_DOC_TYPETRSP_REASONURLVEHICLE ID TYPEVEHICLE TITLE STATE CODEVOLUMEWHEEL_BASE' or . = 'ACTUALS_RECEIVEDADD_INFOSAXLE_GROUPBOND TYPEBUILDERCARRIER_IDCHECK_NUMBERCITIZENSHIP_COUNTRY_CODECOLORCONFIG_ITEMCONTACT_PARTY_NUMBERDECLINE REASONDELIVERY_INSTRUCTIONS_EXTERNALDELIVERY_INSTRUCTIONS_INTERNALDELIVERY_INSTRUCTIONS_LINE_1DELIVERY_INSTRUCTIONS_LINE_2DEL_DESCRIPTIONDIVISIONDRYICEWTDRYICE_PKGTYPEEBS QUANTITYEBS_OP_UNITEBS_REFERENCE_KEYEBS_TRANSACTION_KEYELIGIBLE PARTY CERTIFICATIONEMERGENCYCONTACTNAMEEMERGENCYCONTACTPHONEENGINE_MFGENTRY NUMBERENTRY TYPEEQUIPMENT INITIAL NUMBERESTIMATED_WEIGHTEXPORT INFORMATION CODEEXPORT LICENSE CONTROL CODEEXTERNAL_QUOTE_TYPEFILING OPTIONFOB_POINT_CODEFOREIGN TRADE ZONE IDENTIFIERFREIGHT_TERMS_CODEFROM_EBSHAS_TRK_DEVICEHAZARD_CLASSHAZMAT_ALL_PACKEDHAZMAT_CONCENTRATION_PERCENTHAZMAT_IDG_ADDITIONAL_DESCINFOHAZMAT_IDG_PROPER_SHIPPING_NAMEHAZMAT_OUTER_PACKAGING_TYPEHAZMAT_OUTER_PACKING_COUNTHAZMAT_OVERPACKHAZMAT_PACKAGETYPEHAZMAT_PACKINGINSTRUCTIONSHAZMAT_QUANTITYHAZMAT_UNITSINBOND CODEIS_SHIPPER_KNOWNITEM_IDITEM_TYPEITEM_UOMLINE_NUMBERLINE_OF_BUSINESSLINING_DATELINING_TYPELOADING_WEIGHTLOCATION OF GOODSMOBILENET_WEIGHTNUMBER_OF_COMPARTMENTSOP_UNITOP_UNIT_NAMEORDER_TYPEORG_IDORIGINORIGINAL COST IDOWNER_NAMEOWNER_TYPEPAINT_DATEPAINT_TYPEPARCEL_PACKTYPEPARTY_IDPARTY_NUMBERPARTY_SITE_NUMBERPARTY_TYPEPARTY_TYPE_IDPAYMENT TERMSPAYMENT_AMOUNTPAYMENT_DATEPAYMENT_METHODPAYMENT_STATUSPLANNER_INSTRUCTIONSQUOTERELATED COMPANYREMROUTED EXPORT TRANSACTIONROUTING_INSTRSEAL NUMBERSERVICE PROVIDER EQUIPMENT NUMBERSHIPMENT_PRIORITY_CODESHIP_SET_NAMESHIP_UNITSHOLLSOLD EN ROUTESOURCE_ORDER_SYSTEMSPOT COST CONTACT EMAILSPOT COST CONTACT NAMESPOT COST CONTACT PHONESPOT COST NUMBERSRC_ORG_IDSUB_ITEM_TYPE_CODESUSPENSION_TYPETARIFF PREFERENCETASK_NAMETIRE_TYPETOTAL_WEIGHTTRAVEL_DOC_COUNTRY_CODETRAVEL_DOC_NUMTRAVEL_DOC_STATETRAVEL_DOC_TYPETRSP_REASONURLVEHICLE ID TYPEVEHICLE TITLE STATE CODEVOLUMEWHEEL_BASE')]</value>
+      <webElementGuid>7ce1a114-1d41-4b08-8759-3d8f336209ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

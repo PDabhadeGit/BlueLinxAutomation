@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_023_Populate Minor code on an Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1df74022-305e-404a-9183-fb7d4551c6ea</testCaseGuid>
+</TestCaseEntity>

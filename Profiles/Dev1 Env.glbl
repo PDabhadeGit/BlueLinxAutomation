@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Dev1 Env</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://otmgtm-dev1-summit1.otmgtm.us-ashburn-1.ocs.oraclecloud.com/GC3/glog.webserver.home.HomeServlet?ojr=maincontent'</initValue>
+      <name>otm_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://ibuqjb-dev1.fa.ocs.oraclecloud.com/fscmUI/faces/FuseWelcome?_adf.ctrl-state=11qn2un5gd_5&amp;fnd=%3B%3B%3B%3Bfalse%3B256%3B%3B%3B&amp;_afrLoop=9328597730569564'</initValue>
+      <name>mdm_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Prajyot.Dabhade@BlueLinxCo.com'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'5hR7QmHaNRiODTCz3O3fP17si5m4wIkP'</initValue>
+      <name>otm_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'5hR7QmHaNRjZKO09Vh/dgg=='</initValue>
+      <name>mdm_password</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

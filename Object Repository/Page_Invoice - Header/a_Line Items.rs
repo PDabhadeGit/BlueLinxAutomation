@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Line Items</name>
+   <tag></tag>
+   <elementGuidId>ef788c7b-f074-4408-a8d4-97cb93228245</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Equipment'])[1]/preceding::a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tabLineItems > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Line Items&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2f2f15ce-6c1f-4510-89a8-db96a23c4b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:if(checkData('management_main')){ document.management_main.redirect.value = formatUrl(servlet_link+'?management_action=edit&amp;step=LineItems&amp;manager_layout_gid=INVOICE&amp;show_act_smtlnk=&amp;adf_wrapper=');document.management_main.submit();}</value>
+      <webElementGuid>c18c9ee2-2005-4582-be6d-75987fc39634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>e3a1bdec-ab2b-40a3-bbb1-a1759928947f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>6a609dd4-f347-4c8e-9efb-c78606495a9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>917fcb35-ddff-4868-85c6-2ab0736a805c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-setsize</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>fc96858a-66d0-490f-854d-9a2d1ac5d899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-posinset</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>3a50eafa-8151-4571-a085-2ee3f933e646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Line Items</value>
+      <webElementGuid>90333d3c-3f05-4e4f-ac76-0928104e72d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabLineItems&quot;)/a[1]</value>
+      <webElementGuid>495aadb3-b431-49eb-a886-d64a9675285e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Invoice - Header/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>ffb6c1e7-e1ae-4ac7-abf0-83e37f01ceb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabLineItems']/a</value>
+      <webElementGuid>757b8e5b-cedb-4bec-9153-b55afccd70ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Line Items')]</value>
+      <webElementGuid>6e099163-c092-4fb4-a481-59e67158cb7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Involved Parties'])[1]/following::a[1]</value>
+      <webElementGuid>63ba9380-2c4e-43a8-ab8a-83606886be7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Header'])[1]/following::a[2]</value>
+      <webElementGuid>11591678-6d8a-4196-9594-c4cbe1f15229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Routes/Ports'])[1]/preceding::a[1]</value>
+      <webElementGuid>a8be0c08-ae08-4a2d-911d-e8c254fcf86d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Equipment'])[1]/preceding::a[2]</value>
+      <webElementGuid>adb78382-e7ae-4f70-ac74-5ac3dd16b9c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Line Items']/parent::*</value>
+      <webElementGuid>6ed545a4-3afb-4f6b-acae-74b9b8c99363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:if(checkData('management_main')){ document.management_main.redirect.value = formatUrl(servlet_link+'?management_action=edit&amp;step=LineItems&amp;manager_layout_gid=INVOICE&amp;show_act_smtlnk=&amp;adf_wrapper=');document.management_main.submit();}&quot;)]</value>
+      <webElementGuid>4f76cd6d-87e1-453d-9b3d-a8e57d878857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>f7c7b19c-695e-441e-a041-f40c98b623ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:if(checkData(&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;)){ document.management_main.redirect.value = formatUrl(servlet_link+&quot; , &quot;'&quot; , &quot;?management_action=edit&amp;step=LineItems&amp;manager_layout_gid=INVOICE&amp;show_act_smtlnk=&amp;adf_wrapper=&quot; , &quot;'&quot; , &quot;);document.management_main.submit();}&quot;) and (text() = 'Line Items' or . = 'Line Items')]</value>
+      <webElementGuid>af908b39-6ed6-41ad-b141-85a2be2dc1fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

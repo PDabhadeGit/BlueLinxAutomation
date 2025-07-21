@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cost Per                              _5a04e0</name>
+   <tag></tag>
+   <elementGuidId>153e3ba5-3e9a-4daf-8f25-2e731eb7ba5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_rate_result_grid']/tbody/tr/th[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Cost Per (LB)&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8a94b158-2921-4714-a336-de834ad678bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gridHeadLabel</value>
+      <webElementGuid>fbf2c2a1-6f26-495e-9d29-bfb26f98c992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cost Per
+                                             (LB)</value>
+      <webElementGuid>6cf69d54-722a-4ead-956c-0891904356fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_rate_result_grid&quot;)/tbody[1]/tr[1]/th[@class=&quot;gridHeadCell&quot;]/div[1]/span[@class=&quot;gridHeadLabel&quot;]</value>
+      <webElementGuid>a2b55b0c-e208-4781-8eac-dca983c5769d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Ask Oracle About Rates/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>e2e514a8-c95e-4a97-88ec-9fa0b96f9060</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_rate_result_grid']/tbody/tr/th[3]/div/span</value>
+      <webElementGuid>1f8341ec-b5ba-4f89-bf28-ce5094a2338b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cost'])[1]/following::span[2]</value>
+      <webElementGuid>212d2f24-0d7d-44ce-80d2-03848357e4b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rates'])[1]/following::span[3]</value>
+      <webElementGuid>672d9319-11d3-4136-8729-4677f9e09e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weighted Cost'])[1]/preceding::span[1]</value>
+      <webElementGuid>3e4f02c9-4fd3-4979-8143-7c39f17a995c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/div/span</value>
+      <webElementGuid>cb6bce28-5717-4582-aca5-4444734cff1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cost Per
+                                             (LB)' or . = 'Cost Per
+                                             (LB)')]</value>
+      <webElementGuid>03235caa-7704-4b43-8ce5-de0970dd3f0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

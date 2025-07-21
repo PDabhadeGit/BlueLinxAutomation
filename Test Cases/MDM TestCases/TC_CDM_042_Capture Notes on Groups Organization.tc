@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_042_Capture Notes on Groups Organization</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba4d627c-34ad-41b5-90b5-491e125bbe9f</testCaseGuid>
+</TestCaseEntity>

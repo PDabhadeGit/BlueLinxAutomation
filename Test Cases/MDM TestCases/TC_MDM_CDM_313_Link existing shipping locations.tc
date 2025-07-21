@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_313_Link existing shipping locations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1adfe357-9c1b-4a4d-b923-3a438394fe7b</testCaseGuid>
+</TestCaseEntity>

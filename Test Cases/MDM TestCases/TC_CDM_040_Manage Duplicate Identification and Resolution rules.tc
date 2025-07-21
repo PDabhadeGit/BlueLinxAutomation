@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_040_Manage Duplicate Identification and Resolution rules</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de8233b3-2d2c-46b8-8ef4-ba2c4e0ac662</testCaseGuid>
+</TestCaseEntity>

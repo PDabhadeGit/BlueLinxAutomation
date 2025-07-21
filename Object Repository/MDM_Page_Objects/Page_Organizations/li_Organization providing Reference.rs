@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Organization providing Reference</name>
+   <tag></tag>
+   <elementGuidId>d161e130-39a8-423a-a185-d51e4d42be18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:Role::pop']/li[14]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Organization providing Reference&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>432275ff-49f4-4811-8343-3bcffeed5df3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1l7</value>
+      <webElementGuid>60c898df-0dcb-4890-acc5-211ca2be5881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_adfiv</name>
+      <type>Main</type>
+      <value>11</value>
+      <webElementGuid>655435f5-ba36-4d16-8d31-c31736805690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Organization providing Reference</value>
+      <webElementGuid>10e50bd1-0d22-4cd8-83e7-01c69af46ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:Role::pop&quot;)/li[@class=&quot;x1l7&quot;]</value>
+      <webElementGuid>364e3601-d051-4533-828a-c8e9efadc555</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:Role::pop']/li[14]</value>
+      <webElementGuid>904372a2-afe7-4caf-ae2b-3c29d5638c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Affiliate'])[1]/following::li[1]</value>
+      <webElementGuid>7ecdff66-db96-40ed-be98-8aae9a8d71f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distributor'])[1]/following::li[2]</value>
+      <webElementGuid>923e43d5-a9c2-4099-a76a-12a2ae6859f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization with Agreement Signer'])[1]/preceding::li[1]</value>
+      <webElementGuid>4e3a98a2-9c12-493a-8f3b-cb22a5cf9e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parent of subsidiary'])[1]/preceding::li[2]</value>
+      <webElementGuid>e65f79f2-58b8-425b-844b-3c5c68d6c9ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Organization providing Reference']/parent::*</value>
+      <webElementGuid>e3a414d6-1e31-4b31-a573-b0c192f234b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[14]</value>
+      <webElementGuid>5c98ff3a-145e-489e-b15e-7c47bb766581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Organization providing Reference' or . = 'Organization providing Reference')]</value>
+      <webElementGuid>ae4c088e-6b87-4163-bfbc-33e98639ac27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

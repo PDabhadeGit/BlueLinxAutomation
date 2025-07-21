@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_LTL RATE  BXCLTLSAMPLE SEARCH  BXCLT_5cf461</name>
+   <tag></tag>
+   <elementGuidId>4124c206-af12-4923-8aaf-e39521e58686</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;fav_query_name&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='fav_query_name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Saved Query&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>036ddcd5-5e6a-4da6-9af1-16a0b65e4ee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Saved Query</value>
+      <webElementGuid>a472c229-54f6-4597-8174-0f028af9f248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>fav_query_name</value>
+      <webElementGuid>df0d09c8-002e-4f89-a8b9-f05c7b6e1578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>setDisplayValueFromText('management_main','fav_query_name');if (this.selectedIndex != 0) setFavQuery(this.options[this.selectedIndex].value);</value>
+      <webElementGuid>9a4c9235-3613-43de-b089-7ecbaa66e51b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>82bff713-ffee-4f3d-8e3e-a960ebde2f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LTL RATE | BXCLTLSAMPLE SEARCH | BXCLTL_NMFC | BXCRAIL | BXCTEST 1 | BXCTEST PLY BUF TO NWK | BXCTL | BXCTL_RATE | BXC</value>
+      <webElementGuid>4f11f7f8-7979-47df-ae76-a3d06fcbbb5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataFooterContDiv&quot;)/div[@class=&quot;bodySectCont&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[1]/td[3]/div[@class=&quot;fieldCont&quot;]/select[1]</value>
+      <webElementGuid>6f2c9677-a5a9-4151-a52d-a58cea3d8c4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Ask Oracle About Rates/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>5b68f803-31fd-4900-8009-db0113cb0d46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='fav_query_name']</value>
+      <webElementGuid>2052308c-5ea7-4932-86f6-90d1df9ab6ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataFooterContDiv']/div/table/tbody/tr/td[3]/div/select</value>
+      <webElementGuid>8c572fe1-8eb7-4c10-976a-7810eb8e2902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved Query'])[1]/following::select[1]</value>
+      <webElementGuid>05bcd2cd-ee68-4ca3-8698-bea6c9d89772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::select[1]</value>
+      <webElementGuid>5e185d0d-6c45-410f-aa9c-493dd0017614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[12]/preceding::select[1]</value>
+      <webElementGuid>973fcc34-9386-44a0-86ac-b982c242b15d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr/td[3]/div/select</value>
+      <webElementGuid>08769f7d-b1a0-45c1-9119-ec2c92bdd4c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'fav_query_name' and (text() = 'LTL RATE | BXCLTLSAMPLE SEARCH | BXCLTL_NMFC | BXCRAIL | BXCTEST 1 | BXCTEST PLY BUF TO NWK | BXCTL | BXCTL_RATE | BXC' or . = 'LTL RATE | BXCLTLSAMPLE SEARCH | BXCLTL_NMFC | BXCRAIL | BXCTEST 1 | BXCTEST PLY BUF TO NWK | BXCTL | BXCTL_RATE | BXC')]</value>
+      <webElementGuid>f07f98bc-689a-4755-9fb0-43fcb772c290</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

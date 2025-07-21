@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ins_Financial Overview_oj-treeview-icon oj-_21cf78</name>
+   <tag></tag>
+   <elementGuidId>c53277d1-34f0-4264-9ca0-36db5ea0a01a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='sb_0_2']/div/ins</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ins.oj-treeview-icon.oj-treeview-disclosure-icon.oj-component-icon.oj-clickable-icon-nocontext.oj-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot; Visibility&quot;i] >> internal:role=insertion</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ins</value>
+      <webElementGuid>c8e662d1-0357-4986-b087-15e0ac5bf577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-treeview-icon oj-treeview-disclosure-icon oj-component-icon oj-clickable-icon-nocontext oj-hover</value>
+      <webElementGuid>1cd32c16-d803-4fb6-b685-144f1b9c36db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sb_1_5&quot;)/div[@class=&quot;oj-treeview-item-content oj-default&quot;]/ins[@class=&quot;oj-treeview-icon oj-treeview-disclosure-icon oj-component-icon oj-clickable-icon-nocontext oj-hover&quot;]</value>
+      <webElementGuid>6a80ac80-7015-442b-9099-e6bfba56d7fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sb_1_5']/div/ins</value>
+      <webElementGuid>c6647224-dba3-45c1-875a-b3c24f643555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/oj-tree-view/ul/li[6]/div/ins</value>
+      <webElementGuid>15dcd5c8-c0a4-4fdc-a625-3791dd9a44c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sb_0_2']/div/ins</value>
+      <webElementGuid>3d6b8268-365c-4638-b06a-94ad9fa93e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/oj-tree-view/ul/li[3]/div/ins</value>
+      <webElementGuid>91f04604-f914-4852-a75e-009a324f27f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

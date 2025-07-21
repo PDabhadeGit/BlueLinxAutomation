@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Abbeville, SC</name>
+   <tag></tag>
+   <elementGuidId>506b1145-3f54-42d4-a861-ff7d3b2a9dcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > div > table > tbody > tr > td.xen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:dynam1:0:s2:i1:6:inputComboboxListOfValues2_afrLovInternalTableId::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>tr >> internal:has-text=/^Abbeville, SC$/ >> internal:role=cell</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6ad43d34-0b2f-4a1c-8ff4-2faddd11331f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>14b734f4-b08b-4b37-81e4-e029ff23b00b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xen</value>
+      <webElementGuid>d54de007-6f9d-4dc7-a011-53345ea3d4ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>385dcc4a-0ad3-42bb-bda2-6bd9e36f0575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Abbeville, SC</value>
+      <webElementGuid>77b0a476-b762-4e2e-997f-2397db2e20d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:dynam1:0:s2:i1:6:inputComboboxListOfValues2_afrLovInternalTableId::db&quot;)/table[@class=&quot;x1hi x1i6&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[2]/div[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;xen&quot;]</value>
+      <webElementGuid>68582422-7ca4-4daa-8145-2645d7d9a41b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:pt_r1:1:dynam1:0:s2:i1:6:inputComboboxListOfValues2_afrLovInternalTableId::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>b76f8377-6c02-43d7-8e8c-62c209a7954b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='County'])[4]/following::td[3]</value>
+      <webElementGuid>9f602bfd-b662-4490-b1b3-0ecd3e216d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::td[5]</value>
+      <webElementGuid>4e611101-7a3c-42d2-bb4a-641fa42bc4ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acadia, LA'])[1]/preceding::td[2]</value>
+      <webElementGuid>938dcc61-c0d7-4cf1-bbd3-2df6aa5cee87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>54921e28-1d26-44cc-93cb-e491c0ba6243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Abbeville, SC' or . = 'Abbeville, SC')]</value>
+      <webElementGuid>da4ab73c-a2da-4541-85f5-08baf0f87b0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

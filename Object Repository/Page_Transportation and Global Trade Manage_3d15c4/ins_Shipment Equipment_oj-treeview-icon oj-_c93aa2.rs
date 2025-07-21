@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ins_Shipment Equipment_oj-treeview-icon oj-_c93aa2</name>
+   <tag></tag>
+   <elementGuidId>28370098-c6f7-4bf0-8ba1-2dbf5725bf64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ins.oj-treeview-icon.oj-treeview-disclosure-icon.oj-component-icon.oj-clickable-icon-nocontext.oj-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='sb_1_1']/div/ins</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot; Group Management&quot;i] >> internal:role=insertion</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ins</value>
+      <webElementGuid>a70e2bd0-6156-4921-b27d-e7934b9324f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-treeview-icon oj-treeview-disclosure-icon oj-component-icon oj-clickable-icon-nocontext oj-hover</value>
+      <webElementGuid>6cdd100a-2653-4b97-88ab-a5f116b9f08a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sb_1_1&quot;)/div[@class=&quot;oj-treeview-item-content oj-default&quot;]/ins[@class=&quot;oj-treeview-icon oj-treeview-disclosure-icon oj-component-icon oj-clickable-icon-nocontext oj-hover&quot;]</value>
+      <webElementGuid>7e379f28-b614-42fa-ae0a-b03ec7dab723</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sb_1_1']/div/ins</value>
+      <webElementGuid>59181835-b99e-4d4e-b1e3-a4ef5c1ca17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/oj-tree-view/ul/li[2]/div/ins</value>
+      <webElementGuid>4e8f9830-1f1e-465c-90b8-5908afdecf50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

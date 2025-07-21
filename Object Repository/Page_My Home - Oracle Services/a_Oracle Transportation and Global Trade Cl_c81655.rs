@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Oracle Transportation and Global Trade Cl_c81655</name>
+   <tag></tag>
+   <elementGuidId>47bd20e1-7695-49e3-8e96-701b37396e90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='table-section']/div[3]/div/div[6]/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Oracle Transportation and Global Trade Cloud Services&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a347a8a5-8bcc-417e-a7f2-97206142299f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>caa91279-155b-4832-a96c-fb9732e1d0da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: {href: $data.url, title: $data.urlTooltip}, text: $data.name, visible: !$data.urlClick</value>
+      <webElementGuid>600bdb32-11a6-4615-b85a-bf3340e2c61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://otmgtm-dev2-summit1.otmgtm.us-ashburn-1.ocs.oraclecloud.com:443</value>
+      <webElementGuid>e4ec2d20-aaad-4a36-a19f-0a7815142c2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Open User Console</value>
+      <webElementGuid>44f4dc30-05a5-4b6d-bd92-dcb64b14d589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Oracle Transportation and Global Trade Cloud Services</value>
+      <webElementGuid>8da62cbb-9ce2-4fa4-8d61-397484c4b244</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table-section&quot;)/div[@class=&quot;cloudhome-section-item&quot;]/div[@class=&quot;oj-flex cloud-panelwrapper&quot;]/div[@class=&quot;oj-flex-item oj-flex oj-sm-flex-items-1 oj-sm-12 oj-md-4 oj-lg-3 oj-xl-2&quot;]/div[@class=&quot;oj-flex-item oj-panel cloudhome-tile&quot;]/div[2]/a[1]</value>
+      <webElementGuid>95bca8f5-fb9b-4ca6-b3b0-da63a6df29b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='table-section']/div[3]/div/div[6]/div/div[2]/a</value>
+      <webElementGuid>6ff89384-273f-4d48-ba6f-06128b054d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Oracle Transportation and Global Trade Cloud Services')])[3]</value>
+      <webElementGuid>17814e7f-2210-4c09-96c2-90d675f085df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[4]/following::a[1]</value>
+      <webElementGuid>c2637360-656a-4507-a587-c099ad9cb238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[3]/following::a[2]</value>
+      <webElementGuid>14be0299-450f-49db-a27c-4a6c5e6d2cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oracle Transportation and Global Trade Cloud Services'])[4]/preceding::a[1]</value>
+      <webElementGuid>8a9af91c-9128-45fd-9793-657467832c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::a[2]</value>
+      <webElementGuid>1a7e5123-85c9-4917-9231-2a4a80ba768b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://otmgtm-dev2-summit1.otmgtm.us-ashburn-1.ocs.oraclecloud.com:443')])[2]</value>
+      <webElementGuid>65417e75-b93d-443a-9c61-66391ef8de03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/a</value>
+      <webElementGuid>79388dc5-2a7c-4515-8dc9-d44a48ef3e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://otmgtm-dev2-summit1.otmgtm.us-ashburn-1.ocs.oraclecloud.com:443' and @title = 'Open User Console' and (text() = 'Oracle Transportation and Global Trade Cloud Services' or . = 'Oracle Transportation and Global Trade Cloud Services')]</value>
+      <webElementGuid>c18e2fbb-72f3-4b29-bfdb-151881eabfaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='table-section']/div[3]/div/div[4]/div/div[2]/a</value>
+      <webElementGuid>95d07650-6118-4e88-9f89-ec5279a54678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Oracle Transportation and Global Trade Cloud Services')]</value>
+      <webElementGuid>16bc85c2-76df-43bb-9da3-1062069c175d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[2]/following::a[1]</value>
+      <webElementGuid>6634a834-74ee-43a1-b846-f9fbb5f79cdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::a[2]</value>
+      <webElementGuid>df60e7f5-e9a2-4547-8c14-694f99b5ec1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oracle Transportation and Global Trade Cloud Services'])[2]/preceding::a[1]</value>
+      <webElementGuid>3d4e37a2-cc54-4c57-9629-b811a05707be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='summit1otmdev'])[1]/preceding::a[2]</value>
+      <webElementGuid>f9f364ab-6642-432f-91c0-1bf3a00a3bec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Oracle Transportation and Global Trade Cloud Services']/parent::*</value>
+      <webElementGuid>cdb458d0-1f60-4a99-b41e-fbca84c9a73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://otmgtm-dev1-summit1.otmgtm.us-ashburn-1.ocs.oraclecloud.com:443')])[2]</value>
+      <webElementGuid>9f6d55fa-89af-45dc-9a9b-ab2ddd3f96b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/a</value>
+      <webElementGuid>1280e2d0-f497-4e72-b55b-fcc919f43bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://otmgtm-dev1-summit1.otmgtm.us-ashburn-1.ocs.oraclecloud.com:443' and @title = 'Open User Console' and (text() = 'Oracle Transportation and Global Trade Cloud Services' or . = 'Oracle Transportation and Global Trade Cloud Services')]</value>
+      <webElementGuid>a6fe40fd-6be7-425e-9dbd-032ecc83f9d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

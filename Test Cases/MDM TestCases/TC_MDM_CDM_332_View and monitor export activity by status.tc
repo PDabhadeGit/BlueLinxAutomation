@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_332_View and monitor export activity by status</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>21c0f290-b131-4f61-8aea-3fe532c7bbda</testCaseGuid>
+</TestCaseEntity>

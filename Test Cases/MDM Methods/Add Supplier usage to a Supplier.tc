@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Supplier usage to a Supplier</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ed1d89a-7aa6-426a-97e6-85bdd7d4c9c8</testCaseGuid>
+</TestCaseEntity>

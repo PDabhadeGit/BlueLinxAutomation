@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_315_Flag an address as non-saleable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c27884ba-0a8c-44ae-a956-77bd867edc87</testCaseGuid>
+</TestCaseEntity>

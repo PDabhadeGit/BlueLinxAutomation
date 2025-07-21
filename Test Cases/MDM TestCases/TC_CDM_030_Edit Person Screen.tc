@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_030_Edit Person Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>839ab607-d35d-455b-bb7e-8ea6af4cf97b</testCaseGuid>
+</TestCaseEntity>

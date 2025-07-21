@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Test test Person test</name>
+   <tag></tag>
+   <elementGuidId>a37ed466-4a19-4252-abc4-ade6144cf066</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1::db&quot;]/table/tbody/tr[2]/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Test test Person test&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ce8049fe-5152-4a55-94e0-7bc64a0cd3c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test test Person test</value>
+      <webElementGuid>99ec769f-b8ae-4aa3-9b3e-4ad3b7ec388a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:2:commandLink2&quot;)/a[@class=&quot;xmx&quot;]/span[1]</value>
+      <webElementGuid>487953ca-42a2-4395-bfbc-5b089300e2e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:2:commandLink2']/a/span</value>
+      <webElementGuid>575b116e-56d8-4353-a26c-742bb443a941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[2]/following::span[9]</value>
+      <webElementGuid>2d7052b4-079d-469d-934a-3f2aa80c372d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test person2'])[1]/following::span[14]</value>
+      <webElementGuid>dcd04422-83f6-45ee-875e-c2560ee6dbb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test@gmail.com'])[1]/preceding::span[6]</value>
+      <webElementGuid>d50a262c-f517-405d-a8e4-6412275abfba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test test Person test']/parent::*</value>
+      <webElementGuid>54e62f94-26d3-43ed-a8e0-bd19897dae1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]/span/span/a/span</value>
+      <webElementGuid>376eb66b-e98a-4fa9-9147-5e5b848f7773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Test test Person test' or . = 'Test test Person test')]</value>
+      <webElementGuid>5d3eafae-948b-4259-9123-8c3ab871b5c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

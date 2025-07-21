@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Same AsBeforeAfterBetweenBefore Toda_fa5cab</name>
+   <tag></tag>
+   <elementGuidId>c0644936-edff-44d0-807d-09cebf7ce563</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;shipment/start_time_operator&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='shipment/start_time_operator']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Start Time Operator&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4818b73a-0e0d-4da8-bbf8-4c658b14b9df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Start Time Operator</value>
+      <webElementGuid>be28c3c6-7f9d-4862-bd4e-c9713d4cf256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>displaySecondQueryField(this.options[this.selectedIndex].value, 'shipment/start_time_2','search','null','shipment/start_time','Start\x20Time','false');</value>
+      <webElementGuid>0ee3ee3d-c0ab-41f9-bd5d-da47f8a6f3a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>shipment/start_time_operator</value>
+      <webElementGuid>46a95d14-7534-4e58-bb03-f4c3c64319ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Same AsBeforeAfterBetweenBefore Today 00:00After Today 00:00Range To/From TodayRelative HoursIs NullNot Null</value>
+      <webElementGuid>99ff554a-cfd3-4ce2-9f2d-3866d71524f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shipment/start_time&quot;)/span[@class=&quot;queryCtlCont&quot;]/select[1]</value>
+      <webElementGuid>4bec1b70-ba07-4e0e-abba-255f8a7dd4ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipments Finder/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>6204914f-75ab-4c45-892d-47795f64988e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='shipment/start_time_operator']</value>
+      <webElementGuid>3a792643-a127-4e04-8865-3ee9bdfb9a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shipment/start_time']/span[2]/select</value>
+      <webElementGuid>d1e789a9-8bdc-454e-a9e6-5cc566e30007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Time'])[1]/following::select[1]</value>
+      <webElementGuid>e08c0cc0-49c5-49b4-9c23-ba37e2f61606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Destination Location ID'])[1]/following::select[2]</value>
+      <webElementGuid>63837af2-c7a6-4172-ba9c-588b9f1c7066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Time'])[1]/preceding::select[1]</value>
+      <webElementGuid>8fdece20-13ed-4822-9d05-764c6939d94a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest Start Time'])[1]/preceding::select[2]</value>
+      <webElementGuid>c78c1cca-aa56-471a-bfac-69ab0fbdd333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/select</value>
+      <webElementGuid>76c974df-04cc-4eba-a1a3-a38c11d6b7bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'shipment/start_time_operator' and (text() = 'Same AsBeforeAfterBetweenBefore Today 00:00After Today 00:00Range To/From TodayRelative HoursIs NullNot Null' or . = 'Same AsBeforeAfterBetweenBefore Today 00:00After Today 00:00Range To/From TodayRelative HoursIs NullNot Null')]</value>
+      <webElementGuid>851cd4bd-cbc8-4c43-aad5-f54873bab22c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

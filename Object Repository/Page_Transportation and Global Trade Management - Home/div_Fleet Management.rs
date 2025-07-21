@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Fleet Management</name>
+   <tag></tag>
+   <elementGuidId>a06955c9-47b7-4bea-8623-743c3e2213a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#label9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='label9']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Menu&quot;s >> internal:text=&quot;Fleet Management&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ead107bb-072f-41d5-b998-767d8d0d1a4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:id</name>
+      <type>Main</type>
+      <value>[[getLabelId(menu.index)]]</value>
+      <webElementGuid>e161870d-61e4-4b2d-bef2-0bbca33ee1e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tm-text-align-center tm-sb-tile-label</value>
+      <webElementGuid>34fa43cd-696b-4e85-a4fc-dcc55b49894c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:style</name>
+      <type>Main</type>
+      <value>[[{'color':theme_main_font_color}]]</value>
+      <webElementGuid>e4916558-3c93-424a-a5b5-195aa0b022f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label9</value>
+      <webElementGuid>441f6bed-62ae-4615-a645-f49aac96d3f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Fleet Management
+                </value>
+      <webElementGuid>ae4d7df1-962f-4f77-95ab-1ee427565350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;label9&quot;)</value>
+      <webElementGuid>f55ed7bd-2889-4adc-b496-37b593209c06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='label9']</value>
+      <webElementGuid>a6ed646b-5ad2-45ff-9125-0b0af79b730c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sb_8']/div/div/div[2]</value>
+      <webElementGuid>b00ad714-42d4-44e4-acdd-42d745ea8153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[12]/following::div[5]</value>
+      <webElementGuid>8c910e65-11d6-4300-a593-7fae8c888f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[13]/preceding::div[1]</value>
+      <webElementGuid>0fd27df2-a5bb-4c40-8c9c-fa792c5bb3ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div[2]</value>
+      <webElementGuid>33964c7b-6c59-42c6-b8b6-5144fb717032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'label9' and (text() = '
+                  Fleet Management
+                ' or . = '
+                  Fleet Management
+                ')]</value>
+      <webElementGuid>dd755346-b647-4426-aef9-0b0a31a7c421</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

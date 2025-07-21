@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Populate Item Catalog</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39ce7ee4-438f-47a0-a29b-2746e8f21a72</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OTM_020B_P2_Appointment delivery time</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>431e4659-d720-4653-9992-2f00ae30694b</testCaseGuid>
+</TestCaseEntity>

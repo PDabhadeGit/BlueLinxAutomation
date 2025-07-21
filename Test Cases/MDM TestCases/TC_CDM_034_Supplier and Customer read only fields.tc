@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_034_Supplier and Customer read only fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0de12f66-e582-4d86-89df-352a4b96fd9c</testCaseGuid>
+</TestCaseEntity>

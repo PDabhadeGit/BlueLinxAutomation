@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Total Number of Records</name>
+   <tag></tag>
+   <elementGuidId>e6643225-3b66-4ac8-8ed4-2b6ee69c3b47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:DSRes1:0:AP1:AT2:_ATp:table2:c17']/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Sort Ascending Sort Descending Total Number of Records&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5694b962-1411-4267-8943-0bfb8046a18c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>af_column_label-text</value>
+      <webElementGuid>c260957b-f1b5-402c-a3d3-49c2a517c590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total Number of Records</value>
+      <webElementGuid>56b922d0-50c7-4e35-9373-929947416079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:DSRes1:0:AP1:AT2:_ATp:table2:c17&quot;)/div[@class=&quot;x1u1&quot;]/span[@class=&quot;af_column_label-text&quot;]</value>
+      <webElementGuid>d99821f5-9198-4a57-9ab3-e94fc8cc39f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:DSRes1:0:AP1:AT2:_ATp:table2:c17']/div[2]/span</value>
+      <webElementGuid>d21bb90a-17b3-4d67-823a-063ed851606a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::span[1]</value>
+      <webElementGuid>79cb9faa-20f9-4426-8cb4-5f5ff54a0318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Type'])[2]/following::span[2]</value>
+      <webElementGuid>cb10b114-9581-4f99-ba18-ee9fb4effe35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned To'])[2]/preceding::span[1]</value>
+      <webElementGuid>9ca068ae-4599-44a3-87ca-73ead0872242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created By'])[2]/preceding::span[2]</value>
+      <webElementGuid>2cd7b982-8f08-40d2-9052-9cfc36b9795e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[7]/div[2]/span</value>
+      <webElementGuid>ce58f7da-18e5-4bc9-88d9-f8fcb61b667a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Total Number of Records' or . = 'Total Number of Records')]</value>
+      <webElementGuid>52f3e154-6c29-4344-89ab-9bdbf9fa1061</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

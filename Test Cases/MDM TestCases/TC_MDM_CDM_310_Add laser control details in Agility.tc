@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_310_Add laser control details in Agility</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fa5bd8dc-eb07-47c4-b105-1dccd4321279</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Populate product weight</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba109e1a-d4bc-4dc3-bf81-4040485ed4fd</testCaseGuid>
+</TestCaseEntity>

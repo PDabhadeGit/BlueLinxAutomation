@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_PDH_308_Create a trading partner relaionship</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3597ba6-1058-48a7-a438-bccdd4e12f26</testCaseGuid>
+</TestCaseEntity>

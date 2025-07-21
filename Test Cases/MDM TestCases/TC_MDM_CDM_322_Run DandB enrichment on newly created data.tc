@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_322_Run DandB enrichment on newly created data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fdec7964-eac7-4a59-b392-228b3cbfe3c9</testCaseGuid>
+</TestCaseEntity>

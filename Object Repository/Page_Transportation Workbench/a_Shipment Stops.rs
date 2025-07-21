@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shipment Stops</name>
+   <tag></tag>
+   <elementGuidId>db62de46-18d3-476f-ab52-d5666a9eff08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#RootPane_1_2_Tabbar_Tab_1 > a.oj-tabbar-focused-element.oj-tabbar-item-content.oj-tabbar-item-no-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='RootPane_1_2_Tabbar_Tab_1']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Shipment Stops&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1bb2cd86-ac5c-44e3-abbb-bf9a3e76c7b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9ab93bb0-a0f7-4fa0-80bf-26d69a73cf07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>11c0956f-57dc-42c1-810c-ffeb49924406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-tabbar-focused-element oj-tabbar-item-content oj-tabbar-item-no-icon</value>
+      <webElementGuid>3b03640b-780a-47ed-b53e-c015c0cc6db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>72675065-83e2-41fd-b109-6f58dcd74efb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-oj-tabmod</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9fa86f24-4c8b-4f21-a7f0-a5d9a070f40c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>19689a80-f176-417d-89a6-626e061c6259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+               Shipment Stops
+             </value>
+      <webElementGuid>d9e99d37-9a26-447f-8494-b79037f22ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-86&quot;)/li[@id=&quot;RootPane_1_2_Tabbar_Tab_1&quot;]/a[@class=&quot;oj-tabbar-focused-element oj-tabbar-item-content oj-tabbar-item-no-icon&quot;]</value>
+      <webElementGuid>6a7ca58e-2073-44ca-b6f0-3e448f0ec7ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Transportation Workbench/frame_html1frameset1frame1_W48</value>
+      <webElementGuid>c17260f6-d38b-464f-8f2b-fc9856ddcdaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='RootPane_1_2_Tabbar_Tab_1']/a</value>
+      <webElementGuid>5807c4bc-9027-4911-abbc-45be84e0ff0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[5]/following::a[4]</value>
+      <webElementGuid>610da520-5712-4f7d-96f3-5e38a83d7123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[21]</value>
+      <webElementGuid>9e9276de-95aa-4914-9c0f-a04748299939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/wb-layout/div/div[2]/div/wb-region/div/div/oj-conveyor-belt/div[4]/div/oj-tab-bar/div/div/ul/li[3]/a</value>
+      <webElementGuid>4e36e398-12f0-4454-852d-ccbce17e5d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+               Shipment Stops
+             ' or . = '
+               Shipment Stops
+             ')]</value>
+      <webElementGuid>b345ded7-c003-4fd4-b818-93a033abad55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

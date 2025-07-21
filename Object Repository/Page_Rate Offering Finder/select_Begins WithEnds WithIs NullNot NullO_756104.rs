@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Begins WithEnds WithIs NullNot NullO_756104</name>
+   <tag></tag>
+   <elementGuidId>56340e58-703d-41a5-85ae-b5ca5f7e5775</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;rate_offering/xid_operator&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='rate_offering/xid_operator']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Rate Offering ID Operator&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5b9e109b-5ab1-48a2-ab80-02b0ffed9f9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Rate Offering ID Operator</value>
+      <webElementGuid>3fd7a197-b2b1-426a-9594-71d3f015c092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>rate_offering/xid_operator</value>
+      <webElementGuid>f7e6b00a-c823-4f06-bee9-10e0b827c753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Begins WithEnds WithIs NullNot NullOne OfNot One OfContainsSame AsNot Same AsNot Same As, Include Null Values</value>
+      <webElementGuid>61f405fe-0a21-4277-9907-668350284d04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;fieldCont&quot;]/span[@class=&quot;queryCtlCont&quot;]/select[1]</value>
+      <webElementGuid>ed6e6143-bb23-4d0f-9f55-773af2f667b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Rate Offering Finder/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>3befbd37-009b-4d91-8058-3ea716bd8c45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='rate_offering/xid_operator']</value>
+      <webElementGuid>94466f45-3730-476c-a904-79a612862e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/table/tbody/tr/td/table/tbody/tr/td/div/span/select</value>
+      <webElementGuid>81b31c77-fc31-4e04-a24c-8cab25e239d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rate Offering ID'])[1]/following::select[1]</value>
+      <webElementGuid>ad981f9d-d212-49fa-ae66-11bd150d864f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audit'])[1]/following::select[1]</value>
+      <webElementGuid>2dc6d9cc-1000-42a0-a411-47574a693cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rate Offering Description'])[1]/preceding::select[1]</value>
+      <webElementGuid>8a42b4f0-4a20-4ca5-be2d-5d5bb4726fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Domain Name'])[1]/preceding::select[2]</value>
+      <webElementGuid>7d36dc4b-720e-455c-898c-efd8316ac2ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>efce0af0-de2a-48ed-ae16-b4d6c22749d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'rate_offering/xid_operator' and (text() = 'Begins WithEnds WithIs NullNot NullOne OfNot One OfContainsSame AsNot Same AsNot Same As, Include Null Values' or . = 'Begins WithEnds WithIs NullNot NullOne OfNot One OfContainsSame AsNot Same AsNot Same As, Include Null Values')]</value>
+      <webElementGuid>d6574fc0-e992-4bff-9d6e-22367462fa0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

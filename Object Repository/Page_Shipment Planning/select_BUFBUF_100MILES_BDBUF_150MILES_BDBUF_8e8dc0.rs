@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_BUFBUF_100MILES_BDBUF_150MILES_BDBUF_8e8dc0</name>
+   <tag></tag>
+   <elementGuidId>978fdc3b-9326-406f-b403-99dd744e2050</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;bodyDataDiv&quot;]/div[1]/table/tbody/tr[1]/td/div/div[2]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;qualifier/xid@ID&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Parameter Set ID&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ffa068cb-f8ab-4eda-b7e9-666ca72406dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>qualifier/xid@ID</value>
+      <webElementGuid>c4345238-4130-4ad8-b497-6f1c4d94e524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Parameter Set ID</value>
+      <webElementGuid>f4779df8-18bb-4517-97ed-bd230a0db349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>document.forms['management_main'].elements['display_qualifier/xid'].value = this.options[this.selectedIndex].text;populatePlanningFields(this.options[this.selectedIndex].value);</value>
+      <webElementGuid>5dbb490d-2f62-401e-9298-ba99ea7e1391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeydown</name>
+      <type>Main</type>
+      <value>dropListHandler('glog.server.query.powerdata.PlanningParameterSetQuery', '', 'management_main','display_qualifier/xid','Parameter\x20Set\x20ID','false','false', event)</value>
+      <webElementGuid>710b22be-dcbe-47f0-9144-ff05f10f5338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BUFBUF_100MILES_BDBUF_150MILES_BDBUF_200MILES_BDBUF_50MILES_BDBUF_75MILES_BDBUF_BAKBULK_PLANNING_BELBXC_MULTISTOP_PLANNINGCINCIN_BAKCLTCLT_100MILES_BDCLT_150MILES_BDCLT_200MILES_BDCLT_50MILES_BDCLT_75MILES_BDCLT_BAKDAVDAV_100MILES_BDDAV_150MILES_BDDAV_200MILES_BDDAV_50MILES_BDDAV_75MILES_BDDAV_BAKDEFAULTDFWDFW_100MILES_BDDFW_150MILES_BDDFW_200MILES_BDDFW_50MILES_BDDFW_75MILES_BDDFW_BAKDOMAIN_DEFAULTINDIND_100MILES_BDIND_150MILES_BDIND_200MILES_BDIND_50MILES_BDIND_75MILES_BDIND_BAKJAX_100MILES_BDJAX_150MILES_BDJAX_200MILES_BDJAX_50MILES_BDJAX_75MILES_BDLITLIT_100MILES_BDLIT_150MILES_BDLIT_200MILES_BDLIT_50MILES_BDLIT_75MILES_BDLIT_BAKMON_100MILES_BDMON_150MILES_BDMON_200MILES_BDMON_50MILES_BDMON_75MILES_BDNBGNBG_BAKNSHNSH_100MILES_BDNSH_150MILES_BDNSH_200MILES_BDNSH_50MILES_BDNSH_75MILES_BDNSK_BAKNWKNWK_100MILES_BDNWK_150MILES_BDNWK_200MILES_BDNWK_25MILES_BDNWK_50MILES_BDNWK_75MILES_BDNWK_BAKOMAOMA_100MILES_BDOMA_150MILES_BDOMA_200MILES_BDOMA_50MILES_BDOMA_75MILES_BDOMA_BAKRAILRDU_100MILES_BDRDU_150MILES_BDRDU_200MILES_BDRDU_50MILES_BDRDU_75MILES_BDTPATPA_100MILES_BDTPA_150MILES_BDTPA_200MILES_BDTPA_50MILES_BDTPA_75MILES_BDTPA_BAKTPA_BSPWORK_ASSIGNMENT_OPTIMIZATION</value>
+      <webElementGuid>3a3c4d5f-bf02-48de-829b-6fd2a551be61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;fieldCont&quot;]/div[2]/select[1]</value>
+      <webElementGuid>f97cc279-ff6f-4c05-bec1-ce7656b843a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Shipment Planning/iframe_mainBody</value>
+      <webElementGuid>c1b692b8-de76-41ae-b5c6-29f6290d6290</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='qualifier/xid@ID']</value>
+      <webElementGuid>72e29d14-2925-4905-8ded-a36f99ca5cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div/table/tbody/tr/td/div/div[2]/select</value>
+      <webElementGuid>b87476f0-abaf-46cc-86cd-c5293c393233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parameter Set ID'])[1]/following::select[1]</value>
+      <webElementGuid>35a4b1ae-7667-4559-bed1-5c0f2fa3697e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Planning'])[2]/following::select[1]</value>
+      <webElementGuid>02713352-413c-43bd-9767-5a8c6c625415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::select[1]</value>
+      <webElementGuid>8af817d8-440b-4579-b3a4-30c58857e48b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scenario Group'])[1]/preceding::select[1]</value>
+      <webElementGuid>a10b4229-bc22-4d3b-9e1e-f81667420ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>74fd7c86-954b-4276-b6d0-5af72a70f030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'qualifier/xid@ID' and (text() = 'BUFBUF_100MILES_BDBUF_150MILES_BDBUF_200MILES_BDBUF_50MILES_BDBUF_75MILES_BDBUF_BAKBULK_PLANNING_BELBXC_MULTISTOP_PLANNINGCINCIN_BAKCLTCLT_100MILES_BDCLT_150MILES_BDCLT_200MILES_BDCLT_50MILES_BDCLT_75MILES_BDCLT_BAKDAVDAV_100MILES_BDDAV_150MILES_BDDAV_200MILES_BDDAV_50MILES_BDDAV_75MILES_BDDAV_BAKDEFAULTDFWDFW_100MILES_BDDFW_150MILES_BDDFW_200MILES_BDDFW_50MILES_BDDFW_75MILES_BDDFW_BAKDOMAIN_DEFAULTINDIND_100MILES_BDIND_150MILES_BDIND_200MILES_BDIND_50MILES_BDIND_75MILES_BDIND_BAKJAX_100MILES_BDJAX_150MILES_BDJAX_200MILES_BDJAX_50MILES_BDJAX_75MILES_BDLITLIT_100MILES_BDLIT_150MILES_BDLIT_200MILES_BDLIT_50MILES_BDLIT_75MILES_BDLIT_BAKMON_100MILES_BDMON_150MILES_BDMON_200MILES_BDMON_50MILES_BDMON_75MILES_BDNBGNBG_BAKNSHNSH_100MILES_BDNSH_150MILES_BDNSH_200MILES_BDNSH_50MILES_BDNSH_75MILES_BDNSK_BAKNWKNWK_100MILES_BDNWK_150MILES_BDNWK_200MILES_BDNWK_25MILES_BDNWK_50MILES_BDNWK_75MILES_BDNWK_BAKOMAOMA_100MILES_BDOMA_150MILES_BDOMA_200MILES_BDOMA_50MILES_BDOMA_75MILES_BDOMA_BAKRAILRDU_100MILES_BDRDU_150MILES_BDRDU_200MILES_BDRDU_50MILES_BDRDU_75MILES_BDTPATPA_100MILES_BDTPA_150MILES_BDTPA_200MILES_BDTPA_50MILES_BDTPA_75MILES_BDTPA_BAKTPA_BSPWORK_ASSIGNMENT_OPTIMIZATION' or . = 'BUFBUF_100MILES_BDBUF_150MILES_BDBUF_200MILES_BDBUF_50MILES_BDBUF_75MILES_BDBUF_BAKBULK_PLANNING_BELBXC_MULTISTOP_PLANNINGCINCIN_BAKCLTCLT_100MILES_BDCLT_150MILES_BDCLT_200MILES_BDCLT_50MILES_BDCLT_75MILES_BDCLT_BAKDAVDAV_100MILES_BDDAV_150MILES_BDDAV_200MILES_BDDAV_50MILES_BDDAV_75MILES_BDDAV_BAKDEFAULTDFWDFW_100MILES_BDDFW_150MILES_BDDFW_200MILES_BDDFW_50MILES_BDDFW_75MILES_BDDFW_BAKDOMAIN_DEFAULTINDIND_100MILES_BDIND_150MILES_BDIND_200MILES_BDIND_50MILES_BDIND_75MILES_BDIND_BAKJAX_100MILES_BDJAX_150MILES_BDJAX_200MILES_BDJAX_50MILES_BDJAX_75MILES_BDLITLIT_100MILES_BDLIT_150MILES_BDLIT_200MILES_BDLIT_50MILES_BDLIT_75MILES_BDLIT_BAKMON_100MILES_BDMON_150MILES_BDMON_200MILES_BDMON_50MILES_BDMON_75MILES_BDNBGNBG_BAKNSHNSH_100MILES_BDNSH_150MILES_BDNSH_200MILES_BDNSH_50MILES_BDNSH_75MILES_BDNSK_BAKNWKNWK_100MILES_BDNWK_150MILES_BDNWK_200MILES_BDNWK_25MILES_BDNWK_50MILES_BDNWK_75MILES_BDNWK_BAKOMAOMA_100MILES_BDOMA_150MILES_BDOMA_200MILES_BDOMA_50MILES_BDOMA_75MILES_BDOMA_BAKRAILRDU_100MILES_BDRDU_150MILES_BDRDU_200MILES_BDRDU_50MILES_BDRDU_75MILES_BDTPATPA_100MILES_BDTPA_150MILES_BDTPA_200MILES_BDTPA_50MILES_BDTPA_75MILES_BDTPA_BAKTPA_BSPWORK_ASSIGNMENT_OPTIMIZATION')]</value>
+      <webElementGuid>074338c8-004c-480b-be1a-01b249663859</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_331_Create a filter condition to view all organizations that are not active</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0737554-2edf-42b1-88b0-4a7fa7cdc314</testCaseGuid>
+</TestCaseEntity>

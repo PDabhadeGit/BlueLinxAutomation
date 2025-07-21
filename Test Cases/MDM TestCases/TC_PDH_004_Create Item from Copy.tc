@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_004_Create Item from Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4561df83-e648-4f0b-8a98-07fc74ef1971</testCaseGuid>
+</TestCaseEntity>

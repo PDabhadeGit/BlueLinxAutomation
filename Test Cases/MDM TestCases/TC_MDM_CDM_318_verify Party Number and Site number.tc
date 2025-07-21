@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_318_verify Party Number and Site number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db7e4f10-673f-4d3b-b691-96542bfaf2ee</testCaseGuid>
+</TestCaseEntity>

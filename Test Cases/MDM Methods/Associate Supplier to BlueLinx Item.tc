@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Associate Supplier to BlueLinx Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73aa3d86-79f0-4015-961f-82cec5c3c220</testCaseGuid>
+</TestCaseEntity>

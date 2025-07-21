@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_328_Export attachments to UCM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ce88f4d-6a12-44c9-afd4-42bb9af3e542</testCaseGuid>
+</TestCaseEntity>

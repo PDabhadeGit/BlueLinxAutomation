@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_027_Populate Min order quantity for SO PO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7561a70e-5f13-42b5-b6a9-a677dac74416</testCaseGuid>
+</TestCaseEntity>

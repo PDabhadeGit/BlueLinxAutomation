@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_002_Add Buying Customer usage to a Customer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88c3eb92-5bf1-420b-9384-c62258b2f375</testCaseGuid>
+</TestCaseEntity>

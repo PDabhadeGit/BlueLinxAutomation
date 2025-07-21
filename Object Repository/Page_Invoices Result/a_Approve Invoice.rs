@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Approve Invoice</name>
+   <tag></tag>
+   <elementGuidId>cc8aace1-dc12-4659-89db-9f82d65069fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='actionTree.1_2_1_2.k']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Approve Invoice&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3a9372df-c331-47b1-9698-4f40f06c842c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionTree.1_2_1_2.k</value>
+      <webElementGuid>92406744-5595-4d76-a46b-7ac19ae0a2d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>06ae8a85-a8c9-4cd6-ad76-ae4053f390b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747290446000\x3FbcKey\x3DMTc0NzI5MDQ0NjAwMDox\x26action_name\x3Dapprove_adjust_invoice_action_decider\x26finder_set_gid\x3DINVOICE_INVOICE')</value>
+      <webElementGuid>ca59e091-9eba-4ac7-83d5-e17fa5f5db72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve Invoice</value>
+      <webElementGuid>7abc96a9-00b0-4926-88d4-e26931efca82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionTree.1_2_1_2.k&quot;)</value>
+      <webElementGuid>36fbc0f4-b87d-42f7-a820-35f645a3b746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Invoices Result/iframe_concat(id(, , actionFrame, , ))_actionFrame</value>
+      <webElementGuid>b197f66f-abee-487b-a81d-9ee89564f30e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='actionTree.1_2_1_2.k']</value>
+      <webElementGuid>36a25dbc-7614-41a6-8b4c-4574c240ee0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='actionTree.1_2_1_2.l']/a</value>
+      <webElementGuid>6aad30ec-d495-4821-9a06-8dafdeae0d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Approve Invoice')]</value>
+      <webElementGuid>55ffc08d-c000-4696-abc2-49c0c00fdf8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Child Invoice to Consolidation'])[1]/following::a[1]</value>
+      <webElementGuid>974953bf-d29b-4182-9acf-efb08b26b998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice'])[2]/following::a[2]</value>
+      <webElementGuid>2d5b6c09-f894-4c4a-8f51-93b1a09668eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve Invoice Preprocess'])[1]/preceding::a[1]</value>
+      <webElementGuid>935b6c85-89f8-4537-bc45-68fa141bc5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Consolidated Invoice'])[1]/preceding::a[2]</value>
+      <webElementGuid>83727634-4c0e-44e0-8d40-2d58eb763bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approve Invoice']/parent::*</value>
+      <webElementGuid>bb5899c6-dd84-4bb8-be44-f7277e9e0d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747290446000\x3FbcKey\x3DMTc0NzI5MDQ0NjAwMDox\x26action_name\x3Dapprove_adjust_invoice_action_decider\x26finder_set_gid\x3DINVOICE_INVOICE')&quot;)]</value>
+      <webElementGuid>fd28af30-28db-435b-a6dd-b0a2056957c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td/span[2]/a</value>
+      <webElementGuid>21c2f5d1-e4bc-4683-8aab-ea22b53be1fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_2_1_2.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747290446000\x3FbcKey\x3DMTc0NzI5MDQ0NjAwMDox\x26action_name\x3Dapprove_adjust_invoice_action_decider\x26finder_set_gid\x3DINVOICE_INVOICE&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Approve Invoice' or . = 'Approve Invoice')]</value>
+      <webElementGuid>5832c207-e970-4476-a061-9a12c35f23a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1745926052072\x3FbcKey\x3DMTc0NTkyNjA1MjA3Mzox\x26action_name\x3Dapprove_adjust_invoice_action_decider\x26finder_set_gid\x3DINVOICE_INVOICE')&quot;)]</value>
+      <webElementGuid>c3d62429-ee0b-4211-afcf-5d6ddbe308b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_2_1_2.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1745926052072\x3FbcKey\x3DMTc0NTkyNjA1MjA3Mzox\x26action_name\x3Dapprove_adjust_invoice_action_decider\x26finder_set_gid\x3DINVOICE_INVOICE&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Approve Invoice' or . = 'Approve Invoice')]</value>
+      <webElementGuid>2ae392d0-24f6-4cef-aa80-360f85182bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1745856208294\x3FbcKey\x3DMTc0NTg1NjIwODI5NTox\x26action_name\x3Dapprove_adjust_invoice_action_decider\x26finder_set_gid\x3DINVOICE_INVOICE')&quot;)]</value>
+      <webElementGuid>00a2968d-9182-4742-9fb6-4aa0ff14a400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_2_1_2.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1745856208294\x3FbcKey\x3DMTc0NTg1NjIwODI5NTox\x26action_name\x3Dapprove_adjust_invoice_action_decider\x26finder_set_gid\x3DINVOICE_INVOICE&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Approve Invoice' or . = 'Approve Invoice')]</value>
+      <webElementGuid>2355459c-787c-46c7-96c5-6b7197a45d23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

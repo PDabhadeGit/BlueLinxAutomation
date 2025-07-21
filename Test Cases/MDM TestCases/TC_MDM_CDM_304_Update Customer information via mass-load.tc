@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_304_Update Customer information via mass-load</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>614d3927-b550-4975-bf46-377c6f0d85e6</testCaseGuid>
+</TestCaseEntity>

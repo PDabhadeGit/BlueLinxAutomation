@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_TENDER THIS SHIPMENTSETTLEMENT ONLY-_e938d9</name>
+   <tag></tag>
+   <elementGuidId>665c2982-ec26-42bc-819c-ff04ee574816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;itinerary/rule_11_indicator&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='itinerary/rule_11_indicator']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Rule 11 Instruction&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c748ac3e-0501-452e-a369-e29a06433dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>itinerary/rule_11_indicator</value>
+      <webElementGuid>72372d3a-76ae-4f43-9cf5-e5c2d120c9b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Rule 11 Instruction</value>
+      <webElementGuid>b0072f22-2c6f-42f1-932b-3936ee2854d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4b4accfb-492a-4cdc-88bd-74759c7ccd69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>857110b3-3ce8-4c40-88eb-7d0330e2ef97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>onChangeMultiDrop('search','display_itinerary/rule_11_indicator', this.options);</value>
+      <webElementGuid>365e61a5-dd2a-4d0d-b46d-581ff8d76596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TENDER THIS SHIPMENTSETTLEMENT ONLY-NO TENDER</value>
+      <webElementGuid>68d6754c-8a5e-46fb-b1cd-d19306c26e50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[8]/td[1]/div[@class=&quot;fieldCont&quot;]/select[1]</value>
+      <webElementGuid>5d0593c8-8165-42b0-8236-af4310184ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Itinerary Finder/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>626fc84a-b5d9-416a-ad87-e52405df0e40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='itinerary/rule_11_indicator']</value>
+      <webElementGuid>5af2454e-dfe0-48ae-a577-90337180cf5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/table/tbody/tr/td/table/tbody/tr[8]/td/div/select</value>
+      <webElementGuid>9a25561f-54d6-4137-8cf9-b36475c6af5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule 11 Instruction'])[1]/following::select[1]</value>
+      <webElementGuid>9139ea7e-02aa-4c39-99d5-f23104c9d46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flex Commodity Profile ID'])[1]/following::select[2]</value>
+      <webElementGuid>50887fe2-d8fe-4765-98cd-0a508dcd7098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer or Shipper Rate'])[1]/preceding::select[1]</value>
+      <webElementGuid>8e546b1f-d954-456a-8114-e219b94bec7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COFC/TOFC'])[1]/preceding::select[2]</value>
+      <webElementGuid>c282af97-9499-48ce-94b5-f65f59637430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td/div/select</value>
+      <webElementGuid>45f03cca-5f6a-4d6d-9b7e-f0bf0649db6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'itinerary/rule_11_indicator' and (text() = 'TENDER THIS SHIPMENTSETTLEMENT ONLY-NO TENDER' or . = 'TENDER THIS SHIPMENTSETTLEMENT ONLY-NO TENDER')]</value>
+      <webElementGuid>93207923-3701-4213-be42-ae775de74ea2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

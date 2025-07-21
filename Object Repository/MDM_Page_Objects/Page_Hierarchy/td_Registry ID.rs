@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Registry ID</name>
+   <tag></tag>
+   <elementGuidId>04bcf3d2-494e-46cc-a585-ba14c924e39a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:r1:2:AP6:r1:0:AH1:hierCol:_shwClmcolumn2']/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Registry ID&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>510c3d72-b78a-4556-b0ee-33832acb8e3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xo2</value>
+      <webElementGuid>3e96b6cc-8132-4252-a5a7-42b351d3368d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Registry ID</value>
+      <webElementGuid>8bc8c7be-21c4-4115-aca0-411f2ce025c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:r1:2:AP6:r1:0:AH1:hierCol:_shwClmcolumn2&quot;)/td[@class=&quot;xo2&quot;]</value>
+      <webElementGuid>470dea22-5b8c-4a7f-b65c-1f7fa5e1096b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:r1:2:AP6:r1:0:AH1:hierCol:_shwClmcolumn2']/td[2]</value>
+      <webElementGuid>8170c01a-6ab6-483e-861f-809b53594c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Party Usage'])[2]/following::td[4]</value>
+      <webElementGuid>6232db7b-4e43-421d-b34b-e9773184939d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label'])[3]/following::td[8]</value>
+      <webElementGuid>e2640c73-090f-48ff-abbf-1ca0ca2570db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Columns...'])[1]/preceding::td[6]</value>
+      <webElementGuid>62164d7c-6597-4db1-bf17-26b65b0e77fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/preceding::td[12]</value>
+      <webElementGuid>aae4e8dd-7dac-479a-946b-946921075c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Registry ID']/parent::*</value>
+      <webElementGuid>d0a5d52a-2883-4c04-959f-506382c8af6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/table/tbody/tr/td/table/tbody/tr[2]/td/div/table/tbody/tr[9]/td[2]</value>
+      <webElementGuid>2f7f299e-0c7d-40f7-9aec-798dbe9c8927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Registry ID' or . = 'Registry ID')]</value>
+      <webElementGuid>a4432ce0-64a6-4b8f-a3d4-0a12e50891e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

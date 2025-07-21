@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ActionsRecords                     25  _2713c9</name>
+   <tag></tag>
+   <elementGuidId>8fdc1143-6577-428d-a3cd-04bfe88d9c5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rgSGCaptionTop.1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#rgSGContainer div >> internal:has-text=&quot;ActionsRecords 25 of 594 MoreAllSelected: 0&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d969eb10-573e-4c27-a1f6-cd73b7ee2bbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sgContainerRow</value>
+      <webElementGuid>41f8d04d-ff57-4205-b224-513a809eb3ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rgSGCaptionTop.1</value>
+      <webElementGuid>b7a49e1d-6b5f-45c4-a04e-cd2abd3d6289</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ActionsRecords  
+                    25 
+                    of 
+                    594  
+                MoreAllSelected: 0</value>
+      <webElementGuid>00175874-4310-4567-aaf7-2070e6b76737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rgSGCaptionTop.1&quot;)</value>
+      <webElementGuid>6803eb0f-d697-437e-ba68-4beb8eab3950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipments Result/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>a7546dc5-9dcf-44e2-a4e1-0a8a84d9a18e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='rgSGCaptionTop.1']</value>
+      <webElementGuid>75b547b7-84de-4727-9334-f0a05629b13a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rgSGContainer']/div</value>
+      <webElementGuid>02792a49-f110-4fb9-bd6a-50616cad84dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Shipments'])[1]/following::div[3]</value>
+      <webElementGuid>58217098-a1d4-4ab0-96cc-8189600c0f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>232ec2bb-06a1-4f38-9b9b-82aad4bb7992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'rgSGCaptionTop.1' and (text() = 'ActionsRecords  
+                    25 
+                    of 
+                    594  
+                MoreAllSelected: 0' or . = 'ActionsRecords  
+                    25 
+                    of 
+                    594  
+                MoreAllSelected: 0')]</value>
+      <webElementGuid>11f71d62-64b4-4f75-a7b6-f04c9c1f556b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_019_Create_Edit Contact Points</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e588171c-4b2a-417b-ae8f-d3b90ca6b2ed</testCaseGuid>
+</TestCaseEntity>

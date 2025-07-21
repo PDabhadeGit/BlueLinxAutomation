@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td</name>
+   <tag></tag>
+   <elementGuidId>e1a55072-206c-4f6e-8d00-daadae591f33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[2]/div/div/div/div/table/tbody/tr/td/table/tbody/tr[4]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;pt1\:_FOr1\:1\:_FONSr2\:0\:MAnt2\:1\:r10\:0\:ap1\:r3\:0\:AT1\:r1\:1\:panelFormLayout1&quot;] > table > tbody > tr > .x4w > table > tbody > tr:nth-child(4) > td >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>cf6eddc9-dcc8-4758-aec5-4c74bba5044f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAnt2:1:r10:0:ap1:r3:0:AT1:r1:1:panelFormLayout1&quot;)/table[1]/tbody[1]/tr[1]/td[@class=&quot;x4w&quot;]/table[1]/tbody[1]/tr[4]/td[1]</value>
+      <webElementGuid>c98800b1-c0b2-4473-b11e-42bb0321fcb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:MAnt2:1:r10:0:ap1:r3:0:AT1:r1:1:panelFormLayout1']/table/tbody/tr/td/table/tbody/tr[4]/td</value>
+      <webElementGuid>3815d054-a028-4c73-9964-9f9e3a87e847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div/div/div/table/tbody/tr/td/table/tbody/tr[4]/td</value>
+      <webElementGuid>88faf43b-b70e-4989-b840-d4f90d903d77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

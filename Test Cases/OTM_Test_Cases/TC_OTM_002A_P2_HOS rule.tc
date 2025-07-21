@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OTM_002A_P2_HOS rule</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74d11c48-beaf-4e83-80a9-e5e3f5cb7566</testCaseGuid>
+</TestCaseEntity>

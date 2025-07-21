@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save and Close</name>
+   <tag></tag>
+   <elementGuidId>4131992a-3ddd-4089-9041-5a55e8662d9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='ave and Close']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Save and Close&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8ce0cb9b-4bbd-449d-aa1d-1c71f680ab38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accesskey</name>
+      <type>Main</type>
+      <value>S</value>
+      <webElementGuid>c4bf94f8-bf21-4216-b36f-66ffad6f4e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pt1:_FOr1:1:_FONSr2:0:MAnt2:1:r10:0:ap1:r3:0:AT1:commandButton1</value>
+      <webElementGuid>f89f1b14-cd94-4fb6-b151-21b316e6c8cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget xuz p_AFTextOnly</value>
+      <webElementGuid>cf77e3a6-fd59-463b-8dab-28cbe4f652f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>bb3a56ef-c38c-485d-96de-9d07d9587bb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save and Close</value>
+      <webElementGuid>99f6da06-fc6d-4f72-91f7-a8a045668e95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAnt2:1:r10:0:ap1:r3:0:AT1:commandButton1&quot;)</value>
+      <webElementGuid>627b7538-f5d4-4f87-92d9-573bef8d865e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='pt1:_FOr1:1:_FONSr2:0:MAnt2:1:r10:0:ap1:r3:0:AT1:commandButton1']</value>
+      <webElementGuid>284a86f6-cb2d-4ad7-af7b-a36512555c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='pt1:_FOr1:1:_FONSr2:0:MAnt2:1:r10:0:ap1:r3:0:AT1:dialog1::_fcc']/button</value>
+      <webElementGuid>22ea277d-e7df-47e1-a356-7de14a9c7d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove Link'])[1]/following::button[1]</value>
+      <webElementGuid>6621b42f-571d-47ac-aa12-c3285eddd749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Link'])[1]/following::button[1]</value>
+      <webElementGuid>66743265-1a79-427b-8ac6-7b74c16238ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ave and Close']/parent::*</value>
+      <webElementGuid>b288cd02-d657-45ba-b72b-9cf6dcb9e1ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/table/tbody/tr[3]/td[2]/table/tbody/tr/td/button</value>
+      <webElementGuid>03b2e0aa-438c-48f5-9c78-44462eaf7e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'pt1:_FOr1:1:_FONSr2:0:MAnt2:1:r10:0:ap1:r3:0:AT1:commandButton1' and (text() = 'Save and Close' or . = 'Save and Close')]</value>
+      <webElementGuid>1edd43f8-6c26-4448-a381-665d006522ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

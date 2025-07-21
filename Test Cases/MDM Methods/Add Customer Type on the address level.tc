@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Customer Type on the address level</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5eb2b483-71c9-46ec-b6c8-2c5b54ebd4cb</testCaseGuid>
+</TestCaseEntity>

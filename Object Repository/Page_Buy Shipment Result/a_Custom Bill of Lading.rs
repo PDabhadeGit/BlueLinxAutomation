@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Custom Bill of Lading</name>
+   <tag></tag>
+   <elementGuidId>426632f5-53f2-464b-8759-96b8afa721d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='actionTree.1_2.k']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Custom Bill of Lading&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9190e989-0d78-4f73-950e-475c2256f3e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionTree.1_2.k</value>
+      <webElementGuid>6902347e-6540-45cd-92b8-33504ce486bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>7224898f-c478-4c1f-8e1b-1401a34bc273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747652938907\x3FbcKey\x3DMTc0NzY1MjkzODkwODox\x26action_name\x3Dbxc.custom_bill_of_lading\x26finder_set_gid\x3DBXC.BXC_BUY_SHIPMENT_UPDATE')</value>
+      <webElementGuid>8c9b04ec-572f-4414-a828-e364871496ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Custom Bill of Lading</value>
+      <webElementGuid>cb4bfa25-4e7f-44ed-9803-9e6c7cdbb81f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionTree.1_2.k&quot;)</value>
+      <webElementGuid>a1143861-a0b8-4db1-ad55-377fbf6498b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment Result/iframe_concat(id(, , actionFrame, , ))_actionFrame</value>
+      <webElementGuid>82e094dd-93b7-45aa-8d32-6619205ef5b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='actionTree.1_2.k']</value>
+      <webElementGuid>ea47986b-d85c-4633-a8fd-299b16aeb34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='actionTree.1_2.l']/a</value>
+      <webElementGuid>8f9af681-f2cb-4bed-96c3-a5fb9dfada33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Custom Bill of Lading')]</value>
+      <webElementGuid>553705b3-fdb5-4c19-83d3-5fdd7697dc93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User-defined Reports'])[1]/following::a[1]</value>
+      <webElementGuid>cbc56bbd-5415-4bb9-8f14-6fc370d4f791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment'])[1]/following::a[2]</value>
+      <webElementGuid>1b433f1f-4a50-434c-bc5c-d08d2f2a35eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Management'])[1]/preceding::a[1]</value>
+      <webElementGuid>cc37d5fa-c68c-4a0b-8237-483653d37caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Service Provider'])[1]/preceding::a[1]</value>
+      <webElementGuid>9048befd-c097-4814-b2cd-6ba5f8f41dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Custom Bill of Lading']/parent::*</value>
+      <webElementGuid>8b5580f7-a980-4b2b-93d9-9d032aea03d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747652938907\x3FbcKey\x3DMTc0NzY1MjkzODkwODox\x26action_name\x3Dbxc.custom_bill_of_lading\x26finder_set_gid\x3DBXC.BXC_BUY_SHIPMENT_UPDATE')&quot;)]</value>
+      <webElementGuid>58aeee6a-671e-4a94-b54d-a3a17fe4a25d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/span[2]/a</value>
+      <webElementGuid>e66b77c5-8b4c-45ee-b158-711a8c9cafbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_2.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747652938907\x3FbcKey\x3DMTc0NzY1MjkzODkwODox\x26action_name\x3Dbxc.custom_bill_of_lading\x26finder_set_gid\x3DBXC.BXC_BUY_SHIPMENT_UPDATE&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Custom Bill of Lading' or . = 'Custom Bill of Lading')]</value>
+      <webElementGuid>1072dbf0-fd6a-48fb-b993-f6744d1f1bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747652029240\x3FbcKey\x3DMTc0NzY1MjAyOTI0MTox\x26action_name\x3Dbxc.custom_bill_of_lading\x26finder_set_gid\x3DBXC.BXC_BUY_SHIPMENT_UPDATE')&quot;)]</value>
+      <webElementGuid>2732d56b-da5b-4745-8b5c-3bc24e91ac2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_2.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747652029240\x3FbcKey\x3DMTc0NzY1MjAyOTI0MTox\x26action_name\x3Dbxc.custom_bill_of_lading\x26finder_set_gid\x3DBXC.BXC_BUY_SHIPMENT_UPDATE&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Custom Bill of Lading' or . = 'Custom Bill of Lading')]</value>
+      <webElementGuid>8023b082-841d-4499-853c-639a5cef102e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

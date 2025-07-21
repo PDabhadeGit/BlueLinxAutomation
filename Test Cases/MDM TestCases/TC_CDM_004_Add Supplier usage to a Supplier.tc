@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_004_Add Supplier usage to a Supplier</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92b88799-fd18-4f90-9458-d64c4d34408f</testCaseGuid>
+</TestCaseEntity>

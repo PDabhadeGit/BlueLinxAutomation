@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Select and Add</name>
+   <tag></tag>
+   <elementGuidId>ea26b6b0-d6d6-4b75-a24c-9c0a89d213ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:r2:1:AT1:_ATp:orgmb1']/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Select and Add&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>84e5b0f8-c7b6-4150-b138-cb244d71d3e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xo2</value>
+      <webElementGuid>345507cb-f864-4356-908e-547baab1d33f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select and Add</value>
+      <webElementGuid>8fd746c4-8e4f-4b6d-a776-d60af9e6e1a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:r2:1:AT1:_ATp:orgmb1&quot;)/td[@class=&quot;xo2&quot;]</value>
+      <webElementGuid>e8b216c9-9eff-48c0-ab94-2ad5f10a91b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:r2:1:AT1:_ATp:orgmb1']/td[2]</value>
+      <webElementGuid>71738c73-f379-4fb8-8ac3-704c12190d6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export to Excel'])[2]/following::td[6]</value>
+      <webElementGuid>6a7275ca-aa85-4134-a7ae-c9b72ecca762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PrintMe'])[1]/following::td[13]</value>
+      <webElementGuid>fe2a2a44-57cc-4726-b4f9-93651ec9f3dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/preceding::td[4]</value>
+      <webElementGuid>3022ff6c-7ea6-47e4-86c7-fca96fe7da55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[3]/preceding::td[18]</value>
+      <webElementGuid>4247e717-0bb2-459f-a442-61a85de5f9d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/table/tbody/tr/td/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[2]</value>
+      <webElementGuid>5ed28319-2be3-4f7a-8298-054fa67eb012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Select and Add' or . = 'Select and Add')]</value>
+      <webElementGuid>08bcb3ac-645f-4583-a565-8d2d53d8b4db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

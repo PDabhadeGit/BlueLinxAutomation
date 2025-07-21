@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Organisation as Supplier</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90fe5509-fa9b-41dd-9be4-2f3a1207b4aa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Volume Utilization</name>
+   <tag></tag>
+   <elementGuidId>179a2ceb-f95c-4bcb-b34b-5930b9da4a62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='shipmentDetails']/tbody/tr[12]/td[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(12) > td:nth-of-type(3) > div.fieldCont > div.fieldLabel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Volume Utilization&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f0405b69-752d-4c58-af32-a5359d14bdb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fieldLabel</value>
+      <webElementGuid>5331d97e-b79e-47c1-838e-e5e289d12622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Volume Utilization</value>
+      <webElementGuid>4d295dc0-f862-4e80-9cc9-7fedb9e62224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shipmentDetails&quot;)/tbody[1]/tr[12]/td[3]/div[@class=&quot;fieldCont&quot;]/div[@class=&quot;fieldLabel&quot;]</value>
+      <webElementGuid>9cf41f8e-b80c-4643-86fb-c0c0b2111be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>79626ea6-8019-4f8e-b0e5-e058f51a3f61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='shipmentDetails']/tbody/tr[12]/td[3]/div/div</value>
+      <webElementGuid>dcdec6f7-31b8-4abc-95dc-2b249f64b9bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weight Utilization'])[1]/following::div[5]</value>
+      <webElementGuid>857d7abd-0840-4eb9-a441-8e20dd1013a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Ship Unit Count'])[1]/following::div[8]</value>
+      <webElementGuid>efcd30d8-b9ae-4e6c-a1d9-2dd19186cc2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Equipment Reference Unit Utilization'])[1]/preceding::div[4]</value>
+      <webElementGuid>2198c915-1283-4e2e-8446-1cca2fe13b8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waybill Date'])[1]/preceding::div[8]</value>
+      <webElementGuid>b4e5f6a3-bf73-4751-8764-336e6cc4ffbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Volume Utilization']/parent::*</value>
+      <webElementGuid>c36f9017-c0f3-410a-a890-44136f69ace9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td[3]/div/div</value>
+      <webElementGuid>3ba6d7dd-1492-421c-96f4-35441509174f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Volume Utilization' or . = 'Volume Utilization')]</value>
+      <webElementGuid>d5676b0e-a155-431f-a265-e35b1bb7b489</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

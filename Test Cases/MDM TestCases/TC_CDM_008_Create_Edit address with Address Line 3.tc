@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_008_Create_Edit address with Address Line 3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>915bf643-4962-46cd-8555-f21818c15481</testCaseGuid>
+</TestCaseEntity>

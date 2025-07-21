@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Appointment delivery time-1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>150de5b1-c880-41d2-a4ce-39827b0ba806</testCaseGuid>
+</TestCaseEntity>

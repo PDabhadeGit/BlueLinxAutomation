@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Reference Number Qualifier ID</name>
+   <tag></tag>
+   <elementGuidId>36811ad5-460e-4b81-a7ae-54094b17adf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gridHeadLabel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_order_release_refnum_grid']/tbody/tr/th/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;* Reference Number Qualifier ID&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e0b0f10e-d9b7-4bb8-a8d4-bcb6e99b2cae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gridHeadLabel</value>
+      <webElementGuid>4e8a495e-d2c8-45c2-8b5b-a39f802d83a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2f5c3242-e85d-4640-92d8-0d76fcde37a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>* Reference Number Qualifier ID</value>
+      <webElementGuid>9da97b93-cf7a-4fbe-a89e-acf653f752d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_order_release_refnum_grid&quot;)/tbody[1]/tr[1]/th[@class=&quot;gridHeadCell&quot;]/div[@class=&quot;fieldCont&quot;]/div[@class=&quot;gridHeadLabel&quot;]</value>
+      <webElementGuid>27921c78-2b37-4bae-8861-22dddf4ea4c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Order Release - Order Release/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>ba243478-6755-4db7-99ab-a7f0e8e0e580</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_order_release_refnum_grid']/tbody/tr/th/div/div</value>
+      <webElementGuid>5ebd6847-4ec9-4b1d-a193-be8187ec60ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference Numbers'])[1]/following::div[2]</value>
+      <webElementGuid>7cd24352-0ead-4b46-b37f-4729958dad5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Packaging Unit Count'])[1]/following::div[5]</value>
+      <webElementGuid>c96fc46f-3022-4dfa-8a36-6ecb13cef786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::div[1]</value>
+      <webElementGuid>d47917d6-dc2a-4ef1-b210-58c192f1a4b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reference Number Qualifier ID']/parent::*</value>
+      <webElementGuid>52f39f8c-35cc-4618-b9aa-23b00eafff79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/div/div</value>
+      <webElementGuid>747c1238-4e8c-4506-8130-a6833cb98156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '* Reference Number Qualifier ID' or . = '* Reference Number Qualifier ID')]</value>
+      <webElementGuid>40389489-8a27-402b-9601-e5d0fb23100b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

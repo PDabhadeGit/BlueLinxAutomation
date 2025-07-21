@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_327_Update Customer Type on the address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2d01774-a222-4d46-8bcf-e786fc6bdabc</testCaseGuid>
+</TestCaseEntity>

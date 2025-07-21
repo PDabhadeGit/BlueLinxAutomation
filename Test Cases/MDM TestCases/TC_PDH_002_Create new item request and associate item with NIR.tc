@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_002_Create new item request and associate item with NIR</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50cad470-939e-45d5-ac9c-458f2aedcdf6</testCaseGuid>
+</TestCaseEntity>

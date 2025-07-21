@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Supplier with additional details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d32ad0a3-4c65-47e2-aab1-ed54b8080dc8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Show Positions_ALKMaps.Layer.Vector_94_svgRoot</name>
+   <tag></tag>
+   <elementGuidId>d1b648a8-7594-4396-b617-fdaadb5b081b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='© Trimble Inc. | © OpenMapTiles © OpenStreetMap contributors'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;ALKMaps\.Layer\.Vector_94_svgRoot&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>8176403a-d779-4a93-aec9-607aa6fab1dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ALKMaps.Layer.Vector_94_svgRoot</value>
+      <webElementGuid>aaab4bd6-8660-4eed-aed9-35e219622552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1016</value>
+      <webElementGuid>61f6c9a4-fa22-4ce7-a603-d6d8721dd877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>468</value>
+      <webElementGuid>d35134b5-033d-48c1-bb4b-e19ae5b659c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 1016 468</value>
+      <webElementGuid>0ae03da5-9a48-4a79-9548-a10eeccb2c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ALKMaps.Layer.Vector_94_svgRoot&quot;)</value>
+      <webElementGuid>bd3eef8a-cdc8-4da8-98da-1a8daac4683c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Transportation Workbench/frame_html1frameset1frame1_W48</value>
+      <webElementGuid>5b115b24-6644-4b09-b8d0-73114c12614b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Trimble Inc. | © OpenMapTiles © OpenStreetMap contributors'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>0845b9b5-0ddf-4e79-aa15-5af60926d3f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@id = 'ALKMaps.Layer.Vector_94_svgRoot']</value>
+      <webElementGuid>7a8b0f71-a2c4-4a86-be5b-dd0f9938364f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

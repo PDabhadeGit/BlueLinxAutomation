@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Audit Reports</name>
+   <tag></tag>
+   <elementGuidId>66f78ce5-f102-443c-bfe5-10476de01331</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pt1:_UISnvr:0:nv_itemNode_tools_audit_reports&quot;]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Audit Reports&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>273ccc61-aff2-4534-97e3-168b663032b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xmv</value>
+      <webElementGuid>047c10f8-581c-402e-84e8-6d7f3a2d6ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Audit Reports</value>
+      <webElementGuid>8d409c85-84e1-4929-b25b-bfe793994a65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_UISnvr:0:nv_itemNode_tools_audit_reports&quot;)/span[@class=&quot;xmv&quot;]</value>
+      <webElementGuid>2163269d-05b2-47fa-9a48-b514731fa9ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='pt1:_UISnvr:0:nv_itemNode_tools_audit_reports']/span</value>
+      <webElementGuid>841302c0-a0ca-41a2-8553-08d9774b1e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Import and Export'])[1]/following::span[1]</value>
+      <webElementGuid>aa987b4c-d9ca-4190-bfdb-57155eadeaa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Management'])[1]/following::span[2]</value>
+      <webElementGuid>abf9cb64-dd3a-42b2-a201-296ada4e1206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Desktop Integration Installer'])[1]/preceding::span[1]</value>
+      <webElementGuid>3437be58-d771-4c08-a074-69083b767c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mass Transfer'])[1]/preceding::span[2]</value>
+      <webElementGuid>b1afaed3-e3a8-4228-a725-c85f164df9f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Audit Reports']/parent::*</value>
+      <webElementGuid>676918cd-b59d-45b1-8383-61f988dd8183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[24]/div/div[2]/div/div[14]/a/span</value>
+      <webElementGuid>5fde4975-b1bf-4bf8-9a99-dc245f41a971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Audit Reports' or . = 'Audit Reports')]</value>
+      <webElementGuid>1416676c-614c-4642-b4d8-ab56df78f7a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Test hierarchy</name>
+   <tag></tag>
+   <elementGuidId>0ca52fc7-1ef2-4589-bcbe-0e77453476b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hierarchy Type'])[4]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Test hierarchy&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c8e0833f-29ac-4090-9c28-dec2805401f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP4:partyHierarchySearchResultsId:_ATp:table1:0:outputText13</value>
+      <webElementGuid>c5ba3ed5-20bb-47bf-9d6e-86b876c313da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget xmx</value>
+      <webElementGuid>2700efeb-8d26-4ac4-898e-2ab490cb1c56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>efd268d0-845b-4ab6-8bf2-9c12594b7d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9a69c2bc-4cc8-4771-acab-1cf0106177eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test hierarchy</value>
+      <webElementGuid>2dddf97f-ece0-4e88-8177-86ac298236de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP4:partyHierarchySearchResultsId:_ATp:table1:0:outputText13&quot;)</value>
+      <webElementGuid>05473826-bd68-4d7d-b7fb-e288fad6add9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP4:partyHierarchySearchResultsId:_ATp:table1:0:outputText13']</value>
+      <webElementGuid>26ef6055-35b8-4d3c-ae27-492a2ba374d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP4:partyHierarchySearchResultsId:_ATp:table1::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td/span/a</value>
+      <webElementGuid>ccf5509a-527d-48b8-b04e-1af163bb3489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Test hierarchy')]</value>
+      <webElementGuid>c272a70d-868f-46df-942c-c4b5f984ae7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hierarchy Type'])[4]/following::a[1]</value>
+      <webElementGuid>16bad776-1f7e-43e9-a796-9bd9dc680588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Address'])[2]/following::a[1]</value>
+      <webElementGuid>a879716d-7543-4d37-a248-81c1cebd1270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Customer'])[1]/preceding::a[1]</value>
+      <webElementGuid>452d40ab-1e4f-481c-8ff6-3ba9c831bb01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buying Customer, External Legal Entity, Customer'])[1]/preceding::a[1]</value>
+      <webElementGuid>7c66dcd4-5bc3-4630-a75f-97cde55c20b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test hierarchy']/parent::*</value>
+      <webElementGuid>29d42a80-1ac6-4c2e-b19b-dac16dcfd61b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[26]</value>
+      <webElementGuid>b3624536-df50-4966-a092-ab4c88b7948f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/table/tbody/tr/td/span/a</value>
+      <webElementGuid>9a3e7356-46f2-48e1-a302-a44608b5af2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP4:partyHierarchySearchResultsId:_ATp:table1:0:outputText13' and @href = '#' and (text() = 'Test hierarchy' or . = 'Test hierarchy')]</value>
+      <webElementGuid>4eb9b466-86f3-4a9d-98f2-e9b0bb96c632</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

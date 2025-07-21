@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_SHIPMENT START DAY OF THE WEEK</name>
+   <tag></tag>
+   <elementGuidId>d007c907-e46b-4209-828f-bcff4b6d9420</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[4]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;SHIPMENT START DAY OF THE WEEK&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>17e31e5b-dd05-4067-a2d6-06df6da83525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gridBodyCell</value>
+      <webElementGuid>2235aeff-e1c3-4bd2-8526-3ec32ad9bc46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SHIPMENT START DAY OF THE WEEK</value>
+      <webElementGuid>edc81e77-b6f4-4c41-8110-fc8fa227adcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ReferenceNumbers&quot;)/tbody[1]/tr[@class=&quot;rowEven&quot;]/td[@class=&quot;gridBodyCell&quot;]</value>
+      <webElementGuid>24560a80-f26c-4c94-aad3-c288bcca3519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Shipment Tracking Events/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>737a0d3a-392f-41be-8c1f-e6b6da8680b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ReferenceNumbers']/tbody/tr[4]/td</value>
+      <webElementGuid>f9e65c4f-5798-4e72-aa1a-9a010be75c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BXC.6007'])[1]/following::td[1]</value>
+      <webElementGuid>136e44a0-4aa3-48c2-8761-fce4c3b07763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='G-LOG IDENTIFIER'])[1]/following::td[2]</value>
+      <webElementGuid>96a88c44-b79e-44b2-a0aa-74e84d2a386d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[1]/preceding::td[1]</value>
+      <webElementGuid>b6410d28-f212-4ec3-9a2d-f5ed83e0ac85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BILL OF LADING NUMBER'])[1]/preceding::td[2]</value>
+      <webElementGuid>f07e631c-1500-4ddd-b4f3-a0e32cc5fb16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SHIPMENT START DAY OF THE WEEK']/parent::*</value>
+      <webElementGuid>8e94db59-fd87-4997-a14d-643b0a442046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td</value>
+      <webElementGuid>c97cac10-ff14-404c-9347-58be41c4046e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'SHIPMENT START DAY OF THE WEEK' or . = 'SHIPMENT START DAY OF THE WEEK')]</value>
+      <webElementGuid>44246309-6a72-462e-967f-5edbe50d196a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

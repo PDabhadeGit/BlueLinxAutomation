@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1 (1)</name>
+   <tag></tag>
+   <elementGuidId>97eb44cc-a487-4222-833e-7be390613c43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fieldCont > div.fieldData > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipments Built'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Shipments Built 1&quot;s] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>efe618a9-eae5-4e46-89f6-ab897c390a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>PopupWin('/GC3/glog.webserver.util.QueryResponseServlet/1748361503717?bcKey=MTc0ODM2MTQ4OTY5Nzox&amp;action_name=bulk_plan_shipments&amp;is_selected=&amp;pk=BXC.20250527-0032');</value>
+      <webElementGuid>3234fc25-3574-4afa-8097-55b8124c9df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>98b99063-a71e-41e8-a456-0d17ad9305bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>ef92cadb-56cd-46ca-aa89-1d190c65b8f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultsData&quot;)/div[@class=&quot;bodySectCont&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[1]/td[4]/div[@class=&quot;fieldCont&quot;]/div[@class=&quot;fieldData&quot;]/a[1]</value>
+      <webElementGuid>ab8faf1c-8857-4938-a94a-ec9ef8c0352c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Bulk Plan/iframe_mainBody</value>
+      <webElementGuid>455ec6c3-1a82-4186-ab2d-88fa64aaebbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;PopupWin('/GC3/glog.webserver.util.QueryResponseServlet/1748361503717?bcKey=MTc0ODM2MTQ4OTY5Nzox&amp;action_name=bulk_plan_shipments&amp;is_selected=&amp;pk=BXC.20250527-0032');&quot;]</value>
+      <webElementGuid>40ab4b22-b369-43ad-95f7-0a00aa010d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='resultsData']/div[3]/table/tbody/tr/td[4]/div/div[2]/a</value>
+      <webElementGuid>8ff31c2d-f0e6-4f24-84f2-b1b1dda87d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'1')]</value>
+      <webElementGuid>c62cf72f-a086-40f3-822d-9bca84c3ca4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipments Built'])[1]/following::a[1]</value>
+      <webElementGuid>242254fa-4962-4ddc-98eb-8cd2b8a184ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders Unassigned'])[1]/following::a[1]</value>
+      <webElementGuid>187edfbb-4a88-41d1-9665-c2a0e2d4b971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Number of Stops'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d65e898-2ab5-4988-a8c1-1e6a1ceec6bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Time'])[1]/preceding::a[1]</value>
+      <webElementGuid>0fce415d-747b-437e-9641-4e2a21fc4d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[3]</value>
+      <webElementGuid>75466c6d-e78c-46f2-99ec-5c07ac6a7f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/a</value>
+      <webElementGuid>43e6c9d8-70ee-4a38-bc27-0727eb9f5ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = '1' or . = '1')]</value>
+      <webElementGuid>fffb2a46-6bb3-4d90-9a46-98648343a0de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

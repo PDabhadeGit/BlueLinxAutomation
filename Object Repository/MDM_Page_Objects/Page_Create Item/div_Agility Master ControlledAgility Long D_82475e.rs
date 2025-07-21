@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Agility Master ControlledAgility Long D_82475e</name>
+   <tag></tag>
+   <elementGuidId>492b50e1-a415-4419-85e0-8ca5d5d8252a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CRPB']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;_FOpt1\:_FOr1\:0\:_FONSr2\:0\:MAt3\:0\:pt1\:ap1\:sspecf\:1\:dynReg\:2\:CRPB&quot;] > .x1dc > div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>72a602cf-fbf7-4f31-8a18-787bed75b981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agility Master ControlledAgility Long DescriptionAgility Long DescriptionAgility Short Description *Agility Short Description *Coverage per cartonCoverage per cartonCoverage per CrateCoverage per CrateCustomer Private LabelCustomer Private LabelAutocompletes on TABKeyword User DefinedKeyword User DefinedMajor Code *Major Code *Autocompletes on TABMajor Code DescriptionMajor Code DescriptionMid Code *Mid Code *Autocompletes on TABMid Code DescriptionMid Code DescriptionMinor Code *Minor Code *Autocompletes on TABMinor Code DescriptionMinor Code DescriptionStocking to Costing FactorStocking to Costing FactorAgility Org ControlledAuto Tag for Reman'sAuto Tag for Reman'sAutocompletes on TABAuto Tag for SO'sAuto Tag for SO'sAutocompletes on TABBuyerBuyerDefault LocationDefault LocationDefault TransferDiscontinuedDiscontinuedAutocompletes on TABHistory Start DateHistory Start DateNonsaleableNonsaleableAutocompletes on TABOverall ABCOverall ABCPiece countPiece countRandom Length CodeRandom Length CodeSelling Min PackSelling Min PackPurchasing Min PackPurchasing Min PackStockedStockedAutocompletes on TAB</value>
+      <webElementGuid>9a9a29c6-6674-4f6a-aea2-1eb08a1ddfd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CRPB&quot;)/div[@class=&quot;x1dc&quot;]/div[1]</value>
+      <webElementGuid>2cd723a9-f340-425e-9a97-b2356860e431</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CRPB']/div[2]/div</value>
+      <webElementGuid>4972a93e-aeb5-41f6-b123-ab59b21f3c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item: Agility'])[1]/following::div[7]</value>
+      <webElementGuid>c1052add-9436-45fa-8d76-5e0773143ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item Organization'])[1]/following::div[23]</value>
+      <webElementGuid>9d176e9e-a51c-418d-a5e6-80b409cf3c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>eca056ce-c65e-440e-80b3-5da8c2f62e4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Agility Master ControlledAgility Long DescriptionAgility Long DescriptionAgility Short Description *Agility Short Description *Coverage per cartonCoverage per cartonCoverage per CrateCoverage per CrateCustomer Private LabelCustomer Private LabelAutocompletes on TABKeyword User DefinedKeyword User DefinedMajor Code *Major Code *Autocompletes on TABMajor Code DescriptionMajor Code DescriptionMid Code *Mid Code *Autocompletes on TABMid Code DescriptionMid Code DescriptionMinor Code *Minor Code *Autocompletes on TABMinor Code DescriptionMinor Code DescriptionStocking to Costing FactorStocking to Costing FactorAgility Org ControlledAuto Tag for Reman&quot; , &quot;'&quot; , &quot;sAuto Tag for Reman&quot; , &quot;'&quot; , &quot;sAutocompletes on TABAuto Tag for SO&quot; , &quot;'&quot; , &quot;sAuto Tag for SO&quot; , &quot;'&quot; , &quot;sAutocompletes on TABBuyerBuyerDefault LocationDefault LocationDefault TransferDiscontinuedDiscontinuedAutocompletes on TABHistory Start DateHistory Start DateNonsaleableNonsaleableAutocompletes on TABOverall ABCOverall ABCPiece countPiece countRandom Length CodeRandom Length CodeSelling Min PackSelling Min PackPurchasing Min PackPurchasing Min PackStockedStockedAutocompletes on TAB&quot;) or . = concat(&quot;Agility Master ControlledAgility Long DescriptionAgility Long DescriptionAgility Short Description *Agility Short Description *Coverage per cartonCoverage per cartonCoverage per CrateCoverage per CrateCustomer Private LabelCustomer Private LabelAutocompletes on TABKeyword User DefinedKeyword User DefinedMajor Code *Major Code *Autocompletes on TABMajor Code DescriptionMajor Code DescriptionMid Code *Mid Code *Autocompletes on TABMid Code DescriptionMid Code DescriptionMinor Code *Minor Code *Autocompletes on TABMinor Code DescriptionMinor Code DescriptionStocking to Costing FactorStocking to Costing FactorAgility Org ControlledAuto Tag for Reman&quot; , &quot;'&quot; , &quot;sAuto Tag for Reman&quot; , &quot;'&quot; , &quot;sAutocompletes on TABAuto Tag for SO&quot; , &quot;'&quot; , &quot;sAuto Tag for SO&quot; , &quot;'&quot; , &quot;sAutocompletes on TABBuyerBuyerDefault LocationDefault LocationDefault TransferDiscontinuedDiscontinuedAutocompletes on TABHistory Start DateHistory Start DateNonsaleableNonsaleableAutocompletes on TABOverall ABCOverall ABCPiece countPiece countRandom Length CodeRandom Length CodeSelling Min PackSelling Min PackPurchasing Min PackPurchasing Min PackStockedStockedAutocompletes on TAB&quot;))]</value>
+      <webElementGuid>ee9e2404-1c95-47e7-b8c7-5c05802ab367</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

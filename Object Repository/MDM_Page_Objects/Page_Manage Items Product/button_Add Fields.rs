@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Fields</name>
+   <tag></tag>
+   <elementGuidId>e6578b5f-2424-47b7-8632-880c32e49e18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Save...'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add Fields&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e0a769fc-90c5-4552-82b4-cb87798fa037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:efqrp:addFldsCmd</value>
+      <webElementGuid>4995a503-cd04-4b99-88ad-5ff21deeb1d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget x7j p_AFTextOnly</value>
+      <webElementGuid>0d369501-8316-4383-8727-a44c1d2eecea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>a20fba6c-0128-4bca-92a5-cdae3742ecc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Fields</value>
+      <webElementGuid>daa124f3-eed2-4768-9464-6352d5b22dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:efqrp:addFldsCmd&quot;)</value>
+      <webElementGuid>7b918271-adb4-4067-93cd-96a3e068231c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:efqrp:addFldsCmd']</value>
+      <webElementGuid>e669929c-d9ad-4fdf-83b4-c90a4aafcdd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:efqrp']/div[2]/div/table/tbody/tr/td/table/tbody/tr/td[6]/button</value>
+      <webElementGuid>9939e875-d5d8-4b91-8c17-2099e5b31e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save...'])[1]/following::button[1]</value>
+      <webElementGuid>df7a65ad-5a2d-4650-bf5f-6b88831e93bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[2]</value>
+      <webElementGuid>4c8c3295-78f6-466e-a604-7ebc04def212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/preceding::button[1]</value>
+      <webElementGuid>daa838bd-5fb4-441c-9609-634611c02abb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::button[1]</value>
+      <webElementGuid>21dd763a-c6c5-4165-9c56-66040a1ff22b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Fields']/parent::*</value>
+      <webElementGuid>a32bd1fe-7902-41f8-b5e4-a1b3b3669964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/button</value>
+      <webElementGuid>300c3315-d163-4f69-a52b-6b1e21530a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:efqrp:addFldsCmd' and (text() = 'Add Fields' or . = 'Add Fields')]</value>
+      <webElementGuid>4fa92000-21c7-4aab-be5c-38970cf65d50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

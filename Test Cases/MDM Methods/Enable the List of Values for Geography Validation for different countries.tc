@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enable the List of Values for Geography Validation for different countries</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>526c28f4-7bb7-4da1-930d-962914f01734</testCaseGuid>
+</TestCaseEntity>

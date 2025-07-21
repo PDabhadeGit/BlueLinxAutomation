@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Outdoor Living</name>
+   <tag></tag>
+   <elementGuidId>8cdb75ac-7f9b-4d76-af13-39e4afd300f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.p_AFSelected.p_AFFocused.xem > td:nth-of-type(2) > div > table > tbody > tr > td.xen > span.x2hl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sCatAs:1:AT1:AT2:_ATp:ATt1::db&quot;]/table/tbody/tr[2]/td[2]/div/table/tbody/tr/td[1]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Outdoor Living&quot;s] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>76806a68-ebd1-4b14-859b-191524044ac4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x2hl</value>
+      <webElementGuid>98a910bf-2ba6-4562-9945-781355a69393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Outdoor Living</value>
+      <webElementGuid>a15113b3-b956-472d-a01b-90a90ef910f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sCatAs:1:AT1:AT2:_ATp:ATt1::db&quot;)/table[@class=&quot;x1hi x1i6&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[2]/div[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;xen&quot;]/span[@class=&quot;x2hl&quot;]</value>
+      <webElementGuid>a03a79f4-fb61-4d8e-9243-c47dd1de5f0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sCatAs:1:AT1:AT2:_ATp:ATt1::db']/table/tbody/tr[2]/td[2]/div/table/tbody/tr/td/span</value>
+      <webElementGuid>1e8a18d0-0130-400a-be3f-69f41ac50ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exterior > Building Envelope'])[1]/following::span[2]</value>
+      <webElementGuid>f20774af-18b4-440b-9725-93d034540b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building Envelope'])[1]/following::span[3]</value>
+      <webElementGuid>18fa7fe5-5ce4-4c69-9e7e-16a3015bd970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exterior > Outdoor Living'])[1]/preceding::span[1]</value>
+      <webElementGuid>aeff27c3-baaa-4cc0-922d-d2d6eba30989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roofing'])[2]/preceding::span[3]</value>
+      <webElementGuid>28afb18a-e493-4f5c-861d-9e07c57727a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div[2]/div/div[2]/table/tbody/tr[2]/td[2]/div/table/tbody/tr/td/span</value>
+      <webElementGuid>d286363b-28b0-4306-8f86-40f7040da056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Outdoor Living' or . = 'Outdoor Living')]</value>
+      <webElementGuid>94b0849d-5bd9-452e-b2a2-dab8ec0cfb2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:efqrp:value40::dropdownPopup::dropDownContent::db']/table/tbody/tr[15]/td/span</value>
+      <webElementGuid>209516bf-f61c-4f24-9fa6-e18de345a311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OSB'])[3]/following::span[1]</value>
+      <webElementGuid>bd2e5107-0bfe-4e41-ae1f-a2038e54967c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OSB'])[2]/following::span[2]</value>
+      <webElementGuid>508b6be9-8187-4755-b811-9991eb1fa23e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outdoor_Living'])[1]/preceding::span[1]</value>
+      <webElementGuid>170d2ea4-2e37-4542-baf6-eca08963af33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outdoor Living'])[2]/preceding::span[2]</value>
+      <webElementGuid>bf9ff313-d89c-47ed-a8b6-77f2b05923f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Outdoor Living']/parent::*</value>
+      <webElementGuid>30b13ff1-6a7d-4c35-93e4-2e5c0a28a34e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[15]/td/span</value>
+      <webElementGuid>e43b2904-dfca-4357-aeb9-d65c1d4799ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

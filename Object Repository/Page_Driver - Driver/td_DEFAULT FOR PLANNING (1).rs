@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_DEFAULT FOR PLANNING (1)</name>
+   <tag></tag>
+   <elementGuidId>28166458-3e98-4708-a986-f76946dd9d87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.acSelItem > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='driver_power_unit_join/power_unit_gid::dropdownPopup::content::db']/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;driver_power_unit_join\/power_unit_gid\:\:dropdownPopup\:\:content\:\:db&quot;] >> internal:role=cell[name=&quot;DEFAULT FOR PLANNING&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c6fbc249-18cc-4c2c-b31e-98a4fc6df8dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>b51d0954-0917-4659-a8ba-05a397735a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DEFAULT FOR PLANNING</value>
+      <webElementGuid>6b3ed25b-453d-48e9-9008-f521b0a08c77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;driver_power_unit_join/power_unit_gid::dropdownPopup::content::db&quot;)/table[@class=&quot;acTable&quot;]/tbody[1]/tr[@class=&quot;acSelItem&quot;]/td[1]</value>
+      <webElementGuid>cbc572a7-a1f2-4d0d-95a2-118fdc31e925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Driver - Driver/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>7234a5e3-5272-4a47-a06b-f1c96d703237</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='driver_power_unit_join/power_unit_gid::dropdownPopup::content::db']/table/tbody/tr/td</value>
+      <webElementGuid>841c3b40-57c5-4b33-bb7f-ab79c70975b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DRIVER_ID'])[2]/following::td[6]</value>
+      <webElementGuid>74d60672-3b51-48e9-afdc-112391f36798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[3]/following::td[7]</value>
+      <webElementGuid>e5fbf654-339a-40b3-a8bf-5630d8e1f129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top'])[1]/preceding::td[1]</value>
+      <webElementGuid>579b4740-7a1d-4e6f-86b6-04d0733b14c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Licenses'])[2]/preceding::td[2]</value>
+      <webElementGuid>e8a5576e-16fa-4457-9fe9-c43b8860f566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/table/tbody/tr/td</value>
+      <webElementGuid>e4512788-c3ce-4cac-91de-30abc818369a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'DEFAULT FOR PLANNING' or . = 'DEFAULT FOR PLANNING')]</value>
+      <webElementGuid>2b1fc581-e1a3-41f9-82da-8e53da007156</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

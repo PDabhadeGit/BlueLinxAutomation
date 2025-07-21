@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_001_ Create new Customer with necessary details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b10c02f4-390c-435e-9b4f-96b692ffbabd</testCaseGuid>
+</TestCaseEntity>

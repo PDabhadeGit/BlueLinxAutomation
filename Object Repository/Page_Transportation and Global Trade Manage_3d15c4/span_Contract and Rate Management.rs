@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Contract and Rate Management</name>
+   <tag></tag>
+   <elementGuidId>bc9da1f0-30e1-41bc-bd9f-af940eb0f9e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#treeview_2_hdr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='treeview_2_hdr']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Contract and Rate Management&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>21bfa867-94d7-46bb-ac93-686947ea373b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:id</name>
+      <type>Main</type>
+      <value>[['treeview_'+menu.index+'_hdr']]</value>
+      <webElementGuid>9fdc9e34-091b-4733-a9df-f5ad7947c686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:style</name>
+      <type>Main</type>
+      <value>[[{'color':theme_springboard_submenu_fontcolor}]]</value>
+      <webElementGuid>7bb40bbd-b812-4aae-a609-ec934c1b7075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:title</name>
+      <type>Main</type>
+      <value>[[menu.data.text]]</value>
+      <webElementGuid>49ecd771-084d-4f20-8bde-b03bd0a9ab04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>treeview_2_hdr</value>
+      <webElementGuid>c82f744a-b60b-476d-ab38-7706a7ca2294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Contract and Rate Management</value>
+      <webElementGuid>e0a69bdd-169a-4e25-be64-dd8eadb53e69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Contract and Rate Management
+                      </value>
+      <webElementGuid>84bd0440-cbb6-4e6f-bccc-249cf6891b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treeview_2_hdr&quot;)</value>
+      <webElementGuid>b0ffe19b-ade2-4aed-ba9f-be8216735df3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='treeview_2_hdr']</value>
+      <webElementGuid>8f82fe63-9871-4c3c-b6ce-f344af5bb1c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sb_2']/div/div/h3/span</value>
+      <webElementGuid>1d16394b-7f46-45a8-adbb-cf9e9903d012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[6]/following::span[1]</value>
+      <webElementGuid>03c1b8a7-916c-4f58-ae29-a26807478a99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[7]/preceding::span[1]</value>
+      <webElementGuid>cd0231f1-c2d5-4ceb-8f1a-04f90e945194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/span</value>
+      <webElementGuid>96964449-49cd-44cf-b062-60b65c5085d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'treeview_2_hdr' and @title = 'Contract and Rate Management' and (text() = '
+                        Contract and Rate Management
+                      ' or . = '
+                        Contract and Rate Management
+                      ')]</value>
+      <webElementGuid>a9ac02d8-298b-45b5-a72e-1ff606ed5411</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

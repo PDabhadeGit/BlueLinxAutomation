@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_PDH_301_Export items from a specific product catalog</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>874c8304-1206-4e49-bdfd-717ea8aee4ca</testCaseGuid>
+</TestCaseEntity>

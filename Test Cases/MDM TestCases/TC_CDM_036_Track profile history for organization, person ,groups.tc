@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_036_Track profile history for organization, person ,groups</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>252c290f-ae69-4380-846d-903fb429c173</testCaseGuid>
+</TestCaseEntity>

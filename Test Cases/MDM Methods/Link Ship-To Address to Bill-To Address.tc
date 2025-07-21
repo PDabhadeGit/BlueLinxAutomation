@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Link Ship-To Address to Bill-To Address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f02a246e-67e7-47d1-8f9d-dcb31c3a357f</testCaseGuid>
+</TestCaseEntity>

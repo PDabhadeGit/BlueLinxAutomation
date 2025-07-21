@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Order Management</name>
+   <tag></tag>
+   <elementGuidId>3086207a-265e-4c7d-a8e4-6b964066f4ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='label1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#label1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Menu&quot;s >> internal:text=&quot;Order Management&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>84f8d1d0-814e-4c6c-8afb-d9402f1278ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:id</name>
+      <type>Main</type>
+      <value>[[getLabelId(menu.index)]]</value>
+      <webElementGuid>ec3a9255-cfff-4c7f-821c-9b37093d1c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tm-text-align-center tm-sb-tile-label</value>
+      <webElementGuid>0c5f0573-220f-4e19-ac3f-76ceae5c277a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:style</name>
+      <type>Main</type>
+      <value>[[{'color':theme_main_font_color}]]</value>
+      <webElementGuid>428278b4-f081-40ff-8703-eee5f0296b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label1</value>
+      <webElementGuid>3f7c135b-9def-4a06-8785-3a7cf54fba86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Order Management
+                </value>
+      <webElementGuid>5ad245df-9fd0-4fc9-8d31-5b01266d9eef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;label1&quot;)</value>
+      <webElementGuid>67665038-1dac-4e80-93ce-05f2070bdfb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='label1']</value>
+      <webElementGuid>2fb0e185-2ab4-4704-aa2e-f2443b951497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sb_0']/div/div/div[2]</value>
+      <webElementGuid>8e57573a-fd51-4bee-a877-bc558b6b6224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRAJYOT.DABHADE@BLUELINXCO.COM'])[2]/following::div[14]</value>
+      <webElementGuid>1753f32c-4e13-48a4-9956-8274ccdce640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[5]/following::div[15]</value>
+      <webElementGuid>00ccd1a5-c031-4aad-878f-60528e494a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[5]/preceding::div[1]</value>
+      <webElementGuid>8e8638b4-1b06-471a-a54f-af7c29382db3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]</value>
+      <webElementGuid>7f92c5aa-07aa-4aa5-b281-bab536d89e7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'label1' and (text() = '
+                  Order Management
+                ' or . = '
+                  Order Management
+                ')]</value>
+      <webElementGuid>38d30129-be47-4801-9351-539abf4e4493</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

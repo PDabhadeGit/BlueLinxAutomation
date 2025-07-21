@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Duplicate Identification</name>
+   <tag></tag>
+   <elementGuidId>f0cd94c7-78dc-4db5-8d61-e3db2147a233</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='itemNode_customer_data_management_duplicate_identification_0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#itemNode_customer_data_management_duplicate_identification_0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Duplicate Identification&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8f657730-9356-47b4-b2c4-6e5aea66f634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>itemNode_customer_data_management_duplicate_identification_0</value>
+      <webElementGuid>5cb52b3b-ffbf-444c-aa3f-1363bb1fe55f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-nav-label flat-grid-nav-label</value>
+      <webElementGuid>45ec298e-2637-49f1-a690-4d49f10e4d0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>5a0b98c8-9415-416a-a3ed-454888ac333d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Duplicate Identification</value>
+      <webElementGuid>53de2977-5af6-4be9-835b-a4897ecb8dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;itemNode_customer_data_management_duplicate_identification_0&quot;)</value>
+      <webElementGuid>4dba2c63-41d6-4457-9e4d-4063ee6bb1b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='itemNode_customer_data_management_duplicate_identification_0']</value>
+      <webElementGuid>2d79967e-32a5-4bdd-86fe-12a734a19dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='itemNode_customer_data_management_duplicate_identification']/a</value>
+      <webElementGuid>1cf7c0d1-bd0e-4a81-985c-78a9f6f18ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Duplicate Identification')]</value>
+      <webElementGuid>3fb6be7c-bdff-4e4a-984b-4a2a17afef48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[7]/following::a[3]</value>
+      <webElementGuid>69bf3be9-b00e-4815-85aa-bf368cc0f581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[6]/following::a[5]</value>
+      <webElementGuid>fe6b7200-26b1-4128-80e6-8ede36032e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[8]/preceding::a[7]</value>
+      <webElementGuid>bd385b36-f336-4864-badd-d2d21236dad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Actions'])[6]/preceding::a[12]</value>
+      <webElementGuid>f7d9960f-3f19-4753-9044-3ae677827d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Duplicate Identification']/parent::*</value>
+      <webElementGuid>3cef6e8d-738d-4304-96b5-74acd17d5fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[121]</value>
+      <webElementGuid>747102b5-20cc-459f-8ccb-8456704895dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div[2]/div[3]/div/a</value>
+      <webElementGuid>0c3e7942-af0f-46fb-8b18-688890555f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'itemNode_customer_data_management_duplicate_identification_0' and @href = '#' and (text() = 'Duplicate Identification' or . = 'Duplicate Identification')]</value>
+      <webElementGuid>52984bea-633d-43e5-a7ac-46e7825a35e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

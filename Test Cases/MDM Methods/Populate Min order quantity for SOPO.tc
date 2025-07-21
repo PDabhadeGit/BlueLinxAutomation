@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Populate Min order quantity for SOPO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00765c67-ac73-4f25-9aed-ac6f5d605eeb</testCaseGuid>
+</TestCaseEntity>

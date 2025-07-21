@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_024_Populate Complementary product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8318df9c-cb03-4ad1-a017-7a2e5f1fdcca</testCaseGuid>
+</TestCaseEntity>

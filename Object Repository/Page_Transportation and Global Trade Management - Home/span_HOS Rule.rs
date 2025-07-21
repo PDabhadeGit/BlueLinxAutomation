@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_HOS Rule</name>
+   <tag></tag>
+   <elementGuidId>99b12715-784f-47d2-b372-9e2a351b9085</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='oj-listbox-result-label-56']/oj-option/span/oj-highlight-text/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.oj-highlighttext-highlighter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;HOS Rule&quot;s >> internal:text=&quot;HOS Rule&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52772f2b-32c5-4ace-a00c-68fa9ea72818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-highlighttext-highlighter</value>
+      <webElementGuid>da9894f5-11ec-483f-875d-9837de4e2b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HOS Rule</value>
+      <webElementGuid>1a8cc328-27f2-4212-9034-735f47f42d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oj-listbox-result-label-56&quot;)/oj-option[@class=&quot;oj-complete&quot;]/span[@class=&quot;oj-listbox-highlighter-section&quot;]/oj-highlight-text[@class=&quot;oj-highlighttext oj-complete&quot;]/span[1]/span[@class=&quot;oj-highlighttext-highlighter&quot;]</value>
+      <webElementGuid>5bec791c-bddd-49c3-bb69-2e76134dab8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oj-listbox-result-label-56']/oj-option/span/oj-highlight-text/span/span</value>
+      <webElementGuid>6d59521d-3d5d-46d6-ac24-54ba9f3575cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigator'])[1]/following::span[3]</value>
+      <webElementGuid>d06b4a90-7fd3-4b08-ab57-c21a5bb52b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to Footer'])[1]/following::span[3]</value>
+      <webElementGuid>adee0d75-2989-4671-b3e2-f1b970607c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOS Rule'])[2]/preceding::span[1]</value>
+      <webElementGuid>2e849ada-988a-4ac4-8f63-5c23622314c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HOS Rule']/parent::*</value>
+      <webElementGuid>c5d5784a-6baa-483d-ab17-40420780939b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>e8441843-ee8c-4009-99d6-e9cd97d29475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'HOS Rule' or . = 'HOS Rule')]</value>
+      <webElementGuid>7c25349a-0b60-4cbe-bb33-f6db155367af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

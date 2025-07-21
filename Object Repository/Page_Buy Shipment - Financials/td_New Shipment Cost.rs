@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_New Shipment Cost</name>
+   <tag></tag>
+   <elementGuidId>84a8d0e7-c3f9-4d0d-8c85-1fdcfe84f3b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Informational Costs'])[1]/preceding::td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.gridFooterCont</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;New Shipment Cost&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5f33eb96-9332-4ba4-b88f-70f8008b819b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>colsgroup</value>
+      <webElementGuid>4d5f5a08-b4a2-4a26-8be6-3294af45bffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>eb5751ef-31c8-4f60-ab62-3d14e483397d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gridFooterCont</value>
+      <webElementGuid>9170126e-33f4-45af-b46b-79edcc010677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Shipment Cost</value>
+      <webElementGuid>e4a7744a-4e46-47f3-9106-52905b3a8d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_shipment_cost_grid&quot;)/tbody[1]/tr[5]/td[@class=&quot;gridFooterCont&quot;]</value>
+      <webElementGuid>c26d5052-3b53-4ae7-a69f-07458d158557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment - Financials/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>b59abf6b-c09e-4940-b501-72ebaddb957e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_shipment_cost_grid']/tbody/tr[5]/td</value>
+      <webElementGuid>dbbdf995-2d36-4d47-be9b-b4526a6e05cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessorial'])[2]/following::td[18]</value>
+      <webElementGuid>f2b182df-3e9d-4b99-9109-affbeaa4913a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Base'])[1]/following::td[36]</value>
+      <webElementGuid>5a7fcf69-4375-46c5-b902-8ae89bb26f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informational Costs'])[1]/preceding::td[2]</value>
+      <webElementGuid>c44f79d9-22f1-4a98-a141-b5418561fe0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/table/tbody/tr[5]/td</value>
+      <webElementGuid>108ce627-415b-4c4d-b2f9-77d05c944997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'New Shipment Cost' or . = 'New Shipment Cost')]</value>
+      <webElementGuid>b57c8cf9-d41c-43f5-85ea-f9595178b66b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Package Items</name>
+   <tag></tag>
+   <elementGuidId>98c4665f-e929-4345-811c-eb0fdc6d463c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tabPackageItems > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabPackageItems']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Package Items&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27ad41b3-ab1d-423e-ae68-a9c828d78ce0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:if(checkData('management_main')){ document.management_main.redirect.value = formatUrl(servlet_link+'?management_action=edit&amp;step=PackageItems&amp;manager_layout_gid=ITEM&amp;show_act_smtlnk=&amp;adf_wrapper=');document.management_main.submit();}</value>
+      <webElementGuid>b2719caa-457e-4d29-a680-85e54f7dcd63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>4e3ca27f-8336-4a7f-ae9d-8c342d378c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>3c914e53-f426-4835-9580-db5956fea271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e33deb6d-d963-4916-8b5b-31ada461f8e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-setsize</name>
+      <type>Main</type>
+      <value>11</value>
+      <webElementGuid>1387f867-ab58-4584-998a-38d4d2e4831a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-posinset</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>02922e0b-763f-4fda-befa-9ed82a6733d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Package Items</value>
+      <webElementGuid>c3df1e30-68fe-4c48-87a8-0e3f183a0ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabPackageItems&quot;)/a[1]</value>
+      <webElementGuid>7d4d1b1f-ac3a-486a-bff6-afaf0d74cce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Item - Item/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>ad0a24d9-abc9-4db8-a0bd-6ec7386cb29f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabPackageItems']/a</value>
+      <webElementGuid>e0b37760-7410-4cba-bbbe-14a508da356a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Package Items')]</value>
+      <webElementGuid>4661ba75-9b14-42b3-80e1-5df8758c4c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transport Details'])[1]/following::a[1]</value>
+      <webElementGuid>95e7f83e-cc60-4dfb-bca2-6b571822aadd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item'])[3]/following::a[2]</value>
+      <webElementGuid>d2e2f4e9-abdc-417d-9f1d-450fcd539075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessorials'])[1]/preceding::a[1]</value>
+      <webElementGuid>6d233b81-6cae-4846-a4f8-02b1238286af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trading Partner Items'])[1]/preceding::a[2]</value>
+      <webElementGuid>5d0583d2-e426-4294-8cb0-8ffd0922a0e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Package Items']/parent::*</value>
+      <webElementGuid>ca273e5a-e985-436b-af09-ce98294e85f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:if(checkData('management_main')){ document.management_main.redirect.value = formatUrl(servlet_link+'?management_action=edit&amp;step=PackageItems&amp;manager_layout_gid=ITEM&amp;show_act_smtlnk=&amp;adf_wrapper=');document.management_main.submit();}&quot;)]</value>
+      <webElementGuid>d01b9b9e-967a-499c-a623-1939e937262f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>3f228317-a838-41e1-be5d-71d9d0cdd5bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:if(checkData(&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;)){ document.management_main.redirect.value = formatUrl(servlet_link+&quot; , &quot;'&quot; , &quot;?management_action=edit&amp;step=PackageItems&amp;manager_layout_gid=ITEM&amp;show_act_smtlnk=&amp;adf_wrapper=&quot; , &quot;'&quot; , &quot;);document.management_main.submit();}&quot;) and (text() = 'Package Items' or . = 'Package Items')]</value>
+      <webElementGuid>38c4f7a9-0114-405c-ac88-bec5f082dae4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

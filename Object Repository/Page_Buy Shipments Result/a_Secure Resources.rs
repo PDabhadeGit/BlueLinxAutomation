@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Secure Resources</name>
+   <tag></tag>
+   <elementGuidId>3537559b-da03-4af4-802d-cfd30039a9d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='actionTree.1_8_9_9.k']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Secure Resources&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5a6b30ac-0d69-492b-bb4b-43db15dd6a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionTree.1_8_9_9.k</value>
+      <webElementGuid>497b6410-464c-481d-9566-73f961b68e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>969b085c-fc76-4378-ae7b-f47442e92c5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1749227168123\x3FbcKey\x3DMTc0OTIyNzE2ODEyNDox\x26action_name\x3Dsecure_resources\x26finder_set_gid\x3DBUY_SHIPMENT')</value>
+      <webElementGuid>06714e4c-f1d7-448a-91f1-8bd00a7162c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Secure Resources</value>
+      <webElementGuid>8b15265e-5ae5-4635-850a-9ac5131a8123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionTree.1_8_9_9.k&quot;)</value>
+      <webElementGuid>1e0d2313-6d48-4c63-b598-36503f83ad1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipments Result/iframe_concat(id(, , actionFrame, , ))_actionFrame</value>
+      <webElementGuid>5fb4ea20-cc08-4bbb-af6c-bbc6e8d832ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='actionTree.1_8_9_9.k']</value>
+      <webElementGuid>74cbec4d-fee7-419d-9b04-c2cf3896a342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='actionTree.1_8_9_9.l']/a</value>
+      <webElementGuid>c7704ea3-3599-442d-b8e5-29c908ad091f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Secure Resources')]</value>
+      <webElementGuid>8e97f8c5-0015-49bd-aa82-ab1ee81ae776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re-Transmit Tender'])[1]/following::a[1]</value>
+      <webElementGuid>c13eb600-30e5-458a-956b-438269629259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify Tender'])[1]/following::a[2]</value>
+      <webElementGuid>96701f00-71c9-4a8a-a9b1-a247982f8e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secure Resources by Planner'])[1]/preceding::a[1]</value>
+      <webElementGuid>95f00720-2bae-4722-bf08-fb58bdc6a5ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Split Booking'])[1]/preceding::a[2]</value>
+      <webElementGuid>b13aa0be-0721-41ab-a92c-767ff401c968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Secure Resources']/parent::*</value>
+      <webElementGuid>038a6ba3-5b61-4e4b-873c-50971194a664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1749227168123\x3FbcKey\x3DMTc0OTIyNzE2ODEyNDox\x26action_name\x3Dsecure_resources\x26finder_set_gid\x3DBUY_SHIPMENT')&quot;)]</value>
+      <webElementGuid>f08d090f-e4c2-4c4b-8fb3-f1582aa83aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[18]/td/div/table/tbody/tr[9]/td/span[2]/a</value>
+      <webElementGuid>c2cc795f-27e9-48e7-8a76-0b5077732080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_8_9_9.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1749227168123\x3FbcKey\x3DMTc0OTIyNzE2ODEyNDox\x26action_name\x3Dsecure_resources\x26finder_set_gid\x3DBUY_SHIPMENT&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Secure Resources' or . = 'Secure Resources')]</value>
+      <webElementGuid>4bbe019d-788c-4744-b896-e61428fa292a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747211908461\x3FbcKey\x3DMTc0NzIxMTkwODQ2Mjox\x26action_name\x3Dsecure_resources\x26finder_set_gid\x3DBUY_SHIPMENT')&quot;)]</value>
+      <webElementGuid>e45bea23-55b5-4d59-b7c1-7a2173d4abd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_8_9_9.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1747211908461\x3FbcKey\x3DMTc0NzIxMTkwODQ2Mjox\x26action_name\x3Dsecure_resources\x26finder_set_gid\x3DBUY_SHIPMENT&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Secure Resources' or . = 'Secure Resources')]</value>
+      <webElementGuid>c93be490-23c7-4d6b-9654-5cfe607d85cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

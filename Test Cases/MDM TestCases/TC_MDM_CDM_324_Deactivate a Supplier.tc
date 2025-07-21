@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_324_Deactivate a Supplier</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>109e1ad3-6838-4d1b-b6d2-37f4ef9c0fdd</testCaseGuid>
+</TestCaseEntity>

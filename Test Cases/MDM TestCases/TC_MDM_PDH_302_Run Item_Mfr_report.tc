@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_PDH_302_Run Item_Mfr_report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74ca36d2-94d2-4ec1-b9f3-f219402b1b6b</testCaseGuid>
+</TestCaseEntity>

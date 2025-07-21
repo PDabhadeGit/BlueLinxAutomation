@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update Supplier information via mass-load</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b03f3d99-278e-47c6-a27f-df2d84ab3696</testCaseGuid>
+</TestCaseEntity>

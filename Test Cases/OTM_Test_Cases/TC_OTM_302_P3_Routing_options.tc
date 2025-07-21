@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OTM_302_P3_Routing_options</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a68a5888-d9c3-43ae-8aa2-665eb3936133</testCaseGuid>
+</TestCaseEntity>

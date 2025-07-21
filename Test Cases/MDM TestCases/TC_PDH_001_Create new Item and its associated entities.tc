@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_001_Create new Item and its associated entities</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae470cc2-94b3-4b9f-943a-a91d9be9f62d</testCaseGuid>
+</TestCaseEntity>

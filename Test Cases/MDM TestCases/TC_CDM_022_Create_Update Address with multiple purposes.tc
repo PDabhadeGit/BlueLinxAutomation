@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_022_Create_Update Address with multiple purposes</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27fd9fbf-aacf-4a0d-b4de-9aa3145fd922</testCaseGuid>
+</TestCaseEntity>

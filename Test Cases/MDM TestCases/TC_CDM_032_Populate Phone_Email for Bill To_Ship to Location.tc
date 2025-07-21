@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_032_Populate Phone_Email for Bill To_Ship to Location</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eba935b7-9f02-4654-8fb7-47f5fed7d4b7</testCaseGuid>
+</TestCaseEntity>

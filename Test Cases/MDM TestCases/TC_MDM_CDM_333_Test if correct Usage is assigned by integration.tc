@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_333_Test if correct Usage is assigned by integration</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79ae1aab-fae2-43ab-8ab9-e2aea597537f</testCaseGuid>
+</TestCaseEntity>

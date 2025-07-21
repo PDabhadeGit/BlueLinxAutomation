@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Designate Supplier as Carrier and Carrier Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c579122c-871b-40db-95ae-43310e478b02</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_018_Create Notes for a Organization and Person</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50946b60-f9a7-4207-a39d-d0826ab2003b</testCaseGuid>
+</TestCaseEntity>

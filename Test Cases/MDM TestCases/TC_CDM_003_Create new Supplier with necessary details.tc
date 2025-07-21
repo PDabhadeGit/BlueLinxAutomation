@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_003_Create new Supplier with necessary details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e55d3f37-12a6-459d-9594-84c3b4529048</testCaseGuid>
+</TestCaseEntity>

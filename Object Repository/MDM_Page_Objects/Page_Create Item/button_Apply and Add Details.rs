@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply and Add Details</name>
+   <tag></tag>
+   <elementGuidId>008b4783-3baa-4f62-b090-b782743a637e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:commandButton1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Apply and Add Details&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3cb0c260-00a8-4eb9-a395-0b8366098a6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:commandButton1</value>
+      <webElementGuid>dd28d4d4-c98a-4114-9513-3077bb317930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget xuz p_AFTextOnly</value>
+      <webElementGuid>7fd2267f-b2c0-4ea7-9c98-f2c5431192c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>87fd2e74-6e35-4d27-8d8f-0c4cacb1f0f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply and Add Details</value>
+      <webElementGuid>9d06447c-a184-44bb-815d-5825f68c52a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:commandButton1&quot;)</value>
+      <webElementGuid>499ebbde-4187-4a39-b791-ef5863d95723</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:commandButton1']</value>
+      <webElementGuid>aa7fbeef-9c40-447d-9eaf-505efd1a8de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:pgl5']/tbody/tr/td[4]/button</value>
+      <webElementGuid>2802549c-5a2f-4c7d-8f68-c840dbec8a7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/following::button[1]</value>
+      <webElementGuid>9733dec1-f07d-4dd5-8033-6ccf1b4a3fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C'])[2]/preceding::button[1]</value>
+      <webElementGuid>e1bed6a0-b05e-40f0-845e-956e6aeb9b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply and Add Details']/parent::*</value>
+      <webElementGuid>5d40b6be-b9e9-4e01-a0f9-851aa9c76a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/button</value>
+      <webElementGuid>f57d2334-4af3-43c9-a968-0a7774544ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:commandButton1' and (text() = 'Apply and Add Details' or . = 'Apply and Add Details')]</value>
+      <webElementGuid>897b59fc-79d4-4348-9304-377bffaf38e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_006_Edit Supplier with additional details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b96ee53b-7c15-4e53-bb38-1a3d8cc56132</testCaseGuid>
+</TestCaseEntity>

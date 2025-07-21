@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FindRatesRate and RouteNetwork Rate and_17c65d</name>
+   <tag></tag>
+   <elementGuidId>c6dbf325-8c2c-4bda-b0ff-a18051b1dc23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bodyDataDiv']/div/table/tbody/tr/td/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fieldCont</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;FindRatesRate and RouteNetwork Rate and Route&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9f93333-5cde-4ae7-9e6a-1af46027dfa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fieldCont</value>
+      <webElementGuid>d916c3d8-adf6-4c39-be32-6889c2e3b573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FindRatesRate and RouteNetwork Rate and RouteallSelects.push(document.forms['management_main'].elements['findDropDown']);new DropListField('management_main','findDropDown','Find','null','single');</value>
+      <webElementGuid>172bd504-6e16-459c-b190-6d512922170a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont bodySectBG&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;fieldCont&quot;]</value>
+      <webElementGuid>47aed2d9-cafb-49a8-bd56-085ec9a7b35e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Ask Oracle About Rates/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>b0863c69-2f02-4ae3-8ca3-91711e44f92a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div/table/tbody/tr/td/div</value>
+      <webElementGuid>668a1572-1212-4a57-b62f-12ca27d469f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ask Oracle About Rates'])[2]/following::div[6]</value>
+      <webElementGuid>889d9a3a-5b74-4209-9dfb-bd6277d43ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Type'])[1]/preceding::div[2]</value>
+      <webElementGuid>bdaf0f4a-b89e-4a89-80cd-fb8cc08e0bad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div</value>
+      <webElementGuid>71b6d5f9-2cf9-4ce5-9921-da41ed9940d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;FindRatesRate and RouteNetwork Rate and RouteallSelects.push(document.forms[&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;].elements[&quot; , &quot;'&quot; , &quot;findDropDown&quot; , &quot;'&quot; , &quot;]);new DropListField(&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;findDropDown&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;Find&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;null&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;single&quot; , &quot;'&quot; , &quot;);&quot;) or . = concat(&quot;FindRatesRate and RouteNetwork Rate and RouteallSelects.push(document.forms[&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;].elements[&quot; , &quot;'&quot; , &quot;findDropDown&quot; , &quot;'&quot; , &quot;]);new DropListField(&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;findDropDown&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;Find&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;null&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;single&quot; , &quot;'&quot; , &quot;);&quot;))]</value>
+      <webElementGuid>fce5f5c0-9dea-45ea-9062-be9f144da79a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

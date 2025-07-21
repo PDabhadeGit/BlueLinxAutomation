@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Merge and consolidate one customer to another</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>392a74a0-c21a-4098-b6e6-aa2018ec3425</testCaseGuid>
+</TestCaseEntity>

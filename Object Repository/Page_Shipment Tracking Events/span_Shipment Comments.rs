@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Shipment Comments</name>
+   <tag></tag>
+   <elementGuidId>f04f0dde-ca60-4e9b-af71-a3347f7faac2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='label_ShipmentComments']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#label_ShipmentComments</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Shipment Comments&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fcbe2b1f-2fc6-41b9-8cc5-8cd382351e50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label_ShipmentComments</value>
+      <webElementGuid>ff3051dc-fa7f-4fb1-bd94-3ca2b8b77915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shipment Comments</value>
+      <webElementGuid>96bf276a-a748-4b5c-a255-266a11b4fe39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;label_ShipmentComments&quot;)</value>
+      <webElementGuid>cf9ca5e1-3dba-4206-a25b-9917c4d487a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Shipment Tracking Events/iframe_mainBody</value>
+      <webElementGuid>2b5eadce-196f-463c-aff6-f1ccb1a2cd21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='label_ShipmentComments']</value>
+      <webElementGuid>d0c80f59-84c9-4dd1-bdc4-d9bf6f6ac532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/form/div[9]/h2/span</value>
+      <webElementGuid>08a7fe38-f354-4ff3-806d-1ade517b28c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Date/Time'])[1]/following::span[1]</value>
+      <webElementGuid>499b5778-00b8-469c-b7ea-81d2c2895339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pickup Date/Time'])[1]/following::span[1]</value>
+      <webElementGuid>248c334d-6fad-41f8-83f4-6b20360a3851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remark Sequence Number'])[1]/preceding::span[1]</value>
+      <webElementGuid>c602124c-550b-42d7-83de-4dd5300da85f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remark Qualifier ID'])[1]/preceding::span[2]</value>
+      <webElementGuid>993aef3e-fd92-44ff-bfa2-66aa46075c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shipment Comments']/parent::*</value>
+      <webElementGuid>50203b93-05e2-45ed-bcb4-fd7210f0894e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/h2/span</value>
+      <webElementGuid>09397079-add0-4965-86bf-cc346c2ad920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'label_ShipmentComments' and (text() = 'Shipment Comments' or . = 'Shipment Comments')]</value>
+      <webElementGuid>7b1edfb2-3303-42ec-9fef-ec02cd6dfaf5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

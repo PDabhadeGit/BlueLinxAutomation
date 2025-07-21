@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buy_shipment_search</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e918bc41-8e25-4c64-8ee7-6d41ffad4e64</testCaseGuid>
+</TestCaseEntity>

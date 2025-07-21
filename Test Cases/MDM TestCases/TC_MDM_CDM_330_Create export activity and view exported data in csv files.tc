@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_330_Create export activity and view exported data in csv files</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6bedc980-37f3-4cca-b133-412ccc4e8617</testCaseGuid>
+</TestCaseEntity>

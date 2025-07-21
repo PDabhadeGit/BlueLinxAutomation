@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_033_Route NIR approval to distribution list as opposed to individual users</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d93b7741-c95e-496f-b2d5-1ec653db66c2</testCaseGuid>
+</TestCaseEntity>

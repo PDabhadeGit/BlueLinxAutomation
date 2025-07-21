@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_BUFCINCLTDAVDEFAULTDFWDOMAIN_DEFAULT_695ee4</name>
+   <tag></tag>
+   <elementGuidId>15f4f4af-44fc-42bf-ab75-3cb57e1fa4ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='qualifier/xid@ID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;qualifier/xid@ID&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Parameter Set ID&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>650bb871-bb0b-4df4-a8ef-6547834954ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>qualifier/xid@ID</value>
+      <webElementGuid>ee0fe1a0-e04c-4624-aad2-4936040594eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Parameter Set ID</value>
+      <webElementGuid>c9b6027f-d8f3-4714-91cc-9ad0707b665b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>document.forms['management_main'].elements['display_qualifier/xid'].value = this.options[this.selectedIndex].text;populatePlanningFields(this.options[this.selectedIndex].value);</value>
+      <webElementGuid>db575946-6329-472c-b02c-353705984006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeydown</name>
+      <type>Main</type>
+      <value>dropListHandler('glog.server.query.powerdata.PlanningParameterSetQuery', '', 'management_main','display_qualifier/xid','Parameter\x20Set\x20ID','false','false', event)</value>
+      <webElementGuid>83fcf078-69b1-4525-9da0-4de4973a7a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BUFCINCLTDAVDEFAULTDFWDOMAIN_DEFAULTINDJAXLITNBGNSHNWKOMARAILTPA</value>
+      <webElementGuid>2fdec246-b1f3-4728-b294-09b74e1ab2e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;fieldCont&quot;]/div[2]/select[1]</value>
+      <webElementGuid>c269ae85-2bd7-48fa-80d6-e564374d5b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Shipment Planning/iframe_concat(id(, , mainBodyFrame, , ))_mainBody</value>
+      <webElementGuid>6bcbfd35-6974-47b3-8408-6e90867021ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='qualifier/xid@ID']</value>
+      <webElementGuid>46b1fd37-c031-4d1d-8996-896245f2b158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div/table/tbody/tr/td/div/div[2]/select</value>
+      <webElementGuid>17d00141-ba2d-4c48-a537-6a0d401b383a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parameter Set ID'])[1]/following::select[1]</value>
+      <webElementGuid>06bc78a5-9823-40ef-bd84-dc693e349be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Planning'])[2]/following::select[1]</value>
+      <webElementGuid>4ff32e02-711b-4023-88e7-ec9267558079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::select[1]</value>
+      <webElementGuid>f4e5361a-3b17-4035-8df3-2519d13a56d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scenario Group'])[1]/preceding::select[1]</value>
+      <webElementGuid>dbe601aa-051c-4a19-89c4-d3238e96ffa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>a277b1f6-d084-4577-adc6-ac978ed99ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'qualifier/xid@ID' and (text() = 'BUFCINCLTDAVDEFAULTDFWDOMAIN_DEFAULTINDJAXLITNBGNSHNWKOMARAILTPA' or . = 'BUFCINCLTDAVDEFAULTDFWDOMAIN_DEFAULTINDJAXLITNBGNSHNWKOMARAILTPA')]</value>
+      <webElementGuid>6ab0d4f4-5ea4-4d07-854c-04ae0c1f92a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

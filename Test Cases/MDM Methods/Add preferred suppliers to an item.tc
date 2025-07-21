@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add preferred suppliers to an item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8bef0ebd-dbc7-4fa9-b593-2d4af9f5dee1</testCaseGuid>
+</TestCaseEntity>

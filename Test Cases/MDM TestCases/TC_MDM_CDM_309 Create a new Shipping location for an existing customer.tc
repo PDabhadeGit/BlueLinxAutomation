@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_309 Create a new Shipping location for an existing customer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9901dfeb-081a-4e8e-93e4-cb7049714c19</testCaseGuid>
+</TestCaseEntity>

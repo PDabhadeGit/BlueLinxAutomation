@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_024_Supplier - Admin Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b1b1f8f3-f403-4c3d-a6d4-0de5d95171cd</testCaseGuid>
+</TestCaseEntity>

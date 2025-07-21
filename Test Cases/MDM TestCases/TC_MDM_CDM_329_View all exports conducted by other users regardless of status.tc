@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_329_View all exports conducted by other users regardless of status</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c011b485-f2c4-43f4-829d-c2d864b87444</testCaseGuid>
+</TestCaseEntity>

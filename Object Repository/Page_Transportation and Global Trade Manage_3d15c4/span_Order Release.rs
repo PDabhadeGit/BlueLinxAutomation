@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Order Release</name>
+   <tag></tag>
+   <elementGuidId>0b1f6932-16a6-4e3c-ae4e-dd0d4e8c3565</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oj-treeview-item-content.oj-hover > span.oj-treeview-item-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='sb_0_2']/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Order Release&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bc8251f5-725b-4786-9d19-7abc539e1447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-treeview-item-text</value>
+      <webElementGuid>8beaa7f5-3835-4c57-9f8d-e22306c3b81f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:title</name>
+      <type>Main</type>
+      <value>[[row.data.text]]</value>
+      <webElementGuid>c87c9a48-a30c-4715-a281-7e4e32a48f8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:style</name>
+      <type>Main</type>
+      <value>[[{'color':theme_springboard_submenu_fontcolor}]]</value>
+      <webElementGuid>186ff4c9-2db0-4a32-8d3b-c607e34a9967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Order Release</value>
+      <webElementGuid>e0cc1bfc-a543-4649-a696-97cd1ec6b5e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                      Order Release
+                    </value>
+      <webElementGuid>6416cd5d-227c-40e5-b736-be4325fbff3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sb_0_2&quot;)/div[@class=&quot;oj-treeview-item-content oj-hover&quot;]/span[@class=&quot;oj-treeview-item-text&quot;]</value>
+      <webElementGuid>12ecadc8-6242-45d2-b9b3-3b242b8fa5fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sb_0_2']/div/span[2]</value>
+      <webElementGuid>c2fe6256-6bc7-420d-9f45-89fc59a55fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/oj-tree-view/ul/li[3]/div/span[2]</value>
+      <webElementGuid>710191b9-567e-4333-85ab-a48ef6a9ea78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Order Release' and (text() = '
+                      Order Release
+                    ' or . = '
+                      Order Release
+                    ')]</value>
+      <webElementGuid>3c1ced86-43e4-4cb3-b9f8-47d0501a6d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sb_0_0']/div/span[2]</value>
+      <webElementGuid>35f9e995-394f-4f4a-8c2f-2bc9c4cc9225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[5]/following::span[2]</value>
+      <webElementGuid>33b08f5e-a262-47aa-85e4-5de636a04f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/oj-tree-view/ul/li/div/span[2]</value>
+      <webElementGuid>aa64526c-5bd8-4972-a7f3-8e3fb4d2952c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sb_0_2_0']/div/span[2]</value>
+      <webElementGuid>1bf42f72-3e37-4759-9ef4-0411d7376566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/oj-tree-view/ul/li[3]/ul/li/div/span[2]</value>
+      <webElementGuid>a1312319-dd0b-4d5e-ab8c-363f1a6ed6a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

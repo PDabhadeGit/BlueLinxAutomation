@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Home Building</name>
+   <tag></tag>
+   <elementGuidId>4c6c582f-4474-44c7-91e6-acd1aaa3356c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1:0:ot1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Home Building&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f40b9dda-2ed4-4997-91be-c4682caae586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget xk</value>
+      <webElementGuid>68eabfc8-60ee-4ecc-aa8e-de754b8159ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1:0:ot1</value>
+      <webElementGuid>304f66d9-7e4b-4c20-b7fb-0f255590efff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Home Building</value>
+      <webElementGuid>f079bbc5-699f-4418-85f6-638bf0393e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1:0:ot1&quot;)</value>
+      <webElementGuid>65a7d76c-0a8e-4340-8009-e6913f8143fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1:0:ot1']</value>
+      <webElementGuid>5af7631e-f33b-43c3-9014-cf3ecf35d66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td/span/span</value>
+      <webElementGuid>1ef545db-9f3b-4ab2-980c-3c67f7469d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Phone'])[3]/following::span[4]</value>
+      <webElementGuid>1a81fb6c-c200-4d33-9cb7-2a1d9f8e8933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Email'])[2]/following::span[5]</value>
+      <webElementGuid>0f87157e-d41a-4736-995d-1b9548aaaa41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GROUP'])[1]/preceding::span[4]</value>
+      <webElementGuid>7380bcd1-8ac2-4219-b583-1cce1254bbae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.google.com'])[2]/preceding::span[7]</value>
+      <webElementGuid>a1a6b779-95a8-48ee-bd5f-dd7c313e1b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home Building']/parent::*</value>
+      <webElementGuid>3271493f-d0ed-43bf-86e5-80345ea2b362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[2]/div/table/tbody/tr/td/span/span</value>
+      <webElementGuid>e2ed9187-a114-437c-a968-907208b139ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1:0:ot1' and (text() = ' Home Building' or . = ' Home Building')]</value>
+      <webElementGuid>87e92fbd-150f-45e6-b4fb-49fab64162f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

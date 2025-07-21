@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_021_Populate a stock and non stock item at master branch level</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>428dfd82-652f-4a63-a649-3a57e775768f</testCaseGuid>
+</TestCaseEntity>

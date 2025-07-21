@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Online BookingTendering</name>
+   <tag></tag>
+   <elementGuidId>c95888e5-140f-4b3d-9f01-f399530b4cc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_item_id_8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_item_id_8']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;Online Booking/Tendering&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e28395cc-44b1-4006-ad8f-4f65386d3a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>5e1ba497-3182-479a-ad9e-b3a2f18f7c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:document.getElementById('menu_item_id_'+8).launch('/GC3/glog.webserver.util.QueryResponseServlet?bcKey=MTc0OTIyNTg2NzQ5Njox&amp;action_name=web_tendering&amp;finder_set_gid=BUY_SHIPMENT','BXC.8000', 'glog.server.query.shipment.BuyShipmentQuery', 'aNRF-poUCeBtcVRs9fdxfp3WbGkMY2JVD65NikbcRt_8rw7B-uNQ!-1485878143!1749225740820 : 1749225876047');if(document.result){addToRecentlyViewed(document.result.finder_set_gid.value,'BXC.8000', 'SMART_LINK');}</value>
+      <webElementGuid>46558d28-4378-4dda-8e34-2144a2755019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_item_id_8</value>
+      <webElementGuid>f2deee3b-04eb-4cf3-816e-2cbf9d5235df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>b6c17e7b-bfaa-40f1-9b14-14668829a614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Online Booking/Tendering</value>
+      <webElementGuid>1a3a1859-52ce-453e-bb11-0d2936e7eba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_item_id_8&quot;)</value>
+      <webElementGuid>c92a4679-d867-4c67-bf31-27af8d366b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipments Result/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>17a7e263-27f6-42a3-a520-88d86882a9db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_item_id_8']</value>
+      <webElementGuid>db8142ab-4cba-47b1-b798-72890b52595b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='popmenuTree.9']/span/a</value>
+      <webElementGuid>a73f0f05-ce76-4977-bb41-473aa3fb72ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Online Booking/Tendering')]</value>
+      <webElementGuid>5505d799-d848-4666-b340-37b8491ffe81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Audit'])[1]/following::a[1]</value>
+      <webElementGuid>6587fe9d-5596-478a-b177-1d9de438ccd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/following::a[2]</value>
+      <webElementGuid>7dfad133-9942-40d5-859f-9508026c9da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Events'])[1]/preceding::a[1]</value>
+      <webElementGuid>8529a9c4-f21b-4db6-b476-8df4f9819173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related Emission Activities'])[1]/preceding::a[2]</value>
+      <webElementGuid>d1dfa8b0-9bce-4c60-b8e1-ad4c19aef4db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Online Booking/Tendering']/parent::*</value>
+      <webElementGuid>98034882-c885-4e75-aab4-cb134647dd99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:document.getElementById('menu_item_id_'+8).launch('/GC3/glog.webserver.util.QueryResponseServlet?bcKey=MTc0OTIyNTg2NzQ5Njox&amp;action_name=web_tendering&amp;finder_set_gid=BUY_SHIPMENT','BXC.8000', 'glog.server.query.shipment.BuyShipmentQuery', 'aNRF-poUCeBtcVRs9fdxfp3WbGkMY2JVD65NikbcRt_8rw7B-uNQ!-1485878143!1749225740820 : 1749225876047');if(document.result){addToRecentlyViewed(document.result.finder_set_gid.value,'BXC.8000', 'SMART_LINK');}&quot;)]</value>
+      <webElementGuid>56253792-84b1-4408-a988-cc862ce53f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/span/a</value>
+      <webElementGuid>7d9b9d6b-a50b-43d8-8d2f-39f2989153b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:document.getElementById(&quot; , &quot;'&quot; , &quot;menu_item_id_&quot; , &quot;'&quot; , &quot;+8).launch(&quot; , &quot;'&quot; , &quot;/GC3/glog.webserver.util.QueryResponseServlet?bcKey=MTc0OTIyNTg2NzQ5Njox&amp;action_name=web_tendering&amp;finder_set_gid=BUY_SHIPMENT&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;BXC.8000&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;glog.server.query.shipment.BuyShipmentQuery&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;aNRF-poUCeBtcVRs9fdxfp3WbGkMY2JVD65NikbcRt_8rw7B-uNQ!-1485878143!1749225740820 : 1749225876047&quot; , &quot;'&quot; , &quot;);if(document.result){addToRecentlyViewed(document.result.finder_set_gid.value,&quot; , &quot;'&quot; , &quot;BXC.8000&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;SMART_LINK&quot; , &quot;'&quot; , &quot;);}&quot;) and @id = 'menu_item_id_8' and (text() = 'Online Booking/Tendering' or . = 'Online Booking/Tendering')]</value>
+      <webElementGuid>7d2095dd-824c-4b2d-a189-b1a21aa1124a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:document.getElementById('menu_item_id_'+8).launch('/GC3/glog.webserver.util.QueryResponseServlet?bcKey=MTc0NzE2MjU3Njc0NDox&amp;action_name=web_tendering&amp;finder_set_gid=BUY_SHIPMENT','BXC.13048', 'glog.server.query.shipment.BuyShipmentQuery', 'xzPLAMYe5fA3tAqJvdmMLoJoZwgVV9kczXEy1IU4o5IjxttBW_M0!-1485878143!1747162547742 : 1747162635588');if(document.result){addToRecentlyViewed(document.result.finder_set_gid.value,'BXC.13048', 'SMART_LINK');}&quot;)]</value>
+      <webElementGuid>43821806-1170-4d48-9f64-cabdeae00619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:document.getElementById(&quot; , &quot;'&quot; , &quot;menu_item_id_&quot; , &quot;'&quot; , &quot;+8).launch(&quot; , &quot;'&quot; , &quot;/GC3/glog.webserver.util.QueryResponseServlet?bcKey=MTc0NzE2MjU3Njc0NDox&amp;action_name=web_tendering&amp;finder_set_gid=BUY_SHIPMENT&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;BXC.13048&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;glog.server.query.shipment.BuyShipmentQuery&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;xzPLAMYe5fA3tAqJvdmMLoJoZwgVV9kczXEy1IU4o5IjxttBW_M0!-1485878143!1747162547742 : 1747162635588&quot; , &quot;'&quot; , &quot;);if(document.result){addToRecentlyViewed(document.result.finder_set_gid.value,&quot; , &quot;'&quot; , &quot;BXC.13048&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;SMART_LINK&quot; , &quot;'&quot; , &quot;);}&quot;) and @id = 'menu_item_id_8' and (text() = 'Online Booking/Tendering' or . = 'Online Booking/Tendering')]</value>
+      <webElementGuid>b0048136-176a-42a9-b58c-11042543ab1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

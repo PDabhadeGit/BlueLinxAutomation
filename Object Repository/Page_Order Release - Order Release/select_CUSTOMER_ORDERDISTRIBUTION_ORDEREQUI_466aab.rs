@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_CUSTOMER_ORDERDISTRIBUTION_ORDEREQUI_466aab</name>
+   <tag></tag>
+   <elementGuidId>2edc8d1e-4121-4b22-9010-d43e3459fc18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='order_release/order_release_type/xid@ID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;order_release/order_release_type/xid@ID&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Release Attribute&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a143b997-a445-4068-afd5-fde1fbfd91d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Release Attribute</value>
+      <webElementGuid>e09fea46-f5dc-4eb7-a9c5-3332e926e930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>order_release/order_release_type/xid@ID</value>
+      <webElementGuid>afacb3db-f4e7-4d5d-8efe-461ad8fa748c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>document.forms['management_main'].elements['display_order_release/order_release_type/xid'].value = this.options[this.selectedIndex].text;</value>
+      <webElementGuid>29bad688-4c1a-4f98-9a10-f50615fcf98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeydown</name>
+      <type>Main</type>
+      <value>return dropListHandler('glog.server.query.order.OrderReleaseTypeQuery','','management_main','display_order_release\x2Forder_release_type\x2Fxid','Release\x20Attribute','false','false',event);</value>
+      <webElementGuid>aba48bc4-6c71-44a3-997b-464d28b9b94e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CUSTOMER_ORDERDISTRIBUTION_ORDEREQUIPMENT_ORDERMANUFACTURING_ORDERPURCHASE_ORDERRETURN_ORDERSALES_ORDERTRANSFER_ORDER</value>
+      <webElementGuid>0e2149ac-1fca-4123-9494-03f6c5c1e265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont bodySectBG&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[1]/td[3]/div[@class=&quot;fieldCont&quot;]/select[1]</value>
+      <webElementGuid>033fb3d6-9d28-4ec5-bb05-515a3faf3203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Order Release - Order Release/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>c80277a6-3eab-419a-a817-c2a7be503c41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='order_release/order_release_type/xid@ID']</value>
+      <webElementGuid>2b65af31-d810-4535-921d-8f661d4e76a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div/table/tbody/tr/td[3]/div/select</value>
+      <webElementGuid>8bf94b88-3152-401a-9fdf-4d1fc9e56c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release Attribute'])[1]/following::select[1]</value>
+      <webElementGuid>2af5ac00-b219-4ce5-aeef-dfbede1f32b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Release Name'])[1]/following::select[1]</value>
+      <webElementGuid>e46e962b-7e6d-4495-b659-d94c04a7369d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Splittable'])[1]/preceding::select[1]</value>
+      <webElementGuid>6d7b1c85-0537-47ae-9ea3-2402ad1b59e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/select</value>
+      <webElementGuid>7d4cfbcf-526b-49e8-b427-c0b1457a3b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'order_release/order_release_type/xid@ID' and (text() = 'CUSTOMER_ORDERDISTRIBUTION_ORDEREQUIPMENT_ORDERMANUFACTURING_ORDERPURCHASE_ORDERRETURN_ORDERSALES_ORDERTRANSFER_ORDER' or . = 'CUSTOMER_ORDERDISTRIBUTION_ORDEREQUIPMENT_ORDERMANUFACTURING_ORDERPURCHASE_ORDERRETURN_ORDERSALES_ORDERTRANSFER_ORDER')]</value>
+      <webElementGuid>ca642842-591b-4d00-b8cb-cc424f386d54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

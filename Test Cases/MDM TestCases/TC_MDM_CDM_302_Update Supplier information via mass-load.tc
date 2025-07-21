@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_302_Update Supplier information via mass-load</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e19132ad-8c16-486f-a2fb-16d486f3b53e</testCaseGuid>
+</TestCaseEntity>

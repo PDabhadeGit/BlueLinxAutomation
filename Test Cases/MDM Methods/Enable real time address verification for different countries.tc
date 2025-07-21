@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enable real time address verification for different countries</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d60426e6-ebe7-4167-96f5-e184a848a395</testCaseGuid>
+</TestCaseEntity>

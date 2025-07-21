@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Modify Change Control Attributes on an Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39415abf-f50d-46e5-abc3-a4933935d823</testCaseGuid>
+</TestCaseEntity>

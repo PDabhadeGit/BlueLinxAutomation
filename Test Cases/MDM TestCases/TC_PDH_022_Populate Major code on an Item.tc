@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_022_Populate Major code on an Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4fee6b1-d19b-4136-b43e-2f75d65293c4</testCaseGuid>
+</TestCaseEntity>

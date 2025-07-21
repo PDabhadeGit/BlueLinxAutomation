@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_017_Under Item Trading Partner Items and Cross references are created</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad6b8bfe-7251-43fe-9065-3e61c6e98b68</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Involved Parties</name>
+   <tag></tag>
+   <elementGuidId>4e3e52fb-a985-43ab-a2e5-f70a09723f52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabInvoiceInvolvedParties']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tabInvoiceInvolvedParties > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Involved Parties&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>175192bc-b488-4819-8eb3-e63280a1d7de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:if(checkData('management_main')){ document.management_main.redirect.value = formatUrl(servlet_link+'?management_action=edit&amp;step=InvoiceInvolvedParties&amp;manager_layout_gid=INVOICE&amp;show_act_smtlnk=&amp;adf_wrapper=');document.management_main.submit();}</value>
+      <webElementGuid>373b6636-6fa8-4ef7-8d8a-c33d281020a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>38358f06-bc73-4dd9-8de1-26cdfb5155a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>0974f42d-48d9-49f6-a8f4-70c4d0b6ac23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>703d194d-2469-4204-aa62-434d5fe7722e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-setsize</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>a9fda629-fd3b-4911-858d-c8868a26ed53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-posinset</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>9655d8fd-0c2c-480d-bf38-40d8ac0b8458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Involved Parties</value>
+      <webElementGuid>0585323f-e9bc-4dc5-bc9e-7d63fb05bd4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabInvoiceInvolvedParties&quot;)/a[1]</value>
+      <webElementGuid>079a7b9e-3753-45ee-9949-491be1db41e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Invoice - Line Items/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>716d0076-ff09-4201-a9ac-e81429de9970</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabInvoiceInvolvedParties']/a</value>
+      <webElementGuid>77ad979e-c6b4-4efb-8e16-c66198be18fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Involved Parties')]</value>
+      <webElementGuid>e0d533f4-919a-41e8-83bd-9cd30cc660b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Header'])[1]/following::a[1]</value>
+      <webElementGuid>6b7aa9a6-8a01-45f1-8b18-8b2d183497ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Profile'])[1]/following::a[4]</value>
+      <webElementGuid>1a0b9ff1-58cc-4b48-8468-c99469c74c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Line Items'])[1]/preceding::a[1]</value>
+      <webElementGuid>f1a05f84-426b-460e-b3cc-af4ae574e0a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Routes/Ports'])[1]/preceding::a[1]</value>
+      <webElementGuid>5818a9b2-d5e1-4851-9c62-dca6e772f57b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Involved Parties']/parent::*</value>
+      <webElementGuid>a4b2e563-9154-4a03-b07f-c58bd83dca64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:if(checkData('management_main')){ document.management_main.redirect.value = formatUrl(servlet_link+'?management_action=edit&amp;step=InvoiceInvolvedParties&amp;manager_layout_gid=INVOICE&amp;show_act_smtlnk=&amp;adf_wrapper=');document.management_main.submit();}&quot;)]</value>
+      <webElementGuid>98e8ac23-7b1e-4af8-b062-20c6ff00dccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>7e1902db-97dc-465e-8da5-2fdbebde7dd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:if(checkData(&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;)){ document.management_main.redirect.value = formatUrl(servlet_link+&quot; , &quot;'&quot; , &quot;?management_action=edit&amp;step=InvoiceInvolvedParties&amp;manager_layout_gid=INVOICE&amp;show_act_smtlnk=&amp;adf_wrapper=&quot; , &quot;'&quot; , &quot;);document.management_main.submit();}&quot;) and (text() = 'Involved Parties' or . = 'Involved Parties')]</value>
+      <webElementGuid>5845aea4-0b6e-4b87-a790-715e3e81a074</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

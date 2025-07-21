@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_039_Manage Audit Policies</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05c1a411-2507-497d-97b9-f2f1e61f9b8e</testCaseGuid>
+</TestCaseEntity>

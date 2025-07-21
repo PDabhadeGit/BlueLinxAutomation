@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Test SKU Floor1</name>
+   <tag></tag>
+   <elementGuidId>c5add504-b8ff-4afb-ab8a-0ea7b56d2f99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Image'])[2]/following::a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Test SKU Floor1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>95e2c5ca-0ba6-4435-9c02-d7c3cb9362d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:rstab:_ATp:table1:0:itmNoLnkForSearch</value>
+      <webElementGuid>b6672252-dc91-4da8-b0a2-e69c43fed688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget xmx</value>
+      <webElementGuid>4b3e9f91-2303-4e10-8d8c-f15649df7e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>dbe76bea-dcca-49da-881b-9221cb545b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>aa3819dd-74d8-4ac4-8303-45dd5e2ee158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test SKU Floor1</value>
+      <webElementGuid>5985d842-bce4-4bb5-90d1-f0b485d3224d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:rstab:_ATp:table1:0:itmNoLnkForSearch&quot;)</value>
+      <webElementGuid>002dc8c8-94c7-4dac-9614-1eb7e0007fce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:rstab:_ATp:table1:0:itmNoLnkForSearch']</value>
+      <webElementGuid>5d1f2eb3-93a8-41e4-8165-eb57ea6c8627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:rstab:_ATp:table1::db']/table/tbody/tr/td[3]/span/a</value>
+      <webElementGuid>6eb22afd-1893-4bd7-898f-17e5dc43c7e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Test SKU Floor1')]</value>
+      <webElementGuid>eff691bb-7b17-40b8-8b60-8fd5fce408ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Image'])[2]/following::a[2]</value>
+      <webElementGuid>2e1510cf-c57b-4341-8180-32e24a0dbe08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/following::a[2]</value>
+      <webElementGuid>30e43105-5e6a-4bad-afd2-8ed0dcaa27e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test desc'])[1]/preceding::a[1]</value>
+      <webElementGuid>81173017-7f8b-4518-a3b9-a2f1ceca0fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[1]/preceding::a[1]</value>
+      <webElementGuid>cc1462e2-9526-4201-af1b-c0416db2f2b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test SKU Floor1']/parent::*</value>
+      <webElementGuid>578c4070-b6d6-4888-ba22-444470245a6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[40]</value>
+      <webElementGuid>680bf59a-02da-4244-9076-b59245ab03e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[3]/span/a</value>
+      <webElementGuid>4c999cf5-6684-4f80-9b1a-9634e7e596f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:rstab:_ATp:table1:0:itmNoLnkForSearch' and @href = '#' and (text() = 'Test SKU Floor1' or . = 'Test SKU Floor1')]</value>
+      <webElementGuid>bd09a0c4-2025-4ca6-aaac-d538b272a2b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

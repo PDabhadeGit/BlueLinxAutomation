@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_301_Create and update relationships for an Organization</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ae115f2-da3b-4421-9957-814f9578ebf5</testCaseGuid>
+</TestCaseEntity>

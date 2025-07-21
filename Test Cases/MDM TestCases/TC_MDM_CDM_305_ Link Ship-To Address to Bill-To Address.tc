@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_305_ Link Ship-To Address to Bill-To Address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d626416-6845-4428-9af4-23f78db3c9c5</testCaseGuid>
+</TestCaseEntity>

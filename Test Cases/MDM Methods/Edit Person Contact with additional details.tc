@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Person Contact with additional details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>19bca3c6-316a-4b0e-86d9-4826b12267c6</testCaseGuid>
+</TestCaseEntity>

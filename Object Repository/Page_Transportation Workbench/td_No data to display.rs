@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_No data to display</name>
+   <tag></tag>
+   <elementGuidId>2f0e56f9-f15c-4d80-a81b-d1b22230c01d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.oj-table-body-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='RootPane_1_2_region_0_moduleRegion:messageRow']/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;No data to display.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>58f7b260-ae8f-4ba7-8165-a96397771f3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>2b535d49-d630-4b02-a256-287ad7a0123f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-table-body-message</value>
+      <webElementGuid>4c649e03-6a9d-4f0b-9e0d-9c371e97b1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No data to display.</value>
+      <webElementGuid>d151696f-315f-4380-8f17-167540917dd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RootPane_1_2_region_0_moduleRegion:messageRow&quot;)/td[@class=&quot;oj-table-body-message&quot;]</value>
+      <webElementGuid>d17be6a1-96f3-432e-9eff-cf9d477a7da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Transportation Workbench/frame_html1frameset1frame1_W48</value>
+      <webElementGuid>4e831e58-57ce-451d-bbe3-1d167627cb39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='RootPane_1_2_region_0_moduleRegion:messageRow']/td</value>
+      <webElementGuid>31b838c6-eede-41dc-9aae-03043cbdbf5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restore'])[2]/following::td[1]</value>
+      <webElementGuid>37df71fa-f69d-4d84-9162-de65d64ac510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[6]/following::td[1]</value>
+      <webElementGuid>bb60e4ab-5893-4cd9-ad1f-0cc230899b7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Table with 1 columns and 0 rows Press F2 to focus read only controls or enter to begin editing'])[1]/preceding::td[1]</value>
+      <webElementGuid>b21092e1-5477-47e2-8a19-0c00a12115e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Row'])[2]/preceding::td[1]</value>
+      <webElementGuid>0f3c719a-87a7-436b-b296-13fcb5b19589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No data to display.']/parent::*</value>
+      <webElementGuid>8f5eac60-d62a-4e00-82e4-beb4fd7f235b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/wb-layout/div/div[2]/div/wb-region/div/div[3]/oj-switcher/oj-defer/div/oj-module/div/oj-table/div/table/tbody/tr/td</value>
+      <webElementGuid>ede04bbd-6858-40f4-ba47-fc5d6820c1af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'No data to display.' or . = 'No data to display.')]</value>
+      <webElementGuid>5b6cc22e-6f5a-4a22-845e-4a13ba5bb893</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

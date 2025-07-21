@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_PDH_303_Create and associate Customer Part Number to BlueLinx Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40615872-ad3e-41f5-9541-a96d5f043c6c</testCaseGuid>
+</TestCaseEntity>

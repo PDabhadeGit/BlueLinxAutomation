@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_035_Designate Supplier as Carrier and Carrier Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cefdeeff-7c31-43ba-bcb5-17bd210901b8</testCaseGuid>
+</TestCaseEntity>

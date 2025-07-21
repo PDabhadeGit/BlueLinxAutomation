@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_BLUELINX TAMPA_edit2_img</name>
+   <tag></tag>
+   <elementGuidId>d20428b6-48fb-4294-ba24-32c62aa4fa0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.edit2_img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 P ORG-TPA
+TAMPA FL 33619 BLUELINX TAMPA 2025-03-18 15:00 America/New_York 2025-03-18 15:00 America/New_York 2025-03-18 15:45 America/New_York 0.00 MI 1 Edit Load/Unload Points&quot;i] >> internal:attr=[title=&quot;Edit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>885587cb-7d05-44ec-bef8-8cf43e38d017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>34b90f4b-a38e-446d-949b-4a382febda6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>function t() {  return true; } if(t.call(this) !== false) { window.location.href= '\x2FGC3\x2FAddShipmentStop\x2F1745849060239\x3FbcKey\x3DMTc0NTg0OTAyODExMjox\x26manager_layout_gid\x3DSHIPMENT\x26step\x3DShipmentStop\x26ID\x3DBXC.6007\x25201'; } else { return false; }</value>
+      <webElementGuid>e24db8d6-fd9e-41bb-8d5b-dc9253cdde57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>b4791a92-9c96-44d2-b4fb-1462784a427c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>6fcb48f4-9dd6-4d86-b62a-d6410b43a291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>edit2_img</value>
+      <webElementGuid>fbe28afd-dd99-4082-8d9a-e847f70613c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BXC.6007 1&quot;)/td[@class=&quot;gridBodyCell gridBodyBtnsCell&quot;]/table[@class=&quot;gridButtonsCont&quot;]/tbody[1]/tr[1]/td[1]/button[@class=&quot;edit2_img&quot;]</value>
+      <webElementGuid>624ec8ca-d25d-4f73-a3bb-747c876d8c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment - Stops/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>efe5d566-b707-438c-8340-ed044b1b51fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>4872f533-3544-4a0d-9c1b-cc231d5037c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='BXC.6007 1']/td[16]/table/tbody/tr/td/button</value>
+      <webElementGuid>ee7fa087-e052-4417-b803-dddce6666fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/button</value>
+      <webElementGuid>fd867a4e-e022-4783-870c-db39393b587b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @alt = 'Edit' and @title = 'Edit']</value>
+      <webElementGuid>bcc01112-3d0b-4b43-a8ef-42a9edc7d26f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

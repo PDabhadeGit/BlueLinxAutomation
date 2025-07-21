@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Communication and Remarks</name>
+   <tag></tag>
+   <elementGuidId>512d7761-7bfd-4680-a729-da54c3c08dc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabServprovContactsAndRemarks']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tabServprovContactsAndRemarks > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Communication and Remarks&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>22a00d78-627d-484d-b4d3-db14a05c2279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:if(checkData('management_main')){ document.management_main.redirect.value = formatUrl(servlet_link+'?management_action=edit&amp;step=ServprovContactsAndRemarks&amp;manager_layout_gid=SERVPROV&amp;show_act_smtlnk=&amp;adf_wrapper=');document.management_main.submit();}</value>
+      <webElementGuid>4519be60-781e-4375-9bf6-602d619922ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>67787775-8823-4039-8ebc-bec98bd7a999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>d035b936-9d51-4432-8fc1-aec987be7c95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>dbf1adb0-be37-40bf-a8c9-18daa76ce77f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-setsize</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>7b34998e-3bd5-4de4-9e79-b2ec0feab5b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-posinset</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>0e2e79f5-1db9-46ab-b5ba-1b86f4aa1395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Communication and Remarks</value>
+      <webElementGuid>64df467a-243c-4681-88f5-79472f4f9b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabServprovContactsAndRemarks&quot;)/a[1]</value>
+      <webElementGuid>30795971-c8b0-406f-a848-9e9ba4ab7817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Service Provider ID - Service Provider ID/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>a1eedfca-0144-423f-b5b1-d5fefa63f2db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabServprovContactsAndRemarks']/a</value>
+      <webElementGuid>edba28f4-5772-445c-9aa8-ad65cf7844cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Communication and Remarks')]</value>
+      <webElementGuid>9fa37590-6d5a-4eb1-90c2-099cef99630c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Provider ID'])[3]/following::a[1]</value>
+      <webElementGuid>184e6cba-60c7-44a5-aef3-880e84775f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Profile'])[1]/following::a[3]</value>
+      <webElementGuid>0c47756b-256f-463b-bc1b-0f0efe673e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tender Constraints'])[1]/preceding::a[1]</value>
+      <webElementGuid>8a77ba1d-e249-4f67-b53d-93f82f5838e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Provider/Location ID'])[1]/preceding::a[4]</value>
+      <webElementGuid>4951c7b9-0885-4d63-ac5c-7a6dbac8afbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Communication and Remarks']/parent::*</value>
+      <webElementGuid>729a59cc-ac72-4a1f-b363-f89a8626b166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:if(checkData('management_main')){ document.management_main.redirect.value = formatUrl(servlet_link+'?management_action=edit&amp;step=ServprovContactsAndRemarks&amp;manager_layout_gid=SERVPROV&amp;show_act_smtlnk=&amp;adf_wrapper=');document.management_main.submit();}&quot;)]</value>
+      <webElementGuid>2cf60724-e5d2-4bd3-afdd-e8ecd094fa05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>f2a722a6-ed4a-4c17-ad88-b7c24c1211df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:if(checkData(&quot; , &quot;'&quot; , &quot;management_main&quot; , &quot;'&quot; , &quot;)){ document.management_main.redirect.value = formatUrl(servlet_link+&quot; , &quot;'&quot; , &quot;?management_action=edit&amp;step=ServprovContactsAndRemarks&amp;manager_layout_gid=SERVPROV&amp;show_act_smtlnk=&amp;adf_wrapper=&quot; , &quot;'&quot; , &quot;);document.management_main.submit();}&quot;) and (text() = 'Communication and Remarks' or . = 'Communication and Remarks')]</value>
+      <webElementGuid>11d60a0e-2b24-440d-96e4-20243d895edf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

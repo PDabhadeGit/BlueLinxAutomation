@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_032_Associate item to different branches</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3efab1b8-d438-41ce-9d99-6dbe8b273737</testCaseGuid>
+</TestCaseEntity>

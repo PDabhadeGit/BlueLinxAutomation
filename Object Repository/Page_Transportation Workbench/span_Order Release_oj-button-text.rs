@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Order Release_oj-button-text</name>
+   <tag></tag>
+   <elementGuidId>39613940-40f9-482c-b155-2409983f8a27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//oj-button[@id='RootPane_2_1_expand']/button/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#RootPane_2_1_expand > button.oj-button-button > div.oj-button-label > span.oj-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Collapse Pane&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>879f341b-6e36-447d-92fd-46b8e0d2abd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-button-text</value>
+      <webElementGuid>21ec2558-d16d-4242-be85-e19cc508d5fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RootPane_2_1_expand&quot;)/button[@class=&quot;oj-button-button&quot;]/div[@class=&quot;oj-button-label&quot;]/span[@class=&quot;oj-button-text&quot;]</value>
+      <webElementGuid>5d053662-18e7-4195-8cef-666dfd99abb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//oj-button[@id='RootPane_2_1_expand']/button/div/span</value>
+      <webElementGuid>9d8c5902-2ba6-4dbb-ad84-de1dbe2f4589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[3]/preceding::span[2]</value>
+      <webElementGuid>28315da1-7490-4df4-a52e-596629dedc2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/wb-layout/div/div/wb-layout/div/div[2]/div/wb-region/div/div/div/oj-button[2]/button/div/span</value>
+      <webElementGuid>f85939fc-7b6f-4d46-b4f4-cc7c396f420c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Related Invoices</name>
+   <tag></tag>
+   <elementGuidId>ec0f9852-ded4-42f6-a94b-b76feeba8b1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_item_id_11</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_item_id_11']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;Related Invoices&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>72f1e0cf-0031-424d-810d-f8929bd8266a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>75f004b7-741d-43ce-acb0-55e9b25d8d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:document.getElementById('menu_item_id_'+11).launch('/GC3/glog.webserver.util.QueryResponseServlet?bcKey=MTc0OTA0NjQ2ODk3ODox&amp;action_name=shipment_invoice_results&amp;finder_set_gid=BUY_SHIPMENT','BXC.8000', 'glog.server.query.shipment.BuyShipmentQuery', 'hUo7SKHWbP2pxU2TdiWFtrRRc822ZpJJd2xGySI2BvufkcONVpOc!-1485878143!1749046305238 : 1749046631720');if(document.result){addToRecentlyViewed(document.result.finder_set_gid.value,'BXC.8000', 'SMART_LINK');}</value>
+      <webElementGuid>89722056-1b04-4311-874e-144734fcd4e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_item_id_11</value>
+      <webElementGuid>8c1c36f9-eb13-409a-86e8-ef1fde80e805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>919a4563-5a3f-44e8-a5ce-9da54f4e83ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Related Invoices</value>
+      <webElementGuid>35e2e67f-6ac6-43cf-9ea1-03caef40cf6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_item_id_11&quot;)</value>
+      <webElementGuid>9b850630-b977-4789-b5c7-d8b4bc021546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipments Result/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>0482128d-d2ed-4300-ad8a-4b4a4786706e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_item_id_11']</value>
+      <webElementGuid>65cd327a-974a-4761-a28b-b812dc4e1177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='popmenuTree.12']/span/a</value>
+      <webElementGuid>7ef8394a-0617-485f-9ac2-9479e4f98aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Related Invoices')]</value>
+      <webElementGuid>5a3acaf8-25f2-4f94-b4ee-dcb36e687252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related Emission Activities'])[1]/following::a[1]</value>
+      <webElementGuid>1b531b91-029a-4fb4-ba9e-4c412b195898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Events'])[1]/following::a[2]</value>
+      <webElementGuid>ea887058-4295-470d-9a24-f6ca71d53bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related Order Base Lines'])[1]/preceding::a[1]</value>
+      <webElementGuid>0324d857-39ad-43c4-8f59-ffe804e73518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related Order Movements'])[1]/preceding::a[2]</value>
+      <webElementGuid>d665f6a2-b720-4c8b-bb67-511b3fcd7411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Related Invoices']/parent::*</value>
+      <webElementGuid>b3435a2d-08c8-4d6f-b351-830b78837af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:document.getElementById('menu_item_id_'+11).launch('/GC3/glog.webserver.util.QueryResponseServlet?bcKey=MTc0OTA0NjQ2ODk3ODox&amp;action_name=shipment_invoice_results&amp;finder_set_gid=BUY_SHIPMENT','BXC.8000', 'glog.server.query.shipment.BuyShipmentQuery', 'hUo7SKHWbP2pxU2TdiWFtrRRc822ZpJJd2xGySI2BvufkcONVpOc!-1485878143!1749046305238 : 1749046631720');if(document.result){addToRecentlyViewed(document.result.finder_set_gid.value,'BXC.8000', 'SMART_LINK');}&quot;)]</value>
+      <webElementGuid>b661f064-70c5-4dc1-9851-cc47891c5d08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[13]/span/a</value>
+      <webElementGuid>ba3caa34-12e0-416b-ada3-2098fc1f4653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:document.getElementById(&quot; , &quot;'&quot; , &quot;menu_item_id_&quot; , &quot;'&quot; , &quot;+11).launch(&quot; , &quot;'&quot; , &quot;/GC3/glog.webserver.util.QueryResponseServlet?bcKey=MTc0OTA0NjQ2ODk3ODox&amp;action_name=shipment_invoice_results&amp;finder_set_gid=BUY_SHIPMENT&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;BXC.8000&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;glog.server.query.shipment.BuyShipmentQuery&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;hUo7SKHWbP2pxU2TdiWFtrRRc822ZpJJd2xGySI2BvufkcONVpOc!-1485878143!1749046305238 : 1749046631720&quot; , &quot;'&quot; , &quot;);if(document.result){addToRecentlyViewed(document.result.finder_set_gid.value,&quot; , &quot;'&quot; , &quot;BXC.8000&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;SMART_LINK&quot; , &quot;'&quot; , &quot;);}&quot;) and @id = 'menu_item_id_11' and (text() = 'Related Invoices' or . = 'Related Invoices')]</value>
+      <webElementGuid>00b782a9-4098-4640-bde6-e1b4d70b6682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:document.getElementById('menu_item_id_'+11).launch('/GC3/glog.webserver.util.QueryResponseServlet?bcKey=MTc0NzI5NjAwNDYxNDox&amp;action_name=shipment_invoice_results&amp;finder_set_gid=BUY_SHIPMENT','BXC.6007', 'glog.server.query.shipment.BuyShipmentQuery', 'aCPS9KGnDZvDWJz6KfCUs6q54HRd9STTmxNVFQBWWf4nD53zsyBR!-1485878143!1747295969703 : 1747296009505');if(document.result){addToRecentlyViewed(document.result.finder_set_gid.value,'BXC.6007', 'SMART_LINK');}&quot;)]</value>
+      <webElementGuid>0e9b02b7-a715-4153-9d65-63b735bfc641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:document.getElementById(&quot; , &quot;'&quot; , &quot;menu_item_id_&quot; , &quot;'&quot; , &quot;+11).launch(&quot; , &quot;'&quot; , &quot;/GC3/glog.webserver.util.QueryResponseServlet?bcKey=MTc0NzI5NjAwNDYxNDox&amp;action_name=shipment_invoice_results&amp;finder_set_gid=BUY_SHIPMENT&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;BXC.6007&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;glog.server.query.shipment.BuyShipmentQuery&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;aCPS9KGnDZvDWJz6KfCUs6q54HRd9STTmxNVFQBWWf4nD53zsyBR!-1485878143!1747295969703 : 1747296009505&quot; , &quot;'&quot; , &quot;);if(document.result){addToRecentlyViewed(document.result.finder_set_gid.value,&quot; , &quot;'&quot; , &quot;BXC.6007&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;SMART_LINK&quot; , &quot;'&quot; , &quot;);}&quot;) and @id = 'menu_item_id_11' and (text() = 'Related Invoices' or . = 'Related Invoices')]</value>
+      <webElementGuid>e8e71f8d-52fd-48de-a033-832c506601fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_043_Capture additional attributes enabled for Suppliers</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>69bc3606-dc6f-486d-91f7-c071259b9fec</testCaseGuid>
+</TestCaseEntity>

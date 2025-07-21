@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDH_020_Modify Change Control Attributes on an Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f2e4541-06e9-407e-87a6-5186be51f3b2</testCaseGuid>
+</TestCaseEntity>

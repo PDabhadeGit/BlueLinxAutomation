@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_334_Enrich existing customer information using DandB data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b274f07f-bde7-4201-b77b-82cf7c936584</testCaseGuid>
+</TestCaseEntity>

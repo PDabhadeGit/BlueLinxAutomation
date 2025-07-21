@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Saved Search_oj-searchselect-arrow oj-searchselect-open-icon oj-searchselect-icon oj-component-icon oj-clickable-icon-nocontext</name>
+   <tag></tag>
+   <elementGuidId>c55cd325-fce5-4b4b-9ad4-c88917620433</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#RootPane_1_1_region_0_savedQueryDropDown > div.oj-text-field-container.oj-searchselect-main-field.oj-text-field-has-end-slot > span.oj-text-field-end > span.oj-searchselect-arrow.oj-searchselect-open-icon.oj-searchselect-icon.oj-component-icon.oj-clickable-icon-nocontext</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//oj-select-single[@id='RootPane_1_1_region_0_savedQueryDropDown']/div[2]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#RootPane_1_1_region_0_savedQueryDropDown span >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2eb4aa0e-4547-4a11-abad-5e0ede0c28bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-searchselect-arrow oj-searchselect-open-icon oj-searchselect-icon oj-component-icon oj-clickable-icon-nocontext</value>
+      <webElementGuid>63a814bc-8459-4433-8ee7-5d595bb93742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>512c0ec4-4b09-4e71-8a1e-985dd24868fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RootPane_1_1_region_0_savedQueryDropDown&quot;)/div[@class=&quot;oj-text-field-container oj-searchselect-main-field oj-text-field-has-end-slot&quot;]/span[@class=&quot;oj-text-field-end&quot;]/span[@class=&quot;oj-searchselect-arrow oj-searchselect-open-icon oj-searchselect-icon oj-component-icon oj-clickable-icon-nocontext&quot;]</value>
+      <webElementGuid>38ec6569-157b-4ea1-bf07-aa71ab7ebdda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//oj-select-single[@id='RootPane_1_1_region_0_savedQueryDropDown']/div[2]/span/span</value>
+      <webElementGuid>d86a5856-41b8-4d0d-94bd-df047f91dc7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//oj-toolbar/oj-select-single/div[2]/span/span</value>
+      <webElementGuid>7cf36bc3-6d77-448b-bd43-b2d1aaf02996</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MDM_CDM_326_Using DQ, merge two duplicate suppliers together</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>446a1f79-0c24-4dca-b512-79c6b6757b70</testCaseGuid>
+</TestCaseEntity>

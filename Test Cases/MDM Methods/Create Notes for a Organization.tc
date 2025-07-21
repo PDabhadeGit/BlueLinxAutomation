@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Notes for a Organization</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>451be8df-6f7c-4bd1-a728-d7d3b5d67df5</testCaseGuid>
+</TestCaseEntity>

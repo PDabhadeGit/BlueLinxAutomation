@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cost Type</name>
+   <tag></tag>
+   <elementGuidId>90c63700-cadf-42c7-b9bc-016b7e1f8c1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_shipment_cost_grid']/tbody/tr/th/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gridHeadLabel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Cost Type&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ffbd0186-2c7e-4064-a13c-c14803345ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gridHeadLabel</value>
+      <webElementGuid>749b7269-86eb-4905-bfe3-1a58e2ce7d43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cost Type</value>
+      <webElementGuid>d400c141-8147-49ba-87f4-d94f2a4465a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_shipment_cost_grid&quot;)/tbody[1]/tr[1]/th[@class=&quot;gridHeadCell&quot;]/div[@class=&quot;gridHeadLabel&quot;]</value>
+      <webElementGuid>a65c2af6-aa8a-4f80-ab1a-169400c834a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Buy Shipment - Financials/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>1883b0c8-bcd5-4627-9085-643e001a1ded</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_shipment_cost_grid']/tbody/tr/th/div</value>
+      <webElementGuid>e5a09a77-9881-4e05-be27-92379f805ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Costs'])[1]/following::div[1]</value>
+      <webElementGuid>83cfe7be-71a0-4eeb-a8db-775caa93391f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bill of Lading Issuance Type'])[1]/following::div[3]</value>
+      <webElementGuid>536e0dc3-e58e-4dea-8ada-0342226ec491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Cost'])[1]/preceding::div[1]</value>
+      <webElementGuid>7d379ba4-929c-4a2e-a67a-5596d8f9313d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ship Unit'])[1]/preceding::div[2]</value>
+      <webElementGuid>602f375f-6f48-46bc-b8e6-ad5b054cbd47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cost Type']/parent::*</value>
+      <webElementGuid>b8ef0ce1-4bf5-446a-8ca5-cb18cecdbbbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/div</value>
+      <webElementGuid>c77d57fe-d099-402c-930f-0ea50d96e57e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cost Type' or . = 'Cost Type')]</value>
+      <webElementGuid>0f992e44-10e8-4561-9002-9f666ac557a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

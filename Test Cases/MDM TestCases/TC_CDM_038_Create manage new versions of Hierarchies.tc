@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CDM_038_Create manage new versions of Hierarchies</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c7e2bdf-aaef-4745-9f8c-7cc2f09518ab</testCaseGuid>
+</TestCaseEntity>

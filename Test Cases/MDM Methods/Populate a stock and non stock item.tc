@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Populate a stock and non stock item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa0b739e-eede-440b-b57e-5d8aa5e87e5d</testCaseGuid>
+</TestCaseEntity>
