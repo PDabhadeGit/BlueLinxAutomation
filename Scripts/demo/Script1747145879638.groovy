@@ -27,6 +27,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/MDM_Page_Objects/Page_S
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Sign In/button_Sign In (1)'))
 
+WebUI.sendKeys(findTestObject('Page_Approve Invoice/iframe_mainBody'), 'werwr')
+
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Customer Data Management (1)'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Organizations (1)'))
