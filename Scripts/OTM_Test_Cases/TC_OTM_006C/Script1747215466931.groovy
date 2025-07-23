@@ -43,5 +43,7 @@ WebUI.click(findTestObject('Object Repository/Page_Buy Shipment - Groups and Cha
 
 WebUI.click(findTestObject('Object Repository/Page_Buy Shipment - Tracking/button_Documents'))
 
+WebUI.delay(2)
+
 WebUI.closeBrowser()
 
