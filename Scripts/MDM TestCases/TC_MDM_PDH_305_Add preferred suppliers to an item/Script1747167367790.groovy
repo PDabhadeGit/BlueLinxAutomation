@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('MDM Methods/Login MDM'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('MDM Methods/Create new Item'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('MDM Methods/Search Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(130)
+WebUI.callTestCase(findTestCase('MDM Methods/Add preferred suppliers to an item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('MDM Methods/New Item Request'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.closeBrowser()
 

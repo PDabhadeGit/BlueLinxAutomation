@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::span[3]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::span[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2e02e938-e69f-47d0-b298-bfd88455c458</webElementGuid>
+      <webElementGuid>f99ccb37-a504-4417-91a4-77cd2ca0f329</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x2f0</value>
-      <webElementGuid>0bd839f3-450f-4487-8f34-25df5910496c</webElementGuid>
+      <webElementGuid>7d90ab37-3bcd-4dbd-a41a-77fc8c1cdc10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>68252</value>
-      <webElementGuid>8631badf-b99f-4226-8316-bd8c10ba28b1</webElementGuid>
+      <webElementGuid>f5d85bf6-63fa-422c-a709-3357e0fdc2c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:table1:3:ExtGen_colattr_LinkBillTo_c_Address1:lov_i1_afrLovInternalTableId::db&quot;)/table[@class=&quot;x1hi x1i6&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[2]/div[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;xen&quot;]/span[@class=&quot;x2f0&quot;]</value>
-      <webElementGuid>66b09b57-842c-41e0-b1b4-65d986b6c398</webElementGuid>
+      <webElementGuid>b3f8e9db-c6ce-4707-a50d-a780b72abf31</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:table1:3:ExtGen_colattr_LinkBillTo_c_Address1:lov_i1_afrLovInternalTableId::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td/span</value>
-      <webElementGuid>b7a3280d-5c37-46c2-b725-6cefecb196d6</webElementGuid>
+      <webElementGuid>eeaaef05-f88e-49bb-b248-15ff0545fa0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Number'])[6]/following::span[2]</value>
-      <webElementGuid>03f67ce1-2d43-4567-b278-e3ae872ee7ff</webElementGuid>
+      <webElementGuid>ca172c87-b5d8-44e4-962c-0c18a7df4449</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::span[4]</value>
-      <webElementGuid>6b598635-c161-4d35-b17f-112102dfb049</webElementGuid>
+      <webElementGuid>8b493c45-ff5c-4783-bdc9-f8f27b6b716e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::span[3]</value>
-      <webElementGuid>38f67ad7-be19-477e-af7d-c0bbd9462ada</webElementGuid>
+      <webElementGuid>783f6ce7-dc32-494b-ab7e-3c428a45d2c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::span[3]</value>
-      <webElementGuid>6b7ee95a-4c65-4b98-9d84-11de01fb73cd</webElementGuid>
+      <webElementGuid>403fc880-431b-423f-b8f7-78f45cfbbb2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/div/table/tbody/tr/td/span</value>
-      <webElementGuid>b58a938b-f0d3-46e1-91d3-abf4654299ba</webElementGuid>
+      <webElementGuid>45c7909f-7f90-4bca-a566-69b9b3cd71dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '68252' or . = '68252')]</value>
-      <webElementGuid>2a35229b-5b29-42c6-96eb-39c17a74f347</webElementGuid>
+      <webElementGuid>708c9141-a5ed-4f5b-a097-2fdb7ea68771</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
