@@ -6,12 +6,12 @@
    <elementGuidId>07be11bf-0c58-4799-8cbc-242b8bbffa20</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='itemNode_product_management_items_0']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#itemNode_product_management_items_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='itemNode_product_management_items_0']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>88e367f8-e527-4dee-b4f0-c09e12636ce2</webElementGuid>
+      <webElementGuid>b409f4fe-b1fe-4641-bc9a-18c6d4eafa4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>itemNode_product_management_items_0</value>
-      <webElementGuid>40862b32-dd69-43c5-b29b-f83c63b34769</webElementGuid>
+      <webElementGuid>f8cec0fe-cd49-4725-930d-e250a93c3120</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>app-nav-label flat-grid-nav-label</value>
-      <webElementGuid>e088b5f8-335f-4492-a822-35bf3daa6128</webElementGuid>
+      <webElementGuid>41a4b274-2009-4daf-9a0c-e6722232de0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>c3ed4936-99b7-4d91-b475-874d8e882174</webElementGuid>
+      <webElementGuid>dc067738-9702-4f4f-aae6-77a96021afaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Product Information Management</value>
-      <webElementGuid>50da0caa-d399-4745-a690-34bd3b47d1d4</webElementGuid>
+      <webElementGuid>2ce7630b-6666-449a-a233-e05bf18f9cbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;itemNode_product_management_items_0&quot;)</value>
-      <webElementGuid>90dc449f-c1c9-4301-944c-79737323f35a</webElementGuid>
+      <webElementGuid>a2e747c9-e298-40ce-9da7-87cb11f69982</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='itemNode_product_management_items_0']</value>
-      <webElementGuid>5c942d21-cf81-49c9-9aec-7c02cc76ddfb</webElementGuid>
+      <webElementGuid>319e780a-944c-4c6e-b4fe-38529578f946</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='itemNode_product_management_items']/a</value>
-      <webElementGuid>a39b9ea1-95d0-4874-93a7-512e48a25a29</webElementGuid>
+      <webElementGuid>2e521a48-9241-4a36-809a-431a947a25fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Product Information Management')]</value>
-      <webElementGuid>8bfc3022-810e-44fb-8089-690ca18b2cdf</webElementGuid>
+      <webElementGuid>2bb55f5b-3c65-4158-ac63-83c0bc62682e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[2]/following::a[5]</value>
-      <webElementGuid>05ee42d2-1282-4509-8f1b-0fd788f9431e</webElementGuid>
+      <webElementGuid>b889e71b-e240-4d05-b263-37e57104a397</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Actions'])[2]/following::a[27]</value>
-      <webElementGuid>584caaf9-33ab-4407-a7c7-214a5e989f73</webElementGuid>
+      <webElementGuid>face441a-5b8d-4b67-a0bd-c9545d893799</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[3]/preceding::a[2]</value>
-      <webElementGuid>a78c1b8e-9663-4a65-afa9-15e2bb5e0f50</webElementGuid>
+      <webElementGuid>fdbacb7d-4565-4a1d-ba4f-3ba8d10aef72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Actions'])[3]/preceding::a[11]</value>
-      <webElementGuid>073fdf9c-e8c9-4a11-b35e-5f4b3915a471</webElementGuid>
+      <webElementGuid>cc9b2f15-6ab2-4703-a557-870a9e9cf2b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Product Information Management']/parent::*</value>
-      <webElementGuid>d608d1cc-1cbd-4043-9b43-d2c7d68d2673</webElementGuid>
+      <webElementGuid>b35d8cb9-3f46-4729-a11a-eb4bf5d73f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[57]</value>
+      <webElementGuid>abbfa4d4-ff8e-4abb-bf70-b1f4518425d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[5]/div/a</value>
+      <webElementGuid>411cddc1-edc5-43a1-b6ac-f45da9b5810c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'itemNode_product_management_items_0' and @href = '#' and (text() = 'Product Information Management' or . = 'Product Information Management')]</value>
+      <webElementGuid>7e35cf1a-5394-4a5d-9cac-36d2ad682df7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,22 +166,6 @@
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[59]</value>
       <webElementGuid>72b0152c-cd06-4e99-b3c9-80d7b84b873d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[2]/div[5]/div/a</value>
-      <webElementGuid>c749def8-78c8-4f68-81bb-cc671943eda9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@id = 'itemNode_product_management_items_0' and @href = '#' and (text() = 'Product Information Management' or . = 'Product Information Management')]</value>
-      <webElementGuid>65674c58-998d-4c68-82f9-c24b19604b8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

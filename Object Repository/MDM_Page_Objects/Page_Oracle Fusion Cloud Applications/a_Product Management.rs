@@ -6,12 +6,12 @@
    <elementGuidId>8f0f215c-e7ed-4f4c-9132-a6aa43f0a587</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='groupNode_product_management']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#groupNode_product_management</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='groupNode_product_management']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0c018013-eb49-4151-839c-6dbe35840967</webElementGuid>
+      <webElementGuid>0dd056ec-d29e-4aa5-b232-9196c5f481c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>ea23bf92-025a-4fe5-9200-daedb6e86c7a</webElementGuid>
+      <webElementGuid>1c9e9845-d02a-44e8-a319-c29c1994b7d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>groupNode_product_management</value>
-      <webElementGuid>53b1993c-4680-42be-bde7-790b56d3ffc8</webElementGuid>
+      <webElementGuid>8d307712-7756-4e02-9911-6623f2b2cba1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>groupNode_product_management</value>
-      <webElementGuid>3797e74b-f9c2-46b0-b3e9-101a13ebb0a7</webElementGuid>
+      <webElementGuid>8d7e0e63-f581-4588-acb3-493bfca86c4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>1e5c2a87-17db-45fe-92e9-615c38088cc3</webElementGuid>
+      <webElementGuid>6038cf58-b249-4d71-bbd3-2c28dd723c81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flat-tabs-text</value>
-      <webElementGuid>bbd2c957-dc0c-40ce-bde3-3d6cf837c172</webElementGuid>
+      <webElementGuid>3ead0357-4f8f-4883-a9d9-1e5dda0759d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>9e2edc91-3b49-4f81-9088-b6c16af7c139</webElementGuid>
+      <webElementGuid>7904badb-d7b3-42c6-8610-55ef829a7ca3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Product Management</value>
-      <webElementGuid>fda135d4-c708-42e4-958d-92a8c0dfa292</webElementGuid>
+      <webElementGuid>a0356fa3-c60c-428f-bcba-ee100383a1ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;groupNode_product_management&quot;)</value>
-      <webElementGuid>d73dfd3d-ee92-4ac3-b739-680372f81a37</webElementGuid>
+      <webElementGuid>84b3045d-4cf6-4b36-af8a-0ad0eeffa032</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='groupNode_product_management']</value>
-      <webElementGuid>ae6a7ae3-fc6d-4710-94e0-7e5502edd8e2</webElementGuid>
+      <webElementGuid>bb9d1efc-e0d6-4cd1-b3e0-452f88696930</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navmenu-container']/div[2]/a</value>
-      <webElementGuid>5145cbca-14a1-4d08-ba43-4462b0bd85c3</webElementGuid>
+      <webElementGuid>95df7f46-b2fc-4f76-adb5-8eb2f083f8a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,71 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Product Management')]</value>
-      <webElementGuid>a453a806-e180-4946-93b2-ec52544e18b2</webElementGuid>
+      <webElementGuid>2c21e18a-0370-4a3f-8572-4cbecc96d18c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Good evening, Prajyot Dabhade'])[1]/following::a[2]</value>
+      <webElementGuid>6598dd11-c6a0-4013-af9e-6c35622ad231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UAT Environment'])[1]/following::a[19]</value>
+      <webElementGuid>4f2f462b-63b2-4d5e-8086-eec6ddf83d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Actions'])[1]/preceding::a[6]</value>
+      <webElementGuid>cb11542f-89b4-48cc-8751-3abc81bf148b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/preceding::a[15]</value>
+      <webElementGuid>4b103a83-3ff7-42ce-a0ed-d7426f498854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Product Management']/parent::*</value>
+      <webElementGuid>8a8711f6-2af4-4218-b3f7-822072e750d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[14]</value>
+      <webElementGuid>89507f38-67a7-4d78-b60e-f496877c9b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[2]/div/div[2]/a</value>
+      <webElementGuid>3bd28575-e424-4920-8268-0df977f9a746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @id = 'groupNode_product_management' and @name = 'groupNode_product_management' and (text() = 'Product Management' or . = 'Product Management')]</value>
+      <webElementGuid>34932cf7-8574-45e6-aa2d-c9844c549b10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,48 +204,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Actions'])[1]/preceding::a[6]</value>
-      <webElementGuid>5a999b42-e072-46de-b4d3-4b59a9c8fe5c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/preceding::a[17]</value>
       <webElementGuid>962e8167-5001-4ddc-98b8-30c12acff06d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Product Management']/parent::*</value>
-      <webElementGuid>793aeb9f-efb4-491e-947c-cf70100b031e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>(//a[contains(@href, '#')])[14]</value>
-      <webElementGuid>b865af83-7e1e-4e8a-aa7b-551f431e9775</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div/div/div/div/div/div/div[2]/div/div[2]/a</value>
-      <webElementGuid>2d9677c0-3741-4b6a-b4e3-774d813fb535</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = '#' and @id = 'groupNode_product_management' and @name = 'groupNode_product_management' and (text() = 'Product Management' or . = 'Product Management')]</value>
-      <webElementGuid>38833e1c-0e9b-4ce9-be34-2212574e11b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

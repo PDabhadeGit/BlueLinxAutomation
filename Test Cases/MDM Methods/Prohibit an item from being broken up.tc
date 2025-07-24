@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Prohibit an item from being broken up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6c4911c-7b99-4df0-8470-81add8adcd3a</testCaseGuid>
+</TestCaseEntity>

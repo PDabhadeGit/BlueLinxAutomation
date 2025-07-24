@@ -19,5 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('MDM Methods/Login MDM'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.callTestCase(findTestCase('MDM Methods/Search Item'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.callTestCase(findTestCase('MDM Methods/Modify Change Control Attributes on an Item'), [:], FailureHandling.STOP_ON_FAILURE)
 

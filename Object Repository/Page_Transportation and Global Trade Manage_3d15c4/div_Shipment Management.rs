@@ -10,6 +10,13 @@
          <value>#label2</value>
       </entry>
       <entry>
+<<<<<<< HEAD
+=======
+         <key>XPATH</key>
+         <value>//div[@id='label2']</value>
+      </entry>
+      <entry>
+>>>>>>> branch 'master' of https://github.com/PDabhadeGit/BlueLinxAutomation
          <key>BASIC</key>
          <value>//*[@id = 'label2' and (text() = '
                   Shipment Management

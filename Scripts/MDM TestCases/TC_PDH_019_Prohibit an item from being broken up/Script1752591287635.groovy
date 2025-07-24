@@ -21,7 +21,5 @@ WebUI.callTestCase(findTestCase('MDM Methods/Login MDM'), [:], FailureHandling.S
 
 WebUI.callTestCase(findTestCase('MDM Methods/Search Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('MDM Methods/Associate item to different branches'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.closeBrowser()
+WebUI.callTestCase(findTestCase('MDM Methods/Prohibit an item from being broken up'), [:], FailureHandling.STOP_ON_FAILURE)
 
