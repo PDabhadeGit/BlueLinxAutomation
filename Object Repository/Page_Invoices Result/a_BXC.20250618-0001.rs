@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='rgSGSec.2.1.1.4.k']</value>
+         <value>//a[contains(text(),'BXC.20250618-0001')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

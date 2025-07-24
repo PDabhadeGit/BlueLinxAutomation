@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[5]/div/div/div[2]</value>
+         <value>//div[@id='label2']</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -29,7 +29,7 @@
          <value>internal:label=&quot;Menu&quot;s >> internal:text=&quot;Shipment Management&quot;i</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

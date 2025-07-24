@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='sb_1_0']/div/ins</value>
+         <value>//li[@id='sb_6_0']/div/ins</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
