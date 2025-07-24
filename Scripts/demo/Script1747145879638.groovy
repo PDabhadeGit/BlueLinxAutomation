@@ -19,52 +19,37 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://ibuqjb-test.fa.ocs.oraclecloud.com/fscmUI/adfAuthentication?level=FORM&success_url=%2FfscmUI%2Ffaces%2FFuseWelcome%3F_adf.ctrl-state%3D8b1hyndqf_1%26fnd%3D%253B%253B%253B%253Bfalse%253B256%253B%253B%253B%26_afrLoop%3D28397764878268072%26_afrWindowMode%3D0%26_afrWindowId%3Dnull%26_afrFS%3D16%26_afrMT%3Dscreen%26_afrMFW%3D1028%26_afrMFH%3D515%26_afrMFDW%3D1280%26_afrMFDH%3D720%26_afrMFC%3D8%26_afrMFCI%3D0%26_afrMFM%3D0%26_afrMFR%3D144%26_afrMFG%3D0%26_afrMFS%3D0%26_afrMFO%3D0%26_adf.no-new-window-redirect%3Dtrue')
+WebUI.navigateToUrl('https://ibuqjb-test.fa.ocs.oraclecloud.com/fscmUI/adfAuthentication?level=FORM&success_url=%2FfscmUI%2Ffaces%2FFuseWelcome%3F_adf.ctrl-state%3Dsxvowdkja_1%26fnd%3D%253B%253B%253B%253Bfalse%253B256%253B%253B%253B%26_afrLoop%3D29684032974294788%26_afrWindowMode%3D0%26_afrWindowId%3Dnull%26_afrFS%3D16%26_afrMT%3Dscreen%26_afrMFW%3D1028%26_afrMFH%3D515%26_afrMFDW%3D1280%26_afrMFDH%3D720%26_afrMFC%3D8%26_afrMFCI%3D0%26_afrMFM%3D0%26_afrMFR%3D144%26_afrMFG%3D0%26_afrMFS%3D0%26_afrMFO%3D0%26_adf.no-new-window-redirect%3Dtrue')
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Sign In/input_User ID_userid (1)'), 'Prajyot.Dabhade@BlueLinxCo.com')
+WebUI.setText(findTestObject('Page_Sign In/input_User ID_userid'), 'Prajyot.Dabhade@BlueLinxCo.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/MDM_Page_Objects/Page_Sign In/input_Password_password (1)'), '5hR7QmHaNRjZKO09Vh/dgg==')
+WebUI.setEncryptedText(findTestObject('Page_Sign In/input_Password_password'), '5hR7QmHaNRjZKO09Vh/dgg==')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Sign In/button_Sign In (1)'))
+WebUI.click(findTestObject('Page_Sign In/button_Sign In'))
 
-WebUI.sendKeys(findTestObject('Page_Approve Invoice/iframe_mainBody'), 'werwr')
+WebUI.click(findTestObject('Page_Oracle Fusion Cloud Applications/a_Product Management'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Customer Data Management (1)'))
+WebUI.click(findTestObject('Page_Oracle Fusion Cloud Applications/a_Product Information Management'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Organizations (1)'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information Management - Oracl_498cc2/img_PrintMe_pt1_FOr11_FONSr20_FOTsdiItemReg_75331e'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization Organizations/a_Organization__FOpt1_FOr10_FONSr20_FOTsr10_d17e4e (1)'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information Management - Oracl_498cc2/a_Manage Items'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization Organizations/input_Name Operator__FOpt1_FOr10_FONSr20_FO_509af9 (1)'), 
-    'Test')
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/input_Keyword_pt1_FOr11_FONSr20MAt20pt1Item_0ae423'), 
+    'test')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization Organizations/button_Search (1)'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/button_Add Fields'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization Organizations/span_Test Customer 12NPO'))
+WebUI.doubleClick(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/td_Created By'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (1)'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/button_OK'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Site Name__FOpt1_FOr10_FONSr20MAnt21r_cd125b (1)'), 
-    'TEST ADDRESS')
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/input_Created By Operator_pt1_FOr11_FONSr20_97ecaf'), 
+    'Prajyot.Dabhade@BlueLinxCo.com')
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (1)'), 
-    'TEST')
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/button_Search'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Site Name__FOpt1_FOr10_FONSr20MAnt21r_cd125b (1)'), 
-    'TEST')
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_1001384'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Address Line 1__FOpt1_FOr10_FONSr20MA_075e6e (1)'), 
-    'TEST')
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Manage Columns__FOpt1_FOr10_FONSr20MAnt_7973ac (1)'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Purpose__FOpt1_FOr10_FONSr20MAnt21r10_3f1460'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/li_Ship to (1)'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_OK (2)'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_Save (1)'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_Save and Close (2)'))
+WebUI.closeBrowser()
 

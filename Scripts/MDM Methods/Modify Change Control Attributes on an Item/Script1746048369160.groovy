@@ -17,21 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Product Management'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Product Information Management'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/img_PrintMe__FOpt1_FOr10_FONSr20_FOTsdiItem_3ddbb3'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/a_Manage Items'))
-
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/input_Item Operator__FOpt1_FOr10_FONSr20MAt_4d7e4b'), 
-    'Test SKU Floor1')
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/button_Search'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Test SKU Floor1'))
-
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Specifications'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Additional Attributes'))
@@ -44,8 +29,8 @@ WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Ite
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Physical Attributes'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/select_NoYes'), 
-    '0', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/select_NoYes'), '0', 
+    true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/select_NoYes_1'), 
     '0', true)

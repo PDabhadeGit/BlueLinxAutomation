@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>28720e7c-7f17-476b-830a-12086fbeba94</webElementGuid>
+      <webElementGuid>a8d44f8a-f202-437f-be02-acb8a35ce886</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>userid</value>
-      <webElementGuid>0119d378-8bd9-4527-bfb6-d59e7ba1e2ca</webElementGuid>
+      <webElementGuid>b19a6bf2-1d4f-49d7-bff8-ea5686535dbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>userid</value>
-      <webElementGuid>3e7e6e67-cc4c-47ac-ab03-fd6eacd27982</webElementGuid>
+      <webElementGuid>59e01cb1-0065-41de-8b96-c4200a79755a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>User ID</value>
-      <webElementGuid>c113df05-cec6-4987-87d1-058eeb975576</webElementGuid>
+      <webElementGuid>9734cfb8-23fd-4042-ad1e-7fd5661cfa7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>textInput</value>
-      <webElementGuid>d7b8550a-f5ba-4b0b-99b6-96952a450aba</webElementGuid>
+      <webElementGuid>6eb93b71-2d1d-430c-b1f2-76f47a25d214</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>076d91eb-4d3f-476b-bc98-467400c50bc8</webElementGuid>
+      <webElementGuid>e938f7a4-4cf1-446e-9866-07235713e9de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>User ID</value>
-      <webElementGuid>26d61485-2995-4bdb-909f-39644be77881</webElementGuid>
+      <webElementGuid>454318cb-0ffb-4a9d-b63e-6620f590dfa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>cd56996c-473d-4466-86b4-47318cf08c34</webElementGuid>
+      <webElementGuid>76feae01-73f4-4761-bf59-b7ac4e6f5bd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>200</value>
-      <webElementGuid>d2551efc-2ae8-48c6-82a4-48bc3d0bf8dd</webElementGuid>
+      <webElementGuid>6c6811d0-5397-4ac9-a92d-32301ca37b67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;userid&quot;)</value>
-      <webElementGuid>80aab184-fab2-42a1-9bfb-3db0127e1666</webElementGuid>
+      <webElementGuid>f1459e37-ca54-4631-9a6b-96d4a9f60720</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='userid']</value>
-      <webElementGuid>b9b42192-5c68-41c0-8a52-2233d985aa1c</webElementGuid>
+      <webElementGuid>3be48d90-0b48-4442-9eab-8f1bdc9edb40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='Login']/input</value>
-      <webElementGuid>e07733a0-dd11-486e-b436-7c3efe42ab47</webElementGuid>
+      <webElementGuid>08a7ff0d-ef6a-4834-9308-257771bdcf06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>67457c48-7583-426f-96a8-b8b4bf8f33d0</webElementGuid>
+      <webElementGuid>35b9471f-563b-489d-9302-6a1e306b969c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'userid' and @id = 'userid' and @type = 'text' and @placeholder = 'User ID']</value>
-      <webElementGuid>956ee151-98eb-423c-aa99-eb0eeecd0a41</webElementGuid>
+      <webElementGuid>7e9f0d36-5a96-4821-9ceb-1ee30bca4472</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

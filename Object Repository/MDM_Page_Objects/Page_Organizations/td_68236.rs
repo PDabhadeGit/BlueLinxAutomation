@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:table1:0:ExtGen_colattr_LinkBillTo_c_Address1:lov_i1_afrLovInternalTableId::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Number'])[6]/following::td[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

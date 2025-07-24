@@ -23,3 +23,5 @@ WebUI.callTestCase(findTestCase('MDM Methods/Search Item'), [:], FailureHandling
 
 WebUI.callTestCase(findTestCase('MDM Methods/Associate item to different branches'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+
