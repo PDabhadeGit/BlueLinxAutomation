@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ff616bc6-ca4f-42ed-8ae1-a5db7e356268</webElementGuid>
+      <webElementGuid>36c3f496-bc02-4f45-9db9-098f81db60f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-treeview-item-text</value>
-      <webElementGuid>1586e680-ceda-4566-bb7f-accec8695729</webElementGuid>
+      <webElementGuid>028853cb-586a-4980-a694-dbce9ab82f2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>:title</name>
       <type>Main</type>
       <value>[[row.data.text]]</value>
-      <webElementGuid>6b622d80-9d88-4354-a31c-c0568e29c3f0</webElementGuid>
+      <webElementGuid>8e269607-2170-4a4d-b87f-7f4dd1f36638</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>:style</name>
       <type>Main</type>
       <value>[[{'color':theme_springboard_submenu_fontcolor}]]</value>
-      <webElementGuid>5430dc8d-f2f9-411d-8a65-18cc4c162873</webElementGuid>
+      <webElementGuid>8b22eb59-913e-4257-ac7d-05babe5ea9d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Shipment Management</value>
-      <webElementGuid>7ef7279b-a896-42b5-9a52-04a53081df13</webElementGuid>
+      <webElementGuid>01937c15-a8eb-4a44-a3f6-373f736a40ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <value>
                       Shipment Management
                     </value>
-      <webElementGuid>952427b7-3bc0-4c3f-aafb-b15eb8a71a57</webElementGuid>
+      <webElementGuid>8608dbc8-548d-45c5-b831-dd02d982d8c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sb_1_0&quot;)/div[@class=&quot;oj-treeview-item-content oj-hover oj-focus&quot;]/span[@class=&quot;oj-treeview-item-text&quot;]</value>
-      <webElementGuid>769c9b5f-ba51-4187-9667-cc790bc0806b</webElementGuid>
+      <webElementGuid>d636beb8-9b76-4b8b-8013-315ac9372522</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='sb_1_0']/div/span[2]</value>
-      <webElementGuid>4d20c06d-abdb-464d-b0ad-1a2215e5cf03</webElementGuid>
+      <webElementGuid>a842ac7c-3487-4596-bafb-22ecd5025e2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[6]/following::span[2]</value>
-      <webElementGuid>ef1b3e3f-7722-43c5-b6d6-c97ef8f2987e</webElementGuid>
+      <webElementGuid>5736fe8b-d78e-46c8-bfc5-42c62f90f569</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/oj-tree-view/ul/li/div/span[2]</value>
-      <webElementGuid>fb7b2e0a-4333-4000-ac5f-d95c17e26df4</webElementGuid>
+      <webElementGuid>aae7cba2-bb61-444a-89ad-8e0e2d8d8fac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,6 +115,6 @@
                     ' or . = '
                       Shipment Management
                     ')]</value>
-      <webElementGuid>d364e985-ed27-45d0-b378-8f34811325fe</webElementGuid>
+      <webElementGuid>102a2f76-283d-4aae-820a-af84c248a4d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

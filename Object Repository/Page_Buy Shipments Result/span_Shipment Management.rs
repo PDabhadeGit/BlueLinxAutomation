@@ -6,12 +6,12 @@
    <elementGuidId>8fffe734-4037-43d4-973b-b97513624706</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='actionTree.1_8.l']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='actionTree.1_8.l']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>be40f7c3-8a02-4126-ac06-cdf33910314f</webElementGuid>
+      <webElementGuid>5157f35a-55b0-4ca7-9254-243e44866f22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>actionTree.1_8.l</value>
-      <webElementGuid>0fac6526-d398-4c97-9129-935e2187cdbf</webElementGuid>
+      <webElementGuid>de15931b-8276-471a-a1f3-09294803fee1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>oc</value>
-      <webElementGuid>a4f1ec7f-7bb3-43a9-9e76-8afeb8119fca</webElementGuid>
+      <webElementGuid>5e07c680-814d-490a-87b7-a860c4b7eed7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>l</value>
-      <webElementGuid>26747702-3a33-40e1-9880-ac1f559cd133</webElementGuid>
+      <webElementGuid>466bb71e-8645-4ada-b393-167c3bdae13c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>role</name>
       <type>Main</type>
       <value>presentation</value>
-      <webElementGuid>fc4c51e4-546d-4277-ba6b-65e0eb5b7d0a</webElementGuid>
+      <webElementGuid>509b36b3-0e41-4a27-bfd5-34f57f0efabb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Shipment Management</value>
-      <webElementGuid>e4b45da4-3f1a-4d79-a51e-394c0fff9341</webElementGuid>
+      <webElementGuid>3bdf2832-0566-4def-bf58-5cd10f861f0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;actionTree.1_8.l&quot;)</value>
-      <webElementGuid>e7e32a56-a771-43c8-8f68-c87a8e2c5f6a</webElementGuid>
+      <webElementGuid>0ffbbc98-188a-4f7b-a772-6fb8b4bc7c9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_Buy Shipments Result/iframe_concat(id(, , actionFrame, , ))_actionFrame</value>
-      <webElementGuid>534aa18e-6187-4000-9d9b-4de24b127807</webElementGuid>
+      <webElementGuid>717200e4-b0cb-4bd8-a081-df45cde6a106</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='actionTree.1_8.l']</value>
-      <webElementGuid>909464af-b453-47d2-9e22-8e7f5f46a3b8</webElementGuid>
+      <webElementGuid>13978afb-c4f6-47aa-be85-fb3c54299c32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='actionTree.1_8']/td/span[2]</value>
-      <webElementGuid>26471461-bbb9-46da-aa9a-604618ff8ba3</webElementGuid>
+      <webElementGuid>e11474d5-aaed-488a-a24b-dfcc1cd90025</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Load Config'])[1]/following::span[2]</value>
-      <webElementGuid>144a18cb-dffa-497f-a786-71e1c8c41cb4</webElementGuid>
+      <webElementGuid>cb742af2-3f05-4822-81a0-0cb0d7bdff02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Load Config'])[1]/following::span[4]</value>
-      <webElementGuid>0f11d5ff-230c-428e-86d4-530cd0cf9e70</webElementGuid>
+      <webElementGuid>45bb0884-3f76-4ca0-924f-a473fad76635</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Service Provider'])[1]/preceding::span[2]</value>
-      <webElementGuid>e989c379-219b-4168-9ee0-b32ff073dfc4</webElementGuid>
+      <webElementGuid>ec0554fb-5020-4185-b3a4-73dabf66fd7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Analyze Carrier Scorecard'])[1]/preceding::span[4]</value>
-      <webElementGuid>66c1483d-4bbe-4b21-9e61-b87ced5a40b2</webElementGuid>
+      <webElementGuid>aa20addd-8a97-480c-aaf7-bfc69efc975e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Shipment Management']/parent::*</value>
-      <webElementGuid>7b419073-e631-4fa7-b1a1-1d51f3c043ac</webElementGuid>
+      <webElementGuid>5c0e4b9b-6083-4f6b-bdd9-0ffe81126622</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[15]/td/span[2]</value>
-      <webElementGuid>43991c11-9996-4541-98da-d4ff954043b8</webElementGuid>
+      <webElementGuid>1387330e-5cb7-4464-a6dd-afbe2f29fe18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'actionTree.1_8.l' and @type = 'oc' and (text() = 'Shipment Management' or . = 'Shipment Management')]</value>
-      <webElementGuid>f71df9e2-0f1f-404e-be8c-b7fe87397d98</webElementGuid>
+      <webElementGuid>846389c9-21c8-4ee3-9f92-6df9fe4c7670</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

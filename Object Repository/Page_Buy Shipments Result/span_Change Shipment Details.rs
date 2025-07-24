@@ -6,12 +6,11 @@
    <elementGuidId>26f86521-bcf8-4bec-8c3b-28d3a7013643</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='actionTree.1_8_3.l']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//span[@id='actionTree.1_8_3.l']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

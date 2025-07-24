@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>iframe</value>
-      <webElementGuid>1b099447-8236-43ab-8b35-415e5fea7f9d</webElementGuid>
+      <webElementGuid>e3852009-b7da-4464-beb9-a29fc992122a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>actionFrame</value>
-      <webElementGuid>061a15b2-63fc-4a13-8e68-ba1ed87b7f25</webElementGuid>
+      <webElementGuid>2c3bd64c-cf1c-4641-a436-751ef9ab26d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>actionFrame</value>
-      <webElementGuid>cf606e2b-c67e-4736-8828-9d6025942b64</webElementGuid>
+      <webElementGuid>d96a236b-6b4b-4063-9d51-05ee89941619</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>iWinFrame</value>
-      <webElementGuid>edc3fed3-eedd-4eac-961e-da5f2eeef213</webElementGuid>
+      <webElementGuid>b7c3516e-6bf4-4db1-9925-05507628211a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>frameborder</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>af157921-3c27-4a06-81b4-822fff97d868</webElementGuid>
+      <webElementGuid>8f734228-d2f7-4e56-aae5-51249273173a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,15 +69,15 @@
       <name>scrolling</name>
       <type>Main</type>
       <value>no</value>
-      <webElementGuid>0c04fe3f-38b3-48c6-918c-a75be2ed2e4f</webElementGuid>
+      <webElementGuid>53e7d965-0c53-46c7-8fee-1d1bc228a23a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/GC3/glog.webserver.finder.ActionServlet/1751456823215?bcKey=MTc1MTQ1NjgyMzIxNjow&amp;query_name=glog.server.query.shipment.BuyShipmentQuery&amp;finder_set_gid=BUY_SHIPMENT</value>
-      <webElementGuid>00c2a6ff-f593-4941-ab0d-77853d01d288</webElementGuid>
+      <value>/GC3/glog.webserver.finder.ActionServlet/1753369504759?bcKey=MTc1MzM2OTUwNDc2MDow&amp;query_name=glog.server.query.shipment.BuyShipmentQuery&amp;finder_set_gid=BUY_SHIPMENT</value>
+      <webElementGuid>b256e69e-f7eb-4368-ba49-4a47f1a20f22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>pageloaded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>fd969ad8-a69c-440c-80ea-6302020c23fd</webElementGuid>
+      <webElementGuid>71d73e92-b225-4a36-9b9d-80c4b83ccea0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;actionFrame&quot;)</value>
-      <webElementGuid>ca17a6a9-bc85-4c3d-9241-485f0dd06f33</webElementGuid>
+      <webElementGuid>424fc40f-d7f7-4281-8c1d-b5eaac289af6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -108,8 +108,8 @@
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_Buy Shipments Result/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
-      <webElementGuid>dd72339d-d4cf-4d41-bca6-711fe91751eb</webElementGuid>
+      <value>Object Repository/Page_Buy Shipments Result/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>170ace61-75c6-478f-9743-df3cdea0abda</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//iframe[@id='actionFrame']</value>
-      <webElementGuid>8f0f6966-8355-45f5-a3e6-b6199df91ba0</webElementGuid>
+      <webElementGuid>226783b3-171c-400e-a960-3e4d504af3de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,15 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body/iframe</value>
-      <webElementGuid>cb7f7c4b-c778-4d89-8072-ff4e695bcc45</webElementGuid>
+      <webElementGuid>9102b0c0-3951-4548-a104-b2cd01a104d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@name = 'actionFrame' and @id = 'actionFrame' and @src = '/GC3/glog.webserver.finder.ActionServlet/1753369504759?bcKey=MTc1MzM2OTUwNDc2MDow&amp;query_name=glog.server.query.shipment.BuyShipmentQuery&amp;finder_set_gid=BUY_SHIPMENT']</value>
+      <webElementGuid>7c5715a1-4ebf-4eea-9c4f-fac1f03dd678</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

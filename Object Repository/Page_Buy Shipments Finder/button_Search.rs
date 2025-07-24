@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button</value>
+         <value>//button[@id='search_button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dee2bfd7-2530-4d0c-b3bf-c2c723874fde</webElementGuid>
+      <webElementGuid>af55c8d4-537b-463f-8bab-0290bad3cebb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e1a47520-1aa7-4ca9-8175-c82578c4f22b</webElementGuid>
+      <webElementGuid>604fa6d1-9114-494a-a85d-e2dd29f19c35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>search_button</value>
-      <webElementGuid>4dfb46d5-eadb-4a88-937e-ec7db919115d</webElementGuid>
+      <webElementGuid>d8374ed1-f971-47bc-8e3b-08d136229078</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>enButton</value>
-      <webElementGuid>6226e872-ea1c-424e-97c6-892c3c725e12</webElementGuid>
+      <webElementGuid>c226dcc7-81af-41c7-b162-13b2983a0ab2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>function t() { this.focus(); return performMainSearch('Search'); return true; } if(t.call(this) !== false) { javascript:void(1); } else { return false; }</value>
-      <webElementGuid>e7b73773-f291-431e-bdf1-d0786b0bb7ba</webElementGuid>
+      <webElementGuid>a1118312-6b43-4dce-96ff-bce039f46c96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>id</name>
       <type>Main</type>
       <value>search_button</value>
-      <webElementGuid>404a0011-c91a-47a4-a19a-e9564018cc83</webElementGuid>
+      <webElementGuid>fec2ba28-373f-4a12-8031-8a713da12407</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>target</name>
       <type>Main</type>
       <value>mainBody</value>
-      <webElementGuid>e7d19c9f-80c7-4aac-9dc4-4dbb11eb4ae4</webElementGuid>
+      <webElementGuid>26f91270-4af6-419f-83eb-ab8733fc82af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>73254fc1-697c-447b-9c60-2dd2f997ab1c</webElementGuid>
+      <webElementGuid>5d010690-38ba-435a-9fdc-36fdc5465aa0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,15 +93,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search_button&quot;)</value>
-      <webElementGuid>d7d23781-b540-47e6-b689-49d4fe171768</webElementGuid>
+      <webElementGuid>2958f0ac-c8f8-4ede-a1a8-6df29099dc61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_Buy Shipments Finder/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
-      <webElementGuid>d07c2b0e-bd47-4d44-80b2-0881a3894ccf</webElementGuid>
+      <value>Object Repository/Page_Buy Shipments Finder/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>d155033b-fce2-4a29-985e-bf26cf044fcd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='search_button']</value>
-      <webElementGuid>93b68d42-cfcd-45aa-af4d-3ef717fd8ac4</webElementGuid>
+      <webElementGuid>cc0f4f35-e4a3-4325-a2f7-add7f50bd504</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='bodyDataFooterContDiv']/table/tbody/tr/td/div/button</value>
-      <webElementGuid>982416b7-7244-4280-a53e-49afce13defb</webElementGuid>
+      <webElementGuid>3840927f-ac49-4e48-9c49-e8d795039d06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Standard Document Type'])[1]/following::button[1]</value>
-      <webElementGuid>5e9f0b72-a93d-4e4d-bc4f-9c8b3ea5d117</webElementGuid>
+      <webElementGuid>0211f19c-ec96-42e5-a292-d0ba5d0f680b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Combination Equipment Group ID'])[1]/following::button[1]</value>
-      <webElementGuid>d6bbc929-3f3c-49db-be4d-58a7350d24bf</webElementGuid>
+      <webElementGuid>5d1618f4-306b-440b-96e0-0164026a6758</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::button[1]</value>
-      <webElementGuid>c1d62262-9445-409a-a67c-723c464421da</webElementGuid>
+      <webElementGuid>2cc3aa6d-5282-4700-8472-90be018bfb6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort Order'])[1]/preceding::button[2]</value>
-      <webElementGuid>fea1fb0d-48b6-4c41-b021-3b66f52bdab8</webElementGuid>
+      <webElementGuid>db09af60-a4c5-4760-83db-c1e05ae72e95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
-      <webElementGuid>9380860e-bac3-44de-89e1-7e42265e750f</webElementGuid>
+      <webElementGuid>e68f7014-ab24-40d9-b4e3-d5d33ee5e24a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>8db146f1-52bc-4410-b3f2-59491babdc5c</webElementGuid>
+      <webElementGuid>56de51af-ea64-415b-b536-2943bc9f145f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @name = 'search_button' and @id = 'search_button' and (text() = 'Search' or . = 'Search')]</value>
-      <webElementGuid>e0d176bb-79ec-427e-90de-93da2f623526</webElementGuid>
+      <webElementGuid>835d9822-35a5-40d2-bf09-45ed4ddebcf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

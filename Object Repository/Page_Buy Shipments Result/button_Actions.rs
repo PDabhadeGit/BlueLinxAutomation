@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e25d55c4-7e6e-4227-a526-0bd9dee1a70a</webElementGuid>
+      <webElementGuid>cd13f5f7-367b-4c53-bf3a-7c5380fe3fd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>37436e56-e6a4-4699-9a5b-455a33d6786c</webElementGuid>
+      <webElementGuid>813457f7-6ab5-4aef-8451-d2bd5898f286</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>enButton</value>
-      <webElementGuid>677ef269-2a26-42bd-9d8c-a2c85e2b3ad8</webElementGuid>
+      <webElementGuid>db1210b7-afdb-4c9c-8fdd-7fe80952db1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>function t() { javascript:return loadFinderActionFrameAndAddCssClassToFinder(queryName, finderSetGid, this,'finderButtonOnClick', event); return true; } if(t.call(this) !== false) { javascript:void(0); } else { return false; }</value>
-      <webElementGuid>bba4466f-6a4e-4240-9397-852e7ae1b615</webElementGuid>
+      <webElementGuid>2e96ef97-538c-45a4-b366-708f1f664b66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>accesskey</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f9d0bb29-7c48-44a1-a98b-8a9b6e639f10</webElementGuid>
+      <webElementGuid>93638d0c-936d-4459-bfd3-a59cf7e6042a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a68dca69-86d6-4f42-a19c-5823c31d56bb</webElementGuid>
+      <webElementGuid>0890a4ed-2c4f-429e-a9a5-7995823836cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Actions</value>
-      <webElementGuid>0fdc9c42-8b46-46df-b8ef-33d17817bfa1</webElementGuid>
+      <webElementGuid>73c0e8f9-651f-48a4-a720-4c99b92a6e96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,15 +85,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;frToolbar&quot;)/tbody[1]/tr[1]/td[1]/div[@class=&quot;finderButton sgCaptionCol&quot;]/div[@class=&quot;buttonCont&quot;]/button[@class=&quot;enButton&quot;]</value>
-      <webElementGuid>486e0027-5581-4fce-ba3f-a656b072a500</webElementGuid>
+      <webElementGuid>697db117-a57e-45e3-9b19-f2ea02338ff3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_Buy Shipments Result/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
-      <webElementGuid>864a634d-1516-4d5c-97cc-22410fdeaf67</webElementGuid>
+      <value>Object Repository/Page_Buy Shipments Result/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>6f5e9076-fd96-4bb4-8432-e16b669f6d10</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='']</value>
-      <webElementGuid>b032ef3a-05b8-4ff1-b907-8b02172283a4</webElementGuid>
+      <webElementGuid>e1f71e5f-f591-46f3-b428-5d8ece4532b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,47 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='frToolbar']/tbody/tr/td/div/div/button</value>
-      <webElementGuid>7542d403-a130-4d3c-a0b7-d8727e01bb71</webElementGuid>
+      <webElementGuid>6530c47e-1350-4bdc-9757-49dcd01ac13f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Shipments'])[1]/following::button[1]</value>
+      <webElementGuid>e6f47cb3-11ab-4e89-bff6-b1ce7bce9f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/preceding::button[1]</value>
+      <webElementGuid>5c7683ad-7bde-42f1-b046-b77ffbcd4e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Actions']/parent::*</value>
+      <webElementGuid>04bd9dd4-8f38-485a-b6c5-9174892a482e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>7213d248-4461-49d0-9928-3e8bd2a28391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Actions' or . = 'Actions')]</value>
+      <webElementGuid>9472f13c-9486-4e7e-81c9-d4a3ed028a37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,49 +170,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Actions']/parent::*</value>
-      <webElementGuid>87f34bc4-9de3-4a27-8233-402284f45977</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/button</value>
       <webElementGuid>4ae73b71-db01-49c0-b7e2-7f8cda89241d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Actions' or . = 'Actions')]</value>
-      <webElementGuid>eb44fcb5-87c3-45f0-aee3-4397006a7ace</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Shipments'])[1]/following::button[1]</value>
-      <webElementGuid>0fb52196-1e91-4323-817e-efd9c39fad38</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>d2eba9a4-1590-4408-a6bd-74cc3d2466cc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/preceding::button[1]</value>
-      <webElementGuid>84363d47-732d-40be-b297-21ad7e9c49a5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

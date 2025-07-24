@@ -6,11 +6,11 @@
    <elementGuidId>b51dfcc8-40de-4ef3-b3eb-704e2ebaa24a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@type = 'checkbox' and @name = 'Selected']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//input[@type = 'checkbox' and @name = 'Selected']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

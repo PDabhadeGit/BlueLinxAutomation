@@ -10,16 +10,23 @@
          <value>#label2</value>
       </entry>
       <entry>
+<<<<<<< HEAD
+=======
          <key>XPATH</key>
          <value>//div[@id='label2']</value>
       </entry>
       <entry>
+>>>>>>> branch 'master' of https://github.com/PDabhadeGit/BlueLinxAutomation
          <key>BASIC</key>
          <value>//*[@id = 'label2' and (text() = '
                   Shipment Management
                 ' or . = '
                   Shipment Management
                 ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='label2']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -37,7 +44,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>642425e3-33c5-4158-846a-3a89bb8df85c</webElementGuid>
+      <webElementGuid>6528ab7d-e1cc-4272-a7f1-eef850ed8929</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +52,7 @@
       <name>:id</name>
       <type>Main</type>
       <value>[[getLabelId(menu.index)]]</value>
-      <webElementGuid>51512397-b30d-400a-9bbf-2b7aad893d6e</webElementGuid>
+      <webElementGuid>cd01d98f-0a94-40a9-86bc-b8bf437ceb88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +60,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tm-text-align-center tm-sb-tile-label</value>
-      <webElementGuid>12474156-2022-401c-aa77-4329f44b0b06</webElementGuid>
+      <webElementGuid>64afbc2e-37e3-4a17-82fc-78516e5a5c18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +68,7 @@
       <name>:style</name>
       <type>Main</type>
       <value>[[{'color':theme_main_font_color}]]</value>
-      <webElementGuid>9967be9b-9f9d-490b-8c52-ca20b86134f7</webElementGuid>
+      <webElementGuid>c869006a-f6a6-44a2-8b92-02204d5ff76a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +76,7 @@
       <name>id</name>
       <type>Main</type>
       <value>label2</value>
-      <webElementGuid>5ad4b263-5939-4ad2-a736-46405d57ec98</webElementGuid>
+      <webElementGuid>cac54a60-41d6-4906-b8cf-23be22eae600</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +86,7 @@
       <value>
                   Shipment Management
                 </value>
-      <webElementGuid>05245011-ab50-42dc-9c9f-427083d27a12</webElementGuid>
+      <webElementGuid>b8f6ebb4-7a55-42ff-82af-530d92cd408f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;label2&quot;)</value>
-      <webElementGuid>3adca403-9c5a-42e8-bc93-a4314e31446f</webElementGuid>
+      <webElementGuid>b7ac8b52-e1e7-4c13-878c-93b9e5ba4794</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='label2']</value>
-      <webElementGuid>807d8453-c0ef-4014-a31b-a72910801633</webElementGuid>
+      <webElementGuid>2c1cea77-350b-45b8-b698-8313a77622b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sb_1']/div/div/div[2]</value>
-      <webElementGuid>796b69d2-068e-4597-a6ae-dd08ece883d8</webElementGuid>
+      <webElementGuid>3733f208-edbd-48f5-8acc-3cd697adfb2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[5]/following::div[5]</value>
-      <webElementGuid>3a2e7ae7-93d3-463a-87f8-8148f8519650</webElementGuid>
+      <webElementGuid>962c050a-277d-4ddd-bd09-a3ce74cfae65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[6]/preceding::div[1]</value>
-      <webElementGuid>38de33f9-cbd9-4f42-abd3-10601e0a2e6f</webElementGuid>
+      <webElementGuid>ef16b626-63dc-4b0e-a378-a3091ef9190d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/div[2]</value>
-      <webElementGuid>ae9ca901-6c0e-489a-be63-b0474f8fb960</webElementGuid>
+      <webElementGuid>0ce45c0d-0291-41ad-a289-d54b5a077ca6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,6 +146,6 @@
                 ' or . = '
                   Shipment Management
                 ')]</value>
-      <webElementGuid>47a96e96-be4e-4038-b6c7-f935e62a86a5</webElementGuid>
+      <webElementGuid>d9bfc5a6-9594-46d5-b713-c98e9a20b327</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>iframe</value>
-      <webElementGuid>e3f47473-083d-48f7-85db-a6b50d800e63</webElementGuid>
+      <webElementGuid>5ab0d493-ca1f-4b76-9cc8-92d5e3c8da2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mainIFrame</value>
-      <webElementGuid>0b92b848-1591-4a21-9b48-0456d53600a8</webElementGuid>
+      <webElementGuid>e9101f39-5222-4929-a075-091740287938</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-web-applayout-content-nopad</value>
-      <webElementGuid>bfd22dcd-c596-48fc-b5cd-dfcf6e822134</webElementGuid>
+      <webElementGuid>5749ca1e-aa5f-4345-8113-747ede80a5dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>onload</name>
       <type>Main</type>
       <value>mainIFrameOnLoad()</value>
-      <webElementGuid>999eb14f-d1c6-405c-8871-87b53d4c5c92</webElementGuid>
+      <webElementGuid>13878827-6dcd-4eb3-9ee2-c3c47570cf71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-bind</name>
       <type>Main</type>
       <value>attr : {src: IFRAME_URL}</value>
-      <webElementGuid>ea7e6a97-26b4-4653-91c8-2d7910599e10</webElementGuid>
+      <webElementGuid>69364237-7cd3-43c1-a05a-786d1ab2dc83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/GC3/glog.webserver.finder.FinderServlet?bcKey=new&amp;query_name=glog.server.query.shipment.BuyShipmentQuery&amp;finder_set_gid=BUY_SHIPMENT</value>
-      <webElementGuid>46be2e7b-c9bd-406c-b254-2547033d105e</webElementGuid>
+      <webElementGuid>04f7dfa4-252d-4a8c-a7ef-b1906e46e547</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mainIFrame&quot;)</value>
-      <webElementGuid>7c25a689-cbcb-4ede-82d0-a21aedae5b69</webElementGuid>
+      <webElementGuid>7cfe15d4-c6b5-4386-b85c-e756a7c33ea4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//iframe[@id='mainIFrame']</value>
-      <webElementGuid>64b9901d-40e6-4fe1-b482-561bac4057c3</webElementGuid>
+      <webElementGuid>55a3be4c-b2de-4630-a1d0-b0f7f6458f8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//oj-module[@id='mainModule']/iframe</value>
-      <webElementGuid>503e1d84-0f80-4e27-a2c4-4e2201fbcde9</webElementGuid>
+      <webElementGuid>67d94e71-a3bd-49ad-b65c-fe1b035a9f4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//iframe</value>
-      <webElementGuid>2e3647f5-6e04-4e74-9f72-3d6230631496</webElementGuid>
+      <webElementGuid>f3a72eb3-5217-4899-86b8-88b304d26a32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//iframe[@id = 'mainIFrame' and @src = '/GC3/glog.webserver.finder.FinderServlet?bcKey=new&amp;query_name=glog.server.query.shipment.BuyShipmentQuery&amp;finder_set_gid=BUY_SHIPMENT']</value>
-      <webElementGuid>de6ff09c-4fd9-49b1-98c5-5fb80a272d67</webElementGuid>
+      <webElementGuid>e2966fff-4bc2-4c14-a7eb-c32f2be84638</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

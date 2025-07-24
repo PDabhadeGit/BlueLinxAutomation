@@ -6,11 +6,11 @@
    <elementGuidId>5ac45ae1-9d26-4c43-85fb-5158153587c4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='rgSGSec.2.1.2.4.k']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//a[@id='rgSGSec.2.1.2.4.k']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
