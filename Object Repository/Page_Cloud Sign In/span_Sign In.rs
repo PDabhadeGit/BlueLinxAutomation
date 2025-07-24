@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>baf4d275-c1bd-4ebe-b8a3-8008114788d6</webElementGuid>
+      <webElementGuid>c9786aee-0370-48ad-bdae-e3657db4e9f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-button-text</value>
-      <webElementGuid>acd7038d-9878-4299-a4da-c4e43df4f378</webElementGuid>
+      <webElementGuid>93bfb194-3300-48b2-a720-c948bf88e4dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ui-id-4</value>
-      <webElementGuid>bdab7b03-e199-4d81-91c6-885574a72de1</webElementGuid>
+      <webElementGuid>d9b514af-2a39-4107-b481-97cdefabd16c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>053e0617-d156-4c5f-a002-46826d269ab5</webElementGuid>
+      <webElementGuid>04bead16-cac7-4223-ac96-ab80fc7548f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-id-4&quot;)</value>
-      <webElementGuid>126d4037-026c-4697-9cac-0b165b1119a9</webElementGuid>
+      <webElementGuid>bb17515e-5a03-4ec0-a54a-b5300e800819</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='ui-id-4']</value>
-      <webElementGuid>e466a623-77e3-4eb6-9d76-dc65bea49830</webElementGuid>
+      <webElementGuid>36537d2c-27f2-4e95-9548-ac34cd8ff068</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//oj-button[@id='idcs-signin-basic-signin-form-submit']/button/div/span</value>
-      <webElementGuid>721eec5a-796e-4305-8616-7d7b6f57da1b</webElementGuid>
+      <webElementGuid>2f3cda88-d8b6-49e5-b7db-9bd79223197c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me signed in'])[1]/preceding::span[1]</value>
-      <webElementGuid>54fec116-7c27-40f2-89e1-3ecaab5f0696</webElementGuid>
+      <webElementGuid>7bd0c701-40fe-41da-9458-0d4ed588c71b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>6b149f15-dbc5-42db-8842-179868407a96</webElementGuid>
+      <webElementGuid>800535a1-dbf1-4a2d-b8b6-a6ac253dc6ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/oj-button/button/div/span</value>
-      <webElementGuid>84828e46-6f61-4407-aaab-cacc9841d1cb</webElementGuid>
+      <webElementGuid>988ee153-2857-4089-be75-d86a5b1ac5a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'ui-id-4' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>2ec2267b-eca0-42ba-a838-e3a47ed25f14</webElementGuid>
+      <webElementGuid>d1a6de51-d666-4d79-a842-403068ad9ab8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

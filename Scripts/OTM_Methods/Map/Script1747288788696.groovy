@@ -23,9 +23,9 @@ WebUI.click(findTestObject('Page_Buy Shipment Result/input_Domain Name_Selected'
 
 WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/button_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Page_Order Releases Result/img'))
+WebUI.click(findTestObject('Page_Buy Shipments Result/span_Shipment Management'))
 
-WebUI.click(findTestObject('Object Repository/Page_Order Releases Result/span_Map'))
+WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/span_Map'))
 
 WebUI.click(findTestObject('Object Repository/Page_Order Releases Result/a_Map Order Releases'))
 

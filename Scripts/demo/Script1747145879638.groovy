@@ -19,52 +19,37 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://ibuqjb-test.fa.ocs.oraclecloud.com/fscmUI/adfAuthentication?level=FORM&success_url=%2FfscmUI%2Ffaces%2FFuseWelcome%3F_adf.ctrl-state%3D8b1hyndqf_1%26fnd%3D%253B%253B%253B%253Bfalse%253B256%253B%253B%253B%26_afrLoop%3D28397764878268072%26_afrWindowMode%3D0%26_afrWindowId%3Dnull%26_afrFS%3D16%26_afrMT%3Dscreen%26_afrMFW%3D1028%26_afrMFH%3D515%26_afrMFDW%3D1280%26_afrMFDH%3D720%26_afrMFC%3D8%26_afrMFCI%3D0%26_afrMFM%3D0%26_afrMFR%3D144%26_afrMFG%3D0%26_afrMFS%3D0%26_afrMFO%3D0%26_adf.no-new-window-redirect%3Dtrue')
+WebUI.navigateToUrl('https://idcs-4eba051283d64aee8788a096341cd7f4.identity.oraclecloud.com/oauth2/v1/authorize?response_mode=form_post&response_type=id_token&scope=openid&IDCS_CG_ENC_VER=v2&state=dnaw4FgxGdahlUo4uH6p2Sf8Ke9Lpm8nzYtWIKSpX_A&nonce=g-wyVO40M_1TWAiCLC7c6Da-7-JDH6GnGWL20HWHO28&IDCS_IS_CLOUDGATE=true&X-HOST-IDENTIFIER-NAME=otmgtm-test-summit1.otmgtm.us-ashburn-1.ocs.oraclecloud.com&idcs_app_name=summit1_OTMGTM-test-40876_APPID&idcs_app_resource_url=https%3A%2F%2Fotmgtm-test-summit1.otmgtm.us-ashburn-1.ocs.oraclecloud.com%2FGC3%2Fglog.webserver.home.HomeServlet%3Fojr%3Dmaincontent&client_id=631184a4b96645f99653b4b3c0316688_APPID&IDCS_CG_ENC=true&enc=_l25CvQ-b7DHAgAAjQIAABAgjQIAAHMCAAAQACpDHCYTL5dl7V74aTH3rAROBCB3z7Mt8IEBxbjEBHwdHocv9kPDY7TH8kHlJ34T0qdL1bg69yQaZGu7esq07Zj238ZsfMf_5T4ocL02vd9XJTzrfwSQlqbA1l3oaXX75f7EfZH_86qKPPYAkjDNsBt-owmAmE0WRvCogCPON-_nIdFL4UmaUVnHAzjjgw6adQ4hZcmoxBtS9Or15d6-XQTr_GVV6Nn5MQuUk5aHUv88O5vLeLWKiv3FY4wd8mcMu3LJ1LaK0Y68MVi3n1m_D_IWumpH9hsu_C3whFHiUrCUJ6umD5F9-KfIQ12Y9dEjvek-CME9h9LEzFJ5uqX-c_a2IV9WvnKlE9u1WKdGR3phb7iK9Q-ao8C9CpPfu8eMj4EZdIFG0pYK_Ny6LOCUk5V7WydQ6fomQpX_oA3dXPvy99158fixADp278M4DOSW6BMnFk24qCJKHR5gPKFqQ1D55mQGa-O_mmZc1z4frerdF_OHaVYpl2E8wz4csAzqnVkiXwsZdzTTAWh6d9818r_cHvYRDHaldIvc4_9PrRrVFxlbPrSaK0gn2LAqqbaCvqr08HLCJxqgGU84-Y8NxgeyztnhUOO1w8YIThJLhnRSCWpZUq3cLtkDdOBl5LjBKiE5iQP-BbJkiYhY4P5SIKNMH3nqlvmWG9OW6h1escx-LJD7HjfqkqyKW0p9yDq2lcNqi-m7pwVcHFC_o1vZX-36HkRiOSpnLNpLCiJH6hQPtov4SjQ-jiyGt27JvAHqloXdJvglmjU7W3qpsXMM0kmlTJP3Fq6IA_IScQp01Mf5De079wralvgKYPNpaZjO4cJbuMbHvNxyHDx2cJ5_RO5Cjd1WwErvigduQyuOvY5txV6sSMEK2EiZtsk-_rtdmExhp0YN2WilEuGFHd1jZ0WCDEI')
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Sign In/input_User ID_userid (1)'), 'Prajyot.Dabhade@BlueLinxCo.com')
+WebUI.click(findTestObject('Object Repository/Page_Cloud Sign In/input_User Name_idcs-signin-basic-signin-fo_93898c'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/MDM_Page_Objects/Page_Sign In/input_Password_password (1)'), '5hR7QmHaNRjZKO09Vh/dgg==')
+WebUI.setText(findTestObject('Object Repository/Page_Cloud Sign In/input_User Name_idcs-signin-basic-signin-fo_93898c'), 
+    'Gaurav.Prasad@BlueLinxCo.com')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Sign In/button_Sign In (1)'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Cloud Sign In/input_Password_idcs-signin-basic-signin-for_2f0e89'), 
+    'TCRrBFWPcdYfr+QHQbxu/A==')
 
-WebUI.sendKeys(findTestObject('Page_Approve Invoice/iframe_mainBody'), 'werwr')
+WebUI.click(findTestObject('Object Repository/Page_Cloud Sign In/span_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Customer Data Management (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Organizations (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/span_Shipment Management'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization Organizations/a_Organization__FOpt1_FOr10_FONSr20_FOTsr10_d17e4e (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/span_Buy Shipments'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization Organizations/input_Name Operator__FOpt1_FOr10_FONSr20_FO_509af9 (1)'), 
-    'Test')
+WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Finder/button_Search'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization Organizations/button_Search (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/input_BXC.1000051_Selected'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization Organizations/span_Test Customer 12NPO'))
+WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/button_Actions'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/span_Shipment Management'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Site Name__FOpt1_FOr10_FONSr20MAnt21r_cd125b (1)'), 
-    'TEST ADDRESS')
+WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/span_Map'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (1)'), 
-    'TEST')
+WebUI.switchToWindowTitle('Buy Shipments Result')
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Site Name__FOpt1_FOr10_FONSr20MAnt21r_cd125b (1)'), 
-    'TEST')
+WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/a_Map Shipments'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Address Line 1__FOpt1_FOr10_FONSr20MA_075e6e (1)'), 
-    'TEST')
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Manage Columns__FOpt1_FOr10_FONSr20MAnt_7973ac (1)'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Purpose__FOpt1_FOr10_FONSr20MAnt21r10_3f1460'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/li_Ship to (1)'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_OK (2)'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_Save (1)'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_Save and Close (2)'))
+WebUI.closeBrowser()
 

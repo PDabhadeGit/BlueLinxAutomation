@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[text()='Buy Shipments']</value>
+         <value>//li[@id='sb_1_0_0']/div/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>eb2a8b9e-8c23-4560-af80-7c2a9175b8b4</webElementGuid>
+      <webElementGuid>3c5ce340-fed2-42b1-9475-f65460c74f73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-treeview-item-text</value>
-      <webElementGuid>89ccda3e-56f6-4872-b560-d4a217a0f18d</webElementGuid>
+      <webElementGuid>f9e83df4-d080-4529-8813-1e1e77937457</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>:title</name>
       <type>Main</type>
       <value>[[row.data.text]]</value>
-      <webElementGuid>377392ca-0119-4133-a73a-df8ae4a9567c</webElementGuid>
+      <webElementGuid>84a80e60-39b5-466e-94ce-c4e24422d9e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>:style</name>
       <type>Main</type>
       <value>[[{'color':theme_springboard_submenu_fontcolor}]]</value>
-      <webElementGuid>b7d437aa-fa10-4313-aade-31e5a1f529bd</webElementGuid>
+      <webElementGuid>e0fa265e-43e0-4fb4-875e-295b0df125c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Buy Shipments</value>
-      <webElementGuid>1615a478-7426-4ecd-bf1b-51a2cc417b5d</webElementGuid>
+      <webElementGuid>05c1c23a-937b-4330-a4b6-fa0945dd4201</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <value>
                       Buy Shipments
                     </value>
-      <webElementGuid>8f5e6293-762c-4ec1-bf03-9624c7ee5a1b</webElementGuid>
+      <webElementGuid>1b3de2b4-3a38-4379-953b-8ea09dd1f41d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sb_1_0_0&quot;)/div[@class=&quot;oj-treeview-item-content oj-hover&quot;]/span[@class=&quot;oj-treeview-item-text&quot;]</value>
-      <webElementGuid>898e0713-d3c7-4791-8e4e-d76480a4a68f</webElementGuid>
+      <webElementGuid>d07fb858-6cfb-4419-91a6-2accb824fc55</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='sb_1_0_0']/div/span[2]</value>
-      <webElementGuid>8e154972-cea6-484e-8fd7-40dd9a738fc3</webElementGuid>
+      <webElementGuid>220c5b43-3e91-481c-9e06-0cdd72c63f2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[6]/following::span[4]</value>
-      <webElementGuid>8ecba222-4534-4414-b774-b8004bf59f53</webElementGuid>
+      <webElementGuid>2575ef0d-9376-47d5-ab17-4f051d907f55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Buy Shipments']/parent::*</value>
-      <webElementGuid>50d307c0-2783-4c27-b93e-964243492eb7</webElementGuid>
+      <webElementGuid>fc8d875f-fa67-4ccb-9f09-7a101369d780</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/oj-tree-view/ul/li/ul/li/div/span[2]</value>
-      <webElementGuid>2bc97359-2202-47ce-abe8-fc8a6d6874ba</webElementGuid>
+      <webElementGuid>d5479072-abe5-49b7-b159-c6f74fd36c01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,6 +123,6 @@
                     ' or . = '
                       Buy Shipments
                     ')]</value>
-      <webElementGuid>23bdba13-0b33-48c0-9619-4e62dc44e315</webElementGuid>
+      <webElementGuid>49c7beeb-b39f-4db6-bf35-5eb89e33daad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

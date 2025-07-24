@@ -7,6 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -28,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>92a15d02-8271-443d-9f01-82fc8482e3da</webElementGuid>
+      <webElementGuid>6368a15a-aa11-4eda-a662-0c05366218e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>actionTree.1_8_7.l</value>
-      <webElementGuid>55070f8e-75aa-4c8b-b52f-80fd2687068c</webElementGuid>
+      <webElementGuid>91975285-148a-4675-97d3-09c8643934be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>oc</value>
-      <webElementGuid>1af19218-a6ff-4dba-a434-9b716f87c7f9</webElementGuid>
+      <webElementGuid>a34a76af-5f85-4f11-9b5f-1b4a67148444</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>l</value>
-      <webElementGuid>6b26ec6b-9d6d-4cd4-b23a-319a11eba0b2</webElementGuid>
+      <webElementGuid>cf99910e-9dbd-4273-941b-3806538c5441</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +61,7 @@
       <name>role</name>
       <type>Main</type>
       <value>presentation</value>
-      <webElementGuid>f579b698-4801-45b4-bdc5-45bfde660e6c</webElementGuid>
+      <webElementGuid>0fdcc64c-4c4e-4ab8-aa78-a7a7ffc3c3f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Map</value>
-      <webElementGuid>807a8345-30b7-4ea4-aa8d-c986d7ba9b53</webElementGuid>
+      <webElementGuid>470b3467-32b9-4822-a69e-98ee129f3f90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;actionTree.1_8_7.l&quot;)</value>
-      <webElementGuid>756ace34-71b0-4e53-8ce5-52c7d801251a</webElementGuid>
+      <webElementGuid>5a1364be-be99-4a37-a884-02393a59cbac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -84,7 +85,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_Buy Shipments Result/iframe_concat(id(, , actionFrame, , ))_actionFrame</value>
-      <webElementGuid>7cc9313f-021d-4814-97d2-f67b892dd9d9</webElementGuid>
+      <webElementGuid>5d9da043-03d7-4ccf-817f-1f0d7030eb9c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -92,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='actionTree.1_8_7.l']</value>
-      <webElementGuid>23e783d5-3241-4564-a708-006901520cfa</webElementGuid>
+      <webElementGuid>c2ea3998-6620-4241-9798-99d390ad3bb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='actionTree.1_8_7']/td/span[2]</value>
-      <webElementGuid>cfd405d2-f459-48da-beaf-91b340c016c9</webElementGuid>
+      <webElementGuid>1d323941-5afc-4147-b802-f5ac7c116ab7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove Shipments from Group'])[1]/following::span[2]</value>
-      <webElementGuid>0309895e-39e3-4b42-b848-dcff377eb61f</webElementGuid>
+      <webElementGuid>926331e7-d91c-43ea-ad11-66409b5abf01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove Partial Shipments from Group'])[1]/following::span[4]</value>
-      <webElementGuid>c5badc53-ba1f-4ff7-8799-5a8a1a652f56</webElementGuid>
+      <webElementGuid>01fadf07-5497-4b7b-b9f5-1aa086a96937</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Map Shipments'])[1]/preceding::span[2]</value>
-      <webElementGuid>00d66896-fb99-4d54-a854-b17a5984fa54</webElementGuid>
+      <webElementGuid>9a1dd63f-ffc2-4156-97a6-d8cdc74d31ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Tender'])[1]/preceding::span[4]</value>
-      <webElementGuid>62908546-1fac-4e25-b90e-671dd5440cbe</webElementGuid>
+      <webElementGuid>a8d604b3-bdf4-401d-be0c-4fcfda5a7885</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Map']/parent::*</value>
-      <webElementGuid>86b06f8a-443d-4c92-9796-cd73840c97ec</webElementGuid>
+      <webElementGuid>2c4d81e1-398a-494e-9eb2-2ad09a26f249</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[16]/td/div/table/tbody/tr[13]/td/span[2]</value>
-      <webElementGuid>ecc724ed-2637-4304-866e-6149b1f8f542</webElementGuid>
+      <webElementGuid>b67636bf-0425-4b54-b382-9f0bf9b5da1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,6 +157,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'actionTree.1_8_7.l' and @type = 'oc' and (text() = 'Map' or . = 'Map')]</value>
-      <webElementGuid>0803c93b-8f27-47f3-916a-41a9fffabbca</webElementGuid>
+      <webElementGuid>e94ed25a-6b05-4d6e-bc46-cd82442d5c6a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

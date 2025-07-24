@@ -7,6 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -28,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>224c7fd6-b87f-49fd-a959-5550b30a7b95</webElementGuid>
+      <webElementGuid>0de84a63-bde6-49b8-bc65-1de530e94f24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>actionTree.1_8_7_1.k</value>
-      <webElementGuid>afff086e-5f3a-4463-80d7-0fbfc429d0fe</webElementGuid>
+      <webElementGuid>760c8a88-8161-40b3-90bc-99a392024024</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,15 +45,15 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>27b66830-08fe-4105-acbc-d06b839fa7de</webElementGuid>
+      <webElementGuid>979395ab-e2af-4c57-b33f-659a6ba6a0ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1750247767800\x3FbcKey\x3DMTc1MDI0Nzc2NzQ0Njox\x26action_name\x3Dmap_related_shipments\x26finder_set_gid\x3DBUY_SHIPMENT')</value>
-      <webElementGuid>366209c3-e800-4fc5-a1d6-62b876eb3679</webElementGuid>
+      <value>javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1753369504759\x3FbcKey\x3DMTc1MzM2OTUwNDc2MDox\x26action_name\x3Dmap_related_shipments\x26finder_set_gid\x3DBUY_SHIPMENT')</value>
+      <webElementGuid>4310aaf7-9f9f-47da-b3ba-91bc1e7f79fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Map Shipments</value>
-      <webElementGuid>c63c67d3-99ac-4d19-8f52-8f7e1a88a982</webElementGuid>
+      <webElementGuid>5e7f01da-9de2-4c62-8a1d-f5d116c59fa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;actionTree.1_8_7_1.k&quot;)</value>
-      <webElementGuid>3fa60436-dd15-4fe5-b826-b84e64dd8240</webElementGuid>
+      <webElementGuid>50c50a88-0030-4aaa-b5e8-78566f615835</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -76,7 +77,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_Buy Shipments Result/iframe_concat(id(, , actionFrame, , ))_actionFrame</value>
-      <webElementGuid>ae28986a-8c07-45fc-bbca-42a5224346b2</webElementGuid>
+      <webElementGuid>0a97538e-ee88-4578-bb4c-974773cf9745</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -84,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='actionTree.1_8_7_1.k']</value>
-      <webElementGuid>fccda617-5505-470a-8d2d-9a4930eb3010</webElementGuid>
+      <webElementGuid>37c04e2a-b68c-41a1-8f5b-dcad7792ce0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='actionTree.1_8_7_1.l']/a</value>
-      <webElementGuid>aa315e58-c810-4d51-bfa2-d461edb9b424</webElementGuid>
+      <webElementGuid>faabd01f-7d13-4f9d-9ead-8a9976105837</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +101,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Map Shipments')]</value>
-      <webElementGuid>e8a21db2-3a5d-418d-b968-1a9df137fed5</webElementGuid>
+      <webElementGuid>ba836c2c-0038-421f-aeb9-4f34a52ecf06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Map'])[1]/following::a[1]</value>
-      <webElementGuid>c50c85e1-57d6-4825-97b8-49937f890969</webElementGuid>
+      <webElementGuid>aad8f816-8ed9-444a-8ba4-521e119d21c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove Shipments from Group'])[1]/following::a[1]</value>
-      <webElementGuid>57d84b89-4c5c-4573-9141-ef198121c584</webElementGuid>
+      <webElementGuid>0b0fc513-0fd5-4557-a53e-6d06d09f709c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Tender'])[1]/preceding::a[1]</value>
-      <webElementGuid>56f29ece-748c-406b-8756-30be81fa5251</webElementGuid>
+      <webElementGuid>0e46973a-f45d-4bd3-9c82-135df028d481</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Broadcast Tender'])[1]/preceding::a[1]</value>
-      <webElementGuid>a03e14a0-00c7-46d8-ab45-e87889d26738</webElementGuid>
+      <webElementGuid>31143fa6-9e6b-4cd7-987a-aedf739a8a32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +141,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Map Shipments']/parent::*</value>
-      <webElementGuid>3372dc90-da85-4772-8952-da8c760d8029</webElementGuid>
+      <webElementGuid>623fd8fe-ab94-4cd4-89e5-7e925ccc96f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1753369504759\x3FbcKey\x3DMTc1MzM2OTUwNDc2MDox\x26action_name\x3Dmap_related_shipments\x26finder_set_gid\x3DBUY_SHIPMENT')&quot;)]</value>
+      <webElementGuid>2b982e7f-8d0a-40a4-8bcd-a99d6f83b4a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[16]/td/div/table/tbody/tr[14]/td/div/table/tbody/tr/td/span[2]/a</value>
+      <webElementGuid>bf4c9018-81bc-4036-a949-73fe55b8e0ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'actionTree.1_8_7_1.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1753369504759\x3FbcKey\x3DMTc1MzM2OTUwNDc2MDox\x26action_name\x3Dmap_related_shipments\x26finder_set_gid\x3DBUY_SHIPMENT&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Map Shipments' or . = 'Map Shipments')]</value>
+      <webElementGuid>8dceb43f-767a-4670-8e65-da8a0c6efa55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,14 +174,6 @@
       <type>Main</type>
       <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1750247767800\x3FbcKey\x3DMTc1MDI0Nzc2NzQ0Njox\x26action_name\x3Dmap_related_shipments\x26finder_set_gid\x3DBUY_SHIPMENT')&quot;)]</value>
       <webElementGuid>ad904afd-e3c9-44cd-82ce-440bd4ca2279</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//tr[16]/td/div/table/tbody/tr[14]/td/div/table/tbody/tr/td/span[2]/a</value>
-      <webElementGuid>c78a3961-6e45-4f6c-a613-615e895546d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
