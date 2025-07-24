@@ -25,5 +25,7 @@ WebUI.delay(3)
 
 WebUI.takeFullPageScreenshot()
 
+WebUI.delay(2)
+
 WebUI.closeBrowser()
 
