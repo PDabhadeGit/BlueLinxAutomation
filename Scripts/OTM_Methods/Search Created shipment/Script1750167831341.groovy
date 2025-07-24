@@ -16,11 +16,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.testdata.TestDataFactory as TestDataFactory
 
-import com.kms.katalon.core.testdata.TestDataFactory
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-
-WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management'))
+WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/span_Shipment Management'))
 
@@ -32,7 +30,7 @@ int totalRows = testData.getRowNumbers()
 
 String lastValue = testData.getValue(1, totalRows)
 
-WebUI.setText(findTestObject('Object Repository/Page_Buy Shipments Finder/input_Shipment ID_shipmentxid'),lastValue)
+WebUI.setText(findTestObject('Object Repository/Page_Buy Shipments Finder/input_Shipment ID_shipmentxid'), lastValue)
 
 WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Finder/button_Search'))
 
