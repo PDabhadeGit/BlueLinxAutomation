@@ -28,7 +28,7 @@ import org.apache.commons.lang3.RandomStringUtils as RandomStringUtils
 
 WebUI.callTestCase(findTestCase('OTM_Methods/Login_OTM'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management'))
+WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/span_Shipment Management'))
 
@@ -111,4 +111,6 @@ String excelFilePath = 'C:\\BlueLinx_Automation_Master\\Data Files\\OTM Test Dat
 CustomKeywords.'com.utils.ExcelWriter.writeOrderIdToExcel'(excelFilePath, newshipmentid)
 
 println("Appended Order ID to Excel: $newshipmentid")
+
+WebUI.closeBrowser()
 

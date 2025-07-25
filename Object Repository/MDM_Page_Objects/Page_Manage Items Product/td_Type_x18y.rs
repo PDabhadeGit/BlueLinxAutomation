@@ -6,12 +6,11 @@
    <elementGuidId>1db46d65-ce31-49eb-8dfa-e7554289d395</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sXrefs:1:ItemXrefResultsApp:selectOneChoice1']/td[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[4]/following::td[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

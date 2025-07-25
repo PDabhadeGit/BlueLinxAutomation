@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Item Class_pt1_FOr11_FONSr20MAt30itemClas_2daa9b</name>
+   <name>span_Sign In (1)</name>
    <tag></tag>
-   <elementGuidId>e522478c-bb2f-446e-91d1-42a8091247a0</elementGuidId>
+   <elementGuidId>ec134ebf-9aea-4cf9-af8b-8faf41a67d53</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value>#ui-id-4</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//tr[5]/td[2]/span/span/span/a</value>
+         <value>//span[@id='ui-id-4']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[title=&quot;Search: Item Class&quot;i]</value>
+         <value>internal:label=&quot;Sign In&quot;s</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -27,79 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>b59ed80e-b468-477b-b271-0d52d9881988</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>925d9a9a-86f4-4ae4-bf4f-0363edfbb993</webElementGuid>
+      <value>span</value>
+      <webElementGuid>faa5a414-78f3-4d09-828f-3900c815dc65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>x1o4</value>
-      <webElementGuid>c2b903b4-45c3-45ca-a7eb-40b8ddffe09b</webElementGuid>
+      <value>oj-button-text</value>
+      <webElementGuid>537cc1ea-3780-4ae1-b503-c0fe95209762</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::lovIconId</value>
-      <webElementGuid>42646f24-4500-436e-be79-c0071e9eda09</webElementGuid>
+      <value>ui-id-4</value>
+      <webElementGuid>ead6c700-77d0-4535-ab4e-c713188b6dde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Search: Item Class</value>
-      <webElementGuid>61a9770f-fef7-4498-8deb-70aff41fae6c</webElementGuid>
+      <value>Sign In</value>
+      <webElementGuid>549f6cbc-e266-4e32-8029-29e784d3bf11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::lovIconId&quot;)</value>
-      <webElementGuid>52219593-f2ae-4931-a577-2836fdb7fd56</webElementGuid>
+      <value>id(&quot;ui-id-4&quot;)</value>
+      <webElementGuid>4d32cc34-9e25-4016-8d0a-c4ba4b67ae71</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::lovIconId']</value>
-      <webElementGuid>86301c0c-ba24-49dd-8b3e-913dc4f4365e</webElementGuid>
+      <value>//span[@id='ui-id-4']</value>
+      <webElementGuid>e7f9d2f8-c010-42a8-ba1c-b102a7b83679</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::cntnrSpan']/span/a</value>
-      <webElementGuid>a828b987-200a-414e-91e4-cefe87326975</webElementGuid>
+      <value>//oj-button[@id='idcs-signin-basic-signin-form-submit']/button/div/span</value>
+      <webElementGuid>4e18f407-90dc-43b2-8144-097b2929e9ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me signed in'])[1]/preceding::span[1]</value>
+      <webElementGuid>b4013469-6c30-423d-bc87-fbe1ed16bcdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
+      <webElementGuid>e1cd5daf-325e-4f07-b82d-727501c0cfa0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[5]/td[2]/span/span/span/a</value>
-      <webElementGuid>228310ca-101b-460d-b310-e7a1550bb323</webElementGuid>
+      <value>//div[5]/oj-button/button/div/span</value>
+      <webElementGuid>52587213-87b6-4d25-8c53-036eb7adb384</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::lovIconId' and @title = 'Search: Item Class']</value>
-      <webElementGuid>84ac12f8-849f-409b-9165-a4d0963ea558</webElementGuid>
+      <value>//span[@id = 'ui-id-4' and (text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>1345471f-556c-465b-b992-e558d481a7b4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
