@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f90bfa8b-7fd9-48df-99cb-f5e104b88cd0</webElementGuid>
+      <webElementGuid>fc3b29e9-f27d-43e1-801f-0869ba32faa0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +36,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0277ecb1-9d11-408d-ace7-f774dd3bb415</webElementGuid>
+      <webElementGuid>64e95433-077f-4379-840d-014efa3ff76a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>ea426b6d-0d91-409e-949f-bbec5f163f88</webElementGuid>
+      <webElementGuid>887afa8b-b08d-4ebf-99ab-db8501c2948c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>this.focus();return false</value>
-      <webElementGuid>be9e5011-18e2-4b2d-9076-2bc0324db5cf</webElementGuid>
+      <webElementGuid>5c08f799-5ea0-441e-933e-bedde4d020f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1ff</value>
-      <webElementGuid>7f81fffb-faee-4967-8640-ea3cee1dd80b</webElementGuid>
+      <webElementGuid>b3e304b6-9fae-498b-8014-875a2c08e8c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +68,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:AppTe:0:selectManyShuttle1::moveall</value>
-      <webElementGuid>0923de45-7715-4e08-8b62-352390fdc12f</webElementGuid>
+      <webElementGuid>b88c4e20-ff66-4251-b463-20cd81df9764</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -76,7 +76,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Move all items to: Selected List</value>
-      <webElementGuid>e795b415-9ab2-4892-9592-c8a00b456a1f</webElementGuid>
+      <webElementGuid>39d95769-7938-4afd-9ddd-1f41158b7b69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:AppTe:0:selectManyShuttle1::moveall&quot;)</value>
-      <webElementGuid>8525b411-c36e-4113-b1c6-8e8d59a2408e</webElementGuid>
+      <webElementGuid>ea555473-b0c8-4484-b548-4eaf4e293a0f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:AppTe:0:selectManyShuttle1::moveall']</value>
-      <webElementGuid>b0e82e48-a155-4b94-8cef-1eabe7c6ca9e</webElementGuid>
+      <webElementGuid>80ec5a14-d4a3-4593-a264-a698d24cfed3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:AppTe:0:selectManyShuttle1::moveDiv']/table[2]/tbody/tr/td/div/a</value>
-      <webElementGuid>cbc60105-d598-4518-8242-0d35cc2b04eb</webElementGuid>
+      <webElementGuid>4bab3165-e3cb-4ba8-946f-a14154cd74d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[36]</value>
-      <webElementGuid>5157b693-0dc6-4dee-96ff-2fec5112e438</webElementGuid>
+      <webElementGuid>1a7e0aa8-3f73-41d0-bd99-61d30e9fbd50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/div/table[2]/tbody/tr/td/div/a</value>
-      <webElementGuid>86ff25a3-0d23-4ff9-954d-334c1703f220</webElementGuid>
+      <webElementGuid>ce9015fa-b2e8-4f58-af1a-fabc733dea51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,6 +124,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @id = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:AppTe:0:selectManyShuttle1::moveall' and @title = 'Move all items to: Selected List']</value>
-      <webElementGuid>55f44f83-acbc-4de9-bdc7-59d1e40e18d0</webElementGuid>
+      <webElementGuid>fe626ac9-e53a-4ba7-948e-c0ea621fcd0d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

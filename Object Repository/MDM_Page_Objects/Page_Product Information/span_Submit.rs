@@ -6,12 +6,11 @@
    <elementGuidId>3bc7078b-ea91-4aa6-8533-1c328be41a62</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt4:0:appPanel:ctb11']/a/span</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Button has a popup, press down arrow key to access the popup.'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

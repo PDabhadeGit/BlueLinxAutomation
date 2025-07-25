@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>8ca665ab-b006-4225-b095-9783f697feda</webElementGuid>
+      <webElementGuid>28d58d94-53e4-4834-b817-43520332c7a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:_FOTsdiItemRegionalArea::icon</value>
-      <webElementGuid>5a59033e-2d54-4249-a59a-83768683af66</webElementGuid>
+      <webElementGuid>6383b370-fa4b-495b-b605-d48867a197fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/fscmUI/images/func_panellist_32_ena.png</value>
-      <webElementGuid>be601e16-c978-464a-b1db-d0a4f47de4ad</webElementGuid>
+      <webElementGuid>e8057969-8316-4022-8d9f-0d98735f2ec9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Tasks</value>
-      <webElementGuid>a8a8ea71-dd5b-4e0f-8848-2323660bf6d2</webElementGuid>
+      <webElementGuid>285f2d7e-fb93-413a-84a4-79fd72d61cf6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Tasks</value>
-      <webElementGuid>3a9a845b-2be0-4ca2-8ff5-1e5903afa98d</webElementGuid>
+      <webElementGuid>db46c131-d190-4c04-b474-986eeb51d53a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1gh</value>
-      <webElementGuid>40b1c094-bdf8-4633-b8c0-397d2ac0e456</webElementGuid>
+      <webElementGuid>ab2261ab-0f78-4e45-bd7b-de29263054fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:_FOTsdiItemRegionalArea::icon&quot;)</value>
-      <webElementGuid>4c8d8f1c-ad71-4aa6-91bc-ae057d222c08</webElementGuid>
+      <webElementGuid>bf0f832b-76e9-47bd-a7a3-c50f352cfeba</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//img[@id='pt1:_FOr1:1:_FONSr2:0:_FOTsdiItemRegionalArea::icon']</value>
-      <webElementGuid>0b6c777d-a94a-4f89-b909-9165484c2995</webElementGuid>
+      <webElementGuid>9259e18d-fb8c-4aef-b73b-847f08e547d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:_FOTsdiItemRegionalArea::disAcr']/img</value>
-      <webElementGuid>99cc662d-f72e-4f06-a503-c63f473c3dc4</webElementGuid>
+      <webElementGuid>2e7f8975-6d3b-4ab7-a879-680509f71c51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Tasks']</value>
-      <webElementGuid>84b58e8a-a9bc-426c-ba01-2a6432638560</webElementGuid>
+      <webElementGuid>d81e1ba8-f0f3-4b69-8b0f-d23b1eb35a1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/a/img</value>
-      <webElementGuid>79ced0a4-543c-466f-ae4d-3f6a55e2b502</webElementGuid>
+      <webElementGuid>36d4bbbf-aa21-4fad-9a50-f9b97bc9a5ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@id = 'pt1:_FOr1:1:_FONSr2:0:_FOTsdiItemRegionalArea::icon' and @src = '/fscmUI/images/func_panellist_32_ena.png' and @title = 'Tasks' and @alt = 'Tasks']</value>
-      <webElementGuid>83e4c268-38e9-4d79-aa0d-11dda1c0dac0</webElementGuid>
+      <webElementGuid>7d263c71-9531-4ccf-8f9d-6493c247d97a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

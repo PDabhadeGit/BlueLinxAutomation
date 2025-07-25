@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Foundation'])[1]/preceding::td[1]</value>
+         <value>//div[contains(@id,'Catalog11::dropdownPopup')]//tr[2]/td</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>73f10fbb-abad-420f-895e-7853c14fc3b6</webElementGuid>
+      <webElementGuid>6bf985ce-d6e5-4e97-9541-12f0660ada7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xen</value>
-      <webElementGuid>ed0fa8c3-427a-4d62-8e96-e5a9a669853f</webElementGuid>
+      <webElementGuid>d8df4e9f-1326-4c93-a473-5241405aad2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>fc985349-f57f-4e18-8aa3-b85d9b0a0791</webElementGuid>
+      <webElementGuid>66dced35-f4a8-460a-9922-dadd4540ee11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Exterior</value>
-      <webElementGuid>29a0c5f1-e270-4856-ad39-3f94a7dcb9cf</webElementGuid>
+      <webElementGuid>e16e3d16-6b3e-47df-b47f-c745e972805b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sCatAs:1:AT1:Catalog11::dropdownPopup::dropDownContent::db&quot;)/table[@class=&quot;x1hi&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[@class=&quot;xen&quot;]</value>
-      <webElementGuid>9219fceb-329e-45b7-aafa-974838b91eb4</webElementGuid>
+      <webElementGuid>5c368798-18c6-4c7f-84d1-42bf0e9b16c9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sCatAs:1:AT1:Catalog11::dropdownPopup::dropDownContent::db']/table/tbody/tr[2]/td</value>
-      <webElementGuid>9a72bb4e-c4a0-4c8b-b514-1bf1141d9546</webElementGuid>
+      <webElementGuid>cebb845b-20f9-4dfc-8e51-d353fbb8c435</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='C'])[2]/following::td[5]</value>
-      <webElementGuid>cc6bacbb-9b2a-4787-9b9d-15d666a21a8b</webElementGuid>
+      <webElementGuid>60c5e804-1196-454f-8c2c-f0eee1b86acd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Foundation'])[1]/preceding::td[1]</value>
-      <webElementGuid>b9f22f49-12fc-42b4-ace4-e3b376498952</webElementGuid>
+      <webElementGuid>b8e38af0-990e-4ebe-81c6-d3d5fa241e42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/div/div/div[2]/table/tbody/tr[2]/td</value>
-      <webElementGuid>eee8de36-fb29-424a-994e-37ca041c3005</webElementGuid>
+      <webElementGuid>956612ca-ec74-4e12-9914-0af6e80efe0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Exterior' or . = 'Exterior')]</value>
-      <webElementGuid>40844ba5-08c2-44b2-8613-afc7fc1aa803</webElementGuid>
+      <webElementGuid>7cb59792-710e-4e7d-bbff-665f5493c3f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:efqrp:value30::dropdownPopup::dropDownContent::db']/table/tbody/tr/td</value>
-      <webElementGuid>cefbaca9-6dbc-403e-a00a-be06b0165a20</webElementGuid>
+      <webElementGuid>5182174e-cfd1-4ee3-a3c8-38bb20237606</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PrintMe'])[1]/following::td[4]</value>
-      <webElementGuid>8530f350-a6f5-4f0e-a39c-582baeb15944</webElementGuid>
+      <webElementGuid>916919cd-1ee5-44fa-abc1-54ee2feb838d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detached Table'])[2]/following::td[17]</value>
-      <webElementGuid>a81043d1-8f8d-4520-907e-404a8480cb92</webElementGuid>
+      <webElementGuid>f0d5d5a5-e3be-4832-b208-8fc89147b477</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Exterior'])[2]/preceding::td[1]</value>
-      <webElementGuid>11872213-75c4-408c-9c19-a0a464261b36</webElementGuid>
+      <webElementGuid>87f67c88-783d-4200-b224-047b4ce8f474</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/div/div/div[2]/table/tbody/tr/td</value>
-      <webElementGuid>3f3a0859-8906-4e7f-b943-d2f43b5bbf03</webElementGuid>
+      <webElementGuid>1c238e9a-bd34-4db3-a57c-072a1d2c17ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,11 @@
    <elementGuidId>3c8b5b8a-c145-4f90-9123-c1dc31cb673f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:np1:cni2']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Trading Partner Items')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

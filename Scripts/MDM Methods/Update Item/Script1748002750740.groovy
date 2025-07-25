@@ -17,31 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/textarea_Long Description__FOpt1_FOr10_FONS_41b69b'), 
-    'Updated description')
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/td_Long Description'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Specifications'))
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/textarea_testing'), 
+    'test update')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Physical Attributes'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Specifications (1)'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/input_Unit Weight__FOpt1_FOr10_FONSr20MAt30_ac25a3'), 
-    '101')
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Universal (1)'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/input_Unit Volume__FOpt1_FOr10_FONSr20MAt30_6f72b5'), 
-    '101')
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Agility (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Save'))
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/input_Agility Long Description_pt1_FOr11_FO_e7ebf3'), 
+    'test update')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Next'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/span_Save (3)'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/textarea_Description__FOpt1_FOr10_FONSr20MA_82238d'), 
-    'Update Item automation test')
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/span_Next (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Submit'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/span_Submit (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Change Order BXC-CCO100088/div_Save'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Change Order  BXC-CCO100123 (BL00) - P_e1f69e/span_Save'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_BlueLinx CCO/span_Save and Close'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_BlueLinx CCO BXC-CCO100123(BL00) - Pro_67e42b/span_Save and Close'))
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/button_Done (1)'))
 
 WebUI.closeBrowser()
 

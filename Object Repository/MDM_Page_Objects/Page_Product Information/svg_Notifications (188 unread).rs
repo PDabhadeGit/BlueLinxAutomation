@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='DEV2 TESTING ENVIRONMENT'])[1]/following::*[name()='svg'][5]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/following::*[name()='svg'][5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,11 @@
    <elementGuidId>6ee3370b-cb15-48e8-b4ec-63fbac980017</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:customerId_DispId::lovIconId']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(@id,'customerId_DispId') and contains(@id,'lovIconId')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5344107e-6f0b-4c0f-9f4f-a22d37049e76</webElementGuid>
+      <webElementGuid>f9c1f0b1-0f47-49dd-beed-4fde4bace793</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>e509e504-5c50-4c23-a687-d49b91c4f3a7</webElementGuid>
+      <webElementGuid>de72c297-feb8-4547-99a6-5dac6eb77c8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1o4</value>
-      <webElementGuid>aacc3329-b61e-48c4-a8ab-e13ef669a3f3</webElementGuid>
+      <webElementGuid>4e510bb6-df41-4a8a-a97c-6fe7a3a5bec4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:customerId_DispId::lovIconId</value>
-      <webElementGuid>febb7574-d8ea-4c7a-9e8d-da1067a601e9</webElementGuid>
+      <webElementGuid>364ed710-0239-4e7c-829e-29cb3ec0e016</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Search: Customer Name</value>
-      <webElementGuid>3888000d-4ae2-47bf-aef4-eb91d9442770</webElementGuid>
+      <webElementGuid>0b1de4ab-27dd-4e93-a0b7-6e549564dc32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:customerId_DispId::lovIconId&quot;)</value>
-      <webElementGuid>c53dac78-1bfa-4b4a-8381-695e5b634363</webElementGuid>
+      <webElementGuid>6532f613-1f0d-4a97-bd4d-76755474ee56</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:customerId_DispId::lovIconId']</value>
-      <webElementGuid>a416ca30-5872-4fb0-a45e-8a211587b77f</webElementGuid>
+      <webElementGuid>be9b3f44-d164-4e08-82c5-6236d3502acb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:customerId_DispId::cntnrSpan']/span/a</value>
-      <webElementGuid>1efa8367-eadb-48f7-a2c2-1c2ce716e299</webElementGuid>
+      <webElementGuid>53da498b-f6c9-4ce3-a9fe-dd3c71b50764</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/span/a</value>
-      <webElementGuid>2566c1ef-7db3-45c4-8e3b-d4ca1d42c143</webElementGuid>
+      <webElementGuid>9735239a-c780-4d18-bce2-af13260dcbed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +100,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:customerId_DispId::lovIconId' and @title = 'Search: Customer Name']</value>
-      <webElementGuid>a8fbd503-a40b-4834-8489-284dce2a608b</webElementGuid>
+      <webElementGuid>2d0054c2-989d-4ddf-8dea-ca3d713d48ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Keyword</name>
+   <tag></tag>
+   <elementGuidId>4b044aa9-d684-4426-bbcd-0780fbc5b3fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='pt1:_FOr1:1:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:efqrp:criterion2']/td[2]/table/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Keyword Keyword&quot;i] >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d7b4e823-e688-4491-b6d9-f39e97a2caf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xhu</value>
+      <webElementGuid>acfe8a3a-2f0a-448e-bd8b-4ae6176cc56c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>6e99d6d0-63ae-4e22-a8b6-92848c6da88a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Keyword</value>
+      <webElementGuid>10d12711-7024-4058-b4ad-f95e78a646f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:efqrp:criterion2&quot;)/td[@class=&quot;x16v x1oj&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;xhu&quot;]</value>
+      <webElementGuid>16455c6e-12dd-45f3-877f-4ea9d9c30cec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='pt1:_FOr1:1:_FONSr2:0:MAt2:0:pt1:ItemC1:0:simplePanel1:region2:0:efqrp:criterion2']/td[2]/table/tbody/tr/td[2]</value>
+      <webElementGuid>759b1979-95ee-45c6-a814-a095efb02e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keyword'])[1]/following::td[3]</value>
+      <webElementGuid>6afc0653-4473-4960-8942-db134699c849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='**'])[3]/following::td[3]</value>
+      <webElementGuid>5b4b90d8-a3eb-48a7-a86a-3798161cf73d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::td[5]</value>
+      <webElementGuid>80532322-9366-4049-88c8-c6b0107899e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/table/tbody/tr/td[2]/table/tbody/tr/td[2]</value>
+      <webElementGuid>2f281953-ad72-497c-be14-af97cf94264e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' Keyword' or . = ' Keyword')]</value>
+      <webElementGuid>d166ace7-6e74-4ac9-9eab-9328a56e71c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

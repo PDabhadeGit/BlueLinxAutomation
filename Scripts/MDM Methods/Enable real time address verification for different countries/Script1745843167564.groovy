@@ -17,33 +17,41 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/a_Attachments__FOpt1_FOr10_FONSr20MAnt21r10_0925ca'))
+//WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/a_Attachments__FOpt1_FOr10_FONSr20MAnt21r10_0925ca'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2'))
-
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Site Name__FOpt1_FOr10_FONSr20MAnt21r_cd125b'), 
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/input_Site Name__FOpt1_FOr10_FONSr20MAnt21r_cd125b'), 
     'real time address varification')
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_City__FOpt1_FOr10_FONSr20MAnt21r10AP3_bf004d'), 
-    'hamilton')
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/input_Address Line 1__FOpt1_FOr10_FONSr20MA_075e6e'), 
+    '641 S JASON ST')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/li_Fairfield, Hamilton, OH'))
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/input_City__FOpt1_FOr10_FONSr20MAnt21r10AP3_bf004d'), 
+    'DENVER')
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Postal Code__FOpt1_FOr10_FONSr20MAnt2_3d9430'), 
-    '45')
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/li_45014, Fairfield, Hamilton, OH'))
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/input_State__FOpt1_FOr10_FONSr20MAnt21r10AP_cfa660'), 
+    'CO')
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Address Line 1__FOpt1_FOr10_FONSr20MA_075e6e'), 
-    'PO BOX 123')
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Autocompletes on TAB__FOpt1_FOr10_FONSr_b70590'))
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/input_Postal Code__FOpt1_FOr10_FONSr20MAnt2_3d9430'), 
+    '80223')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_Accept Address'))
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_OK'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/li_80223, Denver, Denver, CO'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_Save'))
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_Save and Close'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/img_Autocompletes on TAB__FOpt1_FOr10_FONSr_b70590'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/button_Accept Address'))
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/button_OK'))
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/button_Save and Close'))
 

@@ -23,36 +23,39 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusio
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/img_PrintMe__FOpt1_FOr10_FONSr20_FOTsdiItem_3ddbb3'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/a_Create Item'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information Management - Oracl_498cc2/a_Create Item'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Item Class__FOpt1_FOr10_FONSr20MAt20itemC_59683c'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/a_Item Class_pt1_FOr11_FONSr20MAt20itemClas_b68128'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/td_Bar Mesh'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/td_Bar Mesh'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/li_Steel'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/li_Steel'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Supply Item__FOpt1_FOr10_FONSr20MAt20AppT_191b00'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/a_Steel_pt1_FOr11_FONSr20MAt20AppTe0selectM_1e3d29'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/button_OK'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/button_OK'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/textarea_Long Description__FOpt1_FOr10_FONS_41b69b'), 
-    'TEST AUTOMATION')
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/textarea_Long Description_pt1_FOr11_FONSr20_0f4b0a'), 
+    'test')
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Product Size__FOpt1_FOr10_FONSr20MAt3_7a7f9d'), 
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/input_User Descriptor_pt1_FOr11_FONSr20MAt3_ceddce'), 
+    'test')
+
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/input_Product Size_pt1_FOr11_FONSr20MAt30pt_91a4c9'), 
     '1')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Finish__FOpt1_FOr10_FONSr20MAt30pt1ap1r10_4384c8'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/a_Finish_pt1_FOr11_FONSr20MAt30pt1ap1r10dyn_92b13d'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/td_Aluminum'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/td_Aluminum'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Grade__FOpt1_FOr10_FONSr20MAt30pt1ap1_c08b08'), 
-    'T')
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/input_Grade_pt1_FOr11_FONSr20MAt30pt1ap1r10_a0ec97'), 
+    't')
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Product Type__FOpt1_FOr10_FONSr20MAt3_1dc583'), 
-    'T')
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/input_Product Type_pt1_FOr11_FONSr20MAt30pt_130a14'), 
+    'test')
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_User Descriptor__FOpt1_FOr10_FONSr20M_8ca69e'), 
-    'TEST')
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Item Class__FOpt1_FOr10_FONSr20MAt20itemC_59683c'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Primary Unit of Measure__FOpt1_FOr10_FONS_a4f085'))
 
@@ -145,11 +148,9 @@ WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Ite
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Unit Volume__FOpt1_FOr10_FONSr20MAt30_09072b'), 
     '10')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/select_NoYes'), 
-    '0', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/select_NoYes'), '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/select_NoYes_1'), 
-    '0', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/select_NoYes_1'), '0', true)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Manufacturing'))
 
@@ -228,6 +229,8 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/button_OK_1_2_3'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/span_Save'))
+
+WebUI.click(findTestObject('MDM_Page_Objects/Page_Create Item PIM/button_Apply'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Submit'))
 

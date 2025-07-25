@@ -6,12 +6,11 @@
    <elementGuidId>59270ba4-5c45-4efa-b302-a6cfc532b2da</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//img[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:_ATp:create::icon']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//img[@alt='Create']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
