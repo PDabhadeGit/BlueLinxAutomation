@@ -6,12 +6,12 @@
    <elementGuidId>0961941d-f79a-4ce1-b832-a173fe341571</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:csavebtn']/table/tbody/tr/td/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.xrm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Data Quality'])[2]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

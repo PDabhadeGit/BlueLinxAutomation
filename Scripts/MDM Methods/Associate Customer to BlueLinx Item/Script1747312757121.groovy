@@ -17,38 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Product Management'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Relationships (3)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Product Information Management'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Trading Partner Items (2)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/img_PrintMe__FOpt1_FOr10_FONSr20_FOTsdiItem_3ddbb3'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/img_Wrap_pt1_FOr11_FONSr20MAt30pt1ap1sTPX1T_c0f5bc (2)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/a_Manage Items'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Customer Name_pt1_FOr11_FONSr20MAt30pt1ap_5db720'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/input_Item Operator__FOpt1_FOr10_FONSr20MAt_4d7e4b'), 
-    'test style item41')
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/td_A-ONE LUMBER CO LLC'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/button_Search'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Customer Item_pt1_FOr11_FONSr20MAt30pt1ap_f09694'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Test Style Item41'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/td_Test partner'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Relationships'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/span_OK (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Trading Partner Items'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/span_Save (4)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/img_Wrap__FOpt1_FOr10_FONSr20MAt30pt1ap1sTP_fa60fb'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Save_pt1_FOr11_FONSr20MAt30pt1ap1csavebtnpopEl'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Customer Name__FOpt1_FOr10_FONSr20MAt30pt_d6a78d'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/td_Save and Close'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/span_THE HOME DEPOT'))
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Customer Item__FOpt1_FOr10_FONSr20MAt30pt_232dfd'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/td_265977'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_OK'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Save__FOpt1_FOr10_FONSr20MAt30pt1ap1csave_83bb2e'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/td_Save and Close'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/button_Done (2)'), FailureHandling.OPTIONAL)
 

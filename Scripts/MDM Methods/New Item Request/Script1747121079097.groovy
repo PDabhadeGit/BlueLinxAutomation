@@ -33,22 +33,6 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New Item Request/a_Associations'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New Item Request/a_Categories'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New Item Request/a_Relationships'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New Item Request/img_Wrap__FOpt1_FOr10_FONSr20MAt20AP1TPIF11_520ccd'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New Item Request/a_Customer Name__FOpt1_FOr10_FONSr20MAt20AP_1fccb5'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New Item Request/span_DO IT BEST CORP'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New Item Request/a_Customer Item__FOpt1_FOr10_FONSr20MAt20AP_dc8020'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New Item Request/td_168026'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New Item Request/a_OK'))
-
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New Item Request/span_Save'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New Item Request/span_Mark Complete'))

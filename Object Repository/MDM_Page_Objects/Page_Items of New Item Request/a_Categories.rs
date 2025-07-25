@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:AP1:sdi3::disAcr']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation Date'])[1]/following::a[6]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

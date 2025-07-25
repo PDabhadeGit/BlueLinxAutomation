@@ -23,3 +23,5 @@ WebUI.callTestCase(findTestCase('MDM Methods/Search Item'), [:], FailureHandling
 
 WebUI.callTestCase(findTestCase('MDM Methods/Update Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+

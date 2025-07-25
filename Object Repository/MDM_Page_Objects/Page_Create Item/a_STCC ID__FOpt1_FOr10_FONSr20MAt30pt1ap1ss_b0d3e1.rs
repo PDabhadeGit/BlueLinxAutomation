@@ -6,11 +6,11 @@
    <elementGuidId>b8fcc52d-64a5-40f2-b860-9c8da0d9e8e1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span/span/span/span/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//a[contains(@id, 'stccId') and contains(@id, 'lovIconId')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9399a74a-3d56-4222-b509-3be233aa1bb9</webElementGuid>
+      <webElementGuid>8a7094d5-b311-4c72-8a31-0c4f140748a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +36,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>62d2f6fa-f17e-4dcc-83fa-f72e481fa739</webElementGuid>
+      <webElementGuid>72a8a2a7-2a9b-4938-be74-eaec2c40c2e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1o4</value>
-      <webElementGuid>b3e85be1-e54e-4bf5-b217-8895df857041</webElementGuid>
+      <webElementGuid>1b86150a-e361-4e2e-bceb-fd14fae697cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,7 +52,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:CTXRNj_ItemBluelinxPrivateVOOTM__Attributes:0:stccId::lovIconId</value>
-      <webElementGuid>65d9e467-1cdc-4f85-a51f-461b5e26df62</webElementGuid>
+      <webElementGuid>8177fab6-7ab9-4fca-9ba5-f33471825628</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Search: </value>
-      <webElementGuid>4628b926-adc6-44ab-abc7-ed21878f5fbb</webElementGuid>
+      <webElementGuid>d07b7ee4-8e86-432a-9ea8-19fc7ad2cda8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:CTXRNj_ItemBluelinxPrivateVOOTM__Attributes:0:stccId::lovIconId&quot;)</value>
-      <webElementGuid>590536f6-6e20-4999-a586-5b8c1c17c691</webElementGuid>
+      <webElementGuid>a2f36a2b-092b-4527-8ac0-e2d10564d182</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:CTXRNj_ItemBluelinxPrivateVOOTM__Attributes:0:stccId::lovIconId']</value>
-      <webElementGuid>6d9280f9-bffa-4b69-94d6-984ada6d6ab7</webElementGuid>
+      <webElementGuid>13e608b7-0f26-404e-a362-7f34f7844868</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:CTXRNj_ItemBluelinxPrivateVOOTM__Attributes:0:stccId::cntnrSpan']/span/a</value>
-      <webElementGuid>4c379dd7-15a3-49b5-b89a-ffdda0664086</webElementGuid>
+      <webElementGuid>6e7bd56d-d3dd-412d-b6da-c37382daf2a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/td[2]/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td/span/span/span/span/a</value>
-      <webElementGuid>e962e132-baa5-4b7b-a0f2-16d7d27ce738</webElementGuid>
+      <webElementGuid>cc4d2657-4ddd-4711-8fe1-0e1802697652</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:CTXRNj_ItemBluelinxPrivateVOOTM__Attributes:0:stccId::lovIconId' and @title = 'Search: ']</value>
-      <webElementGuid>5097ee7f-1520-427f-8659-01e8ba723cce</webElementGuid>
+      <webElementGuid>321976a0-48c5-44a5-aff0-5e5950c174b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +108,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span/a</value>
-      <webElementGuid>8fa4d93c-1cfb-4303-b19f-84bfbfc2c10d</webElementGuid>
+      <webElementGuid>a3876678-a081-4062-9c00-4d5c51609699</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

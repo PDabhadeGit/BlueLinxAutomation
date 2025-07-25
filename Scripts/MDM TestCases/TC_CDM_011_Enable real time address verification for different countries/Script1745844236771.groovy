@@ -23,3 +23,5 @@ WebUI.callTestCase(findTestCase('MDM Methods/Search Organisation as Customer'), 
 
 WebUI.callTestCase(findTestCase('MDM Methods/Enable real time address verification for different countries'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+

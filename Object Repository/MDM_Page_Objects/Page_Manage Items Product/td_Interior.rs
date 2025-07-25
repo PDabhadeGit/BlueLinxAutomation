@@ -11,7 +11,8 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sCatAs:1:AT1:Catalog11::dropdownPopup::dropDownContent::db&quot;]/table/tbody/tr[6]/td/span</value>
+         <value>(//div[contains(@id,'Catalog11::dropdownPopup')]//tr)[6]//td/span&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +30,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>055d739a-613f-4e08-a1a3-4d51016cffdf</webElementGuid>
+      <webElementGuid>7ec54f10-71ca-434e-be94-a58337b7295e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xen</value>
-      <webElementGuid>5475eefd-a57d-4a81-ac71-626f20d2116a</webElementGuid>
+      <webElementGuid>8d6d991f-2fe2-46c1-87c4-a19c137631ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>bc77710d-b85f-4ef0-86e4-74c20d26c351</webElementGuid>
+      <webElementGuid>1f6e16a7-5075-4d2c-81da-76fc744fc7cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Interior</value>
-      <webElementGuid>1fa56184-6fc8-4924-abb3-9e56a8139fb0</webElementGuid>
+      <webElementGuid>aca919c7-3551-4f9e-a34c-e3901f136cb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sCatAs:1:AT1:Catalog11::dropdownPopup::dropDownContent::db&quot;)/table[@class=&quot;x1hi&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[@class=&quot;xen&quot;]</value>
-      <webElementGuid>905f0f84-44f9-4825-82aa-e611d2535a2f</webElementGuid>
+      <webElementGuid>3e66b1fd-c2c6-482b-b0ef-43a1b844060f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sCatAs:1:AT1:Catalog11::dropdownPopup::dropDownContent::db']/table/tbody/tr[6]/td</value>
-      <webElementGuid>01f1669c-2dc4-4ade-8dcc-fc6be4a1abcd</webElementGuid>
+      <webElementGuid>15980cec-ea21-4c1c-b0ca-a6632946b0b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Industrial'])[1]/following::td[1]</value>
-      <webElementGuid>1e0707ac-42c2-46aa-b594-4db7665124bd</webElementGuid>
+      <webElementGuid>04716088-b6c5-41a4-836b-751ddcd8987a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Framing'])[1]/following::td[2]</value>
-      <webElementGuid>ade22557-9569-4882-b47f-a08565091157</webElementGuid>
+      <webElementGuid>d2de8047-4314-4a78-afc5-5b512eb46d1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Specialties'])[2]/preceding::td[1]</value>
-      <webElementGuid>d5f033f9-bc84-476d-bd27-e90c2ead15ba</webElementGuid>
+      <webElementGuid>2868b492-4198-4048-a715-b458bb96c0db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/table/tbody/tr[6]/td</value>
-      <webElementGuid>58564341-6d98-4b53-89b8-21b13d30464a</webElementGuid>
+      <webElementGuid>e6416de3-cdd1-4d86-9331-068e08a40e96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Interior' or . = 'Interior')]</value>
-      <webElementGuid>4ce0548a-d321-4e96-9ae8-a5c3297db2bc</webElementGuid>
+      <webElementGuid>427a0973-a756-4c3e-858b-8e9ebbd3f056</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

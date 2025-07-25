@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e08916b1-c5ca-4244-a46f-83ee6e5c1693</webElementGuid>
+      <webElementGuid>e393a2f6-9a05-4031-aba5-3e69f114d9da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:SelCh:0:r1:1:t1:0:id2::pop::dlg::ok</value>
-      <webElementGuid>5acbbd6d-4436-4494-bc11-469ca341bd35</webElementGuid>
+      <webElementGuid>c4f6466c-7cb2-490f-b279-74562bb6ba48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xuz p_AFTextOnly</value>
-      <webElementGuid>5219d5fd-a0d7-4347-8237-4d2710b36a8a</webElementGuid>
+      <webElementGuid>5b7694df-c55c-4513-a2c0-61ac0b5653b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>this.focus();return false;</value>
-      <webElementGuid>81fd6547-3b1b-4cfe-b9b9-2f2fedc0d0a4</webElementGuid>
+      <webElementGuid>f5e2d291-e43b-4d50-9381-73064be83b1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OK</value>
-      <webElementGuid>b8138f80-e0f0-4aa5-bccd-a9f4c253fd78</webElementGuid>
+      <webElementGuid>9b50c355-9b32-4f78-a994-3c251118c511</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:SelCh:0:r1:1:t1:0:id2::pop::dlg::ok&quot;)</value>
-      <webElementGuid>d840468e-9d69-4d9f-b4c1-c367ccf4cc39</webElementGuid>
+      <webElementGuid>4544d22e-f82d-4bd4-86c5-67bf07c11140</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>76e49000-9a3d-4f52-8d28-6b05eb68820f</webElementGuid>
+      <webElementGuid>dee007aa-990c-45f5-b2e9-76a5755bb390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>_afrpdo</name>
       <type>Main</type>
       <value>ok</value>
-      <webElementGuid>e890a7ed-4a68-4bff-a808-600a3aeee65b</webElementGuid>
+      <webElementGuid>93ff344e-77dc-45d9-b260-62cedcda15be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:SelCh:0:r1:1:t1:0:id2::pop::dlg::ok']</value>
-      <webElementGuid>db4c3379-73e9-411c-b865-e6918e3511e3</webElementGuid>
+      <webElementGuid>41805fb8-2bcd-425a-b5fd-7877710ac57f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:SelCh:0:r1:1:t1:0:id2::pop::dlg::_fcc']/button</value>
-      <webElementGuid>21ed31d1-6c6f-4f55-8194-27c967fadc27</webElementGuid>
+      <webElementGuid>628f0dd0-6030-4672-a3d8-42e9eefa3bc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PM'])[1]/following::button[1]</value>
-      <webElementGuid>f5727cf1-0805-4a48-a565-7c6da1b9d549</webElementGuid>
+      <webElementGuid>71113abe-74de-4315-9a38-311596b744e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AM'])[1]/following::button[1]</value>
-      <webElementGuid>cbe70046-1e97-42a8-bd12-daf688fa8499</webElementGuid>
+      <webElementGuid>a4f10a8e-892e-4a6f-8093-58ab07678074</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[4]/preceding::button[1]</value>
-      <webElementGuid>f5b61cc5-80bc-4418-a1ca-90e36f286cce</webElementGuid>
+      <webElementGuid>7c0b29f9-0173-491c-b47b-81f48537f06f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[3]/preceding::button[2]</value>
-      <webElementGuid>e8e86e56-31b9-449e-b572-6bcb82bdb0ab</webElementGuid>
+      <webElementGuid>c7fb4e26-a12b-47b5-9717-3303cc60e9cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/div/div/table/tbody/tr[3]/td[2]/table/tbody/tr/td/button</value>
-      <webElementGuid>39011ccc-e619-4f06-b68d-8c142b87f918</webElementGuid>
+      <webElementGuid>8fceec0b-e43e-4b2a-aa57-b8c84b4780ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:SelCh:0:r1:1:t1:0:id2::pop::dlg::ok' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>cadce08c-d45f-4b8d-9fbe-77096abb5a2f</webElementGuid>
+      <webElementGuid>e0dcbd28-a23b-4e16-88f8-020211538970</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

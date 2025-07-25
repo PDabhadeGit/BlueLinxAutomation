@@ -17,25 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Relationships'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Relationships (2)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Cross-References'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Cross-References'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/img_Wrap__FOpt1_FOr10_FONSr20MAt30pt1ap1sXr_b127ef'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/img_Wrap_pt1_FOr11_FONSr20MAt30pt1ap1sXrefs_d6357b'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/input_Value__FOpt1_FOr10_FONSr20MAt30pt1ap1_506404'), 
-    'Test')
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/input_Value_pt1_FOr11_FONSr20MAt30pt1ap1sXr_1c4a85'), 
+    'test')
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/textarea_Description__FOpt1_FOr10_FONSr20MA_8e47fc'), 
-    'Test')
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/textarea_Description_pt1_FOr11_FONSr20MAt30_7fad64'), 
+    'test')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_OK'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/span_K'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_OK'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/td_Type_x18y'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Create Cross-Reference Relationship__FOpt_5ad6bc'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_OK (1)'))
 

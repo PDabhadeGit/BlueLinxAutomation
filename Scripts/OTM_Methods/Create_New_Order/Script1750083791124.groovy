@@ -124,3 +124,5 @@ println("Appended Order ID to Excel: $neworderid")
 // Optional: Set to global variable
 GlobalVariable.Enter_order_Id = neworderid
 
+WebUI.closeBrowser()
+

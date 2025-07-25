@@ -11,7 +11,8 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sCatAs:1:AT1:AT2:_ATp:ATt1::db&quot;]/table/tbody/tr[1]/td[2]/div/table/tbody/tr/td[1]/span</value>
+         <value>(//div[contains(@id,'ATt1::db')]//table)[1]//tr[1]/td[2]//td[1]/span&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +30,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>0cb1c679-1263-44ba-93db-741d4e25c8bc</webElementGuid>
+      <webElementGuid>81e76045-8dfe-41ca-b1a3-9c1d2ead9b5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x2hl</value>
-      <webElementGuid>510e12fe-35dd-4154-b706-f21bf3e80e75</webElementGuid>
+      <webElementGuid>5d6be911-34eb-486d-b304-026b63973fb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Flooring</value>
-      <webElementGuid>f655a147-b5da-4fca-b57e-344f3bbe9688</webElementGuid>
+      <webElementGuid>26bd4c8a-d3ab-483d-a59b-64d822479e37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sCatAs:1:AT1:AT2:_ATp:ATt1::db&quot;)/table[@class=&quot;x1hi x1i6&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[2]/div[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;xen&quot;]/span[@class=&quot;x2hl&quot;]</value>
-      <webElementGuid>fcaf9b4b-d5ea-46e7-a32a-32aaa139a26a</webElementGuid>
+      <webElementGuid>f79e3eef-995b-4eaf-916d-88daaee898c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sCatAs:1:AT1:AT2:_ATp:ATt1::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td/span</value>
-      <webElementGuid>dfaa7cf4-2007-4d78-8c13-513d23253f18</webElementGuid>
+      <webElementGuid>5a624546-c59d-4be8-a2f4-3c0891cc4ceb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Path'])[2]/following::span[2]</value>
-      <webElementGuid>18f910ba-a66f-44d7-8bdb-bb2377135d67</webElementGuid>
+      <webElementGuid>c900a955-03c7-449b-ac54-5b760a5caf85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Category Name'])[2]/following::span[3]</value>
-      <webElementGuid>f6df876c-1e13-4738-83dd-8cb432efe726</webElementGuid>
+      <webElementGuid>c668c335-ecbe-436c-85e7-5d468bbd09f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Interior > Flooring'])[1]/preceding::span[1]</value>
-      <webElementGuid>5230ed47-b017-4bd2-9dbb-bee2ca078091</webElementGuid>
+      <webElementGuid>cce8b9a0-8a03-4ce3-ad0a-84329608c194</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Gypsum'])[1]/preceding::span[3]</value>
-      <webElementGuid>5e3424d7-1fc8-45b9-9385-e4059f6f8b7d</webElementGuid>
+      <webElementGuid>2a3ae90e-169d-4f66-81e6-cc03c533bfe0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/div/div[2]/div/div[2]/table/tbody/tr/td[2]/div/table/tbody/tr/td/span</value>
-      <webElementGuid>238f7887-b756-499e-8a77-c1a0b3481690</webElementGuid>
+      <webElementGuid>0e313a32-4c41-4610-9536-0496e5b7baa6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Flooring' or . = 'Flooring')]</value>
-      <webElementGuid>32e77b32-8729-4055-a417-fc1a6ee569d7</webElementGuid>
+      <webElementGuid>552839bc-e176-406d-9e33-1e56bf77423d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

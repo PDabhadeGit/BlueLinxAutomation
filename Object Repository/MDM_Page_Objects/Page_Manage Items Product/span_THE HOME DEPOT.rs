@@ -6,12 +6,13 @@
    <elementGuidId>cf496400-94ef-4b36-9e7d-3cb124dcb02d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:customerId_DispId::dropdownPopup::dropDownContent::db']/table/tbody/tr[5]/td/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>tr.p_AFSelected.p_AFFocused.xem > td.xen > span.x2hl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:customerId_DispId::dropdownPopup::dropDownContent::db&quot;]/table/tbody/tr[1]/td[1]&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +30,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4a36490a-7ca3-4ec2-94fc-849cde8b9526</webElementGuid>
+      <webElementGuid>a127453c-bb71-4ffb-bc49-60a6c8cd1af7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x2hl</value>
-      <webElementGuid>2190e024-dace-47fb-8b05-a8b69406142f</webElementGuid>
+      <webElementGuid>8ded21ce-9ce0-4b55-9ac9-9451fd024255</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>THE HOME DEPOT</value>
-      <webElementGuid>138e9a86-72fe-40d5-86d7-b66f70e6ccf6</webElementGuid>
+      <webElementGuid>970661ce-f4d5-4020-8f7c-bcfe7f961063</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:customerId_DispId::dropdownPopup::dropDownContent::db&quot;)/table[@class=&quot;x1hi&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[@class=&quot;xen&quot;]/span[@class=&quot;x2hl&quot;]</value>
-      <webElementGuid>8d846882-4086-4032-b3c9-e0c763acc664</webElementGuid>
+      <webElementGuid>1f3c2c22-9ce0-452c-be5e-35faaa575659</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sTPX:1:TPItemXrefResults1:customerId_DispId::dropdownPopup::dropDownContent::db']/table/tbody/tr[5]/td/span</value>
-      <webElementGuid>2344647d-3fbb-42c9-89b4-0d15443ec64e</webElementGuid>
+      <webElementGuid>45dd8d7f-466a-41fd-94cd-edd9ee584464</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='HOWARD MILLER'])[1]/following::span[4]</value>
-      <webElementGuid>61eed1cc-8972-4ea4-b0b6-b6f6330ed8a7</webElementGuid>
+      <webElementGuid>1ad855bf-6eb0-4d43-bed2-a000c7e001eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[7]/preceding::span[2]</value>
-      <webElementGuid>22861faa-edcb-44bc-a9df-93efb9e47677</webElementGuid>
+      <webElementGuid>9c1a75d1-6dce-49fc-8f9e-db07b54de85f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/preceding::span[16]</value>
-      <webElementGuid>418b128f-1f5d-4dac-a3df-d9de40993738</webElementGuid>
+      <webElementGuid>b5179db0-ae96-497a-af27-7ec951bcccc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='THE HOME DEPOT']/parent::*</value>
-      <webElementGuid>cb0b9253-0d16-47c7-a53e-2224c04af283</webElementGuid>
+      <webElementGuid>ba96076d-e8be-4bdf-b925-0fbd6815e466</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/table/tbody/tr[5]/td/span</value>
-      <webElementGuid>365ea4e8-804e-42b6-b868-36a89ab8c638</webElementGuid>
+      <webElementGuid>9b3b89e1-9fb8-4b37-8427-980cab459c28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'THE HOME DEPOT' or . = 'THE HOME DEPOT')]</value>
-      <webElementGuid>68e5dd78-105b-4c76-b251-e88818a8b6f9</webElementGuid>
+      <webElementGuid>cfe5aaa9-9d4a-44ec-9782-febc1da1113c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

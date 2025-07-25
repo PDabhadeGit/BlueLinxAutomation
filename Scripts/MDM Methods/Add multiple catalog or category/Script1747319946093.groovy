@@ -27,7 +27,11 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/td_Exterior'))
 
+WebUI.delay(3)
+
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/span_Outdoor Living'))
+
+WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/button_OK'))
 

@@ -17,43 +17,26 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Product Management'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Relationships (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Product Information Management'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Trading Partner Items (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/img_PrintMe__FOpt1_FOr10_FONSr20_FOTsdiItem_3ddbb3'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/img_Wrap_pt1_FOr11_FONSr20MAt30pt1ap1sTPX1T_c0f5bc (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/a_Manage Items'))
-
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/input_Item Operator__FOpt1_FOr10_FONSr20MAt_4d7e4b'), 
-    'test style item41')
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/button_Search'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Test Style Item41'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Relationships'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Trading Partner Items'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/img_Wrap__FOpt1_FOr10_FONSr20MAt30pt1ap1sTP_fa60fb'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/select_CustomerCompetitorManufacturerSupplier'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/select_CustomerCompetitorManufacturerSupplier (1)'), 
     '3', true)
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Supplier Name__FOpt1_FOr10_FONSr20MAt30pt_240c6d'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Supplier Name_pt1_FOr11_FONSr20MAt30pt1ap_db1558 (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/span_BARRETTE OUTDOOR LIVING - ACH'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/td_CEDAR CREEK RIC'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Supplier Item__FOpt1_FOr10_FONSr20MAt30pt_cda282'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Supplier Item_pt1_FOr11_FONSr20MAt30pt1ap_7e594a (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/span_73055015'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/td_Test'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_OK'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/span_OK'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/span_Save'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/span_Save (2)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Save__FOpt1_FOr10_FONSr20MAt30pt1ap1csave_83bb2e'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/td_Save and Close'))
+WebUI.closeBrowser()
 

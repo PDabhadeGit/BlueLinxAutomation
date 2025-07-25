@@ -6,12 +6,12 @@
    <elementGuidId>356a6bab-a918-4d5b-99c7-46e7213b31a4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sCatAs:1:AT1:_ATp:table1:2:cb211']/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img.xv0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Search']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

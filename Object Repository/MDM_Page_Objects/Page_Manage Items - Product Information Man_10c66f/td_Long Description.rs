@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Long Description</name>
+   <tag></tag>
+   <elementGuidId>5395a933-b712-4fc6-9174-293d64ee5daf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:panelLabelAndMessage13']/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Long Description&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>212293f3-2602-4b4b-b49b-54679d706b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x15</value>
+      <webElementGuid>cfd37eed-86d7-421f-963e-f139363b400a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Long Description</value>
+      <webElementGuid>70b7d41d-2c32-487d-89d9-59b5c509c367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:panelLabelAndMessage13&quot;)/tbody[1]/tr[1]/td[@class=&quot;x15&quot;]</value>
+      <webElementGuid>6fc86c6d-aec6-4bfd-be02-d103a45cef23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:panelLabelAndMessage13']/tbody/tr/td</value>
+      <webElementGuid>7df6e19d-4567-4a7a-97d2-d631782d1880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formatted Description'])[1]/following::td[7]</value>
+      <webElementGuid>50e3019d-e273-4038-8a70-69db6493bf42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation Date'])[1]/following::td[39]</value>
+      <webElementGuid>d3504f93-4521-4445-b824-912a3ac3295e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testing'])[1]/preceding::td[1]</value>
+      <webElementGuid>394b3daf-9a72-420c-b1e2-27a2e3eeb01a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/table/tbody/tr/td[3]/table/tbody/tr/td</value>
+      <webElementGuid>c2f9df14-2292-4850-9ce9-bddfb3d7603b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Long Description' or . = 'Long Description')]</value>
+      <webElementGuid>9047fd22-2513-45b7-8274-54e5ca6535bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
