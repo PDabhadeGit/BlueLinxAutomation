@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::dropdownPopup::dropDownContent::db']/table/tbody/tr[2]/td/span</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='C'])[1]/following::span[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

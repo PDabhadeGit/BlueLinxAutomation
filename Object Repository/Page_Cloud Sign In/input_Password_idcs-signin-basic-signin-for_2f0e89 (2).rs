@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Item Class_pt1_FOr11_FONSr20MAt30itemClas_2daa9b</name>
+   <name>input_Password_idcs-signin-basic-signin-for_2f0e89 (2)</name>
    <tag></tag>
-   <elementGuidId>e522478c-bb2f-446e-91d1-42a8091247a0</elementGuidId>
+   <elementGuidId>f3b4c355-401f-42cc-aebe-debb738359cd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//tr[5]/td[2]/span/span/span/a</value>
+         <value>//input[@id='idcs-signin-basic-signin-form-password|input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[title=&quot;Search: Item Class&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Password&quot;s]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -27,79 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>b59ed80e-b468-477b-b271-0d52d9881988</webElementGuid>
+      <value>input</value>
+      <webElementGuid>c0eec9b9-a485-4200-a2c2-0f51439430fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>type</name>
       <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>925d9a9a-86f4-4ae4-bf4f-0363edfbb993</webElementGuid>
+      <value>password</value>
+      <webElementGuid>dbb6f6fc-7909-430b-b8ef-db39bcbc7b47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>181b5a73-d1cd-4e5c-a3fe-e94c35a7c2a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>x1o4</value>
-      <webElementGuid>c2b903b4-45c3-45ca-a7eb-40b8ddffe09b</webElementGuid>
+      <value>oj-inputpassword-input oj-component-initnode</value>
+      <webElementGuid>47193be2-88fd-4061-8268-4659f4e82271</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::lovIconId</value>
-      <webElementGuid>42646f24-4500-436e-be79-c0071e9eda09</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>Search: Item Class</value>
-      <webElementGuid>61a9770f-fef7-4498-8deb-70aff41fae6c</webElementGuid>
+      <value>idcs-signin-basic-signin-form-password|input</value>
+      <webElementGuid>91f3c201-4ca5-46f7-8107-017217c8839d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::lovIconId&quot;)</value>
-      <webElementGuid>52219593-f2ae-4931-a577-2836fdb7fd56</webElementGuid>
+      <value>id(&quot;idcs-signin-basic-signin-form-password|input&quot;)</value>
+      <webElementGuid>42184302-050c-499f-aeda-469d26fa3f90</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::lovIconId']</value>
-      <webElementGuid>86301c0c-ba24-49dd-8b3e-913dc4f4365e</webElementGuid>
+      <value>//input[@id='idcs-signin-basic-signin-form-password|input']</value>
+      <webElementGuid>abbe1d31-5e5c-42f2-b891-2cfa46089d3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::cntnrSpan']/span/a</value>
-      <webElementGuid>a828b987-200a-414e-91e4-cefe87326975</webElementGuid>
+      <value>//oj-input-password[@id='idcs-signin-basic-signin-form-password']/input</value>
+      <webElementGuid>db3d52f3-d35e-4254-95c0-c67e06400833</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[5]/td[2]/span/span/span/a</value>
-      <webElementGuid>228310ca-101b-460d-b310-e7a1550bb323</webElementGuid>
+      <value>//oj-input-password/input</value>
+      <webElementGuid>acb9f5ff-321d-4bcc-87c5-84a6e8165b36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::lovIconId' and @title = 'Search: Item Class']</value>
-      <webElementGuid>84ac12f8-849f-409b-9165-a4d0963ea558</webElementGuid>
+      <value>//input[@type = 'password' and @placeholder = 'Password' and @id = 'idcs-signin-basic-signin-form-password|input']</value>
+      <webElementGuid>ab3c6268-485d-4075-af63-28e569384e99</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

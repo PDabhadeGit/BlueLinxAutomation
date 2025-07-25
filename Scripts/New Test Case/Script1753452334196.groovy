@@ -17,27 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('OTM_Methods/Login_OTM'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/span_Itinerary Management'))
-
-WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/span_Itinerary Manager'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Itinerary Finder/input_Itinerary ID_itineraryxid'), 'BXC_ATL')
-
-WebUI.click(findTestObject('Object Repository/Page_Itinerary Finder/button_Search'))
-
-WebUI.click(findTestObject('Object Repository/Page_Itinerary Result/a_BXC.BXC_ATL'))
-
-WebUI.click(findTestObject('Object Repository/Page_Itinerary - Parameters/div_Source Geo HierarchyCITYCITYCOUNTRYCOUN_61cbeb'))
-
-WebUI.click(findTestObject('Object Repository/Page_Itinerary - Parameters/button_Lane Definitions'))
-
-WebUI.click(findTestObject('Object Repository/Page_Itinerary - Lane Definitions/button_List Legs'))
-
-WebUI.click(findTestObject('Object Repository/Page_Itinerary - List Legs/div_Leg ID'))
-
-WebUI.closeBrowser()
-

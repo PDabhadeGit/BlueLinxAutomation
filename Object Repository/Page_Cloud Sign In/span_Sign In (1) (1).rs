@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Item Class_pt1_FOr11_FONSr20MAt30itemClas_2daa9b</name>
+   <name>span_Sign In (1) (1)</name>
    <tag></tag>
-   <elementGuidId>e522478c-bb2f-446e-91d1-42a8091247a0</elementGuidId>
+   <elementGuidId>84f845a0-f1b8-425d-a408-1e6b4b1efbae</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value>#ui-id-4</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//tr[5]/td[2]/span/span/span/a</value>
+         <value>//span[@id='ui-id-4']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[title=&quot;Search: Item Class&quot;i]</value>
+         <value>internal:label=&quot;Sign In&quot;s</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -27,79 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>b59ed80e-b468-477b-b271-0d52d9881988</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>925d9a9a-86f4-4ae4-bf4f-0363edfbb993</webElementGuid>
+      <value>span</value>
+      <webElementGuid>7a69ceef-5121-466d-8564-8c627846b2dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>x1o4</value>
-      <webElementGuid>c2b903b4-45c3-45ca-a7eb-40b8ddffe09b</webElementGuid>
+      <value>oj-button-text</value>
+      <webElementGuid>4a35f880-19dd-412a-baad-175b03cad6d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::lovIconId</value>
-      <webElementGuid>42646f24-4500-436e-be79-c0071e9eda09</webElementGuid>
+      <value>ui-id-4</value>
+      <webElementGuid>aba0d22f-d16c-49bd-a79f-b8040f9586a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Search: Item Class</value>
-      <webElementGuid>61a9770f-fef7-4498-8deb-70aff41fae6c</webElementGuid>
+      <value>Sign In</value>
+      <webElementGuid>590528f4-6ad3-4bd3-a383-451a7acf3a70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::lovIconId&quot;)</value>
-      <webElementGuid>52219593-f2ae-4931-a577-2836fdb7fd56</webElementGuid>
+      <value>id(&quot;ui-id-4&quot;)</value>
+      <webElementGuid>b1c03ab5-4520-4244-8d1d-bd5a8606c278</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::lovIconId']</value>
-      <webElementGuid>86301c0c-ba24-49dd-8b3e-913dc4f4365e</webElementGuid>
+      <value>//span[@id='ui-id-4']</value>
+      <webElementGuid>fe44e296-55bd-49c3-9f89-3b00682ac7e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::cntnrSpan']/span/a</value>
-      <webElementGuid>a828b987-200a-414e-91e4-cefe87326975</webElementGuid>
+      <value>//oj-button[@id='idcs-signin-basic-signin-form-submit']/button/div/span</value>
+      <webElementGuid>ea9fb6c6-0d5b-4b9e-b8ed-bb62cb1f13f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me signed in'])[1]/preceding::span[1]</value>
+      <webElementGuid>ecdcffa8-7361-466b-a2bc-0a290ed6327f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
+      <webElementGuid>39eb3e31-8128-42c7-a76b-d101327b60d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[5]/td[2]/span/span/span/a</value>
-      <webElementGuid>228310ca-101b-460d-b310-e7a1550bb323</webElementGuid>
+      <value>//div[5]/oj-button/button/div/span</value>
+      <webElementGuid>6834c9bc-4f8e-4bc6-92fc-82c497afd42c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:itemClassId::lovIconId' and @title = 'Search: Item Class']</value>
-      <webElementGuid>84ac12f8-849f-409b-9165-a4d0963ea558</webElementGuid>
+      <value>//span[@id = 'ui-id-4' and (text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>ddb68bf1-f213-4140-8e13-d7b92cfd8f8e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

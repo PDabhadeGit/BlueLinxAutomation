@@ -6,12 +6,11 @@
    <elementGuidId>458f86f7-f412-4dba-bb06-02cae707dd0d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:inputText1::content']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[4]/table/tbody/tr/td/table/tbody/tr[3]/td[2]/table/tbody/tr/td/span/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

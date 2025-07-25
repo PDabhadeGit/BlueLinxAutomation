@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:AppTe:0:selectManyShuttle1::moveall']</value>
+         <value>(//a[contains(@href, '#')])[36]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

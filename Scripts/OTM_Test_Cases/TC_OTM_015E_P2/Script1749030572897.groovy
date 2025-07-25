@@ -51,15 +51,14 @@ WebUI.click(findTestObject('Object Repository/Page_Bulk Plan/button_Refresh'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/Page_Bulk Plan/a_1'))
-
+//WebUI.click(findTestObject('Object Repository/Page_Bulk Plan/a_1'))
 WebUI.delay(2)
 
-WebUI.switchToWindowIndex(2)
-
-WebUI.maximizeWindow()
-
+//WebUI.switchToWindowIndex(2)
+//WebUI.maximizeWindow()
 WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/a_BXC.51000'))
 
 WebUI.click(findTestObject('Page_Buy Shipment - Identification/a_Equipment'))
+
+WebUI.closeBrowser()
 
