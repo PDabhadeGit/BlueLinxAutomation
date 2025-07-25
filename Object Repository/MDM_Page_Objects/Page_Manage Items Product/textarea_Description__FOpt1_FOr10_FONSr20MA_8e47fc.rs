@@ -6,12 +6,11 @@
    <elementGuidId>8bc235ed-69e5-40e4-b711-77f77905a0be</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//textarea[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sXrefs:1:ItemXrefResultsApp:inputText5::content']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//td[2]/textarea</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

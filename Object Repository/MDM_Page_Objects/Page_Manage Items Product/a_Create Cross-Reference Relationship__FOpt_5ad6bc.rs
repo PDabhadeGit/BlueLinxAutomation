@@ -6,12 +6,11 @@
    <elementGuidId>bfcb210d-fb1a-45af-93c8-64b7d44b2d65</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sXrefs:1:ItemXrefResultsApp:dialog1::close']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//a[contains(@href, '#')])[84]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

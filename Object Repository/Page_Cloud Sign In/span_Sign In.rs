@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c9786aee-0370-48ad-bdae-e3657db4e9f1</webElementGuid>
+      <webElementGuid>c7f4a9c2-8e62-4388-9c17-be11593ad668</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-button-text</value>
-      <webElementGuid>93bfb194-3300-48b2-a720-c948bf88e4dd</webElementGuid>
+      <webElementGuid>2fe6cf5c-9298-40c1-b607-4a0ad86ed0f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ui-id-4</value>
-      <webElementGuid>d9b514af-2a39-4107-b481-97cdefabd16c</webElementGuid>
+      <webElementGuid>1c64db78-315a-45bb-b607-35ec43ed6d61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>04bead16-cac7-4223-ac96-ab80fc7548f4</webElementGuid>
+      <webElementGuid>dd26e291-8c63-4b08-b7db-7d7196695a84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-id-4&quot;)</value>
-      <webElementGuid>bb17515e-5a03-4ec0-a54a-b5300e800819</webElementGuid>
+      <webElementGuid>dd163480-421e-4463-86cc-3fd8332202db</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='ui-id-4']</value>
-      <webElementGuid>36537d2c-27f2-4e95-9548-ac34cd8ff068</webElementGuid>
+      <webElementGuid>6f83bff8-ae80-4c18-8140-c7cdce821480</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//oj-button[@id='idcs-signin-basic-signin-form-submit']/button/div/span</value>
-      <webElementGuid>2f3cda88-d8b6-49e5-b7db-9bd79223197c</webElementGuid>
+      <webElementGuid>e0ec5cca-3934-4a61-9127-a9ea39189335</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me signed in'])[1]/preceding::span[1]</value>
-      <webElementGuid>7bd0c701-40fe-41da-9458-0d4ed588c71b</webElementGuid>
+      <webElementGuid>30ca5055-674b-4558-88b8-5c963c623835</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>800535a1-dbf1-4a2d-b8b6-a6ac253dc6ed</webElementGuid>
+      <webElementGuid>048e119a-97b5-4278-9cea-f061f7707152</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/oj-button/button/div/span</value>
-      <webElementGuid>988ee153-2857-4089-be75-d86a5b1ac5a6</webElementGuid>
+      <webElementGuid>7711cebc-580e-4bb4-b1b3-88632ed4ecd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,14 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'ui-id-4' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>d1a6de51-d666-4d79-a842-403068ad9ab8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[4]/oj-button/button/div/span</value>
-      <webElementGuid>591e3f24-c3f8-4c39-9b1f-73d0cabf2864</webElementGuid>
+      <webElementGuid>eca96cb2-56a7-460c-a065-0b4206ea4fa8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
