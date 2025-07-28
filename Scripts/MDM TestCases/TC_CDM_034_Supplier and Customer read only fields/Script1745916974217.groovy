@@ -40,6 +40,8 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization
 
 WebUI.click(findTestObject('MDM_Page_Objects/Page_Organizations - Cloud Applications/button_Yes'))
 
+WebUI.delay(3)
+
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Organizations'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization Organizations/a_Organization__FOpt1_FOr10_FONSr20_FOTsr10_d17e4e'))

@@ -34,5 +34,14 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_OK_1 (3)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_Save (4)'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/button_OK_1_2'), 
+    FailureHandling.OPTIONAL)
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/button_Cancel'), 
+    FailureHandling.OPTIONAL)
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/button_Save (4)'), FailureHandling.OPTIONAL)
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/button_Save and Close (1)'), 
+    FailureHandling.OPTIONAL)
 

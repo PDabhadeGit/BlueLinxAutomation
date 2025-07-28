@@ -6,14 +6,6 @@
    <elementGuidId>c960146e-79da-403f-853c-824e2ef38595</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[4]/div/div/div[2]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>#label1</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@id = 'label1' and (text() = '
                   Order Management
@@ -21,8 +13,16 @@
                   Order Management
                 ')]</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#label1</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

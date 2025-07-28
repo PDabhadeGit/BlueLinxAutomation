@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[contains(@id,'Catalog11::dropdownPopup')]//tr[2]/td</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Foundation'])[1]/preceding::td[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

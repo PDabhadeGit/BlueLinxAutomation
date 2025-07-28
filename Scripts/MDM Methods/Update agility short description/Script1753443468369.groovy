@@ -17,7 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Specifications'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Agility'))
@@ -35,21 +34,13 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Select Hours_pt1_FOr11_FONSr20MAt30pt1ap1_486e51'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Effective Date_pt1_FOr11_FONSr20MAt30pt1a_1f16cf'), FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Select Hours_pt1_FOr11_FONSr20MAt30pt1ap1_486e51'), FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/td_26'), FailureHandling.CONTINUE_ON_FAILURE)
-
+//WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/button_OK'))
+//WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Effective Date_pt1_FOr11_FONSr20MAt30pt1a_1f16cf'), FailureHandling.CONTINUE_ON_FAILURE)
+//WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Select Hours_pt1_FOr11_FONSr20MAt30pt1ap1_486e51'), FailureHandling.CONTINUE_ON_FAILURE)
+//WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/td_26'), FailureHandling.CONTINUE_ON_FAILURE)
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/button_OK'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/span_Submit'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Change Order  BXC-CCO100121 (BL00) - P_469f0d/a_Assignee Role_pt1_FOr11_FONSr20MAt40AP2as_3e2b1d'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Change Order  BXC-CCO100121 (BL00) - P_469f0d/a_Assignee Role_pt1_FOr11_FONSr20MAt40AP2as_3e2b1d'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Change Order  BXC-CCO100121 (BL00) - P_469f0d/span_Save and Close'))
 

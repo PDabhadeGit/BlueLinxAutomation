@@ -23,3 +23,5 @@ WebUI.callTestCase(findTestCase('MDM Methods/Search Item'), [:], FailureHandling
 
 WebUI.callTestCase(findTestCase('MDM Methods/Add multiple catalog or category'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_HOME  ENERGY SERVICES INC</name>
+   <tag></tag>
+   <elementGuidId>dd64a671-2ea3-4bf5-b2f1-d6532e0c6175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1:0:ot1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;__af_Z_window&quot;] >> internal:text=&quot;HOME &amp; ENERGY SERVICES INC&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6e4f47e6-1413-490e-948f-6ac8a1736c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget xk</value>
+      <webElementGuid>69ab08be-f1cd-4b6f-9935-b424c1d77eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1:0:ot1</value>
+      <webElementGuid>3a1073fc-58d7-467b-8522-b89c804c44b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> HOME &amp; ENERGY SERVICES INC</value>
+      <webElementGuid>46bab3ae-5eda-45c5-8179-342446d8102f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1:0:ot1&quot;)</value>
+      <webElementGuid>d7d58e3b-9336-488b-adbe-72dfd97562a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1:0:ot1']</value>
+      <webElementGuid>5b64a410-8350-4da1-91bd-8adffb41d9bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1::db']/table/tbody/tr/td[2]/div/table/tbody/tr/td/span/span</value>
+      <webElementGuid>acd9dfba-0824-49d4-b2c6-6c72bdba6253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Phone'])[3]/following::span[4]</value>
+      <webElementGuid>a02ac603-7792-414f-9514-eff0b1f14421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Email'])[2]/following::span[5]</value>
+      <webElementGuid>852690fe-8332-486f-8b4e-f093e007dcb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORGANIZATION'])[1]/preceding::span[4]</value>
+      <webElementGuid>3dc88fc3-02e5-44f1-83ed-b4fa2a4f3a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[2]/div/table/tbody/tr/td/span/span</value>
+      <webElementGuid>59d7b3b3-5c39-4c74-8797-a522649b0ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r4:0:AP1:r1:0:AT1:r1:1:HzCpu1:0:HzCpu1:1:AT2:_ATp:t1:0:ot1' and (text() = ' HOME &amp; ENERGY SERVICES INC' or . = ' HOME &amp; ENERGY SERVICES INC')]</value>
+      <webElementGuid>8b8736d7-ed32-43a8-982f-f6cc1e551fab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

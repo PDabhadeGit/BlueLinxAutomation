@@ -25,3 +25,5 @@ WebUI.delay(130)
 
 WebUI.callTestCase(findTestCase('MDM Methods/New Item Request'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+

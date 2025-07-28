@@ -10,7 +10,8 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[36]</value>
+         <value>//a[@title='Move all items to: Selected List']&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fc3b29e9-f27d-43e1-801f-0869ba32faa0</webElementGuid>
+      <webElementGuid>e0331c0b-508e-44a7-95e2-b4708c3a2cff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +37,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>64e95433-077f-4379-840d-014efa3ff76a</webElementGuid>
+      <webElementGuid>90c00ecd-49ea-4613-8eaf-7cc2c64030ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>887afa8b-b08d-4ebf-99ab-db8501c2948c</webElementGuid>
+      <webElementGuid>287b811e-21ae-44b9-acb0-343fe4502d90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +53,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>this.focus();return false</value>
-      <webElementGuid>5c08f799-5ea0-441e-933e-bedde4d020f4</webElementGuid>
+      <webElementGuid>b19a0b5a-9a31-4a82-9b9a-a34a7b2e18b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1ff</value>
-      <webElementGuid>b3e304b6-9fae-498b-8014-875a2c08e8c8</webElementGuid>
+      <webElementGuid>eb79b97b-d166-4d26-8150-61da6ce465d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +69,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:AppTe:0:selectManyShuttle1::moveall</value>
-      <webElementGuid>b88c4e20-ff66-4251-b463-20cd81df9764</webElementGuid>
+      <webElementGuid>59740cac-0827-4c3b-980f-f269f30853db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -76,7 +77,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Move all items to: Selected List</value>
-      <webElementGuid>39d95769-7938-4afd-9ddd-1f41158b7b69</webElementGuid>
+      <webElementGuid>929d1515-9c33-4570-a7e0-9e5ec5cd8820</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:AppTe:0:selectManyShuttle1::moveall&quot;)</value>
-      <webElementGuid>ea555473-b0c8-4484-b548-4eaf4e293a0f</webElementGuid>
+      <webElementGuid>9422f854-bb80-433d-bada-56becbd5add6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -92,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:AppTe:0:selectManyShuttle1::moveall']</value>
-      <webElementGuid>80ec5a14-d4a3-4593-a264-a698d24cfed3</webElementGuid>
+      <webElementGuid>5f94bcd1-6308-404d-8dc2-53e2e75df31a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:AppTe:0:selectManyShuttle1::moveDiv']/table[2]/tbody/tr/td/div/a</value>
-      <webElementGuid>4bab3165-e3cb-4ba8-946f-a14154cd74d4</webElementGuid>
+      <webElementGuid>0c00e746-7cac-493e-b3cc-acdc3cf29d93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[36]</value>
-      <webElementGuid>1a7e0aa8-3f73-41d0-bd99-61d30e9fbd50</webElementGuid>
+      <webElementGuid>5b849a38-4b0b-4fab-8b16-c1d6d6d7a903</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/div/table[2]/tbody/tr/td/div/a</value>
-      <webElementGuid>ce9015fa-b2e8-4f58-af1a-fabc733dea51</webElementGuid>
+      <webElementGuid>2483577b-76fd-411f-8175-7c247466e527</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @id = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:AppTe:0:selectManyShuttle1::moveall' and @title = 'Move all items to: Selected List']</value>
-      <webElementGuid>fe626ac9-e53a-4ba7-948e-c0ea621fcd0d</webElementGuid>
+      <webElementGuid>9f63a973-0d75-4e14-ac94-b802f086d7df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

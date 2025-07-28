@@ -19,11 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('MDM Methods/Login MDM'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('MDM Methods/Search Organisation as Supplier'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('MDM Methods/Create Supplier'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('MDM_Page_Objects/Page_Organizations/svg_Home'))
+
+WebUI.callTestCase(findTestCase('MDM Methods/Search Supplier to add relation'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('MDM Methods/Add Relationship'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3)
 
-WebUI.callTestCase(findTestCase('MDM Methods/Save and Close'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.closeBrowser()
 

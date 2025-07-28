@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sRelFl:1:RelatedItemResults:saveACBtn1']/a/span/span</value>
+         <value>//span[(text() = 'K' or . = 'K')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

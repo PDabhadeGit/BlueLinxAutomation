@@ -29,11 +29,7 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Move__FOpt1_FOr10_FONSr20MAt30pt1ap1r21AT_66b745'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/button_Done'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/button_Done (3)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/a_Save__FOpt1_FOr10_FONSr20MAt30pt1ap1csave_83bb2e'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/td_Save and Close'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items Product/button_Done_1'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/a_Save (1)'))
 

@@ -65,6 +65,10 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Universal'))
 
+WebUI.click(findTestObject('MDM_Page_Objects/Page_Create Item - Oracle Fusion Cloud/a_Hazardous_pt1_FOr11_FONSr20MAt30pt1ap1sspecf1dynReg1CTXRNj_ItemBluelinxPrivateVOOTM__Attributes0hazardouslovIconId'))
+
+WebUI.click(findTestObject('MDM_Page_Objects/Page_Create Item - Oracle Fusion Cloud/td_NO'))
+
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_STCC ID__FOpt1_FOr10_FONSr20MAt30pt1ap1ss_b0d3e1'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/td_24211'))

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:0:commandLink2&quot;]/a</value>
+         <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:25:commandLink2']/a/span</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ad0d5c7f-dbd8-4f4a-bf70-c266ceffebf9</webElementGuid>
+      <webElementGuid>2677bb5c-ca1a-4bef-a35e-f935eefde0f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +36,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Test Customer</value>
-      <webElementGuid>61cb956d-198e-4d80-827d-de7a37c60a8b</webElementGuid>
+      <webElementGuid>c5743a2e-87f0-417d-9a1e-c2a60e02bd75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:25:commandLink2&quot;)/a[@class=&quot;xmx&quot;]/span[1]</value>
-      <webElementGuid>d2e19ab9-cabc-4cff-980f-e7b334532d1b</webElementGuid>
+      <webElementGuid>ad539810-8c6f-44d4-b336-a98c6903504d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -52,7 +52,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:25:commandLink2']/a/span</value>
-      <webElementGuid>01354776-67be-4eed-a2ee-0769b76fec72</webElementGuid>
+      <webElementGuid>f904a88a-12e4-4d6d-ba10-453902b84fb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buying Customer'])[1]/following::span[9]</value>
-      <webElementGuid>360418e9-a626-4e7d-9119-9b63aab8061b</webElementGuid>
+      <webElementGuid>468e29ec-a6cc-4ecb-aff0-2879a380aa59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buying Customer'])[2]/preceding::span[7]</value>
-      <webElementGuid>3a224096-4491-4d2d-b3ef-34d1d00d11f6</webElementGuid>
+      <webElementGuid>f1f29ca9-b74c-42f9-ae82-1a4f466677a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Test Customer']/parent::*</value>
-      <webElementGuid>320ae75c-2729-477b-b4c6-209afca24d11</webElementGuid>
+      <webElementGuid>44cca5dd-ed66-44ca-bb68-b1b2e25ce383</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[4]/span/span/a/span</value>
-      <webElementGuid>34c6e051-8a6a-4987-b349-6a703cd88fa6</webElementGuid>
+      <webElementGuid>ca66aad4-83ca-499b-8af2-fdbe423d5705</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Test Customer' or . = 'Test Customer')]</value>
-      <webElementGuid>f044b97f-c9c8-463f-a216-a493ce113df8</webElementGuid>
+      <webElementGuid>91fb7c88-22a0-4ab7-ba79-78624f33657a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='pt1:_FOr1:1:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:2:commandLink2']/a/span</value>
-      <webElementGuid>21477659-f13f-4755-b43e-67b061b98725</webElementGuid>
+      <webElementGuid>1c62a068-107c-4bf7-8954-49a1e1da1610</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Address Hub'])[1]/following::span[8]</value>
-      <webElementGuid>cbf43aa5-c6b0-4459-9453-04efcd01b9f7</webElementGuid>
+      <webElementGuid>3db18048-9204-4c44-aea9-1391e92de0b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buying Customer'])[2]/following::span[9]</value>
-      <webElementGuid>73add8d2-7413-4b89-b7cf-b3d1ec69e53a</webElementGuid>
+      <webElementGuid>298350a0-3c82-48b5-8f5e-365194a83cfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buying Customer'])[3]/preceding::span[7]</value>
-      <webElementGuid>ec020aa6-c2d5-4a3e-933e-ff69406782b3</webElementGuid>
+      <webElementGuid>f2957360-6c7f-4d7f-b024-8b110b5408c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/td[4]/span/span/a/span</value>
-      <webElementGuid>77232285-e082-43af-8edc-257e7345fc72</webElementGuid>
+      <webElementGuid>521aef89-51ce-4a9d-a561-04bf0ad9f52b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sources'])[2]/following::span[8]</value>
-      <webElementGuid>b034e62d-e81f-4563-9db3-afdb4f15a9b7</webElementGuid>
+      <webElementGuid>d500e01a-3b23-4c98-9b95-8b9e80bb2021</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Usages'])[2]/following::span[9]</value>
-      <webElementGuid>8aaa9da9-3592-44bd-addd-0ca136909478</webElementGuid>
+      <webElementGuid>f2f5fb29-c182-4350-b9e3-328fda696d4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,7 +156,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buying Customer'])[1]/preceding::span[7]</value>
-      <webElementGuid>9ae0378a-59ab-42f8-9e65-bb3121adf657</webElementGuid>
+      <webElementGuid>e64c8bf3-83d1-458d-a5fd-1b99c0276094</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -164,7 +164,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/a/span</value>
-      <webElementGuid>4a78e7f4-edf5-48f2-9fba-585a6d7a2ec9</webElementGuid>
+      <webElementGuid>88f6daae-4875-40c0-9e02-c11fe8623d3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -172,6 +172,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:2:commandLink2']/a/span</value>
-      <webElementGuid>871ad45b-3834-485d-93b2-4ab4b3484387</webElementGuid>
+      <webElementGuid>eef87071-19b1-46db-b9a0-8ab25ca16f10</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>Search Supplier to add relation</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>65efe4dd-0b3c-43c8-8d35-55be293b079b</testCaseGuid>
+   <testCaseGuid>3fe93e2f-70eb-46ac-8a4c-6425444d32b2</testCaseGuid>
 </TestCaseEntity>

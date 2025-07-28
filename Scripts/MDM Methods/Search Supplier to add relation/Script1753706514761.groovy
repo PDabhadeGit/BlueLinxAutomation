@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+//WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/svg_Good evening, Prajyot Dabhade_suiicon f_37fe22'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Customer Data Management'))
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/a_Organizations'))
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization Organizations/a_Organization__FOpt1_FOr10_FONSr20_FOTsr10_d17e4e'))
+
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization Organizations/input_Name Operator__FOpt1_FOr10_FONSr20_FO_509af9'), 
+    'test supplier')
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organization Organizations/button_Search'))
+
+WebUI.click(findTestObject('MDM_Page_Objects/Page_Organization - Organizations - Oracle Fusion Cloud Applications/span_Test Supplier 21ESN'))
+
