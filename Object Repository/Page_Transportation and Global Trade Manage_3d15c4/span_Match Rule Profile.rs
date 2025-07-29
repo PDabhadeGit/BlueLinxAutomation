@@ -7,14 +7,14 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.oj-treeview-item-content.oj-hover > span.oj-treeview-item-text</value>
+         <value>//span[contains(@class, 'oj-treeview-item-text') and contains(., 'Match Rule Profile')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//li[@id='sb_6_1_1']/div/span[2]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>df5f4f63-f08f-45e5-bd1c-0accffc5b680</webElementGuid>
+      <webElementGuid>8cf34cf4-6561-492e-b6e8-f36ede161edc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-treeview-item-text</value>
-      <webElementGuid>7e8f96b7-b7e7-45b1-b862-40b3f2b9cb1b</webElementGuid>
+      <webElementGuid>17cbdea3-dc70-4b17-baaf-db5b6a83a8b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>:title</name>
       <type>Main</type>
       <value>[[row.data.text]]</value>
-      <webElementGuid>dd0b869a-4877-4179-854d-59252166fdbb</webElementGuid>
+      <webElementGuid>42d3c02b-8a20-4bba-9e28-b99fbc84ab43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>:style</name>
       <type>Main</type>
       <value>[[{'color':theme_springboard_submenu_fontcolor}]]</value>
-      <webElementGuid>17e4d35b-4bfb-481a-ba9a-5c11993c1202</webElementGuid>
+      <webElementGuid>251c9931-d729-4dc1-b987-b51bacecb614</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Match Rule Profile</value>
-      <webElementGuid>371bf90e-25f1-4eb9-bbdf-48fda95453fb</webElementGuid>
+      <webElementGuid>3f336281-41b8-4434-a04b-e35c99cb92d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <value>
                       Match Rule Profile
                     </value>
-      <webElementGuid>e951b533-499a-4152-a08d-a67bf7b13821</webElementGuid>
+      <webElementGuid>7ea05b9c-e684-4ffb-a378-189c34a7c72a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sb_6_1_1&quot;)/div[@class=&quot;oj-treeview-item-content oj-hover&quot;]/span[@class=&quot;oj-treeview-item-text&quot;]</value>
-      <webElementGuid>e8a91f7b-d442-434c-87c1-90e97afff392</webElementGuid>
+      <webElementGuid>0a0adaad-30d7-483c-8099-4ff66279eac4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='sb_6_1_1']/div/span[2]</value>
-      <webElementGuid>23470d41-0369-4ff7-855a-5797e3e42ac3</webElementGuid>
+      <webElementGuid>d2a48af8-4425-4dea-adc1-f0036c4daff1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Match Rule Profile']/parent::*</value>
-      <webElementGuid>8a8365a4-3c9b-433f-84c1-4a4c4e21a3a4</webElementGuid>
+      <webElementGuid>a72a213d-4050-4480-b0f4-5d2797544342</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/oj-tree-view/ul/li[2]/ul/li[2]/div/span[2]</value>
-      <webElementGuid>560a253d-4944-4e29-b10b-00530694004e</webElementGuid>
+      <webElementGuid>da72d757-4d1a-4aec-816b-65c93d9d4783</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,6 +115,6 @@
                     ' or . = '
                       Match Rule Profile
                     ')]</value>
-      <webElementGuid>a258fb1b-a485-4c10-bd8a-6783b9d3c52b</webElementGuid>
+      <webElementGuid>c25c5944-6bcc-465b-a237-53a53ce22bde</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

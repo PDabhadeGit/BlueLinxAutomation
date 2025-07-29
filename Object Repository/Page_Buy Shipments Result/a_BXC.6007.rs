@@ -10,7 +10,8 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;rgSGSec.2.1.1.4.k&quot;]</value>
+         <value>//a[@id='rgSGSec.2.1.1.4.k' and text()='BXC.1000051']&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8d3821e5-7a76-44a4-9f81-7f70cc885062</webElementGuid>
+      <webElementGuid>635f80a3-3011-471d-a1e2-7706315b2fca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>rgSGSec.2.1.1.4.k</value>
-      <webElementGuid>9efbb1fc-8add-47ad-9867-9ecdc33756d3</webElementGuid>
+      <webElementGuid>4c9e7a02-e507-40c7-9961-288c8d2189ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>56ce97b2-dd12-4f94-b79d-c4af1b3b704e</webElementGuid>
+      <webElementGuid>93fcab6f-f635-4a2b-aecf-4b5513df4af4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,7 +53,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>6dd085a7-5260-4041-908c-c581c1441d5e</webElementGuid>
+      <webElementGuid>a5c899e8-f0a4-4608-a95f-f753ad5d567d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +61,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>OpenTarget('/GC3/ShipmentCustManagement?bcKey=MTc0OTIyMjcxNTA3Nzox&amp;manager_layout_gid=SHIPMENT&amp;type=B&amp;pk=BXC.6007&amp;finder_set_gid=BUY_SHIPMENT&amp;management_action=edit'); return addToRecentlyViewed(finderSetGid,'BXC.6007', 'EDIT');</value>
-      <webElementGuid>a6f61f32-e290-4610-8168-36762b5f8607</webElementGuid>
+      <webElementGuid>10487df1-3455-4bb9-9981-c3be4f6ca28d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>BXC.6007</value>
-      <webElementGuid>185d8136-95b4-4f05-9f0a-9b85d276081c</webElementGuid>
+      <webElementGuid>508d06ed-2ce0-4ec2-ad93-68836efe9e5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;rgSGSec.2.1.1.4.k&quot;)</value>
-      <webElementGuid>58c53e49-9993-4526-aec6-c551d398c679</webElementGuid>
+      <webElementGuid>537780a4-e0c8-422d-a94e-c5c6e3fba3dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -84,7 +85,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_Buy Shipments Result/iframe_PRAJYOT.DABHADEBLUELINXCO.COM_mainIFrame</value>
-      <webElementGuid>25e44234-a183-4b68-9289-ef86a7f2bb35</webElementGuid>
+      <webElementGuid>2b64a751-3f8a-4988-a0b5-770c6d53f190</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -92,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='rgSGSec.2.1.1.4.k']</value>
-      <webElementGuid>158db027-8323-4cef-a46f-635717ab8d91</webElementGuid>
+      <webElementGuid>754e097a-3c6d-4002-b954-8450e63cb249</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='rgSGSec.2.1.1.4']/a</value>
-      <webElementGuid>3e734e83-e1d3-47ab-ab34-9eeab2377d59</webElementGuid>
+      <webElementGuid>1e4ba584-4500-4d36-86ff-624e8f828832</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +109,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'BXC.6007')]</value>
-      <webElementGuid>a8f10476-da5c-475a-bc7f-586f208c9810</webElementGuid>
+      <webElementGuid>1085277f-40af-41aa-b2e9-7fb78ae2270f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/following::a[2]</value>
-      <webElementGuid>231e487a-9b8f-4e37-94fe-56576c39a0fb</webElementGuid>
+      <webElementGuid>7a5b8e45-43fa-426e-8e80-787f3926ddb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Domain Name'])[1]/following::a[3]</value>
-      <webElementGuid>70ae07d5-3874-4508-83c0-5985de67d0fd</webElementGuid>
+      <webElementGuid>9d97b4cf-9fbe-457b-b1ee-23f6d4293fa4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[3]/preceding::a[1]</value>
-      <webElementGuid>38a25bb4-202d-4182-91a6-eddb0dba7dd0</webElementGuid>
+      <webElementGuid>2ddcefd0-dece-4a43-8132-e0feef0bbce7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BXC.8000'])[1]/preceding::a[3]</value>
-      <webElementGuid>96986743-f9a0-4028-9bc2-0e2c95d2383c</webElementGuid>
+      <webElementGuid>97872c30-9c62-44c1-8c46-72131931b668</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='BXC.6007']/parent::*</value>
-      <webElementGuid>6669bd76-844b-4d71-9c9c-7ab78e681248</webElementGuid>
+      <webElementGuid>9f536a71-998a-4c22-908e-36efbcacd052</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,7 +157,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0);')])[5]</value>
-      <webElementGuid>14662dc2-f173-4494-acb0-4298fbb7ce7f</webElementGuid>
+      <webElementGuid>fe77e90a-13a9-4c21-a969-f65f3693b239</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -164,7 +165,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/a</value>
-      <webElementGuid>f3ff6920-d164-47cb-ba7f-3ef1600d0457</webElementGuid>
+      <webElementGuid>3d29b2de-8728-4b71-b64c-84ef8f1a3c5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -172,6 +173,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'rgSGSec.2.1.1.4.k' and @href = 'javascript:void(0);' and (text() = 'BXC.6007' or . = 'BXC.6007')]</value>
-      <webElementGuid>b2b1e498-bcfb-48bb-8524-72253eb116ab</webElementGuid>
+      <webElementGuid>01368d49-1ab2-4612-abad-d569037ad9ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

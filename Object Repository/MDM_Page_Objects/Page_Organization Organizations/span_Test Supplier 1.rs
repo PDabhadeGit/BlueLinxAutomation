@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:26:commandLink2']/a/span</value>
+         <value>//span[normalize-space(.)='Test Supplier 67NMW']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7f4c59b2-c25c-492c-9056-4ccf9f7e9d94</webElementGuid>
+      <webElementGuid>fad979fd-f60b-4b55-bb94-19571db4a9d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Test Supplier 1</value>
-      <webElementGuid>289edb23-a3fa-4296-8c47-b52bfbb49f1e</webElementGuid>
+      <webElementGuid>74c3371f-ad62-4c3f-b8fc-e6cde4f0a555</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:26:commandLink2&quot;)/a[@class=&quot;xmx&quot;]/span[1]</value>
-      <webElementGuid>604472f2-d79c-4d26-9831-649175f583b7</webElementGuid>
+      <webElementGuid>d2675b6c-be96-4c40-857f-2968b781eb41</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:26:commandLink2']/a/span</value>
-      <webElementGuid>6ed761d4-986d-447c-8f7e-d73508e3a660</webElementGuid>
+      <webElementGuid>1f678107-00ed-44a9-a66c-abb05409187a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='External Legal Entity'])[1]/following::span[9]</value>
-      <webElementGuid>0c3edba2-5cdf-4145-9d72-f2c663338d3f</webElementGuid>
+      <webElementGuid>1a9d2331-ae7a-4714-a48c-c5a0b2b74d38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='External Legal Entity'])[2]/preceding::span[7]</value>
-      <webElementGuid>578a16ad-9df5-4c45-a41b-6b893e41ae23</webElementGuid>
+      <webElementGuid>5ed07038-74e6-4bbc-bfa2-2b76e1220aea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Test Supplier 1']/parent::*</value>
-      <webElementGuid>b3ca5566-8862-4bf7-8c93-a1ffa3d05866</webElementGuid>
+      <webElementGuid>3d0d22fa-ea25-4131-a81d-071bbfd5bf6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[4]/span/span/a/span</value>
-      <webElementGuid>d3fc49ef-eabf-49f2-85d4-4d3d7c733148</webElementGuid>
+      <webElementGuid>36f2bf52-4f9d-48f8-ad30-af2fc060df78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +92,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Test Supplier 1' or . = 'Test Supplier 1')]</value>
-      <webElementGuid>c9edd513-607c-4125-91b4-f331b1676f5e</webElementGuid>
+      <webElementGuid>65093954-f2d8-4a30-943a-15d022664de4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

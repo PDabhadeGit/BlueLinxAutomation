@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('OTM_Methods/Login_OTM'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management'))
+WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/span_Shipment Management'))
 
@@ -64,14 +64,4 @@ WebUI.click(findTestObject('Object Repository/Page_Tracking Event - Identificati
 WebUI.click(findTestObject('Object Repository/Page_Tracking Event - Identification/td_9'))
 
 WebUI.click(findTestObject('Object Repository/Page_Tracking Event - Identification/button_Finished'))
-
-//WebUI.click(findTestObject('Object Repository/Page_Results/button_View'))
-
-WebUI.closeWindowIndex(1)
-
-WebUI.switchToDefaultContent()
-
-WebUI.rightClick(findTestObject('Page_Buy Shipments Result/a_BXC.6007'))
-
-WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/a_Track and Trace'))
 

@@ -11,7 +11,8 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='sb_0_2_0']/div/span[2]</value>
+         <value>//*[@id=&quot;sb_0_2_0&quot;]/div/span[@class=&quot;oj-treeview-item-text&quot; and normalize-space(.)=&quot;Order Release&quot;]&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +30,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e26ccdc6-a1a9-48ab-980a-68bfacafc34c</webElementGuid>
+      <webElementGuid>e6da45f8-14bd-4846-826b-56cfb409cf09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-treeview-item-text</value>
-      <webElementGuid>a2789b24-a6a5-4668-92fc-2e57c5941ed8</webElementGuid>
+      <webElementGuid>87271019-7a1f-4e9b-b18d-d999f0da2462</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +46,7 @@
       <name>:title</name>
       <type>Main</type>
       <value>[[row.data.text]]</value>
-      <webElementGuid>8132e6ac-004f-4c2d-a821-a2309bb7dabb</webElementGuid>
+      <webElementGuid>7f7d53e1-bb72-4473-9554-5beeb56c6a77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +54,7 @@
       <name>:style</name>
       <type>Main</type>
       <value>[[{'color':theme_springboard_submenu_fontcolor}]]</value>
-      <webElementGuid>8809d28e-661d-4aaf-aba0-3a6b0e81e31d</webElementGuid>
+      <webElementGuid>dc930a83-1a38-4502-a3a4-8eb4c503026e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +62,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Order Release</value>
-      <webElementGuid>3d0aea30-05ee-4a51-a113-55b71d88191c</webElementGuid>
+      <webElementGuid>16e719b8-65c3-459a-95b7-5bc845eaedd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +72,7 @@
       <value>
                       Order Release
                     </value>
-      <webElementGuid>73df0502-0b5f-4aa2-ad9a-2b7d24514e96</webElementGuid>
+      <webElementGuid>b2ed7c74-867b-45e6-9a2a-b887eb9ac06a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +80,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sb_0_2_0&quot;)/div[@class=&quot;oj-treeview-item-content oj-hover&quot;]/span[@class=&quot;oj-treeview-item-text&quot;]</value>
-      <webElementGuid>c9ae8e33-eba5-4066-98d3-a5744acfdae0</webElementGuid>
+      <webElementGuid>c547868c-a707-418a-a622-b6dbe448bc26</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='sb_0_2_0']/div/span[2]</value>
-      <webElementGuid>715f7294-af70-4415-8e82-09890768a1e8</webElementGuid>
+      <webElementGuid>f3b7288f-3cd4-4f40-b549-f1499c791a37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +96,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/oj-tree-view/ul/li[3]/ul/li/div/span[2]</value>
-      <webElementGuid>0a9242bc-578b-4fca-876e-523e1976c747</webElementGuid>
+      <webElementGuid>86e9e78e-9236-4c99-82ea-1e043d18f3f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,6 +108,6 @@
                     ' or . = '
                       Order Release
                     ')]</value>
-      <webElementGuid>88220205-2761-498f-8232-f54855006fdd</webElementGuid>
+      <webElementGuid>566db46e-c2ea-4a77-a515-dd2a02455117</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

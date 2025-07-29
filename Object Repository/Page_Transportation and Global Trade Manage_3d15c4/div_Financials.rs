@@ -6,20 +6,20 @@
    <elementGuidId>363ca0ab-b840-47c8-90bf-3dd0ee77eb21</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[10]/following::div[5]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>#label7</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@id = 'label7' and (text() = '
                   Financials
                 ' or . = '
                   Financials
                 ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sb_6']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#label7</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

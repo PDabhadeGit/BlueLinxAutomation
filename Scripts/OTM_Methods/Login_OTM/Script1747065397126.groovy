@@ -31,5 +31,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Cloud Sign In/inpu
 
 WebUI.click(findTestObject('Object Repository/Page_Cloud Sign In/span_Sign In'))
 
-WebUI.delay(20)
+WebUI.delay(30)
 

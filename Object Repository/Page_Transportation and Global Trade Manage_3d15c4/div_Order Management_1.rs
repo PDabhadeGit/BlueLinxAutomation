@@ -15,14 +15,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[4]/div/div/div[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[5]/preceding::div[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#label1</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

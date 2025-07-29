@@ -30,7 +30,7 @@ Random rnd1 = new Random()
 
 int randomNumber = 10 + rnd1.nextInt(90)  // Corrected: use rnd1 consistently
 
-String result ='Test Hierarchy' + randomNumber
+String result ='Test Hierarchy ' + randomNumber
 
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Hierarchy/input_Hierarchy Name_pt1_FOr11_FONSr20_FOTs_e20858'), 
     result)
