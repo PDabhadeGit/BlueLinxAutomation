@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hierarchy Test Hierarchy_xmo</name>
+   <tag></tag>
+   <elementGuidId>43aac166-8f9d-472f-b6e8-a8b20de49801</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.xmo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:1:AP5:menu1']/div/table/tbody/tr/td[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Actions&quot;i >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d3a93e58-e64c-46ad-a4ed-61936236925e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xmo</value>
+      <webElementGuid>4cb28ace-9a51-428a-9b5a-f48f5bdcfd0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:1:AP5:menu1&quot;)/div[@class=&quot;x1jr&quot;]/table[1]/tbody[1]/tr[1]/td[3]/div[@class=&quot;xmo&quot;]</value>
+      <webElementGuid>602e65bb-84a8-4415-9f65-03b7ab0068fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:1:AP5:menu1']/div/table/tbody/tr/td[3]/div</value>
+      <webElementGuid>152ee312-53d7-41b7-ab14-11205f60366a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hierarchy: Test Hierarchy'])[1]/following::div[8]</value>
+      <webElementGuid>a95bb429-c7d1-467b-9597-7d071082dc8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UAT Environment'])[1]/following::div[100]</value>
+      <webElementGuid>f9eb692a-7dc4-4eca-9810-ba2fc0822f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='o'])[1]/preceding::div[2]</value>
+      <webElementGuid>78fda89a-8823-4b9f-b6f9-14f0e0c8c50e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/table/tbody/tr/td[3]/div</value>
+      <webElementGuid>9280665a-73c9-4f9c-8243-e1133fdf69c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
