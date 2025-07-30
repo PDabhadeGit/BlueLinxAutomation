@@ -47,38 +47,6 @@ WebUI.doubleClick(findTestObject('Object Repository/MDM_Page_Objects/Page_Person
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Select Year__FOpt1_FOr10_FONSr20MAnt21r10_64818f'))
-
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/td_30'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/a_Gender__FOpt1_FOr10_FONSr20MAnt21r10AP3r4_19890a'))

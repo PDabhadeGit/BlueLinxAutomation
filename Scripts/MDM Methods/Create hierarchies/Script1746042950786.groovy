@@ -28,7 +28,7 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Hierarchy/im
 
 Random rnd1 = new Random()
 
-int randomNumber = 10 + rnd1.nextInt(90)  // Corrected: use rnd1 consistently
+int randomNumber = 100 + rnd1.nextInt(900);// Corrected: use rnd1 consistently
 
 String result ='Test Hierarchy ' + randomNumber
 

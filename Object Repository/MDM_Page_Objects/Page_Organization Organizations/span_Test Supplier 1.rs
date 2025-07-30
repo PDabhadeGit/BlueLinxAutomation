@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[normalize-space(.)='Test Supplier 67NMW']</value>
+         <value>(//a[@class='xmx']//span)[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>fad979fd-f60b-4b55-bb94-19571db4a9d8</webElementGuid>
+      <webElementGuid>639a0c72-9ac4-404b-b1c4-d60cffc947e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +36,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Test Supplier 1</value>
-      <webElementGuid>74c3371f-ad62-4c3f-b8fc-e6cde4f0a555</webElementGuid>
+      <webElementGuid>c521ecf5-5e8d-4bd4-b3e7-52e310e82216</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:26:commandLink2&quot;)/a[@class=&quot;xmx&quot;]/span[1]</value>
-      <webElementGuid>d2675b6c-be96-4c40-857f-2968b781eb41</webElementGuid>
+      <webElementGuid>dd6ac29c-e2dd-4ed7-b876-1767fc5134db</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -52,7 +52,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:AP1:r1:0:r1:0:AT1:_ATp:table1:26:commandLink2']/a/span</value>
-      <webElementGuid>1f678107-00ed-44a9-a66c-abb05409187a</webElementGuid>
+      <webElementGuid>66eaaba3-af43-4731-a73a-428c0fe96ea1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='External Legal Entity'])[1]/following::span[9]</value>
-      <webElementGuid>1a9d2331-ae7a-4714-a48c-c5a0b2b74d38</webElementGuid>
+      <webElementGuid>22cd6571-8284-4ef6-8a1f-c52f13b248e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='External Legal Entity'])[2]/preceding::span[7]</value>
-      <webElementGuid>5ed07038-74e6-4bbc-bfa2-2b76e1220aea</webElementGuid>
+      <webElementGuid>d29ebc14-6632-4520-81ab-d25582776b3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Test Supplier 1']/parent::*</value>
-      <webElementGuid>3d0d22fa-ea25-4131-a81d-071bbfd5bf6e</webElementGuid>
+      <webElementGuid>2f67e7ca-1ceb-4049-942c-9a8da2fd0e28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[4]/span/span/a/span</value>
-      <webElementGuid>36f2bf52-4f9d-48f8-ad30-af2fc060df78</webElementGuid>
+      <webElementGuid>eab1ebe6-aae3-4885-a0d9-6efcf6f958c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +92,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Test Supplier 1' or . = 'Test Supplier 1')]</value>
-      <webElementGuid>65093954-f2d8-4a30-943a-15d022664de4</webElementGuid>
+      <webElementGuid>d78c0f00-414a-4296-8c67-4091ce5a7e1c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
