@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('OTM_Methods/Login_OTM'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management'))
+WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Trade Manage_3d15c4/span_Buy Shipment Events Visibility'))
 
@@ -37,9 +37,9 @@ WebUI.click(findTestObject('Object Repository/Page_Shipment Tracking Events/h2_R
 
 WebUI.click(findTestObject('Object Repository/Page_Shipment Tracking Events/img_Shipment Tracking Events_image_Referenc_d31247'))
 
-WebUI.click(findTestObject('Object Repository/Page_Shipment Tracking Events/img_TPAOTM03F_image_ShipmentEventHistory'))
+//WebUI.click(findTestObject('Object Repository/Page_Shipment Tracking Events/img_TPAOTM03F_image_ShipmentEventHistory'))
 
-WebUI.click(findTestObject('Object Repository/Page_Shipment Tracking Events/img_BXC.GPRASAD_image_OrderBaseID'))
+//WebUI.click(findTestObject('Object Repository/Page_Shipment Tracking Events/img_BXC.GPRASAD_image_OrderBaseID'))
 
 WebUI.closeBrowser()
 

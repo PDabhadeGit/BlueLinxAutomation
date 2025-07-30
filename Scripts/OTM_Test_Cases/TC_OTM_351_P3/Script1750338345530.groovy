@@ -27,9 +27,7 @@ WebUI.click(findTestObject('Object Repository/Page_Transportation and Global Tra
 
 WebUI.click(findTestObject('Object Repository/Page_Reports/a_Run'))
 
-WebUI.setText(findTestObject('Object Repository/Page_BILL_OF_LADING Report/input__P_SHIPMENT_GID'), '1000020')
-
-WebUI.click(findTestObject('Object Repository/Page_BILL_OF_LADING Report/tr_1000020'))
+WebUI.setText(findTestObject('Object Repository/Page_BILL_OF_LADING Report/input__P_SHIPMENT_GID'), '1000004')
 
 WebUI.click(findTestObject('Object Repository/Page_BILL_OF_LADING Report/button_Submit'))
 

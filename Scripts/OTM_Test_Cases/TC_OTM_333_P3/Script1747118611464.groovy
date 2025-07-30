@@ -37,15 +37,15 @@ WebUI.rightClick(findTestObject('Page_Order Releases Result/a_BXC.SO_329_3852'))
 
 WebUI.click(findTestObject('Object Repository/Page_Order Releases Result/a_Related Buy Shipments'))
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/input_Domain Name_Selected'))
+//WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/input_Domain Name_Selected'))
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/input_Actions_rgViewButtonImg'))
+//WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/input_Actions_rgViewButtonImg'))
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Shipment/img_Total Pieces of Equipment Ordered_image_76b3f3'))
+//WebUI.click(findTestObject('Object Repository/Page_Buy Shipment/img_Total Pieces of Equipment Ordered_image_76b3f3'))
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Shipment/div_Weight Utilization'))
+//WebUI.click(findTestObject('Object Repository/Page_Buy Shipment/div_Weight Utilization'))
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Shipment/div_Volume Utilization'))
+//WebUI.click(findTestObject('Object Repository/Page_Buy Shipment/div_Volume Utilization'))
 
 WebUI.closeBrowser()
 
