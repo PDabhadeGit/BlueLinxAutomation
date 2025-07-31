@@ -65,3 +65,5 @@ WebUI.click(findTestObject('Object Repository/Page_Tracking Event - Identificati
 
 WebUI.click(findTestObject('Object Repository/Page_Tracking Event - Identification/button_Finished'))
 
+WebUI.closeBrowser()
+
