@@ -16,17 +16,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Prajyot.Dabhade@BlueLinxCo.com'</initValue>
+      <initValue>'Gaurav.Prasad@BlueLinxCo.com'</initValue>
       <name>username</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'5hR7QmHaNRiODTCz3O3fP17si5m4wIkP'</initValue>
+      <initValue>'TCRrBFWPcdYfr+QHQbxu/A=='</initValue>
       <name>otm_password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'5hR7QmHaNRjZKO09Vh/dgg=='</initValue>
+      <initValue>'TCRrBFWPcdYfr+QHQbxu/A=='</initValue>
       <name>mdm_password</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
