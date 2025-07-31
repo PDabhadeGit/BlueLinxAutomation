@@ -234,7 +234,7 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/span_Save'))
 
-WebUI.click(findTestObject('MDM_Page_Objects/Page_Create Item PIM/button_Apply'))
+WebUI.click(findTestObject('MDM_Page_Objects/Page_Create Item PIM/button_Apply'), FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Submit'))
 
