@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_finishItemEffBaseEO6_ATTRIBUTE_CHAR2::lovIconId']</value>
+         <value>//a[contains(@id, substring-before(//label[text()='Finish']/@for, '::')) and contains(@id, 'lovIconId')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>25b95065-a29f-4ab5-b02c-fce43c9c1d6c</webElementGuid>
+      <webElementGuid>52debdab-6a00-4be0-a63d-34f248745e2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>e3333bad-74a0-4118-96c2-eff9feb34ab3</webElementGuid>
+      <webElementGuid>c14bde27-d8ee-4a3d-86ec-7a91b58b94a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1o4</value>
-      <webElementGuid>9b9358d4-5243-4c80-9d00-242b250a7f07</webElementGuid>
+      <webElementGuid>06cb42b8-c86b-4efd-944f-4c0ea0c91b6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_finishItemEffBaseEO6_ATTRIBUTE_CHAR2::lovIconId</value>
-      <webElementGuid>3dd66e6b-4833-4b73-9566-d849c8c70246</webElementGuid>
+      <webElementGuid>a386ec5a-fe63-4bb5-a06d-05fa368f875f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Search: Finish</value>
-      <webElementGuid>f8e8423e-5766-4c17-9020-93229d90ff18</webElementGuid>
+      <webElementGuid>56f914b9-115a-4e4b-a6cc-ea8fd4848e80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_finishItemEffBaseEO6_ATTRIBUTE_CHAR2::lovIconId&quot;)</value>
-      <webElementGuid>182166b5-0e18-4d77-af10-363d4808102f</webElementGuid>
+      <webElementGuid>8f728416-2a0a-4d13-9f89-401a43c17cdc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_finishItemEffBaseEO6_ATTRIBUTE_CHAR2::lovIconId']</value>
-      <webElementGuid>605b6d6f-8fb6-497e-bec9-9b3fac1ae798</webElementGuid>
+      <webElementGuid>a94ffebd-55d0-4699-83ce-6cfce041f83e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_finishItemEffBaseEO6_ATTRIBUTE_CHAR2::cntnrSpan']/span/a</value>
-      <webElementGuid>f017d76c-d8ee-4c67-b0b4-22891a778423</webElementGuid>
+      <webElementGuid>5ff3341f-6a56-488b-9065-33fbfd5bb3a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[6]/td[2]/span/span/span/a</value>
-      <webElementGuid>c6a31f24-6948-4153-915a-ac387287b4c0</webElementGuid>
+      <webElementGuid>5d3bb292-d9bf-4cf8-80a0-3256e9bf265b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +100,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_finishItemEffBaseEO6_ATTRIBUTE_CHAR2::lovIconId' and @title = 'Search: Finish']</value>
-      <webElementGuid>b824599c-7f5e-4c74-b1c9-24dd07c1bf06</webElementGuid>
+      <webElementGuid>6798d434-7337-4f81-bbec-9f76379e2cdb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormRight_gradeItemEffBaseEO3_ATTRIBUTE_CHAR2::content']</value>
+         <value>//*[@id=//label[text()='Grade']/@for]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6a31e766-3944-4659-a5db-2a1b9faa0782</webElementGuid>
+      <webElementGuid>8fea21dd-87cb-4a7f-8fef-984895593f56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormRight_gradeItemEffBaseEO3_ATTRIBUTE_CHAR2::content</value>
-      <webElementGuid>ab44d22d-7ac6-47f4-9080-e4256ec4478f</webElementGuid>
+      <webElementGuid>8e1e5a55-e436-4192-9911-d11920b301d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>name</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormRight_gradeItemEffBaseEO3_ATTRIBUTE_CHAR2</value>
-      <webElementGuid>1838b15e-e6ec-48a6-a18e-7ed01ec92703</webElementGuid>
+      <webElementGuid>19301a12-36d7-4d93-8854-c749117d5cfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x25</value>
-      <webElementGuid>b9f3f0bf-a898-40d9-9686-2181e8f6952a</webElementGuid>
+      <webElementGuid>1d0af70d-2120-4a53-b59d-334ec34e029d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>size</name>
       <type>Main</type>
       <value>28</value>
-      <webElementGuid>e0ae4d0c-9337-427c-9fbd-83c1a3f91908</webElementGuid>
+      <webElementGuid>e24e97f4-0cde-4616-98ad-fd0b0ea3fb63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>b7543aa4-4e86-4992-9bfa-d27315496edd</webElementGuid>
+      <webElementGuid>a680539a-71c7-4466-b131-c085e36518e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>4000</value>
-      <webElementGuid>d046651e-c115-4c23-be1e-e388a3271384</webElementGuid>
+      <webElementGuid>6720d558-f4e6-4939-b596-a2c83b2cfdc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +84,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>035862d1-4aa7-461e-9c10-35a05190229b</webElementGuid>
+      <webElementGuid>19a6252c-e686-4bd5-aa9a-f8b7cbb072e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>1faaef1e-820b-40c2-80c8-ab9c98098acf</webElementGuid>
+      <webElementGuid>b4712318-ee7c-448e-bedf-44562097683c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormRight_gradeItemEffBaseEO3_ATTRIBUTE_CHAR2::content&quot;)</value>
-      <webElementGuid>276564a7-c00d-49dc-a5db-e80860882f2e</webElementGuid>
+      <webElementGuid>a4233fd1-2758-4dd9-8ca4-bfa6e1c3d1b6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormRight_gradeItemEffBaseEO3_ATTRIBUTE_CHAR2::content']</value>
-      <webElementGuid>cd000de5-fe2a-4330-8956-4d84f78b9f5a</webElementGuid>
+      <webElementGuid>2a63497a-d920-4c27-937c-255e7f3a1be5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormRight_gradeItemEffBaseEO3_ATTRIBUTE_CHAR2']/td[2]/input</value>
-      <webElementGuid>b26cb908-f77d-45bf-98ce-79a9a6302f00</webElementGuid>
+      <webElementGuid>7682484d-df2b-4aeb-b6d1-7aa13939702c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/td[2]/input</value>
-      <webElementGuid>c509219b-488e-4920-9559-b0e93b44689e</webElementGuid>
+      <webElementGuid>1ccc4593-0c2d-498a-a06a-5bc6d65801e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +132,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormRight_gradeItemEffBaseEO3_ATTRIBUTE_CHAR2::content' and @name = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormRight_gradeItemEffBaseEO3_ATTRIBUTE_CHAR2' and @type = 'text']</value>
-      <webElementGuid>9302ba0c-d578-4ba6-a8ce-970cde41862c</webElementGuid>
+      <webElementGuid>270d15cf-2bb4-40be-8ed9-8437d1b4d241</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

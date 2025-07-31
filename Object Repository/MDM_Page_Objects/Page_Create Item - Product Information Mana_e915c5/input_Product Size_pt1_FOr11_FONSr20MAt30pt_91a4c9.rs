@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_productSizeItemEffBaseEO5_ATTRIBUTE_CHAR20::content']</value>
+         <value>//*[@id=//label[text()='Product Size']/@for]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1ea967f2-b390-4c3d-a876-7aa8d37368c9</webElementGuid>
+      <webElementGuid>9b15e67b-1c00-456f-a6e8-fd9f5e8319e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_productSizeItemEffBaseEO5_ATTRIBUTE_CHAR20::content</value>
-      <webElementGuid>8476c730-b487-4208-be1b-61590570763e</webElementGuid>
+      <webElementGuid>74423441-ca26-4449-a0a1-795739de6490</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>name</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_productSizeItemEffBaseEO5_ATTRIBUTE_CHAR20</value>
-      <webElementGuid>0163795e-3302-4661-9c08-31638ad5b3bf</webElementGuid>
+      <webElementGuid>19f44168-2ec0-4a91-a618-1ef21bf9fa93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x25</value>
-      <webElementGuid>e48d7353-770a-4b51-bfa4-7294437d2bd6</webElementGuid>
+      <webElementGuid>20bb7472-ea6a-4abc-92f3-2537455ad709</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>size</name>
       <type>Main</type>
       <value>28</value>
-      <webElementGuid>edd4cf42-ec97-4a83-8932-c5f731094ee2</webElementGuid>
+      <webElementGuid>c7538d96-de2d-4b29-b968-7dd51a8b436b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>541e2b8d-df67-4278-9bf5-49b7ba7fc44b</webElementGuid>
+      <webElementGuid>e5b011c7-e485-4858-9154-037284922657</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>4000</value>
-      <webElementGuid>2d780a77-0a0e-4e73-884b-7d66700c294e</webElementGuid>
+      <webElementGuid>692abc28-a3e2-4c7e-b495-8039540b98b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +84,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4114f5d1-768b-4175-b908-ab8b3966097d</webElementGuid>
+      <webElementGuid>0b1e000a-2b64-4a30-b742-55823fc32277</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>144e7eeb-bdd0-4015-90f8-ed8d80285a92</webElementGuid>
+      <webElementGuid>3197aa29-a05c-4460-b645-ebdbc2a54dd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_productSizeItemEffBaseEO5_ATTRIBUTE_CHAR20::content&quot;)</value>
-      <webElementGuid>a2238351-f0b7-4beb-a7de-316bdda43a74</webElementGuid>
+      <webElementGuid>be2f2702-944a-4c61-a78d-b5ce595937d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_productSizeItemEffBaseEO5_ATTRIBUTE_CHAR20::content']</value>
-      <webElementGuid>04c0ea23-a378-4d25-87d0-87427f6d5aa2</webElementGuid>
+      <webElementGuid>d18f9fb6-7185-4038-a28f-6675c66c7c57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_productSizeItemEffBaseEO5_ATTRIBUTE_CHAR20']/td[2]/input</value>
-      <webElementGuid>90dc3bfc-1ae6-4e78-9702-d1e33cc365c8</webElementGuid>
+      <webElementGuid>a95eaaa7-35f4-4d66-97df-83915bca6cee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[5]/td[2]/input</value>
-      <webElementGuid>ac22de4c-51f9-46a6-a818-8f4d0f26a28c</webElementGuid>
+      <webElementGuid>2f705e67-7b27-4a7a-9cf5-34b79a08e115</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +132,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_productSizeItemEffBaseEO5_ATTRIBUTE_CHAR20::content' and @name = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_productSizeItemEffBaseEO5_ATTRIBUTE_CHAR20' and @type = 'text']</value>
-      <webElementGuid>fa4d6eb0-9217-458a-a416-2174825a2fad</webElementGuid>
+      <webElementGuid>8a691f8f-d045-4f9f-836b-bb7ae61c6b1b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

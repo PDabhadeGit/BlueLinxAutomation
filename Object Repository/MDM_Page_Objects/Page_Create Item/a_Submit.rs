@@ -6,12 +6,11 @@
    <elementGuidId>ff5d7a7c-ba9c-4073-827b-3e88b5e3e8f2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//a[@onclick='this.focus();return false'])[5]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//span[@class='xrm' and normalize-space(.)='Submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>40f366fb-84e1-4f05-a9a6-000bc34d68b8</webElementGuid>
+      <webElementGuid>a3e8ba5f-6fec-4ad2-ba7e-d1d68ce5d9ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>268d95a6-a590-4420-8d41-8b87a7bd545f</webElementGuid>
+      <webElementGuid>22828ac3-9102-4ef3-8544-03ffe85bd328</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>this.focus();return false</value>
-      <webElementGuid>ef07ff67-e1f7-40ae-919b-71670b637696</webElementGuid>
+      <webElementGuid>815bae27-f155-4260-9be6-1202ef6e3e88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>accesskey</name>
       <type>Main</type>
       <value>m</value>
-      <webElementGuid>7f66a37d-c68e-4d75-b49c-960b35a1b8ed</webElementGuid>
+      <webElementGuid>436fc627-0a44-4a9f-b3cb-147576e32501</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xri</value>
-      <webElementGuid>660c7e2c-4720-4217-92a2-a03c2d112856</webElementGuid>
+      <webElementGuid>0071ff98-891a-48c5-ba3d-466ad8206d70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>18d12d65-397e-4b53-93ea-2e53119fd712</webElementGuid>
+      <webElementGuid>afe76235-4011-41eb-9a4e-9cca683c43d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +76,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>a8789cd1-03e2-49e5-a921-40e0df847e6e</webElementGuid>
+      <webElementGuid>d0cd47d3-e1a8-4cf8-a354-5d4429838df8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:customSubmit&quot;)/a[@class=&quot;xri&quot;]</value>
-      <webElementGuid>865637be-2da3-43b6-9479-c089f34b4cee</webElementGuid>
+      <webElementGuid>9ed42d35-a843-4201-9058-36582bdc0bc1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//a[@onclick='this.focus();return false'])[5]</value>
-      <webElementGuid>aad4a487-2dd2-40f6-8a39-cc80320493a9</webElementGuid>
+      <webElementGuid>460fd945-932a-4533-ac88-f42a2c823091</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:customSubmit']/a</value>
-      <webElementGuid>b77c1d66-25c7-4d34-bb13-094c3d7ca6e9</webElementGuid>
+      <webElementGuid>00103c77-da5b-47af-a074-dd8b3489118d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Button has a popup, press down arrow key to access the popup.'])[1]/following::a[2]</value>
-      <webElementGuid>72fb7a2e-4100-4b74-b6b2-b5d7f8f0e127</webElementGuid>
+      <webElementGuid>b38750c5-0b11-455d-97b1-6230aa668167</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/following::a[2]</value>
-      <webElementGuid>095e7620-472f-4cd3-8578-51c3ef15e26d</webElementGuid>
+      <webElementGuid>7833cbc4-70e7-4216-9021-e2e420ed6ae7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[26]</value>
-      <webElementGuid>d48e1b7d-4120-4c91-b72e-d6f13296a438</webElementGuid>
+      <webElementGuid>03314740-8c20-40fb-9e03-25b83e93b544</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +132,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[7]/div/a</value>
-      <webElementGuid>490c8367-fae5-4397-aeb7-a251ba7a473f</webElementGuid>
+      <webElementGuid>2faaac61-a2f9-4a7b-94c1-05bd00bc1f22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +140,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Submit' or . = 'Submit')]</value>
-      <webElementGuid>16f2d145-9d30-4bef-8622-db5d134c6dba</webElementGuid>
+      <webElementGuid>a3eee234-c86d-4027-bbc5-946fe6a9ce22</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
