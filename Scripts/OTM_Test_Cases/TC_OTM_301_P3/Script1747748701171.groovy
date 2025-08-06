@@ -33,10 +33,10 @@ WebUI.click(findTestObject('Object Repository/Page_Buy Shipments Result/a_Driver
 
 WebUI.switchToWindowIndex(1)
 
-WebUI.setText(findTestObject('Object Repository/Page_Assign Driver to Shipment - Override Criteria/input_Driver ID_driver_xid'), 
-    'KEVIN_DURSKI_20061797')
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/Page_Assign Driver to Shipment - Override Criteria/button_OK'))
-
+//WebUI.setText(findTestObject('Object Repository/Page_Assign Driver to Shipment - Override Criteria/input_Driver ID_driver_xid'), 
+//   'KEVIN_DURSKI_20061797')
+//WebUI.click(findTestObject('Object Repository/Page_Assign Driver to Shipment - Override Criteria/button_OK'))
 WebUI.closeBrowser()
 

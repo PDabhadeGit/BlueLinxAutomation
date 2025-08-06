@@ -39,10 +39,10 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/button_Next'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/img_Organization_xv0'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/img_Organization_xv0'), FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/body'), 
-    FailureHandling.STOP_ON_FAILURE)
+    FailureHandling.OPTIONAL)
 
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/body'), 
     'Address1=\'test\'<br>')

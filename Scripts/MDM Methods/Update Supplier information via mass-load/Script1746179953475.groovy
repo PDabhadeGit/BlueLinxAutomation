@@ -41,11 +41,15 @@ WebUI.delay(2)
 WebUI.uploadFile(findTestObject('MDM_Page_Objects/Page_Manage Import Management/input_File Name__FOpt1_FOr10_FONSr20MAnt21pt1AP1if1'), 
     'C:\\BlueLinx_Automation_Master\\Organization.csv')
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Import Activities/button_Next'))
 
+WebUI.delay(10)
+
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Import Activities/button_Next_1'))
+
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Import Activities/button_Submit'))
 

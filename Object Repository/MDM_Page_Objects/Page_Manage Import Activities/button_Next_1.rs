@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:2:pt1:AP1:APnxb']</value>
+         <value>(//button[@class='x7j p_AFTextOnly'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>413c272d-be9d-4a4f-8af5-f23bb4c78fb0</webElementGuid>
+      <webElementGuid>2be6e632-aaeb-47ce-b80f-6c4b37856d5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>accesskey</name>
       <type>Main</type>
       <value>x</value>
-      <webElementGuid>bc32b5ba-6417-4591-b6ac-e194a0927558</webElementGuid>
+      <webElementGuid>cacbdc7f-43c3-4161-82aa-1b5ab9cae06b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:2:pt1:AP1:APnxb</value>
-      <webElementGuid>1d4dbd1f-7c67-4f02-a83f-023d9327c1da</webElementGuid>
+      <webElementGuid>0c6ff97b-e788-4c03-9dd7-523d2502b90c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p_AFHoverTarget x7j p_AFTextOnly</value>
-      <webElementGuid>15a371e8-44fb-4f5c-aa48-034b1e10c3ce</webElementGuid>
+      <webElementGuid>78d77915-3f58-4029-bb1d-b694a620cccf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>this.focus();return false;</value>
-      <webElementGuid>57f9cd68-a4e0-407c-aaab-abe535b383ec</webElementGuid>
+      <webElementGuid>90578b30-c080-43e8-b7f6-637700024069</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +68,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>d1e8b894-d6c1-4f0e-a4ee-6180a2337bd0</webElementGuid>
+      <webElementGuid>07aae033-1216-47b8-83b2-535a48a64631</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +76,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>90e11838-8274-4053-9e2a-b0fe733b891f</webElementGuid>
+      <webElementGuid>243da6d0-8311-419a-b5f4-eb4270281126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,54 +84,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:2:pt1:AP1:APnxb&quot;)</value>
-      <webElementGuid>21b5c4cb-a1a5-4fd3-94ca-a501650cdf90</webElementGuid>
+      <webElementGuid>6f772a2d-f271-4519-ad33-ef71ef2dd120</webElementGuid>
    </webElementProperties>
-   <webElementXpaths>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:2:pt1:AP1:APnxb']</value>
-      <webElementGuid>8d0e942a-a664-4138-a03c-7f54d7531ff4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//table[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:2:pt1:AP1:APpg3']/tbody/tr/td[2]/button</value>
-      <webElementGuid>6fc3462a-5d37-497e-b32d-4d0f9282baae</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='B'])[1]/following::button[1]</value>
-      <webElementGuid>763b70ec-e3c4-41a4-9440-4984a0725193</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Ne']/parent::*</value>
-      <webElementGuid>a8179e47-c80a-42e5-9b6c-a92562ba91ef</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//td[2]/button</value>
-      <webElementGuid>86db7fb1-b3a1-4005-b559-e61ab9ed4d52</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:2:pt1:AP1:APnxb' and @title = 'Next' and (text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>642a9b71-f2ed-45c7-8575-ac21091140cf</webElementGuid>
-   </webElementXpaths>
 </WebElementEntity>
