@@ -53,17 +53,11 @@ WebUI.delay(15)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Import Activities/button_Submit'))
 
-/*
- * WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage
- * Import Activities/img_Unsuccessful__FOpt1_FOr10_FONSr20_FOTsr_ffb4be'))
- * 
- * WebUI.delay(3)
- * 
- * WebUI.takeFullPageScreenshot()
- * 
- * WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage
- * Import Activities/svg_Home'))
- * 
- * WebUI.closeBrowser()
- * 
- */
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Import Activities/img_Unsuccessful__FOpt1_FOr10_FONSr20_FOTsr_ffb4be'))
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Import Activities/svg_Home'))
+
+WebUI.closeBrowser()
+

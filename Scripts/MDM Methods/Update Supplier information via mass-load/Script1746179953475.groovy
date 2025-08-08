@@ -45,7 +45,7 @@ WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Import Activities/button_Next'))
 
-WebUI.delay(10)
+WebUI.delay(20)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Import Activities/button_Next_1'))
 

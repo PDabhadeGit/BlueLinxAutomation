@@ -55,7 +55,7 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Expor
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Exports/img_Unsuccessful__FOpt1_FOr10_FONSr20_FOTsr_ffb4be'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Exports/img_Unsuccessful__FOpt1_FOr10_FONSr20_FOTsr_ffb4be'), FailureHandling.OPTIONAL)
 
 WebUI.takeFullPageScreenshot()
 

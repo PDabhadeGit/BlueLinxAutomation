@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@class='x7j p_AFTextOnly'])[2]</value>
+         <value>//button[contains(@class, 'p_AFTextOnly') and contains(., 'Next')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2be6e632-aaeb-47ce-b80f-6c4b37856d5b</webElementGuid>
+      <webElementGuid>10412cf4-0f60-4127-8d12-c7f1205fd07a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +36,7 @@
       <name>accesskey</name>
       <type>Main</type>
       <value>x</value>
-      <webElementGuid>cacbdc7f-43c3-4161-82aa-1b5ab9cae06b</webElementGuid>
+      <webElementGuid>da8bb70a-cc81-46b3-b44d-4a2c7bf912c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:2:pt1:AP1:APnxb</value>
-      <webElementGuid>0c6ff97b-e788-4c03-9dd7-523d2502b90c</webElementGuid>
+      <webElementGuid>0a7c64ad-1ed5-4fda-9401-83c65daa5ee4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p_AFHoverTarget x7j p_AFTextOnly</value>
-      <webElementGuid>78d77915-3f58-4029-bb1d-b694a620cccf</webElementGuid>
+      <webElementGuid>4fbd435c-19ce-4bfa-a4f4-608193222e02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>this.focus();return false;</value>
-      <webElementGuid>90578b30-c080-43e8-b7f6-637700024069</webElementGuid>
+      <webElementGuid>aa6d439a-8d2f-4196-8284-8282a5058894</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +68,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>07aae033-1216-47b8-83b2-535a48a64631</webElementGuid>
+      <webElementGuid>cb58513e-419c-4e5f-82fd-91d6bbaaaa5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -76,7 +76,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>243da6d0-8311-419a-b5f4-eb4270281126</webElementGuid>
+      <webElementGuid>2098e9b5-b4bf-4b44-b8c8-8c8b20084429</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,6 +84,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:2:pt1:AP1:APnxb&quot;)</value>
-      <webElementGuid>6f772a2d-f271-4519-ad33-ef71ef2dd120</webElementGuid>
+      <webElementGuid>9757fcac-97b7-4f81-b59d-6a1f874bc7c5</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
