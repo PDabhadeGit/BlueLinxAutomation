@@ -20,21 +20,21 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Gaurav.Prasad@BlueLinxCo.com'</initValue>
+      <initValue>'Prajyot.Dabhade@BlueLinxCo.com'</initValue>
       <name>username</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'TCRrBFWPcdYfr+QHQbxu/A=='</initValue>
+      <initValue>'5hR7QmHaNRiODTCz3O3fP17si5m4wIkP'</initValue>
       <name>otm_password</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'TCRrBFWPcdYfr+QHQbxu/A=='</initValue>
+      <initValue>'5hR7QmHaNRjZKO09Vh/dgg=='</initValue>
       <name>mdm_password</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
