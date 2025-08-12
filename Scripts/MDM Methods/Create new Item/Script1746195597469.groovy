@@ -82,24 +82,29 @@ WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Ite
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Actual Product (each) length UOM__FOpt1_F_a3c135'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/td_IN'))
+WebUI.click(findTestObject('MDM_Page_Objects/Item/td_MM_xen'))
 
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Actual Product (each) thickness__FOpt_6e55a4'), 
     '10')
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Actual Product (each) thickness UOM__FOpt_eb51ed'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/span_IN'))
+WebUI.click(findTestObject('MDM_Page_Objects/Item/td_MM_xen_1'))
 
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Actual Product (each) width__FOpt1_FO_b0d68b'), 
     '10')
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Actual Product (each) width UOM__FOpt1_FO_9af130'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/td_IN_1'))
+WebUI.click(findTestObject('MDM_Page_Objects/Item/td_MM_xen_2'))
 
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Manufacturer Part Number__FOpt1_FOr10_abca26'), 
     '1112233')
+
+WebUI.setText(findTestObject('MDM_Page_Objects/Page_Item/input_Certification_pt1_FOr11_FONSr20MAt30p_7477b3'), '123678')
+
+WebUI.setText(findTestObject('MDM_Page_Objects/Page_Item/input_UPC Barcode_pt1_FOr11_FONSr20MAt30pt1ap1sspecf1dynReg1CTXRNj_ItemBluelinxPrivateVOCommon0upcBarcodecontent'), 
+    '1478344')
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Agility'))
 
