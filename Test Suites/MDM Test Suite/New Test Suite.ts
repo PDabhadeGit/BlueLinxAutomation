@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>a3111ef2-e580-4c5b-88cb-0f17cc908090</testSuiteGuid>
    <testCaseLink>
-      <guid>15eb6d93-c09d-45ee-b4aa-a8947c6ca74d</guid>
+      <guid>10c8ca2d-c2a8-46be-871d-baf1ea48ccd0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MDM TestCases/TC_PDH_003_Update Item</testCaseId>
+      <testCaseId>Test Cases/MDM TestCases/TC_PDH_019_Prohibit an item from being broken up</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
