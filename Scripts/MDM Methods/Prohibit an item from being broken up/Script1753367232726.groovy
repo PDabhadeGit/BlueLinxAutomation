@@ -37,7 +37,7 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Items - Product Information Man_10c66f/span_Submit'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Change Order  BXC-CCO100117 (BL00) - P_96f1a0/span_Save and Close'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Change Order  BXC-CCO100117 (BL00) - P_96f1a0/span_Save and Close'), FailureHandling.OPTIONAL)
 
 WebUI.closeBrowser()
 
