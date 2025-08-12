@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:agilityLongDescription::content']</value>
+         <value>//*[@id=&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:agilityShortDescription::content&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a28bc668-08ff-4582-8ab0-1fb587f0c26f</webElementGuid>
+      <webElementGuid>4bd3cf1c-197a-42e8-93f7-19b8af8df002</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:agilityLongDescription::content</value>
-      <webElementGuid>15ff33ba-dba0-4e51-b0d1-9a2fba516406</webElementGuid>
+      <webElementGuid>23c23876-8463-4435-959f-47d6c6e7f9bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>name</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:agilityLongDescription</value>
-      <webElementGuid>0ce51044-3d70-4283-b651-abc3948155e9</webElementGuid>
+      <webElementGuid>706ba9e4-8af6-4f6a-9930-31535047d87f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x25</value>
-      <webElementGuid>7d08552e-428e-4133-9416-26d3071c11ee</webElementGuid>
+      <webElementGuid>3fa13eb9-86c7-40ec-83c8-47ea2552e479</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>size</name>
       <type>Main</type>
       <value>28</value>
-      <webElementGuid>32aa7c58-fae3-4169-a9b9-c17d20530ca8</webElementGuid>
+      <webElementGuid>cee159af-0cac-4bc6-9d92-8f6f0d8428db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>55a0ddf3-ee37-4090-b076-4bfbe854cbb4</webElementGuid>
+      <webElementGuid>039ef068-f11e-488f-80b3-662c63315bf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>4000</value>
-      <webElementGuid>4bd8c58f-2c3a-4469-862b-613b4697cd2e</webElementGuid>
+      <webElementGuid>86d26e42-8b3d-4a5c-a5ba-340015c0d850</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +84,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>49502e09-c5a6-4863-b918-821a28b1d4bf</webElementGuid>
+      <webElementGuid>cd59b909-0749-426c-9262-a4aefa95f0e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>value</name>
       <type>Main</type>
       <value>testt</value>
-      <webElementGuid>7baadacd-6b08-4c52-88f4-633d8f96320e</webElementGuid>
+      <webElementGuid>70bbf813-9399-4f40-a315-a9950033d0c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>b84f0814-28cd-404e-9fe2-14c184645a43</webElementGuid>
+      <webElementGuid>bb399840-ef3c-44fa-a3a5-62c2efc15fc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:agilityLongDescription::content&quot;)</value>
-      <webElementGuid>3a7346a0-7e10-4fa2-99bf-c1c51930c1ca</webElementGuid>
+      <webElementGuid>115f5f3d-3a5c-4e50-ad8c-c328dd2aa61f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:agilityLongDescription::content']</value>
-      <webElementGuid>93e06658-7ffe-47ce-96e6-0044d455308e</webElementGuid>
+      <webElementGuid>65f9161b-8c86-4820-afa8-14425facff56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:agilityLongDescription']/input</value>
-      <webElementGuid>18ac2c68-5a5d-411d-864d-cc4937365164</webElementGuid>
+      <webElementGuid>187f8e38-ad2e-49a2-9c22-29f64270f956</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +132,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[2]/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td/span/input</value>
-      <webElementGuid>6e75a375-7f98-46a4-9da2-6b302d251ba6</webElementGuid>
+      <webElementGuid>1823586c-62b8-4420-b21d-f53093558f7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +140,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:agilityLongDescription::content' and @name = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:agilityLongDescription' and @type = 'text']</value>
-      <webElementGuid>1f4f56e9-a682-4650-95f0-8eb043090ff9</webElementGuid>
+      <webElementGuid>914537e3-9eb4-40c4-bcb4-998172838092</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
