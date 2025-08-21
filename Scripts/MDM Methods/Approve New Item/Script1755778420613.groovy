@@ -17,17 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('MDM Methods/Login MDM'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Page_Oracle Fusion Cloud Applications/svg_UAT Environment_pt1_UISatr0cil1icon'))
 
-WebUI.callTestCase(findTestCase('MDM Methods/Create new Item'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(130)
-
-WebUI.callTestCase(findTestCase('MDM Methods/New Item Request'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(70)
-
-WebUI.callTestCase(findTestCase('MDM Methods/Approve New Item'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_Oracle Fusion Cloud Applications/button_Prajyot Dabhade_pt1_UISatr0lv40cb2'))
 

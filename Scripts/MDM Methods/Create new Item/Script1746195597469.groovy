@@ -77,27 +77,49 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/td_100.0'))
 
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/input_Shipping Product (each) thickness_pt1_c26ce2'), 
+    '10')
+
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/input_Shipping Product (each) thickness UOM_71bc27'), 
+    'TBD')
+
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/input_Shipping Product (each) width_pt1_FOr_92a73b'), 
+    '10')
+
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/input_Shipping Product (each) width UOM_pt1_ecdc0d'), 
+    'TBD')
+
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/input_Shipping Product (each) length_pt1_FO_84f2ba'), 
+    '10')
+
+WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/input_Shipping Product (each) length UOM_pt_2d753d'), 
+    'TBD')
+
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Actual Product (each) length__FOpt1_F_e3a123'), 
     '10')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Actual Product (each) length UOM__FOpt1_F_a3c135'))
-
-WebUI.click(findTestObject('MDM_Page_Objects/Item/td_MM_xen'))
-
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Actual Product (each) thickness__FOpt_6e55a4'), 
-    '10')
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Actual Product (each) thickness UOM__FOpt_eb51ed'))
-
-WebUI.click(findTestObject('MDM_Page_Objects/Item/td_MM_xen_1'))
-
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Actual Product (each) width__FOpt1_FO_b0d68b'), 
-    '10')
-
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Actual Product (each) width UOM__FOpt1_FO_9af130'))
-
-WebUI.click(findTestObject('MDM_Page_Objects/Item/td_MM_xen_2'))
-
+	/*
+	 * WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create
+	 * Item/a_Actual Product (each) length UOM__FOpt1_F_a3c135'))
+	 * 
+	 * WebUI.click(findTestObject('MDM_Page_Objects/Item/td_MM_xen'))
+	 * 
+	 * WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create
+	 * Item/input_Actual Product (each) thickness__FOpt_6e55a4'), '10')
+	 * 
+	 * WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create
+	 * Item/a_Actual Product (each) thickness UOM__FOpt_eb51ed'))
+	 * 
+	 * WebUI.click(findTestObject('MDM_Page_Objects/Item/td_MM_xen_1'))
+	 * 
+	 * WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create
+	 * Item/input_Actual Product (each) width__FOpt1_FO_b0d68b'), '10')
+	 * 
+	 * WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create
+	 * Item/a_Actual Product (each) width UOM__FOpt1_FO_9af130'))
+	 * 
+	 * WebUI.click(findTestObject('MDM_Page_Objects/Item/td_MM_xen_2'))
+	 */
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Manufacturer Part Number__FOpt1_FOr10_abca26'), 
     '1112233')
 

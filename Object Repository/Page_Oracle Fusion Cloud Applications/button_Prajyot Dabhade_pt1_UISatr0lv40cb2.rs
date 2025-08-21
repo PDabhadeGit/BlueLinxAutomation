@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Prajyot Dabhade_pt1_UISatr0lv40cb2</name>
+   <tag></tag>
+   <elementGuidId>046ac376-3133-4389-9bc1-9eb42d7c4fba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='pt1:_UISatr:0:lv4:0:cb2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Approve   New Item Request NIR100427 Requires Approval&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a4ed886a-0ca3-498c-ba40-b34d022915d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pt1:_UISatr:0:lv4:0:cb2</value>
+      <webElementGuid>c8ff4279-3f15-401c-9066-4253c21823b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget homebutton-primary x7j p_AFTextOnly</value>
+      <webElementGuid>78d05831-755b-493d-9994-2042a087d21e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>a0837783-347e-41a1-a382-52efd00207b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Approve   New Item Request NIR100427 Requires Approval</value>
+      <webElementGuid>3340fa8f-5964-454e-9bb1-96d2f3a88b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve</value>
+      <webElementGuid>e47b01a5-0190-4ce7-81ab-3c3ade6ebb83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_UISatr:0:lv4:0:cb2&quot;)</value>
+      <webElementGuid>552bfc71-48a7-40de-a9d0-9f8c60c97f12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='pt1:_UISatr:0:lv4:0:cb2']</value>
+      <webElementGuid>d251d306-b4fb-415e-b3bc-51e1f43244dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pt1:_UISatr:0:lv4:0:t2::oc']/table/tbody/tr/td[2]/button</value>
+      <webElementGuid>fc884282-1945-48b8-8ada-b7718d14ba5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prajyot Dabhade'])[5]/following::button[1]</value>
+      <webElementGuid>f03cd0d7-75f5-4ce3-ad8c-47c7d73dd668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action Required'])[7]/following::button[1]</value>
+      <webElementGuid>33386cfa-6eb8-4fe4-a9f8-2346a5abc3e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[4]/preceding::button[1]</value>
+      <webElementGuid>2a6f7810-fd9f-459a-90e3-6ccb415ed471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[2]/preceding::button[2]</value>
+      <webElementGuid>9edeeae7-2179-4a7b-bf1b-f6333ccea83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/button</value>
+      <webElementGuid>a7ace830-ecac-4214-9b3e-4e07b72d162a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'pt1:_UISatr:0:lv4:0:cb2' and @title = 'Approve   New Item Request NIR100427 Requires Approval' and (text() = 'Approve' or . = 'Approve')]</value>
+      <webElementGuid>89a70d7f-7d58-42db-ba6d-b111f0b1d315</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
