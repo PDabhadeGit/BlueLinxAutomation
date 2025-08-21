@@ -8,36 +8,25 @@
       <description></description>
       <initValue>'https://otmgtm-test-summit1.otmgtm.us-ashburn-1.ocs.oraclecloud.com/GC3/glog.webserver.home.HomeServlet?ojr=maincontent'</initValue>
       <name>otm_url</name>
-      <protected>false</protected>
-      <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://ibuqjb-test.fa.ocs.oraclecloud.com/fscmUI/faces/FuseWelcome?_adf.ctrl-state=t2rjl3suk_5&amp;fnd=%3B%3B%3B%3Bfalse%3B256%3B%3B%3B&amp;_afrLoop=27086879990937779'</initValue>
       <name>mdm_url</name>
-      <protected>false</protected>
-      <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Sumit.Shukla@BlueLinxCo.com'</initValue>
+      <initValue>'Prajyot.Dabhade@BlueLinxCo.com'</initValue>
       <name>username</name>
-      <protected>false</protected>
-      <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'BdNYr9WIrItg0mWVPHD1ag=='</initValue>
+      <initValue>'5hR7QmHaNRiODTCz3O3fP17si5m4wIkP'</initValue>
       <name>otm_password</name>
-      <protected>false</protected>
-      <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'BdNYr9WIrIu12QzZy0jzjf4bzIQi84nu'</initValue>
+      <initValue>'5hR7QmHaNRjZKO09Vh/dgg=='</initValue>
       <name>mdm_password</name>
-      <protected>false</protected>
-      <valueType>STRING</valueType>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
-
