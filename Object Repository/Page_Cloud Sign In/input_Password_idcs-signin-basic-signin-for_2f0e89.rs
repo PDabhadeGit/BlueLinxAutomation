@@ -6,12 +6,12 @@
    <elementGuidId>74b86dda-5f63-47e2-8b1f-3189c2de1263</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='idcs-signin-basic-signin-form-password|input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b20fb684-13bd-4811-bc2e-eda08ec4ac46</webElementGuid>
+      <webElementGuid>e61b6393-14d0-42bc-b222-c83e9ab25863</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>7c259ad6-e78f-4a47-a68d-7ebc15852876</webElementGuid>
+      <webElementGuid>a1f1ff5e-9426-4b46-8828-e7352911170c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>9132f10b-7f48-42f8-a188-93b1d65fc14f</webElementGuid>
+      <webElementGuid>53b20323-41e4-45ca-8729-92f3d8d3eb9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-inputpassword-input oj-component-initnode</value>
-      <webElementGuid>e1d4a6d4-0d7b-40b1-be67-5e358b6b7737</webElementGuid>
+      <webElementGuid>e54efc86-694f-4136-8dca-198c61989649</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>idcs-signin-basic-signin-form-password|input</value>
-      <webElementGuid>99a8ac3c-4221-4665-bcf5-28c67c4671c6</webElementGuid>
+      <webElementGuid>eeb1a8cd-ad5f-49bb-b3da-ccbf235af07e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;idcs-signin-basic-signin-form-password|input&quot;)</value>
-      <webElementGuid>1eb2c0cb-02ee-4302-85ff-79dc225b72d8</webElementGuid>
+      <webElementGuid>972959f6-3531-4f74-889d-9244c72ef759</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='idcs-signin-basic-signin-form-password|input']</value>
-      <webElementGuid>32ca5687-7be1-4937-975a-44daf4407472</webElementGuid>
+      <webElementGuid>5a150e23-6d0c-4316-a616-5e28e264e3f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//oj-input-password[@id='idcs-signin-basic-signin-form-password']/input</value>
-      <webElementGuid>ca9f1a2b-2900-4949-8a81-0b508674b5bb</webElementGuid>
+      <webElementGuid>3195ae75-085c-4745-ae29-9bb25fdea9f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//oj-input-password/input</value>
-      <webElementGuid>d75cd0b6-5141-4368-b4df-792c006f2133</webElementGuid>
+      <webElementGuid>0bf32455-2812-48f8-a3b3-0d879408f35e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @placeholder = 'Password' and @id = 'idcs-signin-basic-signin-form-password|input']</value>
-      <webElementGuid>d41b4d4d-6ed4-4ae6-9c23-66b8d4ec27a1</webElementGuid>
+      <webElementGuid>d276e32a-9b0d-4262-81a7-a0307773e651</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

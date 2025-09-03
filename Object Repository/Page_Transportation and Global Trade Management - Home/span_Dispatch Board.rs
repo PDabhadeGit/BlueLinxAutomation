@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='sb_8_4']/div/span[2]</value>
+         <value>//*[@id=&quot;sb_7_6&quot;]/div/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a4f6dfa6-1cf2-4173-879a-83ac7621c580</webElementGuid>
+      <webElementGuid>70499758-2006-4e40-9afe-c98505c1271c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-treeview-item-text</value>
-      <webElementGuid>d245deef-cf9c-4f7a-91eb-607ea000c6d5</webElementGuid>
+      <webElementGuid>7bf53b28-0b94-48e2-9889-b1157ec88be7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>:title</name>
       <type>Main</type>
       <value>[[row.data.text]]</value>
-      <webElementGuid>1322d993-b6a4-46c7-8696-b5d861d82388</webElementGuid>
+      <webElementGuid>fb3c56be-d85a-48cc-9139-16aa8a0f5860</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>:style</name>
       <type>Main</type>
       <value>[[{'color':theme_springboard_submenu_fontcolor}]]</value>
-      <webElementGuid>40e247e2-aff2-429d-b28c-b10f49a5086d</webElementGuid>
+      <webElementGuid>4a17f5ed-8939-483f-9210-376fd5b5ad02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Dispatch Board</value>
-      <webElementGuid>2cdbfd45-92ba-4e86-a1a7-c53ce0e856e4</webElementGuid>
+      <webElementGuid>4f30bf45-3ba3-4e10-9fa3-845d17d35d7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <value>
                       Dispatch Board
                     </value>
-      <webElementGuid>d6e574ad-e177-4855-8ae8-8fc7ddc87e31</webElementGuid>
+      <webElementGuid>5ae6589d-5e2d-4b5b-b2d9-d7f37a4f0573</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sb_8_4&quot;)/div[@class=&quot;oj-treeview-item-content oj-hover&quot;]/span[@class=&quot;oj-treeview-item-text&quot;]</value>
-      <webElementGuid>c6bc70e9-35e6-47f8-943c-00ac4e3d1d91</webElementGuid>
+      <webElementGuid>0a035307-e165-4336-8c26-8772154e906d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='sb_8_4']/div/span[2]</value>
-      <webElementGuid>f6a77742-d32d-45bc-bfa1-7b340611b6d4</webElementGuid>
+      <webElementGuid>9252ed82-a0ce-4c02-b484-db077bf2c4b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[12]/div/oj-tree-view/ul/li[5]/div/span[2]</value>
-      <webElementGuid>970ea7d3-7b01-42e5-9e35-f6bb0f8d57e1</webElementGuid>
+      <webElementGuid>2ffb54ee-eff4-4bf6-8311-9bd4b64bc987</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,6 +107,6 @@
                     ' or . = '
                       Dispatch Board
                     ')]</value>
-      <webElementGuid>f725b9dc-c687-470f-9416-11035ff64d40</webElementGuid>
+      <webElementGuid>c11bd108-92de-45b6-8e99-7dd37d778927</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
