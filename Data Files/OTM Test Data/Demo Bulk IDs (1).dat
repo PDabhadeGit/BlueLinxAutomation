@@ -4,7 +4,7 @@
    <name>Demo Bulk IDs (1)</name>
    <tag></tag>
    <connectionProperties/>
-   <containsHeaders>true</containsHeaders>
+   <containsHeaders>false</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>37997a96-e920-4f4a-8349-be93c8ad8b31</dataFileGUID>
    <dataSourceUrl>C:\BlueLinx_Automation_Master\Data Files\OTM Test Data\Demo Bulk IDs.xlsx</dataSourceUrl>

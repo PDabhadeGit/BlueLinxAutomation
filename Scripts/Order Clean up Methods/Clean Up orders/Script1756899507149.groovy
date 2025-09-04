@@ -18,6 +18,8 @@ import internal.GlobalVariable as GlobalVariable
 import net.sf.cglib.beans.BulkBean as BulkBean
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.testdata.TestDataFactory as TestDataFactory
+import com.utils.Write_Status
+
 
 WebUI.openBrowser('')
 
@@ -66,6 +68,7 @@ for (int i = 2; i <= totalRows; i++) {
         //WebUI.closeBrowser()
         WebUI.delay(3 // wait for the results
             )
+		Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 1, statusText)
 
         //WebUI.click(findTestObject('Page_Buy Shipment Result/button_Refine Query'))
         WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Transportation and Global Trade Management_fa fa-home tm-ugh-icon'))
@@ -118,6 +121,10 @@ for (int i = 2; i <= totalRows; i++) {
         WebUI.delay(3)
 
         WebUI.takeFullPageScreenshot()
+		
+		WebUI.delay(3)
+		
+		Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Processed with Order Unassign')
 
         WebUI.closeWindowIndex(1)
 
@@ -130,9 +137,13 @@ for (int i = 2; i <= totalRows; i++) {
         WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Transportation and Global Trade Manage_3d15c4/span_Buy Shipment'))
 
         WebUI.delay(3)
-
+					
         continue
     }
+	
+	WebUI.delay(3)
+	
+	Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 1, statusText)
     
     // === If not withdrawn, continue normal process ===
     // Your test continues here...
@@ -160,7 +171,7 @@ for (int i = 2; i <= totalRows; i++) {
         )
 
     // WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Validate Unassign/button_Ok'), FailureHandling.OPTIONAL)
-    WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Success/div_Driver Successfully Unassigned From Shi_382df5'))
+   // WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Success/div_Driver Successfully Unassigned From Shi_382df5'))
 
     WebUI.takeFullPageScreenshot()
 
@@ -238,9 +249,11 @@ for (int i = 2; i <= totalRows; i++) {
     WebUI.click(findTestObject('Page_Fleet management/Unassign order release'))
 
     WebUI.click(findTestObject('Page_Fleet management/Unassign_Order_Buy'))
-
-    WebUI.delay(3)
-
+	
+	WebUI.delay(3)
+	
+	Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Processed')
+	
     WebUI.takeFullPageScreenshot()
 
     WebUI.delay(5)
@@ -256,6 +269,8 @@ for (int i = 2; i <= totalRows; i++) {
     WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Transportation and Global Trade Manage_3d15c4/span_Buy Shipment'))
 
     WebUI.delay(3)
+	
+	
 }
 
 WebUI.closeBrowser()
