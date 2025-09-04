@@ -15,7 +15,9 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
+import net.sf.cglib.beans.BulkBean as BulkBean
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.testdata.TestDataFactory as TestDataFactory
 
 WebUI.openBrowser('')
 
@@ -29,11 +31,11 @@ WebUI.click(findTestObject('Page_Cloud Sign In/span_Sign In'))
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management'))
+WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'))
 
-WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Transportation and Global Trade Manage_3d15c4/span_Buy Shipment'))
+WebUI.click(findTestObject('New Folder (1)/Page_Transportation and Global Trade Manage_3d15c4/span_Buy Shipment'))
 
-def testData = TestDataFactory.findTestData('OTM Test Data/Demo Bulk IDs')
+def testData = TestDataFactory.findTestData('OTM Test Data/Demo Bulk IDs (1)')
 
 int totalRows = testData.getRowNumbers()
 
@@ -56,8 +58,7 @@ for (int i = 2; i <= totalRows; i++) {
         )
 
     // === Check if Bulk Plan is Withdrawn ===
-    String statusText = WebUI.getText(findTestObject('Object Repository/Page_Buy Shipment Result/div_SECURE RESOURCES_WITHDRAWN' // Replace with actual test object
-            ))
+    String statusText = WebUI.getText(findTestObject('New Folder (1)/Page_Buy Shipment Result/div_SECURE RESOURCES_ACCEPTED'))
 
     if (statusText.equalsIgnoreCase('SECURE RESOURCES_WITHDRAWN')) {
         println("Bulk Plan $bulkOrderID is already withdrawn. Skipping...")
@@ -66,7 +67,67 @@ for (int i = 2; i <= totalRows; i++) {
         WebUI.delay(3 // wait for the results
             )
 
-        WebUI.click(findTestObject('Page_Buy Shipment Result/button_Refine Query'))
+        //WebUI.click(findTestObject('Page_Buy Shipment Result/button_Refine Query'))
+        WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Transportation and Global Trade Management_fa fa-home tm-ugh-icon'))
+
+        WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/div_Fleet Management'))
+
+        WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Dispatch Board'))
+
+        WebUI.delay(10)
+
+        WebUI.click(findTestObject('Page_Fleet management/Shipment_adder'))
+
+        WebUI.switchToFrame(findTestObject('Shipment_finder'), 1)
+
+        WebUI.setText(findTestObject('Page_Fleet management/Bulk plan id'), bulkOrderID)
+
+        WebUI.click(findTestObject('Page_Fleet management/Search_button'))
+
+        WebUI.delay(3)
+
+        WebUI.click(findTestObject('Page_Fleet management/checkbox1'))
+
+        WebUI.switchToDefaultContent()
+
+        WebUI.delay(4)
+
+        WebUI.click(findTestObject('Page_Fleet management/Finish_button'))
+
+        WebUI.click(findTestObject('Page_Fleet management/checkbox2'))
+
+        WebUI.click(findTestObject('Page_Fleet management/Shipment order_release'))
+
+        WebUI.delay(5)
+
+        WebUI.click(findTestObject('Page_Fleet management/checkbox3'))
+
+        WebUI.delay(3 // wait for the results
+            )
+
+        WebUI.click(findTestObject('Page_Fleet management/Actions1'))
+
+        WebUI.click(findTestObject('Page_Fleet management/Order_Management_Link'))
+
+        WebUI.click(findTestObject('Page_Fleet management/Unassign order release'))
+
+        WebUI.click(findTestObject('Page_Fleet management/Unassign_Order_Buy'))
+
+        WebUI.delay(3)
+
+        WebUI.takeFullPageScreenshot()
+
+        WebUI.closeWindowIndex(1)
+
+        WebUI.switchToWindowIndex(0)
+
+        WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Transportation and Global Trade Management_fa fa-home tm-ugh-icon'))
+
+        WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management'))
+
+        WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Transportation and Global Trade Manage_3d15c4/span_Buy Shipment'))
+
+        WebUI.delay(3)
 
         continue
     }
@@ -76,7 +137,7 @@ for (int i = 2; i <= totalRows; i++) {
     WebUI.delay(3 // wait for the results
         )
 
-    WebUI.click(findTestObject('Page_Buy Shipment Result/input_Selected_rgSGSec.1.1.1.1.check'))
+    WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected'))
 
     WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/button_Actions'))
 
@@ -87,17 +148,16 @@ for (int i = 2; i <= totalRows; i++) {
     WebUI.delay(3 // wait for the results
         )
 
-    WebUI.scrollToElement(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/span_Driver'), 100)
+    WebUI.scrollToElement(findTestObject('New Folder (1)/Page_Buy Shipment Result/a_Driver'), 200)
 
-    WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/span_Driver'))
+    WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/a_Driver'))
 
     WebUI.switchToWindowIndex(1)
 
     WebUI.delay(3 // wait for the results
         )
 
-    WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Validate Unassign/button_Ok'), FailureHandling.OPTIONAL)
-
+    // WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Validate Unassign/button_Ok'), FailureHandling.OPTIONAL)
     WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Success/div_Driver Successfully Unassigned From Shi_382df5'))
 
     WebUI.takeFullPageScreenshot()
@@ -128,7 +188,7 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.switchToWindowIndex(0)
 
-    WebUI.click(findTestObject('Page_Buy Shipment Result/button_Refine Query'))
+    WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/button_Refine Query'))
 
     WebUI.delay(3)
 
@@ -177,8 +237,7 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.click(findTestObject('Page_Fleet management/Unassign_Order_Buy'))
 
-    WebUI.delay(3 // wait for the results
-        )
+    WebUI.delay(3)
 
     WebUI.takeFullPageScreenshot()
 
