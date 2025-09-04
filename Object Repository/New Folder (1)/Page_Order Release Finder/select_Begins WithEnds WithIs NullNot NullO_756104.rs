@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Begins WithEnds WithIs NullNot NullO_756104</name>
+   <tag></tag>
+   <elementGuidId>4e255403-9f16-4468-ba53-f3f20648cb9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='order_release/Order_Release_Query.orref.order_release_refnum_value_operator']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;order_release/Order_Release_Query.orref.order_release_refnum_value_operator&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Order Release Reference Number Operator&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>340b94ae-a6c0-401a-914e-1568d125343f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Order Release Reference Number Operator</value>
+      <webElementGuid>fdab45d1-0e1f-42ca-bb81-fed38cea5ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>order_release/Order_Release_Query.orref.order_release_refnum_value_operator</value>
+      <webElementGuid>b0e7bd4d-2186-4568-878d-f9bf38772078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Begins WithEnds WithIs NullNot NullOne OfNot One OfContainsSame AsNot Same AsNot Same As, Include Null Values</value>
+      <webElementGuid>6873a861-a27e-454c-9ac8-8e5c84216242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[2]/td[1]/div[@class=&quot;fieldCont&quot;]/span[@class=&quot;queryCtlCont&quot;]/select[1]</value>
+      <webElementGuid>4206bbaa-7961-4ac6-a061-dbdc07543e13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/New Folder (1)/Page_Order Release Finder/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>547b9129-a9b6-4e43-89a1-2624f7df09aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='order_release/Order_Release_Query.orref.order_release_refnum_value_operator']</value>
+      <webElementGuid>d1d46dea-7dcd-437e-9404-f484a4081a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/table/tbody/tr/td/table/tbody/tr[2]/td/div/span/select</value>
+      <webElementGuid>836e2c11-b105-4749-9453-9bda3d83309e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Release Reference Number'])[1]/following::select[1]</value>
+      <webElementGuid>20bedf53-8ba7-4873-9949-9129d6feb720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Release ID'])[1]/following::select[2]</value>
+      <webElementGuid>559e296a-aaf3-425d-9895-168aac29ec73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Release Reference Number Qualifier'])[1]/preceding::select[1]</value>
+      <webElementGuid>ccc6d698-e35a-4f15-92a5-148de40164bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indicator'])[1]/preceding::select[2]</value>
+      <webElementGuid>086f09cf-d7f4-47cd-8b76-3849d22851e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/span/select</value>
+      <webElementGuid>b764d005-925b-4e07-bb70-921703348b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'order_release/Order_Release_Query.orref.order_release_refnum_value_operator' and (text() = 'Begins WithEnds WithIs NullNot NullOne OfNot One OfContainsSame AsNot Same AsNot Same As, Include Null Values' or . = 'Begins WithEnds WithIs NullNot NullOne OfNot One OfContainsSame AsNot Same AsNot Same As, Include Null Values')]</value>
+      <webElementGuid>0037c94a-cea8-45a6-93a1-84c50700cb8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

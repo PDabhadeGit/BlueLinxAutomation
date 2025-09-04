@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Begins WithEnds WithIs NullNot NullO_756104</name>
+   <tag></tag>
+   <elementGuidId>d840fae7-13ae-4bba-835d-8938a1fe25dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='shipment/bulk_plan/xid_operator']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;shipment/bulk_plan/xid_operator&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Bulk Plan ID Operator&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9d304a93-dff6-449e-bcb2-e91578d1aa4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Bulk Plan ID Operator</value>
+      <webElementGuid>b10f5f8f-b252-4b96-bb5e-1df0db45b4ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>displayOneOfIcon(this.options[this.selectedIndex].value, 'shipment_bulk_plan_xid');</value>
+      <webElementGuid>933494f2-184a-484e-9264-60e419c08c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>shipment/bulk_plan/xid_operator</value>
+      <webElementGuid>6eaa85b0-f736-404d-873d-a089ee4cd69e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Begins WithEnds WithIs NullNot NullOne OfNot One OfContainsSame AsNot Same AsNot Same As, Include Null Values</value>
+      <webElementGuid>e4f85692-c8ff-43f9-94d8-0e8dba2b45b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[4]/td[1]/div[@class=&quot;fieldCont&quot;]/table[@class=&quot;noTbSp&quot;]/tbody[1]/tr[1]/td[3]/span[@class=&quot;queryCtlCont&quot;]/select[1]</value>
+      <webElementGuid>ae378b4f-0d09-48c6-a0a8-9e188bd46675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/New Folder (1)/Page_Buy Shipment Finder/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
+      <webElementGuid>6bbda826-6758-488c-84f2-a8e62b0c33df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='shipment/bulk_plan/xid_operator']</value>
+      <webElementGuid>7091ba56-0eec-4172-8ee2-1fc8b6b6dacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/table/tbody/tr/td/table/tbody/tr[4]/td/div/table/tbody/tr/td[3]/span/select</value>
+      <webElementGuid>97629bc6-f689-4830-872c-e1944096403d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk Plan ID'])[1]/following::select[1]</value>
+      <webElementGuid>22bdaafd-a035-4a9a-aa2e-f3a5b0a6135e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Reference Number Qualifier'])[1]/following::select[2]</value>
+      <webElementGuid>fe28548e-267a-47ef-ae8a-9793ad7ee703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Charter Voyage ID'])[1]/preceding::select[1]</value>
+      <webElementGuid>576ab390-aaef-4c01-b2d4-e6e619ddf910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Driver ID'])[1]/preceding::select[2]</value>
+      <webElementGuid>8ebe1d93-f48c-4dc4-b65b-2f06103db941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/span/select</value>
+      <webElementGuid>a8b78835-b243-455e-bbde-3474d871c7ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'shipment/bulk_plan/xid_operator' and (text() = 'Begins WithEnds WithIs NullNot NullOne OfNot One OfContainsSame AsNot Same AsNot Same As, Include Null Values' or . = 'Begins WithEnds WithIs NullNot NullOne OfNot One OfContainsSame AsNot Same AsNot Same As, Include Null Values')]</value>
+      <webElementGuid>f12ec0d9-658f-4c27-98d0-124609f888be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

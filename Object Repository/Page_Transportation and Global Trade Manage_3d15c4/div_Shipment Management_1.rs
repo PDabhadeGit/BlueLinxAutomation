@@ -6,13 +6,12 @@
    <elementGuidId>1c0d2dd4-7f4a-46ee-b445-c14ec87059a5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='label2' and normalize-space(.)='Shipment Management']&#xd;
-</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.tm-sb-tile-expanded-content.tm-sb-tile-scroll-container > div.oj-flex-bar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()[normalize-space()='Shipment Management']]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -30,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>376142f6-8f74-4a34-82fe-fd7d1af0316a</webElementGuid>
+      <webElementGuid>3cec81f9-e99a-4b16-9e0c-c0670d06ec97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-flex-bar</value>
-      <webElementGuid>afe97977-1112-4ded-9929-7a368a48b030</webElementGuid>
+      <webElementGuid>b3e6a525-767f-4141-934c-6f601cc5adf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -56,7 +55,7 @@
                         
                       
                 </value>
-      <webElementGuid>1497e78e-e5e0-4317-b579-fd4b778e7bed</webElementGuid>
+      <webElementGuid>cc442f2d-14e3-43bf-a6f5-8226320c8261</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;springboardMasonry&quot;)/div[@id=&quot;sb_1&quot;]/div[@class=&quot;tm-sb-tile-expanded-content tm-sb-tile-scroll-container&quot;]/div[@class=&quot;oj-flex-bar&quot;]</value>
-      <webElementGuid>82c86dfd-d9f4-4d0a-9d15-5864de0deaa0</webElementGuid>
+      <webElementGuid>3b70fdee-d32e-4766-8d10-04254822a7d0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -72,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sb_1']/div/div</value>
-      <webElementGuid>2f5101fa-db16-4f23-aebd-b4faec2e37d4</webElementGuid>
+      <webElementGuid>454559e3-e639-42c1-adfc-3b6ac6f61c19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[5]/following::div[3]</value>
-      <webElementGuid>d713d00f-ee90-4e24-b765-93c61984a418</webElementGuid>
+      <webElementGuid>1a3ffb69-d502-46c0-8f03-968be38a7945</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[6]/preceding::div[2]</value>
-      <webElementGuid>4f0ceafa-e3d1-422f-891c-8cfa49a9e9b4</webElementGuid>
+      <webElementGuid>9aa342f3-7f8f-4079-97f1-31b5ca430218</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div</value>
-      <webElementGuid>ee9ffb1a-c2e8-4bd1-b10c-a9097d2c7cda</webElementGuid>
+      <webElementGuid>585d87c3-d34e-427e-a2ef-fa7840cec5c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,6 +123,6 @@
                         
                       
                 ')]</value>
-      <webElementGuid>c298dc91-bf3e-4793-92de-82096fead8f5</webElementGuid>
+      <webElementGuid>a230573c-3591-4cd6-9856-d8d738487080</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

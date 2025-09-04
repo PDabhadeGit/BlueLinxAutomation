@@ -6,12 +6,12 @@
    <elementGuidId>a06955c9-47b7-4bea-8623-743c3e2213a1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#label9</value>
+         <key>XPATH</key>
+         <value>//*[@class='tm-text-align-center tm-sb-tile-label' and text() = 'Fleet Management']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='label9']</value>
+         <key>CSS</key>
+         <value>#label9</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ead107bb-072f-41d5-b998-767d8d0d1a4a</webElementGuid>
+      <webElementGuid>44e23379-a399-4deb-a353-d1ebb9457b1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>:id</name>
       <type>Main</type>
       <value>[[getLabelId(menu.index)]]</value>
-      <webElementGuid>e161870d-61e4-4b2d-bef2-0bbca33ee1e2</webElementGuid>
+      <webElementGuid>d9a838c5-a322-4b0b-a90f-cd69e9509fb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tm-text-align-center tm-sb-tile-label</value>
-      <webElementGuid>34fa43cd-696b-4e85-a4fc-dcc55b49894c</webElementGuid>
+      <webElementGuid>33696e90-cdf4-4c76-8466-ebbc58fb0fab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>:style</name>
       <type>Main</type>
       <value>[[{'color':theme_main_font_color}]]</value>
-      <webElementGuid>e4916558-3c93-424a-a5b5-195aa0b022f2</webElementGuid>
+      <webElementGuid>9da62b54-6270-49b7-bca9-743f76cca00a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>label9</value>
-      <webElementGuid>441f6bed-62ae-4615-a645-f49aac96d3f9</webElementGuid>
+      <webElementGuid>f98c0c96-eeb5-4ca3-bf31-f6230d96404b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <value>
                   Fleet Management
                 </value>
-      <webElementGuid>ae4d7df1-962f-4f77-95ab-1ee427565350</webElementGuid>
+      <webElementGuid>4020f02b-f06a-4f6a-a3ec-08ca80d62b17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;label9&quot;)</value>
-      <webElementGuid>f55ed7bd-2889-4adc-b496-37b593209c06</webElementGuid>
+      <webElementGuid>3b1f730c-2ef4-4fa5-8abb-89ea07cde3b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='label9']</value>
-      <webElementGuid>a6ed646b-5ad2-45ff-9125-0b0af79b730c</webElementGuid>
+      <webElementGuid>82ca0e3a-6a7a-4f7b-a77e-5e609e3a57b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sb_8']/div/div/div[2]</value>
-      <webElementGuid>b00ad714-42d4-44e4-acdd-42d745ea8153</webElementGuid>
+      <webElementGuid>019b301d-9d40-422a-9aeb-920bb2aa52ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[12]/following::div[5]</value>
-      <webElementGuid>8c910e65-11d6-4300-a593-7fae8c888f65</webElementGuid>
+      <webElementGuid>0ddcfaeb-f22d-4a32-b45a-a2b5d4447d67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[13]/preceding::div[1]</value>
-      <webElementGuid>0fd27df2-a5bb-4c40-8c9c-fa792c5bb3ba</webElementGuid>
+      <webElementGuid>b5ed9f4f-4b96-4720-8f0d-4257c31bdabe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,18 +119,18 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[12]/div/div/div[2]</value>
-      <webElementGuid>33964c7b-6c59-42c6-b8b6-5144fb717032</webElementGuid>
+      <webElementGuid>8c8625a1-35a9-409b-b371-e2434d9861b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'label9' and (text() = '
-                  Fleet Management
-                ' or . = '
-                  Fleet Management
+      <value>//div[@id = 'label9' and (text() = '&#xd;
+                  Fleet Management&#xd;
+                ' or . = '&#xd;
+                  Fleet Management&#xd;
                 ')]</value>
-      <webElementGuid>dd755346-b647-4426-aef9-0b0a31a7c421</webElementGuid>
+      <webElementGuid>0c77a9b7-9e79-42fe-b102-f8bcdfad6459</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

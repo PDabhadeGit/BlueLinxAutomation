@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//img[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:pt1:r1:0:ITPdc2j_id_4:ITsel::icon']</value>
+         <value>//img[contains(@class, 'xi6') and @alt='Selected : All Exports']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>12e4bc56-def9-4db7-ae62-145897bee025</webElementGuid>
+      <webElementGuid>cd33142a-913f-43bf-bd61-8450c37b259c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:pt1:r1:0:ITPdc2j_id_4:ITsel::icon</value>
-      <webElementGuid>9375d0e3-6e1b-4188-9eb1-8cd4acdce20d</webElementGuid>
+      <webElementGuid>fda36824-5803-4a5d-898c-02502f115ba4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/crmUI/images/applcore/fuseplus/func_arrowheaddown_redwood_20_hov.png</value>
-      <webElementGuid>a7c4d686-ebb4-4ffd-945c-1293141edc9b</webElementGuid>
+      <webElementGuid>f22c479f-2bf0-445a-a371-6f7021e395be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Select : All Exports</value>
-      <webElementGuid>7f045b96-9852-44db-a383-0db7069775e4</webElementGuid>
+      <webElementGuid>13da5b0b-2a6c-4040-a8a9-d9bd56d71d8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Select : All Exports</value>
-      <webElementGuid>469d0839-13da-4029-a61d-b3c5d9bdb4ce</webElementGuid>
+      <webElementGuid>b9ac03c5-d7a6-43b5-a1a6-4f92721b2287</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xi6</value>
-      <webElementGuid>261b658f-ba6b-49fb-8a2e-31386630d58b</webElementGuid>
+      <webElementGuid>4cb30d13-fdc8-43b3-85a8-c49e78155747</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:pt1:r1:0:ITPdc2j_id_4:ITsel::icon&quot;)</value>
-      <webElementGuid>c9065e31-14b9-4b1c-848e-58cd8aabedb3</webElementGuid>
+      <webElementGuid>dc579682-b794-49c1-a0c4-f47b505a333c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//img[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:pt1:r1:0:ITPdc2j_id_4:ITsel::icon']</value>
-      <webElementGuid>b6a6cbe1-b395-45de-9b3f-6048e3b3640f</webElementGuid>
+      <webElementGuid>aaab0fdf-9208-4f2a-83cd-d8757c22a8e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:pt1:r1:0:ITPdc2j_id_4:ITsel']/img</value>
-      <webElementGuid>21b7695d-ab44-4812-93b0-ee6359cb52b3</webElementGuid>
+      <webElementGuid>b2ea613a-efba-411d-866e-20594353185c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Select : All Exports']</value>
-      <webElementGuid>8ed7225c-2827-4ef2-9960-3d0beba363d4</webElementGuid>
+      <webElementGuid>8fc199bd-9793-4266-946c-70df7ea00736</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[9]/span/div/div[2]/div/div/a/img</value>
-      <webElementGuid>4b123843-61f6-456d-b547-27fe1feba746</webElementGuid>
+      <webElementGuid>aec79d62-dd04-434f-bcfd-72e9a09d64a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +116,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@id = '_FOpt1:_FOr1:0:_FONSr2:0:_FOTsr1:0:pt1:r1:0:pt1:r1:0:ITPdc2j_id_4:ITsel::icon' and @src = '/crmUI/images/applcore/fuseplus/func_arrowheaddown_redwood_20_hov.png' and @title = 'Select : All Exports' and @alt = 'Select : All Exports']</value>
-      <webElementGuid>293fa090-71d6-4231-a85c-297b372c16df</webElementGuid>
+      <webElementGuid>5e00d6c1-9e6b-423e-bdf4-6e87076ef8d3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Shipment Management</name>
+   <tag></tag>
+   <elementGuidId>bb1152b7-d7f0-4392-b796-df0beb1180de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='label3']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#label3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Menu&quot;s >> internal:text=&quot;Shipment Management&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>863911fe-f08d-47e9-9e05-5b447d7e6751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:id</name>
+      <type>Main</type>
+      <value>[[getLabelId(menu.index)]]</value>
+      <webElementGuid>502f1f2b-f458-417f-bcb1-4a29edb2b0d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tm-text-align-center tm-sb-tile-label</value>
+      <webElementGuid>a86ae0be-6db0-4d12-ad6f-3e9ed696725b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:style</name>
+      <type>Main</type>
+      <value>[[{'color':theme_main_font_color}]]</value>
+      <webElementGuid>969107b9-cfbc-42ec-a7f1-2ee1d1870599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label3</value>
+      <webElementGuid>1edb5701-5e9c-426e-989e-f5824d77fa7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Shipment Management
+                </value>
+      <webElementGuid>c059899e-5dc0-47f4-90cb-cc491719b2ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;label3&quot;)</value>
+      <webElementGuid>4b823651-4cee-4520-8a1a-04800ea5529a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='label3']</value>
+      <webElementGuid>7465624d-1288-4d26-9b4b-6c4b2017a2e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sb_2']/div/div/div[2]</value>
+      <webElementGuid>3ae4e9fa-5086-4943-9f70-1375377f1b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[6]/following::div[5]</value>
+      <webElementGuid>95490dc2-acbd-4530-b61e-9791478be98d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[7]/preceding::div[1]</value>
+      <webElementGuid>ea334422-8131-4a92-a197-4d636329553a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]</value>
+      <webElementGuid>dd87b017-87ed-4186-bbe8-7b740cd5fa3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'label3' and (text() = '
+                  Shipment Management
+                ' or . = '
+                  Shipment Management
+                ')]</value>
+      <webElementGuid>b3406e0c-eb47-4658-8530-3a70e66c1433</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

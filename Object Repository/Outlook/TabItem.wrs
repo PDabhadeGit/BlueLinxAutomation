@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>TabItem</name>
+   <tag></tag>
+   <locator>Send / Receive</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ClassName</name>
+      <type>Main</type>
+      <value>NetUIRibbonTab</value>
+      <webElementGuid>d5671dba-a97b-4b2d-9cf5-ba88f2636494</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>153</value>
+      <webElementGuid>84082863-cd1b-41f0-a3d6-4fd37415ee8e</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>189</value>
+      <webElementGuid>232bd2c7-ce0e-4968-ae36-f93abc999983</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>62</value>
+      <webElementGuid>ed329572-669e-45e6-b65b-1a712f126132</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>AccessKey</name>
+      <type>Main</type>
+      <value>Alt, S</value>
+      <webElementGuid>8050dfec-848c-45d6-a842-ab9d9e84e5c4</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>RuntimeId</name>
+      <type>Main</type>
+      <value>KgAAAA==,cAIGAA==,BAAAAA==,AG94bg==,uwIAAA==</value>
+      <webElementGuid>3cbcb46e-18c3-4297-ae66-c2099634c20d</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Name</name>
+      <type>Main</type>
+      <value>Send / Receive</value>
+      <webElementGuid>445091ae-7ec4-4f43-a409-de436eb6d5a5</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>46</value>
+      <webElementGuid>d6395614-542b-4c6b-81c4-a34d5fa1f0ae</webElementGuid>
+   </properties>
+</WindowsElementEntity>

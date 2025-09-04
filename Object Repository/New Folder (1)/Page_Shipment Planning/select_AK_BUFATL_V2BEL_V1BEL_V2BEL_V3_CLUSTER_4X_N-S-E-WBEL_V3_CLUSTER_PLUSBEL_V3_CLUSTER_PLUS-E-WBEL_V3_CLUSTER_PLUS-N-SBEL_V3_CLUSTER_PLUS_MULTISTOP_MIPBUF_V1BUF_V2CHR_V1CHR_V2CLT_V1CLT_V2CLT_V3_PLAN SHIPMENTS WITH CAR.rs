@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AK_BUFATL_V2BEL_V1BEL_V2BEL_V3_CLUSTER_4X_N-S-E-WBEL_V3_CLUSTER_PLUSBEL_V3_CLUSTER_PLUS-E-WBEL_V3_CLUSTER_PLUS-N-SBEL_V3_CLUSTER_PLUS_MULTISTOP_MIPBUF_V1BUF_V2CHR_V1CHR_V2CLT_V1CLT_V2CLT_V3_PLAN SHIPMENTS WITH CAR</name>
+   <tag></tag>
+   <elementGuidId>5e332a1b-40c6-4e99-979b-b1bee94f68a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='qualifier/xid@ID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;qualifier/xid@ID&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Parameter Set ID&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>81377515-fef1-48b9-b2b2-acd66d520e0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>qualifier/xid@ID</value>
+      <webElementGuid>362464b0-91c9-484a-9193-fad1a3fb5cda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Parameter Set ID</value>
+      <webElementGuid>2099db8f-b24d-4e61-9baa-2de393fe09c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>document.forms['management_main'].elements['display_qualifier/xid'].value = this.options[this.selectedIndex].text;populatePlanningFields(this.options[this.selectedIndex].value);</value>
+      <webElementGuid>b9998288-8b8f-4519-9222-159acae131d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeydown</name>
+      <type>Main</type>
+      <value>dropListHandler('glog.server.query.powerdata.PlanningParameterSetQuery', '', 'management_main','display_qualifier/xid','Parameter\x20Set\x20ID','false','false', event)</value>
+      <webElementGuid>00320f2e-9891-42b9-adf9-0a43a399f9f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AK_BUFATL_V2BEL_V1BEL_V2BEL_V3_CLUSTER_4X_N-S-E-WBEL_V3_CLUSTER_PLUSBEL_V3_CLUSTER_PLUS-E-WBEL_V3_CLUSTER_PLUS-N-SBEL_V3_CLUSTER_PLUS_MULTISTOP_MIPBUF_V1BUF_V2CHR_V1CHR_V2CLT_V1CLT_V2CLT_V3_PLAN SHIPMENTS WITH CARRIER COMMITMENT TRUEDEFAULTDFW_V1DFW_V2DFW_V3_GROUPDFW_V3_MULTISTOP_MIPDOMAIN_DEFAULTFRD_V2FRD_V3_CLUSTER_PLUS-N-SGPT_V2GRR_V2JAX_V1JAX_V2JAX_V3_PARTITIONLGI_V1LGI_V2LITLIT_V1LIT_V2LKC_V2MKE_V2MON_V1MON_V2NWKNWK_V1NWK_V2OMA_V1OMA_V2OMA_V3OMA_V3_PLAN SHIPMENTS WITH CARRIER COMMITMENT TRUEOMA_V4_NO CAPACITYRAILRDU_V1RDU_V2RDU_V3_PLAN SHIPMENTS WITH CARRIER COMMITMENT TRUESTL_V1STL_V2TPATPA_V1TPA_V2TPA_V3TUL_V2</value>
+      <webElementGuid>1fa915e5-6000-4a72-b760-899d0303646d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyDataDiv&quot;)/div[@class=&quot;bodySectCont&quot;]/table[@class=&quot;bodySectInCont w100&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;fieldCont&quot;]/div[2]/select[1]</value>
+      <webElementGuid>25f80c9f-d337-409e-8266-3f2afe72f46c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/New Folder (1)/Page_Shipment Planning/iframe_mainBody_1</value>
+      <webElementGuid>dbad0d4c-d27a-418d-be8b-3700b75d6603</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='qualifier/xid@ID']</value>
+      <webElementGuid>d562c830-ef5f-448c-b263-7ba40155933a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyDataDiv']/div/table/tbody/tr/td/div/div[2]/select</value>
+      <webElementGuid>9c183bb5-7af2-4041-8a81-d3a7462dc961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parameter Set ID'])[1]/following::select[1]</value>
+      <webElementGuid>c11fb2bd-e6fa-48f3-8a5e-fc1153fec59a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Planning'])[2]/following::select[1]</value>
+      <webElementGuid>1fa5ef5c-ed76-47d7-b80c-d241de820717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::select[1]</value>
+      <webElementGuid>6037d3b5-6328-46be-b21a-c58e4e83fe2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scenario Group'])[1]/preceding::select[1]</value>
+      <webElementGuid>cc0f7e2c-90d9-4de5-ae22-1366f0424a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>12d32445-2a54-4e0e-9cb6-63b565fe43f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'qualifier/xid@ID' and (text() = 'AK_BUFATL_V2BEL_V1BEL_V2BEL_V3_CLUSTER_4X_N-S-E-WBEL_V3_CLUSTER_PLUSBEL_V3_CLUSTER_PLUS-E-WBEL_V3_CLUSTER_PLUS-N-SBEL_V3_CLUSTER_PLUS_MULTISTOP_MIPBUF_V1BUF_V2CHR_V1CHR_V2CLT_V1CLT_V2CLT_V3_PLAN SHIPMENTS WITH CARRIER COMMITMENT TRUEDEFAULTDFW_V1DFW_V2DFW_V3_GROUPDFW_V3_MULTISTOP_MIPDOMAIN_DEFAULTFRD_V2FRD_V3_CLUSTER_PLUS-N-SGPT_V2GRR_V2JAX_V1JAX_V2JAX_V3_PARTITIONLGI_V1LGI_V2LITLIT_V1LIT_V2LKC_V2MKE_V2MON_V1MON_V2NWKNWK_V1NWK_V2OMA_V1OMA_V2OMA_V3OMA_V3_PLAN SHIPMENTS WITH CARRIER COMMITMENT TRUEOMA_V4_NO CAPACITYRAILRDU_V1RDU_V2RDU_V3_PLAN SHIPMENTS WITH CARRIER COMMITMENT TRUESTL_V1STL_V2TPATPA_V1TPA_V2TPA_V3TUL_V2' or . = 'AK_BUFATL_V2BEL_V1BEL_V2BEL_V3_CLUSTER_4X_N-S-E-WBEL_V3_CLUSTER_PLUSBEL_V3_CLUSTER_PLUS-E-WBEL_V3_CLUSTER_PLUS-N-SBEL_V3_CLUSTER_PLUS_MULTISTOP_MIPBUF_V1BUF_V2CHR_V1CHR_V2CLT_V1CLT_V2CLT_V3_PLAN SHIPMENTS WITH CARRIER COMMITMENT TRUEDEFAULTDFW_V1DFW_V2DFW_V3_GROUPDFW_V3_MULTISTOP_MIPDOMAIN_DEFAULTFRD_V2FRD_V3_CLUSTER_PLUS-N-SGPT_V2GRR_V2JAX_V1JAX_V2JAX_V3_PARTITIONLGI_V1LGI_V2LITLIT_V1LIT_V2LKC_V2MKE_V2MON_V1MON_V2NWKNWK_V1NWK_V2OMA_V1OMA_V2OMA_V3OMA_V3_PLAN SHIPMENTS WITH CARRIER COMMITMENT TRUEOMA_V4_NO CAPACITYRAILRDU_V1RDU_V2RDU_V3_PLAN SHIPMENTS WITH CARRIER COMMITMENT TRUESTL_V1STL_V2TPATPA_V1TPA_V2TPA_V3TUL_V2')]</value>
+      <webElementGuid>a2327fb5-a4f8-42c5-9bfc-eb3b78517a8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

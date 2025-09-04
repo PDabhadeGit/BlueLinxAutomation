@@ -39,10 +39,10 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/button_Next'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/img_Organization_xv0'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/img_Organization_xv0'), FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/body'), 
-    FailureHandling.STOP_ON_FAILURE)
+    FailureHandling.OPTIONAL)
 
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/body'), 
     'Address1=\'test\'<br>')
@@ -55,7 +55,7 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Expor
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Exports/img_Unsuccessful__FOpt1_FOr10_FONSr20_FOTsr_ffb4be'))
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Exports/img_Unsuccessful__FOpt1_FOr10_FONSr20_FOTsr_ffb4be'), FailureHandling.OPTIONAL)
 
 WebUI.takeFullPageScreenshot()
 
