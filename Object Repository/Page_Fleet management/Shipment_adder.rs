@@ -6,11 +6,11 @@
    <elementGuidId>09d00914-8a1e-4512-a5ec-72d635c67db8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;RootPane_1_1&quot;]/wb-layout//*[@id=&quot;RootPane_1_1_region_0_addRows&quot;]/button/div</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//oj-button[@id='RootPane_1_1_region_0_addRows']//span[@class='oj-ux-ico-playlist-add-check toolbar-oj-ux-icon']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

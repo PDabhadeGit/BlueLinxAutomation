@@ -78,6 +78,8 @@ for (int i = 2; i <= totalRows; i++) {
 
         WebUI.click(findTestObject('Page_Fleet management/Shipment_adder'))
 
+        WebUI.delay(3)
+
         WebUI.switchToFrame(findTestObject('Shipment_finder'), 1)
 
         WebUI.setText(findTestObject('Page_Fleet management/Bulk plan id'), bulkOrderID)
@@ -240,6 +242,8 @@ for (int i = 2; i <= totalRows; i++) {
     WebUI.delay(3)
 
     WebUI.takeFullPageScreenshot()
+
+    WebUI.delay(5)
 
     WebUI.closeWindowIndex(1)
 
