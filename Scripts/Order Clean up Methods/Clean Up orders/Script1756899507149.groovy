@@ -40,7 +40,15 @@ def testData = TestDataFactory.findTestData('OTM Test Data/Demo Bulk IDs (1)')
 
 int totalRows = testData.getRowNumbers()
 
-for (int i = 2; i < totalRows; i++) {
+for (int i = 2; i <= totalRows; i++) {
+	
+	def cellValue = testData.getValue(1, i)  // Column 1 — adjust if needed
+	
+		if (cellValue == null || cellValue.trim().isEmpty()) {
+			println("Row $i is empty. Closing browser and exiting loop.")
+			WebUI.closeBrowser()
+			break  // Exit the loop
+		}
     String bulkOrderID = testData.getValue(1, i // note the row and colunn no.
         )
 
@@ -329,7 +337,7 @@ for (int i = 2; i < totalRows; i++) {
         Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Unassign Fail')
     }
     
-    WebUI.click(findTestObject('Page_Buy Shipment Result/button_Refine Query'))
+    WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/button_Refine Query'))
 }
 
 WebUI.closeBrowser()
