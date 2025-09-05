@@ -18,8 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import net.sf.cglib.beans.BulkBean as BulkBean
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.testdata.TestDataFactory as TestDataFactory
-import com.utils.Write_Status
-
+import com.utils.Write_Status as Write_Status
 
 WebUI.openBrowser('')
 
@@ -41,7 +40,7 @@ def testData = TestDataFactory.findTestData('OTM Test Data/Demo Bulk IDs (1)')
 
 int totalRows = testData.getRowNumbers()
 
-for (int i = 2; i <= totalRows; i++) {
+for (int i = 2; i < totalRows; i++) {
     String bulkOrderID = testData.getValue(1, i // note the row and colunn no.
         )
 
@@ -59,8 +58,23 @@ for (int i = 2; i <= totalRows; i++) {
     WebUI.delay(3 // wait for the results
         )
 
-    // === Check if Bulk Plan is Withdrawn ===
-    String statusText = WebUI.getText(findTestObject('New Folder (1)/Page_Buy Shipment Result/div_SECURE RESOURCES_ACCEPTED'))
+    String resultText1 = WebUI.getText(findTestObject('Object Repository/OTM pages/Page_Buy Shipment Result/span_0'))
+
+    // Print the value (optional, for debugging)
+    println("Text value: $resultText1")
+
+	    if (resultText1.trim() == '0') {
+	        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Not Found')
+			
+			WebUI.delay(3)
+			
+			WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/button_Refine Query'))
+	
+	        continue
+	    }
+	    
+	    // === Check if Bulk Plan is Withdrawn ===
+	    String statusText = WebUI.getText(findTestObject('New Folder (1)/Page_Buy Shipment Result/div_SECURE RESOURCES_ACCEPTED'))
 
     if (statusText.equalsIgnoreCase('SECURE RESOURCES_WITHDRAWN')) {
         println("Bulk Plan $bulkOrderID is already withdrawn. Skipping...")
@@ -68,7 +82,8 @@ for (int i = 2; i <= totalRows; i++) {
         //WebUI.closeBrowser()
         WebUI.delay(3 // wait for the results
             )
-		Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 1, statusText)
+
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 1, statusText)
 
         //WebUI.click(findTestObject('Page_Buy Shipment Result/button_Refine Query'))
         WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Transportation and Global Trade Management_fa fa-home tm-ugh-icon'))
@@ -77,7 +92,7 @@ for (int i = 2; i <= totalRows; i++) {
 
         WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Dispatch Board'))
 
-        WebUI.delay(10)
+        WebUI.delay(20)
 
         WebUI.click(findTestObject('Page_Fleet management/Shipment_adder'))
 
@@ -121,11 +136,10 @@ for (int i = 2; i <= totalRows; i++) {
         WebUI.delay(3)
 
         WebUI.takeFullPageScreenshot()
-		
-		WebUI.delay(3)
-		
-		Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Processed with Order Unassign')
 
+        WebUI.delay(3)
+
+        //Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Processed with Order Unassign')
         WebUI.closeWindowIndex(1)
 
         WebUI.switchToWindowIndex(0)
@@ -137,14 +151,38 @@ for (int i = 2; i <= totalRows; i++) {
         WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Transportation and Global Trade Manage_3d15c4/span_Buy Shipment'))
 
         WebUI.delay(3)
-					
+
+        WebUI.setText(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Finder/input_Bulk Plan ID_shipmentbulk_planxid'), 
+            bulkOrderID)
+
+        WebUI.selectOptionByValue(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Finder/select_Begins WithEnds WithIs NullNot NullO_756104'), 
+            'contains', true)
+
+        WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Finder/button_Search'))
+
+        WebUI.delay(3)
+
+        String resultText = WebUI.getText(findTestObject('Object Repository/OTM pages/Page_Buy Shipment Result/span_0'))
+
+        // Print the value (optional, for debugging)
+        println("Text value: $resultText")
+
+        // Check if the value is exactly "0"
+        if (resultText.trim() == '0') {
+            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Unassign Pass')
+        } else {
+            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Unassign Fail')
+        }
+        
+        WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/button_Refine Query'))
+
         continue
     }
-	
-	WebUI.delay(3)
-	
-	Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 1, statusText)
     
+    WebUI.delay(3)
+
+    Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 1, statusText)
+
     // === If not withdrawn, continue normal process ===
     // Your test continues here...
     WebUI.delay(3 // wait for the results
@@ -171,8 +209,7 @@ for (int i = 2; i <= totalRows; i++) {
         )
 
     // WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Validate Unassign/button_Ok'), FailureHandling.OPTIONAL)
-   // WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Success/div_Driver Successfully Unassigned From Shi_382df5'))
-
+    // WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Success/div_Driver Successfully Unassigned From Shi_382df5'))
     WebUI.takeFullPageScreenshot()
 
     WebUI.closeWindowIndex(1)
@@ -211,7 +248,7 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Dispatch Board'))
 
-    WebUI.delay(10)
+    WebUI.delay(20)
 
     WebUI.click(findTestObject('Page_Fleet management/Shipment_adder'))
 
@@ -249,11 +286,11 @@ for (int i = 2; i <= totalRows; i++) {
     WebUI.click(findTestObject('Page_Fleet management/Unassign order release'))
 
     WebUI.click(findTestObject('Page_Fleet management/Unassign_Order_Buy'))
-	
-	WebUI.delay(3)
-	
-	Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Processed')
-	
+
+    WebUI.delay(3)
+
+    Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Processed')
+
     WebUI.takeFullPageScreenshot()
 
     WebUI.delay(5)
@@ -269,8 +306,30 @@ for (int i = 2; i <= totalRows; i++) {
     WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Transportation and Global Trade Manage_3d15c4/span_Buy Shipment'))
 
     WebUI.delay(3)
-	
-	
+
+    WebUI.setText(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Finder/input_Bulk Plan ID_shipmentbulk_planxid'), 
+        bulkOrderID)
+
+    WebUI.selectOptionByValue(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Finder/select_Begins WithEnds WithIs NullNot NullO_756104'), 
+        'contains', true)
+
+    WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Finder/button_Search'))
+
+    WebUI.delay(3)
+
+    String resultText2 = WebUI.getText(findTestObject('Object Repository/OTM pages/Page_Buy Shipment Result/span_0'))
+
+    // Print the value (optional, for debugging)
+    println("Text value: $resultText2")
+
+    // Check if the value is exactly "0"
+    if (resultText2.trim() == '0') {
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Unassign Pass')
+    } else {
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Unassign Fail')
+    }
+    
+    WebUI.click(findTestObject('Page_Buy Shipment Result/button_Refine Query'))
 }
 
 WebUI.closeBrowser()

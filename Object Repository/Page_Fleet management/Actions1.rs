@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;RootPane_2_1&quot;]/wb-layout//span[text()='Actions']</value>
+         <value>//*[@id=&quot;RootPane_2_1_region_3_tableActionsMenuButton&quot;]/button/div/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
