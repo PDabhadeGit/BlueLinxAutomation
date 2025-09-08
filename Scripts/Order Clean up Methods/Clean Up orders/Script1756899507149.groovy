@@ -41,14 +41,17 @@ def testData = TestDataFactory.findTestData('OTM Test Data/Demo Bulk IDs (1)')
 int totalRows = testData.getRowNumbers()
 
 for (int i = 2; i <= totalRows; i++) {
-	
-	def cellValue = testData.getValue(1, i)  // Column 1 — adjust if needed
-	
-		if (cellValue == null || cellValue.trim().isEmpty()) {
-			println("Row $i is empty. Closing browser and exiting loop.")
-			WebUI.closeBrowser()
-			break  // Exit the loop
-		}
+    def cellValue = testData.getValue(1, i // Column 1 — adjust if needed
+        )
+
+    if ((cellValue == null) || cellValue.trim().isEmpty()) {
+        println("Row $i is empty. Closing browser and exiting loop.")
+
+        WebUI.closeBrowser()
+
+        break
+    }
+    
     String bulkOrderID = testData.getValue(1, i // note the row and colunn no.
         )
 
@@ -71,18 +74,18 @@ for (int i = 2; i <= totalRows; i++) {
     // Print the value (optional, for debugging)
     println("Text value: $resultText1")
 
-	    if (resultText1.trim() == '0') {
-	        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Not Found')
-			
-			WebUI.delay(3)
-			
-			WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/button_Refine Query'))
-	
-	        continue
-	    }
-	    
-	    // === Check if Bulk Plan is Withdrawn ===
-	    String statusText = WebUI.getText(findTestObject('New Folder (1)/Page_Buy Shipment Result/div_SECURE RESOURCES_ACCEPTED'))
+    if (resultText1.trim() == '0') {
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 6, 'Not Found')
+
+        WebUI.delay(3)
+
+        WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/button_Refine Query'))
+
+        continue
+    }
+    
+    // === Check if Bulk Plan is Withdrawn ===
+    String statusText = WebUI.getText(findTestObject('New Folder (1)/Page_Buy Shipment Result/div_SECURE RESOURCES_ACCEPTED'))
 
     if (statusText.equalsIgnoreCase('SECURE RESOURCES_WITHDRAWN')) {
         println("Bulk Plan $bulkOrderID is already withdrawn. Skipping...")
@@ -91,7 +94,9 @@ for (int i = 2; i <= totalRows; i++) {
         WebUI.delay(3 // wait for the results
             )
 
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 1, statusText)
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, statusText)
+		
+		Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 4, 'N/A')
 
         //WebUI.click(findTestObject('Page_Buy Shipment Result/button_Refine Query'))
         WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Transportation and Global Trade Management_fa fa-home tm-ugh-icon'))
@@ -142,6 +147,14 @@ for (int i = 2; i <= totalRows; i++) {
         WebUI.click(findTestObject('Page_Fleet management/Unassign_Order_Buy'))
 
         WebUI.delay(3)
+		
+		String unassign_order = WebUI.getText(findTestObject('Page_Order Unassigned and Order Movements Deleted/h1_Order Unassigned and Order Movements Deleted'))
+		
+		if (unassign_order.trim() == 'Order Unassigned and Order Movements Deleted') {
+			Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'Unassign Pass')
+		} else {
+			Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'Unassign Fail')
+		}
 
         WebUI.takeFullPageScreenshot()
 
@@ -177,9 +190,9 @@ for (int i = 2; i <= totalRows; i++) {
 
         // Check if the value is exactly "0"
         if (resultText.trim() == '0') {
-            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Unassign Pass')
+            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 6, 'Unassign Pass')
         } else {
-            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Unassign Fail')
+            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 6, 'Unassign Fail')
         }
         
         WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/button_Refine Query'))
@@ -189,41 +202,53 @@ for (int i = 2; i <= totalRows; i++) {
     
     WebUI.delay(3)
 
-    Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 1, statusText)
+    Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, statusText)
 
     // === If not withdrawn, continue normal process ===
     // Your test continues here...
-    WebUI.delay(3 // wait for the results
-        )
+    WebUI.delay(3)
 
-    WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected'))
+    String driver = WebUI.getText(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'))
 
-    WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/button_Actions'))
+    if ((driver != null) && !(driver.trim().isEmpty())) {
+        WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected'))
 
-    WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/span_Fleet Management'))
+        WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/button_Actions'))
 
-    WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/span_Fleet Unassign'))
+        WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/span_Fleet Management'))
 
-    WebUI.delay(3 // wait for the results
-        )
+        WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/span_Fleet Unassign'))
 
-    WebUI.scrollToElement(findTestObject('New Folder (1)/Page_Buy Shipment Result/a_Driver'), 200)
+        WebUI.delay(3)
 
-    WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/a_Driver'))
+        WebUI.scrollToElement(findTestObject('New Folder (1)/Page_Buy Shipment Result/a_Driver'), 200)
 
-    WebUI.switchToWindowIndex(1)
+        WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/a_Driver'))
 
-    WebUI.delay(3 // wait for the results
-        )
+        WebUI.switchToWindowIndex(1)
 
-    // WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Validate Unassign/button_Ok'), FailureHandling.OPTIONAL)
-    // WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Success/div_Driver Successfully Unassigned From Shi_382df5'))
-    WebUI.takeFullPageScreenshot()
+        WebUI.delay(3)
 
-    WebUI.closeWindowIndex(1)
+        String unassigndriver = WebUI.getText(findTestObject('Page_Success/h1_Success'))
 
-    WebUI.switchToWindowIndex(0)
+        if (unassigndriver.trim() == 'Success') {
+            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, 'Unassign Pass')
+        } else {
+            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, 'Unassign Fail')
+        }
+        
+        WebUI.takeFullPageScreenshot()
 
+        WebUI.closeWindowIndex(1)
+
+        WebUI.switchToWindowIndex(0)
+    } else {
+        String message = 'N/A'
+
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, message)
+    }
+    
+ 
     WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/button_Actions'))
 
     //WebUI.switchToWindowTitle('Buy Shipment Result')
@@ -240,6 +265,14 @@ for (int i = 2; i <= totalRows; i++) {
     WebUI.delay(3 // wait for the results
         )
 
+    String Withdrawstatus = WebUI.getText(findTestObject('Page_Withdraw Tender/h1_Withdraw Tender'))
+
+    if (Withdrawstatus.trim() == 'Withdraw Tender') {
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 4, 'Unassign Pass')
+    } else {
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 4, 'Unassign Fail')
+    }
+    
     WebUI.closeWindowIndex(1)
 
     WebUI.delay(3)
@@ -297,8 +330,15 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.delay(3)
 
-    Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Processed')
+    String unassign_order = WebUI.getText(findTestObject('Page_Order Unassigned and Order Movements Deleted/h1_Order Unassigned and Order Movements Deleted'))
+	
+	if (unassign_order.trim() == 'Order Unassigned and Order Movements Deleted') {
+		Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'Unassign Pass')
+	} else {
+		Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'Unassign Fail')
+	}
 
+    //Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Processed')
     WebUI.takeFullPageScreenshot()
 
     WebUI.delay(5)
@@ -332,9 +372,9 @@ for (int i = 2; i <= totalRows; i++) {
 
     // Check if the value is exactly "0"
     if (resultText2.trim() == '0') {
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Unassign Pass')
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 6, 'Unassign Pass')
     } else {
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Unassign Fail')
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 6, 'Unassign Fail')
     }
     
     WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/button_Refine Query'))
