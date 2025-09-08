@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Success</name>
+   <tag></tag>
+   <elementGuidId>7fab9bb6-4311-4e86-91cd-229f9d4b7633</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation'])[1]/preceding::h1[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Success&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>00d3655a-b89b-482c-9419-e2b2360bbebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Success</value>
+      <webElementGuid>d02b07be-c959-4b94-b721-700e161398df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;body2&quot;]/div[@class=&quot;bodyHeaderCont&quot;]/table[@class=&quot;hdLine&quot;]/tbody[1]/tr[1]/td[@class=&quot;hdTitle&quot;]/h1[1]</value>
+      <webElementGuid>d17b766e-e3b1-489b-b14e-193573768d5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Success/iframe_Capture object_mainBody</value>
+      <webElementGuid>96f658bf-b4d3-4acf-8dbc-d5712a7a1ae3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation'])[1]/preceding::h1[1]</value>
+      <webElementGuid>bbcf030d-4040-4e24-b019-42bd85e5009b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Driver Successfully Unassigned From Shipment(s)'])[1]/preceding::h1[1]</value>
+      <webElementGuid>1ded1e32-d695-4167-ab8c-4bec72610586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>2c30822e-682b-4dc3-b80d-647d25664fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Success' or . = 'Success')]</value>
+      <webElementGuid>8522837b-a46b-4e4f-ad64-68f966690fbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
