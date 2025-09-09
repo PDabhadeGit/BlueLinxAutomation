@@ -19,18 +19,13 @@ import net.sf.cglib.beans.BulkBean as BulkBean
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.testdata.TestDataFactory as TestDataFactory
 import com.utils.Write_Status as Write_Status
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+import org.openqa.selenium.JavascriptExecutor as JavascriptExecutor
+import org.openqa.selenium.WebElement as WebElement
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('OTM_Methods/Login_OTM'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://otmgtm-dev1-summit1.otmgtm.us-ashburn-1.ocs.oraclecloud.com/GC3/glog.webserver.home.HomeServlet?ojr=maincontent')
-
-WebUI.setText(findTestObject('Page_Cloud Sign In/input_User Name_idcs-signin-basic-signin-fo_93898c'), 'Gaurav.prasad@bluelinxco.com')
-
-WebUI.setEncryptedText(findTestObject('Page_Cloud Sign In/input_Password_idcs-signin-basic-signin-for_2f0e89'), 'TCRrBFWPcdYfr+QHQbxu/A==')
-
-WebUI.click(findTestObject('Page_Cloud Sign In/span_Sign In'))
-
-WebUI.maximizeWindow()
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'))
 
@@ -52,7 +47,7 @@ for (int i = 2; i <= totalRows; i++) {
         break
     }
     
-    String bulkOrderID = testData.getValue(1, i // note the row and colunn no.
+    String bulkOrderID = testData.getValue(1, i // note the row and colunn no.)
         )
 
     println('Running for Bulk Order ID: ' + bulkOrderID)
@@ -77,6 +72,12 @@ for (int i = 2; i <= totalRows; i++) {
     if (resultText1.trim() == '0') {
         Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 6, 'Not Found')
 
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, 'N/A')
+
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 4, 'N/A')
+
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'N/A')
+
         WebUI.delay(3)
 
         WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/button_Refine Query'))
@@ -95,9 +96,55 @@ for (int i = 2; i <= totalRows; i++) {
             )
 
         Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, statusText)
-		
-		Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 4, 'N/A')
 
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 4, 'N/A')
+
+        WebUI.delay(3)
+
+        //WebElement scrollableElement =
+        WebUI.scrollToElement(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'), 100)
+
+        //JavascriptExecutor js = (JavascriptExecutor) DriverFactory.getWebDriver()
+        //js.executeScript("arguments[0].scrollLeft += 500;", scrollableElement)
+        String driver = WebUI.getText(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'))
+
+        if ((driver != null) && !(driver.trim().isEmpty())) {
+            WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected'))
+
+            WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/button_Actions'))
+
+            WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/span_Fleet Management'))
+
+            WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/span_Fleet Unassign'))
+
+            WebUI.delay(3)
+
+            WebUI.scrollToElement(findTestObject('New Folder (1)/Page_Buy Shipment Result/a_Driver'), 200)
+
+            WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/a_Driver'))
+
+            WebUI.switchToWindowIndex(1)
+
+            WebUI.delay(3)
+
+            String unassigndriver = WebUI.getText(findTestObject('Page_Success/h1_Success'))
+
+            if (unassigndriver.trim() == 'Success') {
+                Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, 'Unassign Pass')
+            } else {
+                Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, 'Unassign Fail')
+            }
+            
+            WebUI.takeFullPageScreenshot()
+
+            WebUI.closeWindowIndex(1)
+
+            WebUI.switchToWindowIndex(0)
+        } 
+		else {
+            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, 'N/A')
+        }
+        
         //WebUI.click(findTestObject('Page_Buy Shipment Result/button_Refine Query'))
         WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Transportation and Global Trade Management_fa fa-home tm-ugh-icon'))
 
@@ -105,7 +152,7 @@ for (int i = 2; i <= totalRows; i++) {
 
         WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Dispatch Board'))
 
-        WebUI.delay(20)
+        WebUI.delay(30)
 
         WebUI.click(findTestObject('Page_Fleet management/Shipment_adder'))
 
@@ -147,15 +194,19 @@ for (int i = 2; i <= totalRows; i++) {
         WebUI.click(findTestObject('Page_Fleet management/Unassign_Order_Buy'))
 
         WebUI.delay(3)
-		
-		String unassign_order = WebUI.getText(findTestObject('Page_Order Unassigned and Order Movements Deleted/h1_Order Unassigned and Order Movements Deleted'))
-		
-		if (unassign_order.trim() == 'Order Unassigned and Order Movements Deleted') {
-			Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'Unassign Pass')
-		} else {
-			Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'Unassign Fail')
-		}
 
+        WebUI.switchToWindowIndex(1)
+
+        WebUI.delay(3)
+
+        String unassign_order = WebUI.getText(findTestObject('Page_Order Unassigned and Order Movements Deleted/h1_Order Unassigned and Order Movements Deleted'))
+
+        if (unassign_order.trim() == 'Order Unassigned and Order Movements Deleted') {
+            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'Unassign Pass')
+        } else {
+            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'Unassign Fail')
+        }
+        
         WebUI.takeFullPageScreenshot()
 
         WebUI.delay(3)
@@ -208,6 +259,11 @@ for (int i = 2; i <= totalRows; i++) {
     // Your test continues here...
     WebUI.delay(3)
 
+    //WebElement scrollableElement = 
+    WebUI.scrollToElement(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'), 100)
+
+    //JavascriptExecutor js = (JavascriptExecutor) DriverFactory.getWebDriver()
+    //js.executeScript("arguments[0].scrollLeft += 500;", scrollableElement)
     String driver = WebUI.getText(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'))
 
     if ((driver != null) && !(driver.trim().isEmpty())) {
@@ -248,7 +304,6 @@ for (int i = 2; i <= totalRows; i++) {
         Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, message)
     }
     
- 
     WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/button_Actions'))
 
     //WebUI.switchToWindowTitle('Buy Shipment Result')
@@ -289,7 +344,7 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Dispatch Board'))
 
-    WebUI.delay(20)
+    WebUI.delay(30)
 
     WebUI.click(findTestObject('Page_Fleet management/Shipment_adder'))
 
@@ -330,14 +385,16 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.delay(3)
 
-    String unassign_order = WebUI.getText(findTestObject('Page_Order Unassigned and Order Movements Deleted/h1_Order Unassigned and Order Movements Deleted'))
-	
-	if (unassign_order.trim() == 'Order Unassigned and Order Movements Deleted') {
-		Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'Unassign Pass')
-	} else {
-		Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'Unassign Fail')
-	}
+    WebUI.switchToWindowIndex(1)
 
+    String unassign_order = WebUI.getText(findTestObject('Page_Order Unassigned and Order Movements Deleted/h1_Order Unassigned and Order Movements Deleted'))
+
+    if (unassign_order.trim() == 'Order Unassigned and Order Movements Deleted') {
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'Unassign Pass')
+    } else {
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 5, 'Unassign Fail')
+    }
+    
     //Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Processed')
     WebUI.takeFullPageScreenshot()
 

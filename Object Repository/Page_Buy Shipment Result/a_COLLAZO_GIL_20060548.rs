@@ -6,12 +6,12 @@
    <elementGuidId>32f08f3d-2704-4c8c-adfa-de8780b2e6b7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='rgSGSec.2.2.1.17.k']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;rgSGSec.2.2.1.17&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>39038c42-f66e-431c-9f97-ee61b1830ba8</webElementGuid>
+      <webElementGuid>0631e78e-e5f0-49ed-912e-2da4914dde62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>rgSGSec.2.2.1.17.k</value>
-      <webElementGuid>1e79f680-e5b5-41fc-a8af-56138460f50f</webElementGuid>
+      <webElementGuid>d80244be-db87-42c9-a721-40e45af3d67d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>c9f0c802-b926-4632-a4e8-c54c7fffe664</webElementGuid>
+      <webElementGuid>1c6a9b95-e546-4351-a9dc-0b05f415aa41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>eb7e9015-2d5f-441b-afe5-f7ead6348334</webElementGuid>
+      <webElementGuid>8723ef31-bfda-4a0a-926e-33344778afe7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>javascript:OpenViewForFinderResult('glog.server.query.driver.DriverQuery', 'resultsPage:result', 'input_2_1_17', 'Driver\x20ID','','COLLAZO_GIL_20060548','BXC.COLLAZO_GIL_20060548');</value>
-      <webElementGuid>3914add4-ac48-4ff9-893f-13556887d2b5</webElementGuid>
+      <webElementGuid>b98c25db-55a3-4d6b-b66d-0ee1bff20257</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>COLLAZO_GIL_20060548</value>
-      <webElementGuid>cf6340e4-349e-4e39-a81c-e4ad79e7103d</webElementGuid>
+      <webElementGuid>da7845b7-bdcd-45d1-b20e-75c2c882c1ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;rgSGSec.2.2.1.17.k&quot;)</value>
-      <webElementGuid>255eb172-d839-4c3e-a274-ab38efc6645f</webElementGuid>
+      <webElementGuid>1df41a04-c349-44c2-887e-e1bb0d38aadc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_Buy Shipment Result/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame (1)</value>
-      <webElementGuid>7008800b-0427-4a6a-90eb-28a2a7d0cc53</webElementGuid>
+      <webElementGuid>b1aa36ff-adc6-4297-9677-d6b4663c6aa9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='rgSGSec.2.2.1.17.k']</value>
-      <webElementGuid>cc19f6f4-c79e-4c12-9684-5e49b780d084</webElementGuid>
+      <webElementGuid>99afe0e0-3266-499a-83db-462b9a8ff8f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='rgSGSec.2.2.1.17']/a</value>
-      <webElementGuid>f40e0c78-815b-42e9-9624-d490fa7f00e8</webElementGuid>
+      <webElementGuid>2c810c4d-305f-4a16-804a-5ef6ad8d0730</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'COLLAZO_GIL_20060548')]</value>
-      <webElementGuid>de3193c0-0aab-4c50-bc14-3020747f6d07</webElementGuid>
+      <webElementGuid>ee782c7e-ecae-4651-9e71-98fd51fc18c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FLEET'])[1]/following::a[1]</value>
-      <webElementGuid>8ab46ec4-9c5c-4d6c-9d55-f32ffcf87623</webElementGuid>
+      <webElementGuid>bdda489b-b4ca-4e1d-9d7b-bb352f3bb2c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NWK'])[1]/following::a[2]</value>
-      <webElementGuid>2ba450e3-4ff9-4295-8f76-3894c88494b4</webElementGuid>
+      <webElementGuid>0f5917e5-54ed-49a8-b09d-476c86f506df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ENROUTE_NOT STARTED'])[1]/preceding::a[2]</value>
-      <webElementGuid>97c6aebd-397f-464a-bfc9-808319c057aa</webElementGuid>
+      <webElementGuid>caebd6c0-f3fb-4adc-a6d5-24be1857daf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BXC'])[1]/preceding::a[2]</value>
-      <webElementGuid>8d4e3575-aa26-4bda-bf4f-0bd6a194e57a</webElementGuid>
+      <webElementGuid>92cf1138-0b75-4936-8248-599e5b44aa30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='COLLAZO_GIL_20060548']/parent::*</value>
-      <webElementGuid>34f02435-f7e9-47e4-aebc-6a7c8024e9f2</webElementGuid>
+      <webElementGuid>3a0f6e64-dd11-4147-bf77-6b62f64fb8f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0);')])[8]</value>
-      <webElementGuid>55440577-a9e4-4fb6-adee-01d2444ca28c</webElementGuid>
+      <webElementGuid>e4ac23d2-907d-4225-a3ea-485d134e7162</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[17]/a</value>
-      <webElementGuid>62990650-0c31-448e-8eaa-ece44317b4ac</webElementGuid>
+      <webElementGuid>07d93e77-65dc-43f6-8fba-41f2a846bf21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'rgSGSec.2.2.1.17.k' and @href = 'javascript:void(0);' and (text() = 'COLLAZO_GIL_20060548' or . = 'COLLAZO_GIL_20060548')]</value>
-      <webElementGuid>21995be1-51b3-4067-9ef6-9016e58964b7</webElementGuid>
+      <webElementGuid>2fd9b729-2826-43eb-b476-e890005e35e3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
