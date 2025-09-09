@@ -22,10 +22,15 @@ import com.utils.Write_Status as Write_Status
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import org.openqa.selenium.JavascriptExecutor as JavascriptExecutor
 import org.openqa.selenium.WebElement as WebElement
+import org.openqa.selenium.WebDriver as WebDriver
+import org.openqa.selenium.By as By
+
 
 WebUI.callTestCase(findTestCase('OTM_Methods/Login_OTM'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(10)
+
+WebDriver driver = DriverFactory.getWebDriver()
 
 WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'))
 
@@ -106,44 +111,44 @@ for (int i = 2; i <= totalRows; i++) {
 
         //JavascriptExecutor js = (JavascriptExecutor) DriverFactory.getWebDriver()
         //js.executeScript("arguments[0].scrollLeft += 500;", scrollableElement)
-        String driver = WebUI.getText(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'))
-
-        if ((driver != null) && !(driver.trim().isEmpty())) {
-            WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected'))
-
-            WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/button_Actions'))
-
-            WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/span_Fleet Management'))
-
-            WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/span_Fleet Unassign'))
-
-            WebUI.delay(3)
-
-            WebUI.scrollToElement(findTestObject('New Folder (1)/Page_Buy Shipment Result/a_Driver'), 200)
-
-            WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/a_Driver'))
-
-            WebUI.switchToWindowIndex(1)
-
-            WebUI.delay(3)
-
-            String unassigndriver = WebUI.getText(findTestObject('Page_Success/h1_Success'))
-
-            if (unassigndriver.trim() == 'Success') {
-                Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, 'Unassign Pass')
-            } else {
-                Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, 'Unassign Fail')
-            }
-            
-            WebUI.takeFullPageScreenshot()
-
-            WebUI.closeWindowIndex(1)
-
-            WebUI.switchToWindowIndex(0)
-        } 
-		else {
-            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, 'N/A')
-        }
+			String driver1 = WebUI.getText(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'))
+	
+	        if ((driver1 != null) && !(driver1.trim().isEmpty())) {
+	            WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected'))
+	
+	            WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/button_Actions'))
+	
+	            WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/span_Fleet Management'))
+	
+	            WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/span_Fleet Unassign'))
+	
+	            WebUI.delay(3)
+	
+	            WebUI.scrollToElement(findTestObject('New Folder (1)/Page_Buy Shipment Result/a_Driver'), 200)
+	
+	            WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/a_Driver'))
+	
+	            WebUI.switchToWindowIndex(1)
+	
+	            WebUI.delay(3)
+	
+	            String unassigndriver = WebUI.getText(findTestObject('Page_Success/h1_Success'))
+	
+	            if (unassigndriver.trim() == 'Success') {
+	                Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, 'Unassign Pass')
+	            } else {
+	                Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, 'Unassign Fail')
+	            }
+	            
+	            WebUI.takeFullPageScreenshot()
+	
+	            WebUI.closeWindowIndex(1)
+	
+	            WebUI.switchToWindowIndex(0)
+	        } 
+			else {
+	            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 3, 'N/A')
+	        }
         
         //WebUI.click(findTestObject('Page_Buy Shipment Result/button_Refine Query'))
         WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Transportation and Global Trade Management_fa fa-home tm-ugh-icon'))
@@ -182,8 +187,39 @@ for (int i = 2; i <= totalRows; i++) {
 
         WebUI.click(findTestObject('Page_Fleet management/checkbox3'))
 
-        WebUI.delay(3 // wait for the results
-            )
+        WebUI.delay(3)
+		
+		WebElement table = driver.findElement(By.xpath('//*[@id="RootPane_2_1"]/wb-layout//*[@id="RootPane_2_1_region_3_moduleRegion"]/div[1]'))
+		 
+		List<WebElement> rows = table.findElements(By.xpath('.//tbody/tr'))
+		 
+		println('Total rows: ' + rows.size())
+		 
+		List<String> fifthColumnValues = []
+		 
+		 
+		for (int k = 0; k < rows.size(); k++) {
+			WebElement row = rows.get(k)
+			List<WebElement> cols = row.findElements(By.tagName('td'))
+		 
+			if (cols.size() >= 5) {
+				String cellText = cols[4].getText().trim()
+		 
+				println("Row ${k + 1}, Column 5: ${cellText}")
+		 
+				fifthColumnValues.add(cellText)
+			} else {
+				println("Row ${k + 1} has less than 5 columns")
+			}
+		}
+		 
+		String combinedText = fifthColumnValues.join(', ')
+		 
+		println("Combined 5th column values: ${combinedText}")
+		 
+		Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 1, combinedText)
+			
+		WebUI.delay(3)
 
         WebUI.click(findTestObject('Page_Fleet management/Actions1'))
 
@@ -264,9 +300,9 @@ for (int i = 2; i <= totalRows; i++) {
 
     //JavascriptExecutor js = (JavascriptExecutor) DriverFactory.getWebDriver()
     //js.executeScript("arguments[0].scrollLeft += 500;", scrollableElement)
-    String driver = WebUI.getText(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'))
+    String driver1 = WebUI.getText(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'))
 
-    if ((driver != null) && !(driver.trim().isEmpty())) {
+    if ((driver1 != null) && !(driver1.trim().isEmpty())) {
         WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected'))
 
         WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/button_Actions'))
@@ -372,8 +408,39 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.click(findTestObject('Page_Fleet management/checkbox3'))
 
-    WebUI.delay(3 // wait for the results
-        )
+	WebUI.delay(3)
+		
+	WebElement table = driver.findElement(By.xpath('//*[@id="RootPane_2_1"]/wb-layout//*[@id="RootPane_2_1_region_3_moduleRegion"]/div[1]'))
+		 
+	List<WebElement> rows = table.findElements(By.xpath('.//tbody/tr'))
+		 
+		println('Total rows: ' + rows.size())
+		 
+	List<String> fifthColumnValues = []
+		 
+		 
+	for (int k = 0; k < rows.size(); k++) {
+		WebElement row = rows.get(k)
+		List<WebElement> cols = row.findElements(By.tagName('td'))
+		 
+		if (cols.size() >= 5) {
+				String cellText = cols[4].getText().trim()
+		 
+				println("Row ${k + 1}, Column 5: ${cellText}")
+		 
+				fifthColumnValues.add(cellText)
+		} else {
+				println("Row ${k + 1} has less than 5 columns")
+			}
+		}
+		 
+	String combinedText = fifthColumnValues.join(', ')
+		 
+	println("Combined 5th column values: ${combinedText}")
+		 
+	Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 1, combinedText)
+		
+	WebUI.delay(3)
 
     WebUI.click(findTestObject('Page_Fleet management/Actions1'))
 
