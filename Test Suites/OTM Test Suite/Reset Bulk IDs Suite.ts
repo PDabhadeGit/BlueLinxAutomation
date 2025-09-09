@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Unplan Order Demo Suite</name>
+   <name>Reset Bulk IDs Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>4afafc5e-667d-44bd-9927-91a629fdfbe4</testSuiteGuid>
+   <testSuiteGuid>4365b5a4-2bee-4785-bc47-6b4e9d013437</testSuiteGuid>
    <testCaseLink>
-      <guid>50ebce40-5614-4a99-915a-21e42ccc9c13</guid>
+      <guid>7ad7d9c5-df41-4a1d-81ec-bbf551874be7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Order Clean up Methods/Clean Up orders</testCaseId>
