@@ -24,16 +24,14 @@ import org.openqa.selenium.JavascriptExecutor as JavascriptExecutor
 import org.openqa.selenium.WebElement as WebElement
 import org.openqa.selenium.WebDriver as WebDriver
 import org.openqa.selenium.By as By
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-
 
 WebUI.callTestCase(findTestCase('OTM_Methods/Login_OTM'), [:], FailureHandling.STOP_ON_FAILURE)
-
 
 WebDriver driver = DriverFactory.getWebDriver()
 
 // Wait for an element to be visible (max 15 seconds)
-WebUI.waitForElementVisible(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'), 15)
+WebUI.waitForElementVisible(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'), 
+    15)
 
 WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'))
 
@@ -159,11 +157,13 @@ for (int i = 2; i <= totalRows; i++) {
 
         WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Dispatch Board'))
 
-        WebUI.delay(30)
+		WebUI.delay(50)
+		
+		//WebUI.waitForElementVisible(findTestObject('Page_Fleet management/Shipment_adder'),40)
 
         WebUI.click(findTestObject('Page_Fleet management/Shipment_adder'))
-
-        WebUI.delay(5)
+		
+		WebUI.delay(10)
 
         WebUI.switchToFrame(findTestObject('Shipment_finder'), 1)
 
@@ -185,11 +185,11 @@ for (int i = 2; i <= totalRows; i++) {
 
         WebUI.click(findTestObject('Page_Fleet management/Shipment order_release'))
 
-        WebUI.delay(5)
+        WebUI.delay(15)
 
         WebUI.click(findTestObject('Page_Fleet management/checkbox3'))
 
-        WebUI.delay(5)
+        WebUI.delay(10)
 
         WebElement table = driver.findElement(By.xpath('//*[@id="RootPane_2_1"]/wb-layout//*[@id="RootPane_2_1_region_3_moduleRegion"]/div[1]'))
 
@@ -208,10 +208,11 @@ for (int i = 2; i <= totalRows; i++) {
                 String cellText = (cols[4]).getText().trim()
 
                 //println("Row $(k + 1), Column 5: $cellText")
-
                 fifthColumnValues.add(cellText)
+				
+				Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', k , 0, cellText) 
+				//  println("Row $(k + 1) has less than 5 columns")
             } else {
-              //  println("Row $(k + 1) has less than 5 columns")
             }
         }
         
@@ -220,7 +221,30 @@ for (int i = 2; i <= totalRows; i++) {
         println("Combined 5th column values: $combinedText")
 
         Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 1, combinedText)
+		
+		
+        /*for (int z = 0; z < rows.size(); z++) {
+            WebElement row = rows.get(z)
 
+            List<WebElement> cols = row.findElements(By.tagName('td'))
+
+            if (cols.size() >= 5) {
+                String cellText = (cols[4]).getText().trim()
+
+                //println("Row $(z + 1), Column 5: $cellText")
+
+                fifthColumnValues.add(cellText)
+            } else {
+                //println("Row $(z + 1) has less than 5 columns")
+            }
+        }
+        
+        for (int p = 1; p < fifthColumnValues.size(); p++) {
+            String value = fifthColumnValues.get(p)
+
+            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', p, 0, value)
+        }*/
+        
         WebUI.delay(10)
 
         WebUI.click(findTestObject('Page_Fleet management/Actions1'))
@@ -382,11 +406,13 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Dispatch Board'))
 
-    WebUI.delay(30)
+	WebUI.delay(50)
+		
+		//WebUI.waitForElementVisible(findTestObject('Page_Fleet management/Shipment_adder'),40)
 
     WebUI.click(findTestObject('Page_Fleet management/Shipment_adder'))
-
-    WebUI.switchToFrame(findTestObject('Shipment_finder'), 1)
+		
+	WebUI.delay(10)
 
     WebUI.setText(findTestObject('Page_Fleet management/Bulk plan id'), bulkOrderID)
 
@@ -406,7 +432,7 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.click(findTestObject('Page_Fleet management/Shipment order_release'))
 
-    WebUI.delay(5)
+    WebUI.delay(15)
 
     WebUI.click(findTestObject('Page_Fleet management/checkbox3'))
 
@@ -429,10 +455,11 @@ for (int i = 2; i <= totalRows; i++) {
             String cellText = (cols[4]).getText().trim()
 
             //println("Row $(k + 1), Column 5: $cellText")
-
-            fifthColumnValues.add(cellText)
+            fifthColumnValues.add(cellText) //println("Row $(k + 1) has less than 5 columns")
+			
+			Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', k , 0, cellText)
+			
         } else {
-           //println("Row $(k + 1) has less than 5 columns")
         }
     }
     
@@ -442,6 +469,28 @@ for (int i = 2; i <= totalRows; i++) {
 
     Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 1, combinedText)
 
+    /*for (int z = 0; z < rows.size(); z++) {
+        WebElement row = rows.get(z)
+
+        List<WebElement> cols = row.findElements(By.tagName('td'))
+
+        if (cols.size() >= 5) {
+            String cellText = (cols[4]).getText().trim()
+
+            //println("Row $(z + 1), Column 5: $cellText")
+
+            fifthColumnValues.add(cellText)
+        } else {
+            //println("Row $(z + 1) has less than 5 columns")
+        }
+    }
+    
+    for (int p = 1; p < fifthColumnValues.size(); p++) {
+        String value = fifthColumnValues.get(p)
+
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', p, 0, value)
+    }*/
+    
     WebUI.delay(10)
 
     WebUI.click(findTestObject('Page_Fleet management/Actions1'))

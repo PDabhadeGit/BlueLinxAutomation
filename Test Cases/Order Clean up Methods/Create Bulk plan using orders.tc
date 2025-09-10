@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Bulk plan using orders</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c49fdaef-bb6c-4fb3-80af-64f2d79e10dd</testCaseGuid>
+</TestCaseEntity>

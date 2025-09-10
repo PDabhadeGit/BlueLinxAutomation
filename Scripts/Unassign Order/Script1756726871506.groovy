@@ -84,6 +84,24 @@ String combinedText = fifthColumnValues.join(', ')
 println("Combined 5th column values: ${combinedText}")
  
 Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', 1, 1, combinedText)
+
+for (int z = 0; z < rows.size(); z++) {
+	WebElement row = rows.get(z)
+	List<WebElement> cols = row.findElements(By.tagName('td'))
+
+	if (cols.size() >= 5) {
+		String cellText = cols[4].getText().trim()
+		println("Row ${z + 1}, Column 5: ${cellText}")
+		fifthColumnValues.add(cellText)
+	} else {
+		println("Row ${z + 1} has less than 5 columns")
+	}
+}
+
+for (int p = 0; p < fifthColumnValues.size(); p++) {
+	String value = fifthColumnValues.get(p)
+	Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', p + 1, 1, value)
+}
  
 WebUI.closeBrowser()
  

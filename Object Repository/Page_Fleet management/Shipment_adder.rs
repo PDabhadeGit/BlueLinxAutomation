@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//oj-button[@id='RootPane_1_1_region_0_addRows']//span[@class='oj-ux-ico-playlist-add-check toolbar-oj-ux-icon']</value>
+         <value>//*[@id=&quot;RootPane_1_1_region_0_addRows&quot;]/button/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
