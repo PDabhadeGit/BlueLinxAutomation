@@ -31,7 +31,7 @@ WebDriver driver = DriverFactory.getWebDriver()
 
 // Wait for an element to be visible (max 15 seconds)
 WebUI.waitForElementVisible(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'), 
-    15)
+    30)
 
 WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'))
 

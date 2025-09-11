@@ -23,6 +23,12 @@ import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 
 WebUI.callTestCase(findTestCase('OTM_Methods/Login_OTM'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.waitForElementVisible(findTestObject('Object Repository/Bulk Creation/Page_Transportation and Global Trade Manage_3d15c4/div_Order Management'), 
+    30)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Bulk Creation/Page_Transportation and Global Trade Manage_3d15c4/div_Order Management'), 
+    30)
+
 WebUI.click(findTestObject('Object Repository/Bulk Creation/Page_Transportation and Global Trade Manage_3d15c4/div_Order Management'))
 
 WebUI.click(findTestObject('Object Repository/Bulk Creation/Page_Transportation and Global Trade Manage_3d15c4/span_Order Release'))
@@ -96,8 +102,7 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Transportation and Global Trade Management_fa fa-home tm-ugh-icon'))
 
-   // WebUI.click(findTestObject('Object Repository/Bulk Creation/Page_Transportation and Global Trade Manage_3d15c4/div_Order Management'), FailureHandling.OPTIONAL)
-
+    // WebUI.click(findTestObject('Object Repository/Bulk Creation/Page_Transportation and Global Trade Manage_3d15c4/div_Order Management'), FailureHandling.OPTIONAL)
     WebUI.click(findTestObject('Object Repository/Bulk Creation/Page_Transportation and Global Trade Manage_3d15c4/span_Order Release'))
 
     WebUI.click(findTestObject('Object Repository/Bulk Creation/Page_Order Release Finder/input_Order Release ID_order_releasexid'))
