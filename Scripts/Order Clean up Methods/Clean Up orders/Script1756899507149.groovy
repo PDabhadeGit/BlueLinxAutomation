@@ -157,13 +157,12 @@ for (int i = 2; i <= totalRows; i++) {
 
         WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Dispatch Board'))
 
-		WebUI.delay(50)
-		
-		//WebUI.waitForElementVisible(findTestObject('Page_Fleet management/Shipment_adder'),40)
+        WebUI.delay(50)
 
+        //WebUI.waitForElementVisible(findTestObject('Page_Fleet management/Shipment_adder'),40)
         WebUI.click(findTestObject('Page_Fleet management/Shipment_adder'))
-		
-		WebUI.delay(10)
+
+        WebUI.delay(10)
 
         WebUI.switchToFrame(findTestObject('Shipment_finder'), 1)
 
@@ -209,9 +208,8 @@ for (int i = 2; i <= totalRows; i++) {
 
                 //println("Row $(k + 1), Column 5: $cellText")
                 fifthColumnValues.add(cellText)
-				
-				Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', k , 0, cellText) 
-				//  println("Row $(k + 1) has less than 5 columns")
+
+                Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', k, 0, cellText) //  println("Row $(k + 1) has less than 5 columns")
             } else {
             }
         }
@@ -221,8 +219,7 @@ for (int i = 2; i <= totalRows; i++) {
         println("Combined 5th column values: $combinedText")
 
         Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 1, combinedText)
-		
-		
+
         /*for (int z = 0; z < rows.size(); z++) {
             WebElement row = rows.get(z)
 
@@ -244,7 +241,6 @@ for (int i = 2; i <= totalRows; i++) {
 
             Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', p, 0, value)
         }*/
-        
         WebUI.delay(10)
 
         WebUI.click(findTestObject('Page_Fleet management/Actions1'))
@@ -319,10 +315,12 @@ for (int i = 2; i <= totalRows; i++) {
 
     // === If not withdrawn, continue normal process ===
     // Your test continues here...
-    WebUI.delay(3)
+    WebUI.delay(5)
 
     //WebElement scrollableElement = 
-    WebUI.scrollToElement(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'), 100)
+    WebUI.scrollToElement(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'), 130)
+
+    WebUI.delay(5)
 
     //JavascriptExecutor js = (JavascriptExecutor) DriverFactory.getWebDriver()
     //js.executeScript("arguments[0].scrollLeft += 500;", scrollableElement)
@@ -406,13 +404,12 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Dispatch Board'))
 
-	WebUI.delay(50)
-		
-		//WebUI.waitForElementVisible(findTestObject('Page_Fleet management/Shipment_adder'),40)
+    WebUI.delay(50)
 
+    //WebUI.waitForElementVisible(findTestObject('Page_Fleet management/Shipment_adder'),40)
     WebUI.click(findTestObject('Page_Fleet management/Shipment_adder'))
-		
-	WebUI.delay(10)
+
+    WebUI.delay(10)
 
     WebUI.setText(findTestObject('Page_Fleet management/Bulk plan id'), bulkOrderID)
 
@@ -455,10 +452,10 @@ for (int i = 2; i <= totalRows; i++) {
             String cellText = (cols[4]).getText().trim()
 
             //println("Row $(k + 1), Column 5: $cellText")
-            fifthColumnValues.add(cellText) //println("Row $(k + 1) has less than 5 columns")
-			
-			Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', k , 0, cellText)
-			
+            fifthColumnValues.add(cellText //println("Row $(k + 1) has less than 5 columns")
+                )
+
+            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', k, 0, cellText)
         } else {
         }
     }
@@ -490,7 +487,6 @@ for (int i = 2; i <= totalRows; i++) {
 
         Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', p, 0, value)
     }*/
-    
     WebUI.delay(10)
 
     WebUI.click(findTestObject('Page_Fleet management/Actions1'))

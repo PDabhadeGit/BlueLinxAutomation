@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_COLLAZO_GIL_20060548</name>
+   <name>a_Change Pickup and Delivery Dates</name>
    <tag></tag>
-   <elementGuidId>32f08f3d-2704-4c8c-adfa-de8780b2e6b7</elementGuidId>
+   <elementGuidId>dc7da40e-04ad-4b24-9471-654ed6364307</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;rgSGSec.2.2.1.17&quot;]</value>
+         <value>//a[@id='actionTree.1_4_1_1.k']</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;COLLAZO_GIL_20060548&quot;i]</value>
+         <value>internal:role=link[name=&quot;Change Pickup and Delivery Dates&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>81d8ade1-9e68-4746-ad16-e4753d4e83e9</webElementGuid>
+      <webElementGuid>1caecb85-ff94-4641-beb6-f147a0580b70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>rgSGSec.2.2.1.17.k</value>
-      <webElementGuid>12f3d1f9-7f61-4a25-b04d-71f72aab43d5</webElementGuid>
+      <value>actionTree.1_4_1_1.k</value>
+      <webElementGuid>7ff3e915-1257-48be-ba08-aad8a0f1fd17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,134 +45,126 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>12dc2816-6a55-4edf-a17f-13d56484e71d</webElementGuid>
+      <webElementGuid>e0e3df70-aeb8-4321-8ca7-be9a1e72013a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>javascript:void(0);</value>
-      <webElementGuid>7cc18c0e-193f-4409-b26f-f4961a4a7442</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>javascript:OpenViewForFinderResult('glog.server.query.driver.DriverQuery', 'resultsPage:result', 'input_2_1_17', 'Driver\x20ID','','COLLAZO_GIL_20060548','BXC.COLLAZO_GIL_20060548');</value>
-      <webElementGuid>61e35d1d-8deb-47ac-b508-14e7dbead49e</webElementGuid>
+      <value>javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1757588047617\x3FbcKey\x3DMTc1NzU4ODA0NzYxODox\x26action_name\x3Dchange_order_release_times\x26finder_set_gid\x3DBXC.ORDER\x2520RELEASE_UPDATE')</value>
+      <webElementGuid>e706b4b5-b8e6-46f5-b934-2e5a0e36bf9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>COLLAZO_GIL_20060548</value>
-      <webElementGuid>736eaef3-a8a6-4dbe-94be-962cf752dc96</webElementGuid>
+      <value>Change Pickup and Delivery Dates</value>
+      <webElementGuid>24ec303f-79b8-4e75-8151-416a79a640d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;rgSGSec.2.2.1.17.k&quot;)</value>
-      <webElementGuid>8f3bcb9d-7cd9-42d2-98f1-2203b6b4d523</webElementGuid>
+      <value>id(&quot;actionTree.1_4_1_1.k&quot;)</value>
+      <webElementGuid>e127729e-d360-4be3-8fce-a48a9246078c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_Buy Shipment Result/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame (1)</value>
-      <webElementGuid>807d48ef-dad5-41a1-97e6-2e54b4f4a839</webElementGuid>
+      <value>Object Repository/New Folder/Page_Order Release Result/iframe_concat(id(, , actionFrame, , ))_actionFrame</value>
+      <webElementGuid>9c4a8620-6469-4c16-9969-318a634b3a7f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='rgSGSec.2.2.1.17.k']</value>
-      <webElementGuid>9eb0cc62-f96d-47b8-ae35-b3dc4caa1313</webElementGuid>
+      <value>//a[@id='actionTree.1_4_1_1.k']</value>
+      <webElementGuid>326ffaea-391d-40da-acb1-f9d516798b6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='rgSGSec.2.2.1.17']/a</value>
-      <webElementGuid>db71d9a2-b067-4a00-bf6b-252ac1371fb3</webElementGuid>
+      <value>//span[@id='actionTree.1_4_1_1.l']/a</value>
+      <webElementGuid>0dc75bd5-7f80-463a-acf1-8b4ece629337</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'COLLAZO_GIL_20060548')]</value>
-      <webElementGuid>f5aec33a-64a1-4bb7-8df7-9190e77adf6a</webElementGuid>
+      <value>//a[contains(text(),'Change Pickup and Delivery Dates')]</value>
+      <webElementGuid>03531fe3-f591-45c0-895c-1c44cafe7779</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='FLEET'])[1]/following::a[1]</value>
-      <webElementGuid>a1c7de7e-bb2e-47a3-a51a-7b3bfc1425f2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Order'])[1]/following::a[1]</value>
+      <webElementGuid>64c1da51-9023-442f-8f2f-075f530e6c10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='NWK'])[1]/following::a[2]</value>
-      <webElementGuid>4eb4fe30-fbda-4363-8d2b-8039b55285e2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Management'])[1]/following::a[1]</value>
+      <webElementGuid>db7945f3-d58e-4470-824c-2590a37fdc86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENROUTE_NOT STARTED'])[1]/preceding::a[2]</value>
-      <webElementGuid>57e3f77a-a646-4af0-9830-17635c041cd3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Ship Units'])[1]/preceding::a[1]</value>
+      <webElementGuid>34d8909c-e571-4efd-abec-278bb6f76b44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='BXC'])[1]/preceding::a[2]</value>
-      <webElementGuid>209dfd6b-bf6c-4e5a-a42f-8dcec8ef9220</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Map'])[1]/preceding::a[2]</value>
+      <webElementGuid>2c94acc4-e022-4884-8f77-05dba4c34450</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='COLLAZO_GIL_20060548']/parent::*</value>
-      <webElementGuid>0406e97f-43e2-4bfb-b170-4ac4d5c87995</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Change Pickup and Delivery Dates']/parent::*</value>
+      <webElementGuid>4be63c73-ff32-4176-8484-b007a6acc2b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, 'javascript:void(0);')])[8]</value>
-      <webElementGuid>69bc3263-c7d2-443c-881d-18a1d4849922</webElementGuid>
+      <value>//a[contains(@href, &quot;javascript:executeAction('\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1757588047617\x3FbcKey\x3DMTc1NzU4ODA0NzYxODox\x26action_name\x3Dchange_order_release_times\x26finder_set_gid\x3DBXC.ORDER\x2520RELEASE_UPDATE')&quot;)]</value>
+      <webElementGuid>255ad938-2e4b-4544-8a2c-09bf9f8a73b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[17]/a</value>
-      <webElementGuid>e9012b56-8eb7-4d7e-a23e-69cd8fd806ae</webElementGuid>
+      <value>//tr[8]/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/span[2]/a</value>
+      <webElementGuid>ca78ebdc-b901-42f8-876f-af436ced3267</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'rgSGSec.2.2.1.17.k' and @href = 'javascript:void(0);' and (text() = 'COLLAZO_GIL_20060548' or . = 'COLLAZO_GIL_20060548')]</value>
-      <webElementGuid>aa6b509a-3783-44ae-b0fa-3ae76068f9f7</webElementGuid>
+      <value>//a[@id = 'actionTree.1_4_1_1.k' and @href = concat(&quot;javascript:executeAction(&quot; , &quot;'&quot; , &quot;\x2FGC3\x2Fglog.webserver.util.QueryResponseServlet\x2F1757588047617\x3FbcKey\x3DMTc1NzU4ODA0NzYxODox\x26action_name\x3Dchange_order_release_times\x26finder_set_gid\x3DBXC.ORDER\x2520RELEASE_UPDATE&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Change Pickup and Delivery Dates' or . = 'Change Pickup and Delivery Dates')]</value>
+      <webElementGuid>a7645a5e-ae6e-4e83-8fb2-b959b95a2a45</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
