@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='Selected']</value>
+         <value>//input[@aria-label='Select/Deselect all rows']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2cbeaebd-94a5-4f9e-bd9a-ee60eec5e42c</webElementGuid>
+      <webElementGuid>f376b6ab-289b-4677-a3d2-f2d687f0b228</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>BXC.1000</value>
-      <webElementGuid>8e34ae7f-f4b3-4ab4-98ad-7ce629c47196</webElementGuid>
+      <webElementGuid>1356ff36-9789-4658-9ce5-d80be2fb2d0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>d89fcab0-e0dc-4d1d-9b31-5f8ba905d944</webElementGuid>
+      <webElementGuid>e5380c24-6f42-4fae-b484-1657fa4cebac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>resultGrid.selectRow(this);handleSelectionOnServer(finderSetGid, callerID,'BXC.1000', this)</value>
-      <webElementGuid>e8cb4efb-87da-42e8-b2c1-477bbf9a9341</webElementGuid>
+      <webElementGuid>37fc7794-79ff-467e-b8b0-8a43b07af091</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>BXC.1000</value>
-      <webElementGuid>782ff8be-62b4-4131-b51e-b1b4b77829db</webElementGuid>
+      <webElementGuid>04071cd3-d510-482a-b031-7595a33d5e8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>b8922c32-6d2e-4b16-bea2-6870aed1edf2</webElementGuid>
+      <webElementGuid>2fc2de24-6f10-409c-b4ae-18394e716a08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Selected</value>
-      <webElementGuid>182934a0-72f5-4154-a98f-134466dc3f2e</webElementGuid>
+      <webElementGuid>6b5ed84b-4f87-43e7-915b-8110de02fa89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sgBodyCheck</value>
-      <webElementGuid>94337229-b116-425a-83ed-3437d47c6019</webElementGuid>
+      <webElementGuid>dc299db8-f91a-433d-bb77-f3f6dc704098</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;rgSGSec.2.1.1.1&quot;)/input[@class=&quot;sgBodyCheck&quot;]</value>
-      <webElementGuid>600d9fc0-e94f-4f7d-a842-d2e6f4be0dde</webElementGuid>
+      <webElementGuid>34b5b39a-499d-4c0f-b8ef-de41d2ff135a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='Selected']</value>
-      <webElementGuid>fd1cb3f4-3695-4bed-9d67-5a32dfe0082d</webElementGuid>
+      <webElementGuid>a4003c4c-31bd-4461-bb2f-182d6abb1b1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='rgSGSec.2.1.1.1']/input</value>
-      <webElementGuid>fba38d95-fe74-4be0-8ea0-50cffaf41a54</webElementGuid>
+      <webElementGuid>7fd1b353-5e87-41c5-b68b-ffc93de58e4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/input</value>
-      <webElementGuid>232d7bf7-a3df-44d3-aa7a-ddcce026e849</webElementGuid>
+      <webElementGuid>2e4bff27-edc1-40b1-ba65-766cd5f96508</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'Selected']</value>
-      <webElementGuid>e02fbe1a-cbee-48dd-b491-f41db1a2aea1</webElementGuid>
+      <webElementGuid>0d7f9078-5221-4113-bc48-d65c87580608</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

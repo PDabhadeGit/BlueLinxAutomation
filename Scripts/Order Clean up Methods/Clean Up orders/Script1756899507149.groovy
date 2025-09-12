@@ -31,7 +31,7 @@ WebDriver driver = DriverFactory.getWebDriver()
 
 // Wait for an element to be visible (max 15 seconds)
 WebUI.waitForElementVisible(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'), 
-    30)
+    60)
 
 WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/div_Shipment Management_1'))
 
@@ -53,8 +53,7 @@ for (int i = 2; i <= totalRows; i++) {
         break
     }
     
-    String bulkOrderID = testData.getValue(1, i // note the row and colunn no.)
-        )
+    String bulkOrderID = testData.getValue(1, i )// note the row and colunn no.)
 
     println('Running for Bulk Order ID: ' + bulkOrderID)
 
@@ -115,7 +114,7 @@ for (int i = 2; i <= totalRows; i++) {
         String driver1 = WebUI.getText(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'))
 
         if ((driver1 != null) && !(driver1.trim().isEmpty())) {
-            WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected'))
+            WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected - Copy'))
 
             WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/button_Actions'))
 
@@ -157,7 +156,7 @@ for (int i = 2; i <= totalRows; i++) {
 
         WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Dispatch Board'))
 
-        WebUI.delay(50)
+        WebUI.delay(60)
 
         //WebUI.waitForElementVisible(findTestObject('Page_Fleet management/Shipment_adder'),40)
         WebUI.click(findTestObject('Page_Fleet management/Shipment_adder'))
@@ -165,6 +164,8 @@ for (int i = 2; i <= totalRows; i++) {
         WebUI.delay(10)
 
         WebUI.switchToFrame(findTestObject('Shipment_finder'), 1)
+
+        WebUI.delay(10)
 
         WebUI.setText(findTestObject('Page_Fleet management/Bulk plan id'), bulkOrderID)
 
@@ -184,7 +185,7 @@ for (int i = 2; i <= totalRows; i++) {
 
         WebUI.click(findTestObject('Page_Fleet management/Shipment order_release'))
 
-        WebUI.delay(15)
+        WebUI.delay(60)
 
         WebUI.click(findTestObject('Page_Fleet management/checkbox3'))
 
@@ -209,7 +210,8 @@ for (int i = 2; i <= totalRows; i++) {
                 //println("Row $(k + 1), Column 5: $cellText")
                 fifthColumnValues.add(cellText)
 
-                Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', k, 0, cellText) //  println("Row $(k + 1) has less than 5 columns")
+                Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', k, 0, cellText //  println("Row $(k + 1) has less than 5 columns")
+                    )
             } else {
             }
         }
@@ -327,7 +329,10 @@ for (int i = 2; i <= totalRows; i++) {
     String driver1 = WebUI.getText(findTestObject('Page_Buy Shipment Result/a_COLLAZO_GIL_20060548'))
 
     if ((driver1 != null) && !(driver1.trim().isEmpty())) {
-        WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected'))
+		
+		WebUI.delay(5)
+		
+        WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected - Copy'))
 
         WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/button_Actions'))
 
@@ -364,6 +369,8 @@ for (int i = 2; i <= totalRows; i++) {
         Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 3, message)
     }
     
+    WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected - Copy'))
+
     WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Buy Shipment Result/button_Actions'))
 
     //WebUI.switchToWindowTitle('Buy Shipment Result')
@@ -404,12 +411,16 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/span_Dispatch Board'))
 
-    WebUI.delay(50)
+    WebUI.delay(60)
 
     //WebUI.waitForElementVisible(findTestObject('Page_Fleet management/Shipment_adder'),40)
     WebUI.click(findTestObject('Page_Fleet management/Shipment_adder'))
 
     WebUI.delay(10)
+
+    WebUI.switchToFrame(findTestObject('Shipment_finder'), 1)
+
+    WebUI.delay(5)
 
     WebUI.setText(findTestObject('Page_Fleet management/Bulk plan id'), bulkOrderID)
 
@@ -429,7 +440,7 @@ for (int i = 2; i <= totalRows; i++) {
 
     WebUI.click(findTestObject('Page_Fleet management/Shipment order_release'))
 
-    WebUI.delay(15)
+    WebUI.delay(60)
 
     WebUI.click(findTestObject('Page_Fleet management/checkbox3'))
 
