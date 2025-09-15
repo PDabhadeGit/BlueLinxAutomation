@@ -67,7 +67,7 @@ for (int i = 2; i <= totalRows; i++) {
     println("Text value: $resultText1")
 
     if (resultText1.trim() == '0') {
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', i - 1, 4, resultText1)
+        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', i - 1, 5, resultText1)
 
         WebUI.delay(3)
 
@@ -188,6 +188,21 @@ for (int i = 2; i <= totalRows; i++) {
 
     //WebUI.click(findTestObject('Object Repository/Bulk Creation/Page_Bulk Plan/div_COMPLETED'))
     WebUI.takeFullPageScreenshot()
+
+    WebUI.click(findTestObject('Page_Bulk Plan/a_1 (3)'))
+
+    WebUI.switchToWindowIndex(2)
+
+    WebUI.delay(3)
+
+    WebUI.scrollToElement(findTestObject('Page_Buy Shipment Result/div_NWK'), 100)
+
+    String branchCode = WebUI.getText(findTestObject('Page_Buy Shipment Result/div_NWK'))
+	
+	Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', i - 1, 4, branchCode)
+	
+	WebUI.closeWindowIndex(2)
+	
 
     WebUI.closeWindowIndex(1)
 
