@@ -201,6 +201,8 @@ for (int i = 2; i <= totalRows; i++) {
 	
 	Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', i - 1, 4, branchCode)
 	
+	WebUI.delay(3)
+	
 	WebUI.closeWindowIndex(2)
 	
 
