@@ -37,7 +37,7 @@ WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/d
 
 WebUI.click(findTestObject('New Folder (1)/Page_Transportation and Global Trade Manage_3d15c4/span_Buy Shipment'))
 
-def testData = TestDataFactory.findTestData('OTM Test Data/Demo Bulk IDs (1)')
+def testData = TestDataFactory.findTestData('OTM Test Data/Reset Bulk IDs')
 
 int totalRows = testData.getRowNumbers()
 
@@ -75,13 +75,13 @@ for (int i = 2; i <= totalRows; i++) {
     println("Text value: $resultText1")
 
     if (resultText1.trim() == '0') {
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 6, 'Not Found')
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 6, 'Not Found')
 
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 3, 'N/A')
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 3, 'N/A')
 
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 4, 'N/A')
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 4, 'N/A')
 
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 5, 'N/A')
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 5, 'N/A')
 
         WebUI.delay(3)
 
@@ -100,9 +100,9 @@ for (int i = 2; i <= totalRows; i++) {
         WebUI.delay(3 // wait for the results
             )
 
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 2, statusText)
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 2, statusText)
 
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 4, 'N/A')
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 4, 'N/A')
 
         WebUI.delay(3)
 
@@ -135,9 +135,9 @@ for (int i = 2; i <= totalRows; i++) {
             String unassigndriver = WebUI.getText(findTestObject('Page_Success/h1_Success'))
 
             if (unassigndriver.trim() == 'Success') {
-                Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 3, 'Unassign Pass')
+                Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 3, 'Unassign Pass')
             } else {
-                Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 3, 'Unassign Fail')
+                Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 3, 'Unassign Fail')
             }
             
             WebUI.takeFullPageScreenshot()
@@ -146,7 +146,7 @@ for (int i = 2; i <= totalRows; i++) {
 
             WebUI.switchToWindowIndex(0)
         } else {
-            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 3, 'N/A')
+            Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 3, 'N/A')
         }
         
         //WebUI.click(findTestObject('Page_Buy Shipment Result/button_Refine Query'))
@@ -210,7 +210,7 @@ for (int i = 2; i <= totalRows; i++) {
                 //println("Row $(k + 1), Column 5: $cellText")
                 fifthColumnValues.add(cellText)
 
-                Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', k, 0, cellText //  println("Row $(k + 1) has less than 5 columns")
+                Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Created', k, 0, cellText //  println("Row $(k + 1) has less than 5 columns")
                     )
             } else {
             }
@@ -220,7 +220,7 @@ for (int i = 2; i <= totalRows; i++) {
 
         println("Combined 5th column values: $combinedText")
 
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 1, combinedText)
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 1, combinedText)
 
         /*for (int z = 0; z < rows.size(); z++) {
             WebElement row = rows.get(z)
@@ -241,7 +241,7 @@ for (int i = 2; i <= totalRows; i++) {
         for (int p = 1; p < fifthColumnValues.size(); p++) {
             String value = fifthColumnValues.get(p)
 
-            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', p, 0, value)
+            Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Created', p, 0, value)
         }*/
         WebUI.delay(10)
 
@@ -262,16 +262,16 @@ for (int i = 2; i <= totalRows; i++) {
         String unassign_order = WebUI.getText(findTestObject('Page_Order Unassigned and Order Movements Deleted/h1_Order Unassigned and Order Movements Deleted'))
 
         if (unassign_order.trim() == 'Order Unassigned and Order Movements Deleted') {
-            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 5, 'Unassign Pass')
+            Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 5, 'Unassign Pass')
         } else {
-            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 5, 'Unassign Fail')
+            Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 5, 'Unassign Fail')
         }
         
         WebUI.takeFullPageScreenshot()
 
         WebUI.delay(3)
 
-        //Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Processed with Order Unassign')
+        //Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Sheet1', i - 1, 2, 'Processed with Order Unassign')
         WebUI.closeWindowIndex(1)
 
         WebUI.switchToWindowIndex(0)
@@ -301,9 +301,9 @@ for (int i = 2; i <= totalRows; i++) {
 
         // Check if the value is exactly "0"
         if (resultText.trim() == '0') {
-            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 6, 'Unassign Successful')
+            Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 6, 'Unassign Successful')
         } else {
-            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 6, 'Unassign Failed')
+            Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 6, 'Unassign Failed')
         }
         
         WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/button_Refine Query'))
@@ -313,7 +313,7 @@ for (int i = 2; i <= totalRows; i++) {
     
     WebUI.delay(3)
 
-    Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 2, statusText)
+    Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 2, statusText)
 
     // === If not withdrawn, continue normal process ===
     // Your test continues here...
@@ -353,9 +353,9 @@ for (int i = 2; i <= totalRows; i++) {
         String unassigndriver = WebUI.getText(findTestObject('Page_Success/h1_Success'))
 
         if (unassigndriver.trim() == 'Success') {
-            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 3, 'Unassign Pass')
+            Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 3, 'Unassign Pass')
         } else {
-            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 3, 'Unassign Fail')
+            Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 3, 'Unassign Fail')
         }
         
         WebUI.takeFullPageScreenshot()
@@ -366,7 +366,7 @@ for (int i = 2; i <= totalRows; i++) {
     } else {
         String message = 'N/A'
 
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 3, message)
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 3, message)
     }
     
     WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/input_Domain Name_Selected - Copy'))
@@ -390,9 +390,9 @@ for (int i = 2; i <= totalRows; i++) {
     String Withdrawstatus = WebUI.getText(findTestObject('Page_Withdraw Tender/h1_Withdraw Tender'))
 
     if (Withdrawstatus.trim() == 'Withdraw Tender') {
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 4, 'Unassign Pass')
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 4, 'Unassign Pass')
     } else {
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 4, 'Unassign Fail')
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 4, 'Unassign Fail')
     }
     
     WebUI.closeWindowIndex(1)
@@ -466,7 +466,7 @@ for (int i = 2; i <= totalRows; i++) {
             fifthColumnValues.add(cellText //println("Row $(k + 1) has less than 5 columns")
                 )
 
-            Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', k, 0, cellText)
+            Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Created', k, 0, cellText)
         } else {
         }
     }
@@ -475,7 +475,7 @@ for (int i = 2; i <= totalRows; i++) {
 
     println("Combined 5th column values: $combinedText")
 
-    Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 1, combinedText)
+    Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 1, combinedText)
 
     /*for (int z = 0; z < rows.size(); z++) {
         WebElement row = rows.get(z)
@@ -496,7 +496,7 @@ for (int i = 2; i <= totalRows; i++) {
     for (int p = 1; p < fifthColumnValues.size(); p++) {
         String value = fifthColumnValues.get(p)
 
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', p, 0, value)
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Created', p, 0, value)
     }*/
     WebUI.delay(10)
 
@@ -515,12 +515,12 @@ for (int i = 2; i <= totalRows; i++) {
     String unassign_order = WebUI.getText(findTestObject('Page_Order Unassigned and Order Movements Deleted/h1_Order Unassigned and Order Movements Deleted'))
 
     if (unassign_order.trim() == 'Order Unassigned and Order Movements Deleted') {
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 5, 'Unassign Pass')
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 5, 'Unassign Pass')
     } else {
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 5, 'Unassign Fail')
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 5, 'Unassign Fail')
     }
     
-    //Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Sheet1', i - 1, 2, 'Processed')
+    //Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Sheet1', i - 1, 2, 'Processed')
     WebUI.takeFullPageScreenshot()
 
     WebUI.delay(5)
@@ -554,9 +554,9 @@ for (int i = 2; i <= totalRows; i++) {
 
     // Check if the value is exactly "0"
     if (resultText2.trim() == '0') {
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 6, 'Unassign Successful')
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 6, 'Unassign Successful')
     } else {
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Reset', i - 1, 6, 'Unassign Failed')
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Reset', i - 1, 6, 'Unassign Failed')
     }
     
     WebUI.click(findTestObject('New Folder (1)/Page_Buy Shipment Result/button_Refine Query'))

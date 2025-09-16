@@ -25,7 +25,7 @@ WebUI.delay(130)
 
 WebUI.callTestCase(findTestCase('MDM Methods/New Item Request'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(70)
+WebUI.delay(80)
 
 WebUI.callTestCase(findTestCase('MDM Methods/Approve New Item'), [:], FailureHandling.STOP_ON_FAILURE)
 

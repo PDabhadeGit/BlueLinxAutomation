@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/Bulk Creation/Page_Transportation 
 
 WebUI.click(findTestObject('Object Repository/Bulk Creation/Page_Order Release Finder/input_Order Release ID_order_releasexid'))
 
-def testData = TestDataFactory.findTestData('OTM Test Data/Demo Order IDs')
+def testData = TestDataFactory.findTestData('OTM Test Data/Sales Order IDs')
 
 int totalRows = testData.getRowNumbers()
 
@@ -67,7 +67,7 @@ for (int i = 2; i <= totalRows; i++) {
     println("Text value: $resultText1")
 
     if (resultText1.trim() == '0') {
-        Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', i - 1, 5, resultText1)
+        Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Created', i - 1, 5, resultText1)
 
         WebUI.delay(3)
 
@@ -144,11 +144,11 @@ for (int i = 2; i <= totalRows; i++) {
 
     String pickUpDate = WebUI.getText(findTestObject('Page_Change Order Release Times/td_2025-09-11 1917 AmericaNew_York'))
 
-    Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', i - 1, 1, pickUpDate)
+    Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Created', i - 1, 1, pickUpDate)
 
     String deliveryDate = WebUI.getText(findTestObject('Page_Change Order Release Times/td_2025-09-11 2317 AmericaNew_York'))
 
-    Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', i - 1, 2, deliveryDate)
+    Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Created', i - 1, 2, deliveryDate)
 
     WebUI.delay(10)
 
@@ -172,7 +172,7 @@ for (int i = 2; i <= totalRows; i++) {
 
     String BulkID = WebUI.getText(findTestObject('Page_Bulk Plan/div_20250910-0002'))
 
-    Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', i - 1, 3, BulkID)
+    Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Created', i - 1, 3, BulkID)
 
     WebUI.click(findTestObject('Object Repository/Bulk Creation/Page_Bulk Plan/button_Refresh'))
 
@@ -199,7 +199,7 @@ for (int i = 2; i <= totalRows; i++) {
 
     String branchCode = WebUI.getText(findTestObject('Page_Buy Shipment Result/div_NWK'))
 	
-	Write_Status.writeToCell('Data Files/OTM Test Data/Demo Bulk IDs.xlsx', 'Bulk IDs Created', i - 1, 4, branchCode)
+	Write_Status.writeToCell('Data Files/OTM Test Data/BulkIDs_and_SalesOrders_Data.xlsx', 'Bulk IDs Created', i - 1, 4, branchCode)
 	
 	WebUI.delay(3)
 	

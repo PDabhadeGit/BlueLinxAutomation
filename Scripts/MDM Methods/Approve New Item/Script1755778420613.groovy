@@ -17,7 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_Oracle Fusion Cloud Applications/svg_UAT Environment_pt1_UISatr0cil1icon'))
+//WebUI.click(findTestObject('Object Repository/Page_Oracle Fusion Cloud Applications/svg_UAT Environment_pt1_UISatr0cil1icon'))
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/svg_Notifications (188 unread)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Oracle Fusion Cloud Applications/button_Prajyot Dabhade_pt1_UISatr0lv40cb2'))
 

@@ -37,7 +37,7 @@ WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/d
 
 WebUI.click(findTestObject('New Folder (1)/Page_Transportation and Global Trade Manage_3d15c4/span_Buy Shipment'))
 
-def testData = TestDataFactory.findTestData('OTM Test Data/Demo Bulk IDs (1)')
+def testData = TestDataFactory.findTestData('OTM Test Data/Reset Bulk IDs')
 
 int totalRows = testData.getRowNumbers()
 

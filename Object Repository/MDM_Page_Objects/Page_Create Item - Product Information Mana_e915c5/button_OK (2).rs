@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Prajyot Dabhade_pt1_UISatr0lv40cb2</name>
+   <name>button_OK (2)</name>
    <tag></tag>
-   <elementGuidId>046ac376-3133-4389-9bc1-9eb42d7c4fba</elementGuidId>
+   <elementGuidId>32f18156-4824-473f-9d25-a3adf2b2f935</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[normalize-space(text())='Approve']</value>
+         <value>//button[@id='pt1:_FOr1:1:_FONSr2:0:MAt2:0:commandButton3']</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[title=&quot;Approve   New Item Request NIR100427 Requires Approval&quot;i]</value>
+         <value>internal:role=button[name=&quot;OK&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,23 +29,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0bef1c60-9fc2-4314-ba2d-1c1cef679251</webElementGuid>
+      <webElementGuid>b6bddd21-8be4-45cb-8373-a181aac028d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accesskey</name>
+      <type>Main</type>
+      <value>K</value>
+      <webElementGuid>c39826f3-dbb0-4846-b7a3-bc43c82546db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>pt1:_UISatr:0:lv4:0:cb2</value>
-      <webElementGuid>89d73a48-6111-4404-814e-7c5e2da4548b</webElementGuid>
+      <value>pt1:_FOr1:1:_FONSr2:0:MAt2:0:commandButton3</value>
+      <webElementGuid>e2268fed-253c-40d2-ad39-d29998f52efb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>p_AFHoverTarget homebutton-primary x7j p_AFTextOnly</value>
-      <webElementGuid>89a25358-29b3-4c6d-8e98-fb263eacb981</webElementGuid>
+      <value>p_AFHoverTarget xuz p_AFTextOnly</value>
+      <webElementGuid>61cd2587-c86f-4623-b0f5-055b91c07d67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,79 +61,63 @@
       <name>onclick</name>
       <type>Main</type>
       <value>this.focus();return false;</value>
-      <webElementGuid>192777d2-b070-40b4-951d-40d987082a63</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>Approve   New Item Request NIR100427 Requires Approval</value>
-      <webElementGuid>79f17b8a-51f9-4a6a-9006-cd162d33d269</webElementGuid>
+      <webElementGuid>532ceeb5-6086-4bd0-b5a0-fbe23600599d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Approve</value>
-      <webElementGuid>57bcc0cb-77a1-42e5-9a72-71b5ca91ee0e</webElementGuid>
+      <value>OK</value>
+      <webElementGuid>12f7b054-e204-4906-9f4a-171e25ba90d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pt1:_UISatr:0:lv4:0:cb2&quot;)</value>
-      <webElementGuid>938f1fc9-276b-4128-a8bf-b7201c90c968</webElementGuid>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt2:0:commandButton3&quot;)</value>
+      <webElementGuid>965ee46a-c835-4426-aee5-6f8d09001d43</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='pt1:_UISatr:0:lv4:0:cb2']</value>
-      <webElementGuid>35c2417d-c444-4186-8ac0-d0776173efff</webElementGuid>
+      <value>//button[@id='pt1:_FOr1:1:_FONSr2:0:MAt2:0:commandButton3']</value>
+      <webElementGuid>52db2a44-49f8-440b-8b0d-a1f62453e375</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='pt1:_UISatr:0:lv4:0:t2::oc']/table/tbody/tr/td[2]/button</value>
-      <webElementGuid>7c06cb21-91d4-4bea-b9fc-7c1976e61fc6</webElementGuid>
+      <value>//table[@id='pt1:_FOr1:1:_FONSr2:0:MAt2:0:panelGroupLayout7']/tbody/tr/td[2]/button</value>
+      <webElementGuid>764a118a-f301-457e-8359-6546efad0c8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prajyot Dabhade'])[5]/following::button[1]</value>
-      <webElementGuid>9ec04669-f28e-4542-95b8-72931a89bd6d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected List'])[4]/following::button[1]</value>
+      <webElementGuid>2e6849e4-cea2-4708-8323-0404b4d995b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action Required'])[7]/following::button[1]</value>
-      <webElementGuid>36d928a7-23f6-40e6-a61a-9f27995f31f6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contract Manufacturing Service Component______'])[4]/following::button[1]</value>
+      <webElementGuid>43a62334-fd23-4b29-be13-385661cfe695</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[4]/preceding::button[1]</value>
-      <webElementGuid>90ee22ee-96dc-4be8-9a2c-9775f1fb2477</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[2]/preceding::button[2]</value>
-      <webElementGuid>de42a0ff-2a78-4288-9261-f16becbc5d9d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='O']/parent::*</value>
+      <webElementGuid>6be18ea9-73ed-4c62-ae3b-0a532cb711b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,14 +125,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/button</value>
-      <webElementGuid>73e35d2b-ad34-453e-a375-a50fea866be7</webElementGuid>
+      <webElementGuid>f9c3dba2-e9cf-4453-845e-088cb28cf386</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'pt1:_UISatr:0:lv4:0:cb2' and @title = 'Approve   New Item Request NIR100427 Requires Approval' and (text() = 'Approve' or . = 'Approve')]</value>
-      <webElementGuid>97d1a766-b6c9-4862-8a94-3af81e83e7fc</webElementGuid>
+      <value>//button[@id = 'pt1:_FOr1:1:_FONSr2:0:MAt2:0:commandButton3' and (text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>7cadcf51-8436-4edf-a67c-d74e5ace09da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
