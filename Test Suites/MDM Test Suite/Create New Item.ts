@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Reset Bulk IDs Suite</name>
+   <name>Create New Item</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>4365b5a4-2bee-4785-bc47-6b4e9d013437</testSuiteGuid>
+   <testSuiteGuid>b4091395-e3bb-4a4b-9d9e-0c9619387edc</testSuiteGuid>
    <testCaseLink>
-      <guid>7ad7d9c5-df41-4a1d-81ec-bbf551874be7</guid>
+      <guid>94b033fc-2f2f-481f-92db-a9c894dcbbd4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Order Clean up Methods/Clean Up orders</testCaseId>
+      <testCaseId>Test Cases/MDM TestCases/TC_MDM_PDH_306_Create a new item through NIR</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
