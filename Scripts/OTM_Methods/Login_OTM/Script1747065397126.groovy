@@ -19,12 +19,14 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.delay(5)
+
 WebUI.navigateToUrl(GlobalVariable.otm_url)
 
 WebUI.maximizeWindow()
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Cloud Sign In/input_User Name_idcs-signin-basic-signin-fo_93898c'),
-	30)
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Cloud Sign In/input_User Name_idcs-signin-basic-signin-fo_93898c'), 
+    30)
 
 WebUI.setText(findTestObject('Object Repository/Page_Cloud Sign In/input_User Name_idcs-signin-basic-signin-fo_93898c'), 
     GlobalVariable.username)
