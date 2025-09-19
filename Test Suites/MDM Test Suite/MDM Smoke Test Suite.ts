@@ -12,31 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>446165b5-b3b7-47e3-b33d-f13a74b17d91</testSuiteGuid>
    <testCaseLink>
-      <guid>ecbbbe9a-ce5c-4926-a491-080ed29d49ac</guid>
+      <guid>414193e9-bb89-43f3-96a2-3830a04400e2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MDM TestCases/TC_CDM_001_ Create new Customer with necessary details</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>17942ea6-02f8-4f08-a869-e70c32f4ddab</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/MDM TestCases/TC_CDM_002_Add Buying Customer usage to a Customer</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6b75a98a-1fbb-4d15-bf97-86ee17bf466c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/MDM TestCases/TC_CDM_003_Create new Supplier with necessary details</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>129c8694-0b38-415e-b6cf-9c66b9729655</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/MDM TestCases/TC_CDM_004_Add Supplier usage to a Supplier</testCaseId>
+      <testCaseId>Test Cases/MDM Methods/Login MDM</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
