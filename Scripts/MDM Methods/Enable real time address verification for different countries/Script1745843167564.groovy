@@ -18,7 +18,12 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 //WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/a_Attachments__FOpt1_FOr10_FONSr20MAnt21r10_0925ca'))
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2'))
+WebUI.scrollToElement(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (2)'), 
+    100)
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (2)'))
+
+WebUI.click(findTestObject('Page_Organizations - Oracle Fusion Cloud Applications/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r50AT1_ATpcreateicon'))
 
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/input_Site Name__FOpt1_FOr10_FONSr20MAnt21r_cd125b'), 
     'real time address varification')
@@ -37,7 +42,7 @@ WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizati
 WebUI.delay(5)
 
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations - Oracle Fusion Cloud Ap_c135b4/input_Postal Code__FOpt1_FOr10_FONSr20MAnt2_3d9430'), 
-    '80223')
+    '28037')
 
 WebUI.delay(5)
 

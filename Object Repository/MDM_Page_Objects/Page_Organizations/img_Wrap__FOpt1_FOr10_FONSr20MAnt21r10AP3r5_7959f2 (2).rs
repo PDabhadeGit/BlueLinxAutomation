@@ -6,12 +6,11 @@
    <elementGuidId>015b22df-7c39-43ff-9787-e3f41ac2614f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[@aria-label='Expand Addresses']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//img[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:create::icon']</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>d4654b8e-3b52-4d30-9dcf-9a4290ed6836</webElementGuid>
+      <webElementGuid>b103f570-6871-4b4f-82d1-e2841258f505</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:create::icon</value>
-      <webElementGuid>32c3e5d5-8f0a-42fc-b954-ff264a99f35e</webElementGuid>
+      <webElementGuid>8167d624-ce0e-48bb-a224-8d4c3e14910e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/crmUI/images/applcore/fuseplus/patterns/func_add_16_hov.png</value>
-      <webElementGuid>0b3ecb6d-49a9-4994-994d-c5653dfac0c0</webElementGuid>
+      <webElementGuid>95c7b014-a145-4318-95f9-f5b2da993a6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Create</value>
-      <webElementGuid>a368504e-afde-4320-8332-0e140a77f64d</webElementGuid>
+      <webElementGuid>48d270c5-e214-4edb-b725-05d693888750</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Create</value>
-      <webElementGuid>74b7e78d-2e90-48f9-af93-aeb27702dbbd</webElementGuid>
+      <webElementGuid>d6afb1fa-195d-4362-9bb9-c2aa896f5521</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1kd</value>
-      <webElementGuid>22c1b1e8-fcfc-4b2f-9004-380c10f74cd1</webElementGuid>
+      <webElementGuid>90bf48d6-c038-46a9-b324-4d6bc9ebe055</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:create::icon&quot;)</value>
-      <webElementGuid>fa7906aa-2981-4585-aefd-4f2d0af93488</webElementGuid>
+      <webElementGuid>d84278f1-6ef4-4a13-8709-be7962e0b0b9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//img[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:create::icon']</value>
-      <webElementGuid>ccc40599-d280-47df-9dda-6920fc354b5e</webElementGuid>
+      <webElementGuid>863868fa-4035-489e-bddd-4876b6b41f42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:create']/a/img</value>
-      <webElementGuid>e5b1ad1f-f30c-46b9-b038-f6cd11eb0648</webElementGuid>
+      <webElementGuid>777ae611-8b70-45a5-8ac3-22d1f716dcee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Create']</value>
-      <webElementGuid>7da9397a-4851-4e3c-b862-afe5d8180c9d</webElementGuid>
+      <webElementGuid>5455272a-a33f-4aaa-854c-af85815ce463</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/div/a/img</value>
-      <webElementGuid>1c1991fb-aedd-4704-9d5f-864c3b12c32b</webElementGuid>
+      <webElementGuid>27ac1e75-a173-4b91-9e01-3d055e3b7c35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +116,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:create::icon' and @src = '/crmUI/images/applcore/fuseplus/patterns/func_add_16_hov.png' and @title = 'Create' and @alt = 'Create']</value>
-      <webElementGuid>be9b87ac-1d99-4b46-950f-168b4f9d9150</webElementGuid>
+      <webElementGuid>12e96970-d270-4d29-9b22-5bdf8ba5ec48</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

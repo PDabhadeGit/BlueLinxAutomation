@@ -18,9 +18,11 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.scrollToElement(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (2)'), 
-    0)
+    100)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (2)'))
+
+WebUI.click(findTestObject('Page_Organizations - Oracle Fusion Cloud Applications/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r50AT1_ATpcreateicon'))
 
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Site Name__FOpt1_FOr10_FONSr20MAnt21r_cd125b (2)'), 
     'Test Address')
