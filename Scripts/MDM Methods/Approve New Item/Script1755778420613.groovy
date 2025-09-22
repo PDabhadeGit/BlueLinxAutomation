@@ -16,10 +16,25 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
 //WebUI.click(findTestObject('Object Repository/Page_Oracle Fusion Cloud Applications/svg_UAT Environment_pt1_UISatr0cil1icon'))
-
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/svg_Notifications (188 unread)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Oracle Fusion Cloud Applications/button_Prajyot Dabhade_pt1_UISatr0lv40cb2'))
+WebUI.click(findTestObject('Object Repository/Page_Oracle Fusion Cloud Applications/a_New Item Request NIR100346 Requires Approval'))
+
+WebUI.switchToWindowIndex(1)
+
+WebUI.delay(3)
+
+String itemID = WebUI.getText(findTestObject('Object Repository/Page_New Item Request NIR100346 Requires Approval/span_1001436'))
+
+//KeywordUtil.logInfo('New Created item with ID: ' + itemID)
+KeywordUtil.logInfo("********** NEW ITEM ID: ${itemID} **********")
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.closeWindowIndex(1)
+
+WebUI.switchToWindowIndex(0)
 
