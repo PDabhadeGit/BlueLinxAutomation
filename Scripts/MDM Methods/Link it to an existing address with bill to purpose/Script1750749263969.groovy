@@ -18,6 +18,11 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 //WebUI.click(findTestObject('MDM_Page_Objects/Page_Organizations/a_Attachments__FOpt1_FOr10_FONSr20MAnt21r10_0925ca'))
+WebUI.scrollToElement(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (2)'), 
+    100)
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (2)'))
+
 WebUI.scrollToElement(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/a_Link Bill to__FOpt1_FOr10_FONSr20MAnt21r1_501776 (1)'), 
     150)
 

@@ -21,3 +21,5 @@ WebUI.callTestCase(findTestCase('MDM Methods/Login MDM'), [:], FailureHandling.S
 
 WebUI.callTestCase(findTestCase('MDM Methods/Export Attachment'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+

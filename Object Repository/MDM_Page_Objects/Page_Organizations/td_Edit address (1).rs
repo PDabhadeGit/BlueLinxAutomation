@@ -6,12 +6,11 @@
    <elementGuidId>c09c4d23-7a99-4465-8978-9d48a390008b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//td[@class='xo2' and text()='Edit address'])[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:cmi3']/td[2]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>5a9189ee-e54e-4e44-8d32-4974574f220d</webElementGuid>
+      <webElementGuid>b90bb626-24b3-4d74-977b-c0c2edc66fa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xo2</value>
-      <webElementGuid>97949d79-cb32-4c63-bc7e-3227d61dd761</webElementGuid>
+      <webElementGuid>9f0bc54d-0541-417b-8742-7c8eb27c67be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Edit address</value>
-      <webElementGuid>8e6764e9-66f8-4ee8-a456-454a2513b7cd</webElementGuid>
+      <webElementGuid>ff5cb374-4bf9-43a2-ae50-4be8ae5cb4ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:cmi3&quot;)/td[@class=&quot;xo2&quot;]</value>
-      <webElementGuid>e62cbc5f-f557-47e3-b582-93a1ad13b3bc</webElementGuid>
+      <webElementGuid>203831b1-9a7b-4e10-9d34-7a1e4f5efd79</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:cmi3']/td[2]</value>
-      <webElementGuid>552bd991-106a-44b8-8803-1bc3fec8a62f</webElementGuid>
+      <webElementGuid>ba940a93-2350-4552-a549-4cdfadfa5510</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Move address'])[2]/following::td[4]</value>
-      <webElementGuid>1adfab78-aa98-4ee6-992a-911fdfd341ad</webElementGuid>
+      <webElementGuid>c6e227b0-75da-49f1-817b-211313ca9ea8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PrintMe'])[1]/following::td[9]</value>
-      <webElementGuid>dc9b116a-6744-4441-9591-0c275ed0b7b8</webElementGuid>
+      <webElementGuid>37d356c1-c508-422d-b582-fe74b4c7b435</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[2]/preceding::td[14]</value>
-      <webElementGuid>bddc7a72-c4d2-4653-a1bc-44b2ecc52c67</webElementGuid>
+      <webElementGuid>f7fada9b-25d4-403b-a493-9ee783ab7ca7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/preceding::td[18]</value>
-      <webElementGuid>e3c47fa3-afef-4a8b-a58c-3d7a5fe75f7a</webElementGuid>
+      <webElementGuid>48de0053-86b7-41ad-b462-54e7c24e7940</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/table/tbody/tr/td/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]</value>
-      <webElementGuid>72db5345-572e-4821-9627-27cca6948299</webElementGuid>
+      <webElementGuid>5271e6b7-fab5-4c68-80ff-8661e53134ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +108,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Edit address' or . = 'Edit address')]</value>
-      <webElementGuid>3445480e-c901-4fd3-b297-b0894571eeff</webElementGuid>
+      <webElementGuid>7e00279a-2d34-455a-a15e-6c88dee9c7b9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

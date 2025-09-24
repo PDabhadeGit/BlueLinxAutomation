@@ -25,3 +25,5 @@ WebUI.callTestCase(findTestCase('MDM Methods/Add Customer Type on the address le
 
 WebUI.callTestCase(findTestCase('MDM Methods/Save and Close'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+

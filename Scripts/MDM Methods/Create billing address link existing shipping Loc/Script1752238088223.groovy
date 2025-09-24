@@ -17,8 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (3)'))
+WebUI.scrollToElement(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (2)'), 
+    100)
 
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (2)'))
+
+WebUI.click(findTestObject('Page_Organizations - Oracle Fusion Cloud Applications/img_Set Primary__FOpt1_FOr10_FONSr20MAnt21r10AP3r50AT1_ATpctb1icon'))
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/td_Edit address (1)'))
+
+//WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Wrap__FOpt1_FOr10_FONSr20MAnt21r10AP3r5_7959f2 (3)'))
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/img_Manage Columns__FOpt1_FOr10_FONSr20MAnt_7973ac (3)'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/input_Purpose__FOpt1_FOr10_FONSr20MAnt21r10_3f1460 (2)'))

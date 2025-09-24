@@ -38,7 +38,8 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Organizations/svg_Home'))
 
-WebUI.click(findTestObject('MDM_Page_Objects/Page_Organizations - Cloud Applications/button_Yes'))
+//WebUI.click(findTestObject('MDM_Page_Objects/Page_Organizations - Cloud Applications/button_Yes'), FailureHandling.OPTIONAL)
+
 
 WebUI.delay(3)
 

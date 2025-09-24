@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusio
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Person - Persons - Oracle/a_Persons__FOpt1_FOr10_FONSr20_FOTsr10pt1r1_eb2d50'))
 
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Person - Persons - Oracle/input_Name Operator__FOpt1_FOr10_FONSr20_FO_509af9'), 
-    'test person')
+    'test')
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Person - Persons - Oracle/button_Search'))
 

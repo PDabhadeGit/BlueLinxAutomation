@@ -25,3 +25,5 @@ WebUI.callTestCase(findTestCase('MDM Methods/Create billing address link existin
 
 WebUI.callTestCase(findTestCase('MDM Methods/Save and Close'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+

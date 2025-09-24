@@ -25,3 +25,5 @@ WebUI.callTestCase(findTestCase('MDM Methods/Link Ship-To Address to Bill-To Add
 
 WebUI.callTestCase(findTestCase('MDM Methods/Save and Close'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+
