@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='sb_8_1']/div/span[2]</value>
+         <value>(//*[text()='Driver Management'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ac3f3aad-3dc2-460b-9e64-a2dcd23e6c5a</webElementGuid>
+      <webElementGuid>34f9f2a0-d87b-4a87-871f-e552347e203f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-treeview-item-text</value>
-      <webElementGuid>8e19cbfd-cfb4-423a-8d35-931983b6401e</webElementGuid>
+      <webElementGuid>07d5f4a0-6681-4c8f-abfb-7cb2a8628a1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>:title</name>
       <type>Main</type>
       <value>[[row.data.text]]</value>
-      <webElementGuid>d56b4d35-e8b6-4328-a29c-ddef3908b061</webElementGuid>
+      <webElementGuid>abb7d305-9aed-418f-b6c5-d2fd7959f7a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>:style</name>
       <type>Main</type>
       <value>[[{'color':theme_springboard_submenu_fontcolor}]]</value>
-      <webElementGuid>bb9716c4-4870-4137-b14e-790f0c995b6e</webElementGuid>
+      <webElementGuid>8f28e3a9-8b35-4bb4-a816-71376eca6f32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Driver Management</value>
-      <webElementGuid>fceb4b3a-9ecf-4412-93f9-f42c5d9546ff</webElementGuid>
+      <webElementGuid>6caadfcc-b8aa-41f9-8f49-4f518ab8bc6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <value>
                       Driver Management
                     </value>
-      <webElementGuid>92cf0116-6755-4307-91c4-50d215d090fd</webElementGuid>
+      <webElementGuid>cd216444-16d1-4e5f-8094-ad200b4a88b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sb_8_1&quot;)/div[@class=&quot;oj-treeview-item-content oj-hover&quot;]/span[@class=&quot;oj-treeview-item-text&quot;]</value>
-      <webElementGuid>d90f4ced-5d01-476f-b25e-6ac221efe775</webElementGuid>
+      <webElementGuid>9e46cfdd-d0cd-4f51-8f29-6f75bf792302</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='sb_8_1']/div/span[2]</value>
-      <webElementGuid>bf9cc0ad-aa3b-4e3b-b9d0-369b927a27f0</webElementGuid>
+      <webElementGuid>bd5d28c4-6432-40a8-aecb-ce287999fbfe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in New Window'])[13]/following::span[4]</value>
-      <webElementGuid>caf53690-4b78-4920-b4bb-c747d4e19228</webElementGuid>
+      <webElementGuid>f2be4557-893d-4376-8d61-a32285406359</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[12]/div/oj-tree-view/ul/li[2]/div/span[2]</value>
-      <webElementGuid>e82e3fa2-5843-49ac-b85c-8d0a8d89ba8d</webElementGuid>
+      <webElementGuid>5f165a4d-d55c-43e0-aecc-a47e6000d735</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,6 +115,6 @@
                     ' or . = '
                       Driver Management
                     ')]</value>
-      <webElementGuid>cf6bf4f6-749c-47b2-88ac-db14d641e845</webElementGuid>
+      <webElementGuid>eaf9dd30-105b-4e1a-8072-1c721b3aef3c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

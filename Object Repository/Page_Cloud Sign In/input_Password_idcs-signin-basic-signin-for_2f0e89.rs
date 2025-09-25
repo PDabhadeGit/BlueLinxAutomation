@@ -6,12 +6,12 @@
    <elementGuidId>74b86dda-5f63-47e2-8b1f-3189c2de1263</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='idcs-signin-basic-signin-form-password|input']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='idcs-signin-basic-signin-form-password|input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e61b6393-14d0-42bc-b222-c83e9ab25863</webElementGuid>
+      <webElementGuid>ab051206-76ee-4610-9648-8777ef548c5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>a1f1ff5e-9426-4b46-8828-e7352911170c</webElementGuid>
+      <webElementGuid>5dc36222-114a-4138-8718-465f8cf21b62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>53b20323-41e4-45ca-8729-92f3d8d3eb9b</webElementGuid>
+      <webElementGuid>30f48104-1200-4ee6-a1cf-e0aaf6331f58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-inputpassword-input oj-component-initnode</value>
-      <webElementGuid>e54efc86-694f-4136-8dca-198c61989649</webElementGuid>
+      <webElementGuid>fb55c551-55eb-4cdd-b67e-9211058e4ac8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>idcs-signin-basic-signin-form-password|input</value>
-      <webElementGuid>eeb1a8cd-ad5f-49bb-b3da-ccbf235af07e</webElementGuid>
+      <webElementGuid>ccda99a7-1fb2-4029-ac82-c08abf080c4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;idcs-signin-basic-signin-form-password|input&quot;)</value>
-      <webElementGuid>972959f6-3531-4f74-889d-9244c72ef759</webElementGuid>
+      <webElementGuid>6fa310a5-1bd6-400e-8aa1-33b67120118e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='idcs-signin-basic-signin-form-password|input']</value>
-      <webElementGuid>5a150e23-6d0c-4316-a616-5e28e264e3f0</webElementGuid>
+      <webElementGuid>96a848a2-fc76-4d05-ad99-9506f6457346</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//oj-input-password[@id='idcs-signin-basic-signin-form-password']/input</value>
-      <webElementGuid>3195ae75-085c-4745-ae29-9bb25fdea9f3</webElementGuid>
+      <webElementGuid>8051e938-6cc0-4613-864e-aee76707747e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//oj-input-password/input</value>
-      <webElementGuid>0bf32455-2812-48f8-a3b3-0d879408f35e</webElementGuid>
+      <webElementGuid>52f0ce58-2767-4d9d-b716-23acc4c11d6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @placeholder = 'Password' and @id = 'idcs-signin-basic-signin-form-password|input']</value>
-      <webElementGuid>d276e32a-9b0d-4262-81a7-a0307773e651</webElementGuid>
+      <webElementGuid>eaaa5286-d89a-4edc-8ce5-313b593a0939</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
