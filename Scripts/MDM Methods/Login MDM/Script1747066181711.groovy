@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.navigateToUrl(GlobalVariable.mdm_url)
 
