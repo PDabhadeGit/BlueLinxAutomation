@@ -6,11 +6,11 @@
    <elementGuidId>7a530bfd-ae6f-495f-ac67-fad908304a20</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span/span/span/span/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>(//a[@class='x1o4' and @title='Search: Unit'])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>80b53eb1-3dfc-4cf8-8c4c-2a97418324db</webElementGuid>
+      <webElementGuid>2012998b-a8da-48cb-9b52-5d72b18524cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +36,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>2ca53b3f-e5ec-486f-a40d-10e5e514a9c2</webElementGuid>
+      <webElementGuid>e81c1553-460e-424e-8057-25e4652f9ab4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1o4</value>
-      <webElementGuid>3318337d-50f6-494c-a0e1-b8a07856f958</webElementGuid>
+      <webElementGuid>2031d02c-1101-4c6a-ace9-75386b93ef09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,7 +52,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:4:weightUomCodeId::lovIconId</value>
-      <webElementGuid>04d57cfa-0b3c-4ea7-9596-12c68524f0c1</webElementGuid>
+      <webElementGuid>f4371d0d-ae56-4feb-88b9-870abcc37563</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Search: Unit</value>
-      <webElementGuid>acec1e22-90e6-4bd3-9db1-ed6adcd19c48</webElementGuid>
+      <webElementGuid>f719de04-d102-44b1-bdbb-353c8e9944cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:4:weightUomCodeId::lovIconId&quot;)</value>
-      <webElementGuid>aaaa3efb-35cc-4dd3-80a0-17eb15887867</webElementGuid>
+      <webElementGuid>fc4c208d-8376-4239-9da8-7f9ee4b1fb31</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:4:weightUomCodeId::lovIconId']</value>
-      <webElementGuid>e102fdca-7579-42eb-9639-5d34a1f61b8d</webElementGuid>
+      <webElementGuid>94051840-a708-4bb8-b765-02013e2fc061</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:4:weightUomCodeId::cntnrSpan']/span/a</value>
-      <webElementGuid>0fd7bf2f-1dae-4606-8833-9c8e60214f10</webElementGuid>
+      <webElementGuid>1b1569d4-3aae-4108-b156-c559c120f7d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span/a</value>
-      <webElementGuid>691aeb3a-398c-4e4f-a000-ce3cc4e75769</webElementGuid>
+      <webElementGuid>dd1fd264-3d13-4396-ab31-6cc3c868e255</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,6 +100,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:4:weightUomCodeId::lovIconId' and @title = 'Search: Unit']</value>
-      <webElementGuid>ff833e53-c8f3-42ae-8ee3-31911248ee0a</webElementGuid>
+      <webElementGuid>a33f6b50-981e-4bf5-b194-2f24fdbb64cc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

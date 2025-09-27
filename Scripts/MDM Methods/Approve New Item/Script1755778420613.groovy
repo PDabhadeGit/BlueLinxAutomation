@@ -30,11 +30,19 @@ WebUI.delay(3)
 String itemID = WebUI.getText(findTestObject('Object Repository/Page_New Item Request NIR100346 Requires Approval/span_1001436'))
 
 //KeywordUtil.logInfo('New Created item with ID: ' + itemID)
-KeywordUtil.logInfo("********** NEW ITEM ID: ${itemID} **********")
+KeywordUtil.logInfo("********** NEW ITEM ID: $itemID **********")
 
 WebUI.takeFullPageScreenshot()
 
 WebUI.closeWindowIndex(1)
 
 WebUI.switchToWindowIndex(0)
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Page_Oracle Fusion Cloud Applications/button_Approve'))
+
+WebUI.delay(3)
+
+WebUI.closeBrowser()
 

@@ -6,11 +6,11 @@
    <elementGuidId>f0742180-fc7c-4f3a-9963-c99e853390b4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[7]/div/div[2]/div/div[2]/div/div/table/tbody/tr/td/table/tbody/tr[4]/td[2]/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td/span/input</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//label[normalize-space(text())='Manufacturer Part Number']/preceding-sibling::input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a3152c84-ff20-4f0a-98a6-11f88f70a5d8</webElementGuid>
+      <webElementGuid>a46d045c-be90-4bb3-9c1b-80d1dc095f9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:CTXRNj_ItemBluelinxPrivateVOMfr__Attributes:0:manufacturerPartNumber::content</value>
-      <webElementGuid>02b14c1e-8ca1-4ab0-becf-4a329fe4f513</webElementGuid>
+      <webElementGuid>9db8ffcb-72d2-42a8-bf79-558f4b861c4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
       <name>name</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:CTXRNj_ItemBluelinxPrivateVOMfr__Attributes:0:manufacturerPartNumber</value>
-      <webElementGuid>63ec85ba-0fd9-449f-8b20-a72e33b1543c</webElementGuid>
+      <webElementGuid>6355b572-6571-46ca-864c-e7e1e6e09b94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x25</value>
-      <webElementGuid>1cc69195-f41c-46f6-98c3-53c4c73418d9</webElementGuid>
+      <webElementGuid>e7df9ee8-e71a-4fb3-ab68-30f81ab161ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>size</name>
       <type>Main</type>
       <value>28</value>
-      <webElementGuid>d03bdfd8-a4ff-47e4-8edd-13aa56eadd4d</webElementGuid>
+      <webElementGuid>1f370638-1dcd-424b-9c00-6e42664b1d97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>64b31f7a-04a7-4d93-ada0-648c3a28fd05</webElementGuid>
+      <webElementGuid>e1536bb9-54cb-4653-9133-10535a4b2519</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>4000</value>
-      <webElementGuid>da2529b4-cdff-4355-a75e-1e5c2b7e48bf</webElementGuid>
+      <webElementGuid>4d21b842-89ea-4ef1-9a2b-ce175df07bcc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -84,7 +84,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0a33bc05-964e-4187-9c1e-644b9cfbca4a</webElementGuid>
+      <webElementGuid>91b19fb6-0328-4fc3-9cf8-9df07a9bed9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>950a77e6-d7ba-46b1-9256-82f1b851f196</webElementGuid>
+      <webElementGuid>a6a4c5d3-98e7-4ff9-b921-635d7e7d8a85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:CTXRNj_ItemBluelinxPrivateVOMfr__Attributes:0:manufacturerPartNumber::content&quot;)</value>
-      <webElementGuid>0cabbd35-2915-4675-ba7f-455eeb45a243</webElementGuid>
+      <webElementGuid>c309dd48-70b4-4d04-b65f-809a2c0031bf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:CTXRNj_ItemBluelinxPrivateVOMfr__Attributes:0:manufacturerPartNumber::content']</value>
-      <webElementGuid>3113b919-d585-4f93-8729-df649ea08535</webElementGuid>
+      <webElementGuid>adbe6bbf-351f-40c4-828c-fb23959cf417</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:CTXRNj_ItemBluelinxPrivateVOMfr__Attributes:0:manufacturerPartNumber']/input</value>
-      <webElementGuid>270491bb-645e-45e3-976d-c455ac510d3d</webElementGuid>
+      <webElementGuid>b3af1cb4-22a0-4d9d-9c14-283812d02278</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div[2]/div/div[2]/div/div/table/tbody/tr/td/table/tbody/tr[4]/td[2]/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td/span/input</value>
-      <webElementGuid>9d06f463-1215-4e3a-b3bd-fe527bcf1d19</webElementGuid>
+      <webElementGuid>87911ed4-7b1f-4b69-b266-eba30cfb2ba6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,6 +132,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:CTXRNj_ItemBluelinxPrivateVOMfr__Attributes:0:manufacturerPartNumber::content' and @name = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:1:CTXRNj_ItemBluelinxPrivateVOMfr__Attributes:0:manufacturerPartNumber' and @type = 'text']</value>
-      <webElementGuid>43906fc9-a2ab-4138-a82e-5a65ef307317</webElementGuid>
+      <webElementGuid>3db3f77e-ed1f-4cd0-9c25-94633a9fb4ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

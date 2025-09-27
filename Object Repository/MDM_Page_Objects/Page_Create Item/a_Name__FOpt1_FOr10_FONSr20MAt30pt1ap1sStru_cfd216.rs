@@ -6,11 +6,11 @@
    <elementGuidId>264a52e3-b2a3-428d-a1a7-3f8d4106e5c0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[2]/td[2]/span/span/span/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//a[@class='x1o4' and @title='Search: Name']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>da3add74-5e12-478d-8102-9966a876b6b1</webElementGuid>
+      <webElementGuid>3298b850-a176-45ee-91e3-5b782f5e35cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +36,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>6222445c-4a9a-490e-95fc-1b99c7150672</webElementGuid>
+      <webElementGuid>9be967d7-8a6e-4021-9ff6-94a151f4470c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1o4</value>
-      <webElementGuid>c24119d8-719c-4851-b22a-8095e1e05653</webElementGuid>
+      <webElementGuid>054de0e9-786d-4c71-ae93-8b722e26c3ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,7 +52,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:selectOneChoice1::lovIconId</value>
-      <webElementGuid>51b49367-60e5-4416-9aa8-c14722d811db</webElementGuid>
+      <webElementGuid>669de042-2774-4fa4-9121-0f94b669cb02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Search: Name</value>
-      <webElementGuid>07e30d7d-2c01-41fe-ba3d-2252c7663bc9</webElementGuid>
+      <webElementGuid>a668f32b-4cf7-42c8-9c21-75d6f4dbd42f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:selectOneChoice1::lovIconId&quot;)</value>
-      <webElementGuid>b86528bc-85b2-42f3-9fa9-d5bfa58015d7</webElementGuid>
+      <webElementGuid>1520b173-3ffc-47fe-84fa-218ab943cf19</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:selectOneChoice1::lovIconId']</value>
-      <webElementGuid>c55b032b-7eb5-4cd1-8b34-357973d59392</webElementGuid>
+      <webElementGuid>922c6b99-4b4f-4354-b718-b9cae2ff3072</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:selectOneChoice1::cntnrSpan']/span/a</value>
-      <webElementGuid>2c206391-db9d-400c-b5f2-be09003e73ad</webElementGuid>
+      <webElementGuid>332780b0-e240-4dd0-b887-c05bbe2c7fba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[2]/span/span/span/a</value>
-      <webElementGuid>44868c9f-030c-40e2-8b3c-b9e88707ec5d</webElementGuid>
+      <webElementGuid>e2a5ccbb-7863-45f6-83af-ef8b428b3a02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,6 +100,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:selectOneChoice1::lovIconId' and @title = 'Search: Name']</value>
-      <webElementGuid>cd2db45d-8a7a-4752-8908-0255f0115796</webElementGuid>
+      <webElementGuid>221b2031-6289-4fda-966a-9640680a2533</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

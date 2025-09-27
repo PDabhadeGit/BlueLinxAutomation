@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_finishItemEffBaseEO6_ATTRIBUTE_CHAR2::dropdownPopup::dropDownContent::db']/table/tbody/tr/td</value>
+         <value>//td[@class='xen' and .//span[normalize-space(text())='Aluminum']]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>16433dfd-06b7-4284-8f67-8e360d1220e8</webElementGuid>
+      <webElementGuid>c83fdc8c-c068-4b5c-b6cc-d72b8253b6f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xen</value>
-      <webElementGuid>e2ee36b4-0f17-4c47-b852-94764c6bc276</webElementGuid>
+      <webElementGuid>4aef5872-7ab0-46cf-acac-85a8e4d865ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>8b05caf5-c680-4a26-a8f3-b304da667404</webElementGuid>
+      <webElementGuid>fa87f0cc-585a-44db-b937-d8fb3ff99988</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Aluminum</value>
-      <webElementGuid>0d9fc08b-9148-4857-8214-09e7370e4036</webElementGuid>
+      <webElementGuid>2cde79ce-168f-4816-8b83-e4408069d48b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_finishItemEffBaseEO6_ATTRIBUTE_CHAR2::dropdownPopup::dropDownContent::db&quot;)/table[@class=&quot;x1hi&quot;]/tbody[1]/tr[@class=&quot;p_AFFocused xem p_AFSelected&quot;]/td[@class=&quot;xen&quot;]</value>
-      <webElementGuid>201aaa52-959e-4ba3-92b6-cd03f08f9bbb</webElementGuid>
+      <webElementGuid>d89abe58-714a-4948-8906-c3d9b1243954</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_finishItemEffBaseEO6_ATTRIBUTE_CHAR2::dropdownPopup::dropDownContent::db']/table/tbody/tr/td</value>
-      <webElementGuid>b0d85862-a886-4080-981a-b9741dccdc4e</webElementGuid>
+      <webElementGuid>f23e6606-c03c-4ff9-9dae-5394ff7099e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PrintMe'])[1]/following::td[4]</value>
-      <webElementGuid>1d27a1f8-6e59-4ff3-84c4-0520286fd6ef</webElementGuid>
+      <webElementGuid>1d9e8169-31ca-450d-84cb-c4fd0e861dae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Negative Deviation Factor'])[1]/following::td[12]</value>
-      <webElementGuid>00bb8e8b-0ca6-45a4-86e5-5d2599f3678b</webElementGuid>
+      <webElementGuid>1955477a-97a0-4570-907a-de10a3540fcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aluminum'])[2]/preceding::td[1]</value>
-      <webElementGuid>8ef74706-60c6-4548-bea9-e09459281ec4</webElementGuid>
+      <webElementGuid>8f37d245-91d0-4637-8a6a-de37c77c76b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/table/tbody/tr/td</value>
-      <webElementGuid>6f8eba07-3822-4ba0-949a-b42f0a66f81f</webElementGuid>
+      <webElementGuid>022d6efc-648b-4fa0-9ba5-73794a1a1bbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Aluminum' or . = 'Aluminum')]</value>
-      <webElementGuid>1383172c-082f-4c64-9d17-578792bb27eb</webElementGuid>
+      <webElementGuid>ecfcfb68-6700-47b4-a086-bc0cbb4bfaa3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

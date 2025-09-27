@@ -6,11 +6,11 @@
    <elementGuidId>0472bfb6-b745-4611-b394-d4dd30fd1aad</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//td[2]/table/tbody/tr[2]/td[2]/table/tbody/tr/td/span/span/span/span/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>(//a[@class='x1o4' and @title='Search: Unit'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dd219cef-a581-4c47-84ee-36d7b34056ec</webElementGuid>
+      <webElementGuid>555ec1f6-a29c-4513-babb-fe7b63a68c16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +36,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>7a5776c6-39b2-4260-9627-84c8c302cb40</webElementGuid>
+      <webElementGuid>74a94f29-e174-41b4-997c-32a2fff95613</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1o4</value>
-      <webElementGuid>149e655e-a92a-49a7-b40d-d54fb66de81c</webElementGuid>
+      <webElementGuid>61de8653-a525-4547-a210-4a42ebca81da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,7 +52,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:4:volumeUomCodeId::lovIconId</value>
-      <webElementGuid>dff61126-f14b-42a2-ae72-c42f54b6200b</webElementGuid>
+      <webElementGuid>6b0cf145-73f0-4206-8fa6-9673f0b43de3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Search: Unit</value>
-      <webElementGuid>ee088019-2bac-472b-b3fc-7c61c261e9ce</webElementGuid>
+      <webElementGuid>f2d8157d-b37d-4d27-8e5f-eef1de0ce8dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:4:volumeUomCodeId::lovIconId&quot;)</value>
-      <webElementGuid>38528593-a993-46ef-bfbd-9bf0f180d7b2</webElementGuid>
+      <webElementGuid>2d32aa15-233f-446e-abcd-66a5b20a96e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:4:volumeUomCodeId::lovIconId']</value>
-      <webElementGuid>545522fa-016d-4db1-8293-f02dad2406a3</webElementGuid>
+      <webElementGuid>727457db-f675-4523-b81c-ac994a73dded</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:4:volumeUomCodeId::cntnrSpan']/span/a</value>
-      <webElementGuid>8092ae5e-8c31-4ce6-bc48-2a217170e691</webElementGuid>
+      <webElementGuid>d9e0b884-f1b7-4033-b78e-547650b9f469</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/table/tbody/tr[2]/td[2]/table/tbody/tr/td/span/span/span/span/a</value>
-      <webElementGuid>48ea58f4-6ce5-4429-ae6d-54283973b705</webElementGuid>
+      <webElementGuid>da63b47a-27a7-419b-b1c0-00065450ddc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,6 +100,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:4:volumeUomCodeId::lovIconId' and @title = 'Search: Unit']</value>
-      <webElementGuid>1bcc5b2c-e9e8-4efc-8d62-66bc2aae6d4a</webElementGuid>
+      <webElementGuid>54992e18-55b8-4ba8-8227-a563b091962d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

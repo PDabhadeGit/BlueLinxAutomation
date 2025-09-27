@@ -6,11 +6,12 @@
    <elementGuidId>db3e4504-e7db-4949-a5b8-378757a02985</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Specifications')]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>(//a[@onclick='return false;' and normalize-space(text())='Specifications'])[1]&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c102f184-11c2-490b-ab37-5cb066dc1a3a</webElementGuid>
+      <webElementGuid>33837c11-2145-4fce-843f-2a0eb8f06541</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspec::disAcr</value>
-      <webElementGuid>b7ffae14-70b4-4734-8171-ab173d398733</webElementGuid>
+      <webElementGuid>fb7d3376-05f4-483c-b0b8-017ab7774e74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xod</value>
-      <webElementGuid>820c2b32-d099-4021-8a3c-831ca8e5a36e</webElementGuid>
+      <webElementGuid>80d71a61-a1fa-4277-ba00-180480253118</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,7 +53,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>b0cb451a-25ea-4d68-9625-7ecc61aed589</webElementGuid>
+      <webElementGuid>e0257ec0-1873-41c3-890e-16caf1245da3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +61,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return false;</value>
-      <webElementGuid>718e5292-bae8-4654-af8a-7e0488d5c948</webElementGuid>
+      <webElementGuid>a3831b1f-df45-4eb0-a074-3044540ad6e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Specifications</value>
-      <webElementGuid>432cad05-4d2a-4019-97ee-0f0f374c3368</webElementGuid>
+      <webElementGuid>d77307bc-d76e-4e81-8900-97fca49cc678</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspec::disAcr&quot;)</value>
-      <webElementGuid>b68f3494-66e6-4c63-9ec4-883b21b89e88</webElementGuid>
+      <webElementGuid>7118b542-4f5f-41b4-b089-e3d42d773ec2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -84,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspec::disAcr']</value>
-      <webElementGuid>b7fd0148-07e4-46f8-8321-79bd7b4e48cb</webElementGuid>
+      <webElementGuid>3c5020db-0f54-425c-bb53-49b926e28063</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspec::ti']/div/a</value>
-      <webElementGuid>c3d61e88-d9e5-46e7-a6f5-26905259b5c8</webElementGuid>
+      <webElementGuid>2c4f0ff9-7c4c-4af8-b228-70fdc4af5420</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +101,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Specifications')]</value>
-      <webElementGuid>8d6d412f-8362-4480-8054-a8e56613cbd4</webElementGuid>
+      <webElementGuid>b3eb1f6f-ec4c-4994-b1ae-64062436a04b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation Date'])[1]/following::a[7]</value>
-      <webElementGuid>71321d5b-c170-414f-82f1-a5fbfd6f86ad</webElementGuid>
+      <webElementGuid>720b18b5-0f79-4224-aff0-a05ebe834e24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Item Object Type'])[1]/following::a[7]</value>
-      <webElementGuid>126fba49-4b57-446a-a088-128bf4e617a7</webElementGuid>
+      <webElementGuid>37474dc8-7c21-4e7a-a644-0388535c47fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Formatted Description'])[1]/preceding::a[15]</value>
-      <webElementGuid>fdb48a2f-a053-48b3-892f-15edca02e490</webElementGuid>
+      <webElementGuid>7b0a1b8f-1344-4283-b192-f2899b651da9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Long Description'])[1]/preceding::a[16]</value>
-      <webElementGuid>d5f16fa1-7e5b-4e62-9425-7fd60c7095d1</webElementGuid>
+      <webElementGuid>fa043f79-9219-4d1f-b667-8f47ccd94015</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Specifications']/parent::*</value>
-      <webElementGuid>8c7780db-a11c-48ce-8309-dd012805faa9</webElementGuid>
+      <webElementGuid>53010663-590e-4428-b7c4-f61666debe83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,7 +149,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[38]</value>
-      <webElementGuid>eb9a6cdc-c608-4c84-93a1-f7285c41e1b3</webElementGuid>
+      <webElementGuid>d00b63ef-f784-4a81-969f-b9e8d9745bfc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,7 +157,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/div/div/div[2]/div/div[2]/div[2]/div/a</value>
-      <webElementGuid>70e566e9-bbc7-4481-afe2-416291a7d1d4</webElementGuid>
+      <webElementGuid>8aa6a209-6fe1-404b-9d46-1f96be31f0aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -164,6 +165,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspec::disAcr' and @href = '#' and (text() = 'Specifications' or . = 'Specifications')]</value>
-      <webElementGuid>fd733621-e9a1-40e4-bf4f-077b9462c2e7</webElementGuid>
+      <webElementGuid>2db88265-6091-482c-8dee-c23e5f6bbaa0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

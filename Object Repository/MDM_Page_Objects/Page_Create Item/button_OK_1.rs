@@ -6,11 +6,11 @@
    <elementGuidId>fa54560f-7043-47b4-a632-8c453df28aef</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*/text()[normalize-space(.)='O']/parent::*</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>(//button[normalize-space(.)='OK'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fc52f03e-2484-4f60-b9d8-95984310a500</webElementGuid>
+      <webElementGuid>6b669410-359e-4ece-b6a8-356d26358518</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +36,7 @@
       <name>accesskey</name>
       <type>Main</type>
       <value>K</value>
-      <webElementGuid>5dc4f932-ffa3-480a-af9b-a4f9e4d4b196</webElementGuid>
+      <webElementGuid>94b6a6d4-5c9f-4b5f-b6bf-f0d9c0d19281</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:saveACBtn2</value>
-      <webElementGuid>b2c08499-371e-4aed-bfa0-315175e07726</webElementGuid>
+      <webElementGuid>c58045fe-c7e8-4a1e-bd27-db458d73b9f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p_AFHoverTarget xuz p_AFTextOnly</value>
-      <webElementGuid>552fc6ab-86b3-4fed-8d56-01076b1e4567</webElementGuid>
+      <webElementGuid>80eecce2-7406-41a2-965e-10e76f1f3b63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>this.focus();return false;</value>
-      <webElementGuid>cdebeeb6-f7b8-4886-a739-62b5d6b5628b</webElementGuid>
+      <webElementGuid>7501a1e2-baa6-4e4c-94d4-08336597f770</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +68,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OK</value>
-      <webElementGuid>f4862b72-9504-4680-a547-eaefa383df82</webElementGuid>
+      <webElementGuid>81824ade-5dc6-48eb-a4e4-0e2fdc1e9a99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:saveACBtn2&quot;)</value>
-      <webElementGuid>4fbc05d1-8e81-49d8-834b-c4af9c38bda6</webElementGuid>
+      <webElementGuid>c8ec0040-c2d4-43bb-81dd-53feeccb67e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -84,7 +84,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7c0f376b-08ab-4f19-83ef-2cbf5fea9310</webElementGuid>
+      <webElementGuid>eba16e10-2bc5-4c6a-90c2-5060a65c4f39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>_afrpdo</name>
       <type>Main</type>
       <value>cancel</value>
-      <webElementGuid>ed4dd166-90fb-43f1-98a2-7f34d686cdc1</webElementGuid>
+      <webElementGuid>ba7f3d3b-db91-4564-97fb-56f14e57d195</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:saveACBtn2']</value>
-      <webElementGuid>28b639ee-458b-4b59-88a2-25b0e142f90c</webElementGuid>
+      <webElementGuid>65fd19cf-750c-404e-b7c4-aa9d7f789149</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:pgl5']/tbody/tr/td[3]/button</value>
-      <webElementGuid>b083a571-5bf0-4b33-b77a-2dd00a308262</webElementGuid>
+      <webElementGuid>740f77c2-813a-48e4-9786-69b978b95deb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[3]/following::button[1]</value>
-      <webElementGuid>4896500f-62b1-44c4-b764-bac580893ecf</webElementGuid>
+      <webElementGuid>88a2d668-5b0b-495e-be9d-9a640d2775fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachments'])[4]/following::button[1]</value>
-      <webElementGuid>bf77b4c2-d9e1-4717-aca7-3d16f78863d6</webElementGuid>
+      <webElementGuid>de5164bf-2dd9-471e-976a-3f3d3569cb7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply and Add Details'])[1]/preceding::button[1]</value>
-      <webElementGuid>dc25136a-a3be-4184-9a3f-ae982a1975fe</webElementGuid>
+      <webElementGuid>ef25817e-f351-4771-b17f-07da47c09939</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='O']/parent::*</value>
-      <webElementGuid>c610c2a6-a8b5-4d15-bd3e-b807a7b79592</webElementGuid>
+      <webElementGuid>6d8ef40e-c33e-462d-b6ac-34dc3405449b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/button</value>
-      <webElementGuid>6dc62ec4-7c2e-4be1-a5b7-54fa58e908d9</webElementGuid>
+      <webElementGuid>1c2f563b-430c-4455-b9c5-2c52e1418234</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,7 +156,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sStruc:1:saveACBtn2' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>9c11420f-de4e-480e-8d17-96c2d7d655f6</webElementGuid>
+      <webElementGuid>86aff8d4-41a9-4a75-9895-4369076ff698</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -164,7 +164,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:commandButton3']</value>
-      <webElementGuid>82f615bc-b160-4d89-9c0b-b60bda3506bc</webElementGuid>
+      <webElementGuid>503aef11-ef59-40cf-bf81-e66c347753a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -172,7 +172,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:panelGroupLayout7']/tbody/tr/td[2]/button</value>
-      <webElementGuid>b48b40b3-fbba-4631-9942-b9b53a5b4ff3</webElementGuid>
+      <webElementGuid>419b08b3-d4a8-4893-882f-f6a01c4ab87f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -180,7 +180,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor Consignment Item Details'])[1]/following::button[1]</value>
-      <webElementGuid>9dcb44bc-e25e-4d72-9cbb-84dc4018534b</webElementGuid>
+      <webElementGuid>bafd1db6-ccf6-42b0-b16f-5e81546dcb8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -188,7 +188,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Value Added'])[1]/following::button[1]</value>
-      <webElementGuid>25c44a0e-1934-4f54-9e47-e79de6e57e3b</webElementGuid>
+      <webElementGuid>54c48cf7-d3d2-40be-aa38-0a44f042aed7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -196,7 +196,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/button</value>
-      <webElementGuid>af99a6a4-763a-4dad-af26-a25310b3c4f9</webElementGuid>
+      <webElementGuid>bf861dde-06c7-4928-905f-dd9b6e2938b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -204,7 +204,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt2:0:commandButton3' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>e92aa753-c01d-4669-b446-0a4bb21ab2a5</webElementGuid>
+      <webElementGuid>7bb00e7f-6c33-41bb-9660-dbfdfc90bbc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -212,7 +212,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sRelFl:1:RelatedItemResults:ip21:cb1']</value>
-      <webElementGuid>a49e250b-66e8-4441-baa6-deb8c9740e58</webElementGuid>
+      <webElementGuid>c16ee4bc-a206-45ca-9c8b-9f062bc1366f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -220,7 +220,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sRelFl:1:RelatedItemResults:ip21:pgl6']/button</value>
-      <webElementGuid>a7ae19c2-4712-45fd-9e9f-a8641560c9dd</webElementGuid>
+      <webElementGuid>0eb5bdc2-ca4d-4e5f-acc0-cc90aa4fa902</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -228,7 +228,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detached Table'])[3]/following::button[1]</value>
-      <webElementGuid>4d7d48f6-d8f7-46e8-9aa2-2f2b9de14e5e</webElementGuid>
+      <webElementGuid>9e766e5b-85d8-4b88-a7e1-1c0adc2955b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -236,7 +236,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Wrap'])[12]/following::button[1]</value>
-      <webElementGuid>f833619c-bf26-413d-8a4e-bde708b82424</webElementGuid>
+      <webElementGuid>c2317b03-8816-4d40-872f-db0b1558991c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -244,7 +244,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/button</value>
-      <webElementGuid>323eb9db-6546-4958-856a-8b82debbb882</webElementGuid>
+      <webElementGuid>114d41b1-2fca-43eb-961b-2530d4d9f5db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -252,7 +252,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sRelFl:1:RelatedItemResults:ip21:cb1' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>3d1e2d5e-ec61-4dcc-9b32-e0192b75858a</webElementGuid>
+      <webElementGuid>c8e20691-1d05-492f-bcb9-beac3af5daca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -260,7 +260,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='_FOd1::msgDlg::cancel']</value>
-      <webElementGuid>9e2d5b43-d391-42f1-b166-8b021b2eba9e</webElementGuid>
+      <webElementGuid>b67e463c-2f7d-44b4-8c81-3524ad4216c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -268,7 +268,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='_FOd1::msgDlg::_fcc']/button</value>
-      <webElementGuid>f6e71502-3ce8-4f3b-baf1-24928660345b</webElementGuid>
+      <webElementGuid>8bd9a128-f82e-449d-8622-fc64b7b15dec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -276,7 +276,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='You must enter at least 3 characters in the Item field. (EGP-2776148)'])[1]/following::button[1]</value>
-      <webElementGuid>e34aaea1-bd0e-4253-943f-33a02bd74898</webElementGuid>
+      <webElementGuid>3950163a-5a4d-4254-8888-9a4a3bd26537</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -284,7 +284,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::button[1]</value>
-      <webElementGuid>73fae450-904c-4d24-8711-c6bf7234ed9b</webElementGuid>
+      <webElementGuid>516c7fbf-7fb6-4377-bcb6-6be89f141a56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -292,7 +292,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/preceding::button[1]</value>
-      <webElementGuid>2b109768-114d-4fd2-8275-d028f1a63a08</webElementGuid>
+      <webElementGuid>a6d61ddc-bb56-4aff-bf03-fdd8e452a0ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -300,7 +300,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[8]/preceding::button[1]</value>
-      <webElementGuid>8f27f6b6-a4e1-4b29-a42c-b29c6741e13c</webElementGuid>
+      <webElementGuid>2eb6148d-1d12-471f-b50d-5111d62ed2ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -308,7 +308,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/div/table/tbody/tr[3]/td[2]/table/tbody/tr/td/button</value>
-      <webElementGuid>1eace2e9-a341-4f02-ad17-976164796ed8</webElementGuid>
+      <webElementGuid>04d17755-b095-44e5-be2a-27cfa13c1a14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -316,6 +316,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = '_FOd1::msgDlg::cancel' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>4806a49d-68c6-4744-9817-c52b68110d15</webElementGuid>
+      <webElementGuid>ee5d903c-f20d-41b7-9551-4daf324ed7d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

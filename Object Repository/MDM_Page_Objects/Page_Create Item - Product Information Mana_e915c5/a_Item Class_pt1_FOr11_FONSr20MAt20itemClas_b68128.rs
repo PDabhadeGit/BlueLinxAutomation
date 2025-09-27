@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:MAt2:0:itemClassId::lovIconId']</value>
+         <value>//a[@class='x1o4' and @title='Search: Item Class']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>cc439b12-cdcb-46e7-b4ba-a0ad72263ca6</webElementGuid>
+      <webElementGuid>e8c47b41-cf7e-4595-a362-4c37be86393d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>acb3262b-f087-43da-9adb-739513a0c37b</webElementGuid>
+      <webElementGuid>b16db848-61ae-4398-b61e-e72f27dcba50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1o4</value>
-      <webElementGuid>97f7da8a-3ef1-4950-885d-64b94c4a04b3</webElementGuid>
+      <webElementGuid>55e3be68-5afc-4a8b-97dc-44b4c2b39a2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:MAt2:0:itemClassId::lovIconId</value>
-      <webElementGuid>2acbd8b4-b5ce-4739-951b-b2fc37c2985d</webElementGuid>
+      <webElementGuid>af4693c0-1b84-4263-93c3-e0d3471b3129</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Search: Item Class</value>
-      <webElementGuid>eeffdaec-30a8-4c0f-8585-47a93172d75e</webElementGuid>
+      <webElementGuid>7b1ec646-d310-4047-a5ee-ca2131165f72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt2:0:itemClassId::lovIconId&quot;)</value>
-      <webElementGuid>992d8bcd-f88d-4cde-b37a-f0160ab71d32</webElementGuid>
+      <webElementGuid>1064d2e7-ab4f-47d5-a84b-c993189428d9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:MAt2:0:itemClassId::lovIconId']</value>
-      <webElementGuid>c92e89cf-c3c4-4946-81f1-52f446fb40dd</webElementGuid>
+      <webElementGuid>357e4c6a-c6f6-4cda-ae67-0ddb01be6d61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='pt1:_FOr1:1:_FONSr2:0:MAt2:0:itemClassId::cntnrSpan']/span/a</value>
-      <webElementGuid>0e00d31c-6c9b-497b-8df3-d8ecaf68d004</webElementGuid>
+      <webElementGuid>5f6dc4e6-de15-44f8-9c4e-852dbeb246fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[5]/td[2]/span/span/span/a</value>
-      <webElementGuid>8545ba3c-cb7a-4791-8c74-3220e6670eec</webElementGuid>
+      <webElementGuid>c37e8dab-73e9-4426-a21b-a708a8696ccf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +100,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'pt1:_FOr1:1:_FONSr2:0:MAt2:0:itemClassId::lovIconId' and @title = 'Search: Item Class']</value>
-      <webElementGuid>39547651-3436-47c4-8e7a-ed57e59bf92a</webElementGuid>
+      <webElementGuid>c831e635-ac4b-44fb-a127-40e464bc4b86</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,11 +6,11 @@
    <elementGuidId>cf1d4f92-7f05-454a-8b7d-bdf1a968b1b6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//img[@alt='Select and Add']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//img[@title='Select and Add' and @class='x1kd']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>ea88e05e-8a23-4c52-bf6e-54ebe21b5395</webElementGuid>
+      <webElementGuid>5a1ef010-9c59-4c1d-a4d1-2706a5bfa6d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:r2:1:AT1:_ATp:orgbtnmen::icon</value>
-      <webElementGuid>32178a82-1141-4231-a15a-6912a30ee201</webElementGuid>
+      <webElementGuid>1813d969-7c54-4a82-815f-630834efe5f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/fscmUI/images/func_documentadd_16_ena.png</value>
-      <webElementGuid>9e68a4eb-eb24-4536-a318-161bb46e40de</webElementGuid>
+      <webElementGuid>ea6f1ffb-121b-4df4-9695-759cc19f900e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,7 +52,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Select and Add</value>
-      <webElementGuid>de293844-676b-4be5-8684-0510467e2e62</webElementGuid>
+      <webElementGuid>fd2684a1-eead-43f3-968e-355e5c14c319</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Select and Add</value>
-      <webElementGuid>b6cbd6fa-da1e-4692-bec7-0852706d4b08</webElementGuid>
+      <webElementGuid>c8dfd731-6c27-42ce-ae10-824ac319b8e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1kd</value>
-      <webElementGuid>c6a45a5c-3289-4a57-8b4d-b129704ba018</webElementGuid>
+      <webElementGuid>e11c6b0d-d64a-450c-9ef2-0e84535d7fa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:r2:1:AT1:_ATp:orgbtnmen::icon&quot;)</value>
-      <webElementGuid>ac137d18-cc26-4ddd-9535-5cb8832f6ad7</webElementGuid>
+      <webElementGuid>0f202160-a1ce-48e0-a86d-c025cba16376</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//img[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:r2:1:AT1:_ATp:orgbtnmen::icon']</value>
-      <webElementGuid>2a0f2eef-6274-4407-bb03-77893cfac6a3</webElementGuid>
+      <webElementGuid>62ba4b28-d436-493e-8207-1423cc5dec23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:r2:1:AT1:_ATp:orgbtnmen']/a/img</value>
-      <webElementGuid>da2e4281-6042-4b15-9f9e-603bb77da6e7</webElementGuid>
+      <webElementGuid>4a92974f-c308-490a-823e-99fe237a7e5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Select and Add']</value>
-      <webElementGuid>edbc97b1-217f-4ca2-b5e0-108eea08cf9b</webElementGuid>
+      <webElementGuid>8b95c68b-7a98-4903-8de3-e899d32461ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/div/a/img</value>
-      <webElementGuid>d36e12f5-6db4-4c30-934b-e7906d198319</webElementGuid>
+      <webElementGuid>51d8c025-c6f3-4ef5-95db-b01697431eac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,6 +116,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:r2:1:AT1:_ATp:orgbtnmen::icon' and @src = '/fscmUI/images/func_documentadd_16_ena.png' and @title = 'Select and Add' and @alt = 'Select and Add']</value>
-      <webElementGuid>64af472c-c25f-4a87-9673-ed9ec583b7bf</webElementGuid>
+      <webElementGuid>48be6f87-d3e6-4c3d-937c-41f29f83eb01</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

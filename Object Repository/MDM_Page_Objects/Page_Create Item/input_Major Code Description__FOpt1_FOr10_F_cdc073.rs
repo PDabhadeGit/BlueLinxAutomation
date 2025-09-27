@@ -6,11 +6,11 @@
    <elementGuidId>c4a14e4c-ce79-4fc0-b71d-4f588126af06</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//td[2]/table/tbody/tr[2]/td[2]/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td/span/input</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>(//input[@class='xpj' and @type='text' and @role='combobox'])[7]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b1496d9c-e046-4828-829e-5aa3b0159810</webElementGuid>
+      <webElementGuid>d0e107fc-a4f1-4201-ac05-d225b59d0cd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:majorCodeDescription::content</value>
-      <webElementGuid>841824c6-17ae-448b-afe7-b9dcc893dbd1</webElementGuid>
+      <webElementGuid>0ec2d1d7-06b9-4b01-ace3-dd9bc02698ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
       <name>name</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:majorCodeDescription</value>
-      <webElementGuid>98650321-cdaf-4b28-ab3c-e19f979f51c1</webElementGuid>
+      <webElementGuid>494db6d2-945c-4ed6-b259-7fdead41a6a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x25</value>
-      <webElementGuid>50a3e137-1c42-4365-a373-752bcd1ba13e</webElementGuid>
+      <webElementGuid>ec5b326f-a55a-41e1-920f-c5eb12a6970c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>size</name>
       <type>Main</type>
       <value>28</value>
-      <webElementGuid>67f08e60-e560-47dc-840f-3b501e7a4ebd</webElementGuid>
+      <webElementGuid>8976c6d9-3d6e-4009-bf93-97e87043e211</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>99d06828-1783-4e4b-b852-417bd5af6d43</webElementGuid>
+      <webElementGuid>7496e2f0-a386-46b8-80ed-1e8205e01f0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>4000</value>
-      <webElementGuid>ca03aaac-124f-4546-8bb5-e6a9d374a8e3</webElementGuid>
+      <webElementGuid>09cc1193-cc14-474d-8ae9-5d7536216aac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -84,7 +84,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>dfe6b608-e699-4e75-8447-11e04accaaf8</webElementGuid>
+      <webElementGuid>5304fa3a-b145-476b-b8c7-0896c5010f4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>84ae29f3-12e0-49f8-a7fe-45e2ba625512</webElementGuid>
+      <webElementGuid>da2b6072-3fd5-4233-afaf-7f51b68ac68a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:majorCodeDescription::content&quot;)</value>
-      <webElementGuid>14b6a29a-66fa-4ef5-bb68-727634549865</webElementGuid>
+      <webElementGuid>cc066f85-561a-4696-b170-eae343a685a6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:majorCodeDescription::content']</value>
-      <webElementGuid>64959f3e-c547-4f4f-94e4-71b1cae07faa</webElementGuid>
+      <webElementGuid>97b98278-8446-4e7f-bd77-c9583b9627a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:majorCodeDescription']/input</value>
-      <webElementGuid>e12f2c36-451b-424c-a1e8-82d3cae163e3</webElementGuid>
+      <webElementGuid>72e07eaf-3f37-4c9f-a14d-3ab644190963</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/table/tbody/tr[2]/td[2]/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td/span/input</value>
-      <webElementGuid>580fb9e3-61ad-43d3-8883-08bc0254ebd3</webElementGuid>
+      <webElementGuid>5d46bae8-6111-4583-a0a4-ae779aadb68a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,6 +132,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:majorCodeDescription::content' and @name = '_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:majorCodeDescription' and @type = 'text']</value>
-      <webElementGuid>6d2ed53f-17f2-4df1-8bbf-1af878c03141</webElementGuid>
+      <webElementGuid>4ea96535-ef82-40a2-bf7c-03c5721183f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

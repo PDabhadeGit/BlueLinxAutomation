@@ -6,12 +6,12 @@
    <elementGuidId>5ed268d3-366b-4324-8257-63c4c2adf786</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='PrintMe'])[1]/following::td[6]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>tr.p_AFSelected.p_AFFocused.xem > td.xen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='x2f0' and normalize-space(text())='AFL']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>3265874c-dd5a-4694-8dbb-706b18dd8fa0</webElementGuid>
+      <webElementGuid>b7a26222-921a-41ae-9d52-a2ed3042c33e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xen</value>
-      <webElementGuid>09d0e490-dd52-419d-8482-7814f301fb02</webElementGuid>
+      <webElementGuid>b335951f-b026-4f1b-b13b-177d4408a14b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>42d89980-e9f6-4bcf-b1c0-c4f3152b7cb0</webElementGuid>
+      <webElementGuid>cb9309b5-8853-4497-bffa-36c14a6693d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AFL</value>
-      <webElementGuid>c5b1445f-d105-41bc-9a8c-a15c8a706439</webElementGuid>
+      <webElementGuid>e71ed218-08bf-41a5-995d-e6b4b226c097</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:minorCode::dropdownPopup::dropDownContent::db&quot;)/table[@class=&quot;x1hi&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[@class=&quot;xen&quot;]</value>
-      <webElementGuid>0bfdc023-e33d-4e46-83f0-5c37f615e791</webElementGuid>
+      <webElementGuid>a2df0130-54c2-4d83-b256-f4276eb90d13</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:2:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:minorCode::dropdownPopup::dropDownContent::db']/table/tbody/tr[2]/td</value>
-      <webElementGuid>020c6258-18ae-4da1-9f6a-70a91f375df1</webElementGuid>
+      <webElementGuid>184aa32e-f0e5-4037-87c6-8b20549bbab1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PrintMe'])[1]/following::td[6]</value>
-      <webElementGuid>1fab1085-2dea-44a7-98f8-a8c4790771e3</webElementGuid>
+      <webElementGuid>b4d97265-6977-4910-992b-694034b044f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Stocking to Costing Factor'])[2]/following::td[12]</value>
-      <webElementGuid>6cc796d6-d884-4819-85fe-ee4c79a3055f</webElementGuid>
+      <webElementGuid>b128b8db-2f86-4af3-8788-1f8e9292380d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AFL'])[3]/preceding::td[1]</value>
-      <webElementGuid>5355efcd-fd34-41a8-bb32-61a426bba519</webElementGuid>
+      <webElementGuid>cb603545-0db4-4259-87d7-ac715b4200b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/table/tbody/tr[2]/td</value>
-      <webElementGuid>1aaa7973-c48f-4743-b392-000182c21bc3</webElementGuid>
+      <webElementGuid>8df2634a-c37a-4cee-b11f-dcc04d2b6c80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'AFL' or . = 'AFL')]</value>
-      <webElementGuid>8f28492a-3222-4565-9f21-fce2b178efc9</webElementGuid>
+      <webElementGuid>0a25c654-91d4-40a3-b46a-1b1f5a65b4b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Autocompletes on TAB'])[9]/following::td[12]</value>
-      <webElementGuid>ca57ce47-742d-4879-b12f-46a785d4d6f1</webElementGuid>
+      <webElementGuid>11b52701-ee70-4792-b4f7-382f586c945d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:dynReg:3:CTXRNj_ItemBluelinxPrivateVOAgility__Master__Controlled:0:minorCode::dropdownPopup::dropDownContent::db']/table/tbody/tr[2]/td</value>
-      <webElementGuid>6dd948df-a420-409e-ac75-56c31d1bdc27</webElementGuid>
+      <webElementGuid>39942498-1f1d-4d39-9713-8c84dbd77589</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,13 @@
    <elementGuidId>5c9fcc39-54bf-4b32-9073-93142eabe170</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='PrintMe'])[1]/following::td[4]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>td.xen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@class='xen' and .//span[normalize-space(text())='BAG']]&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +30,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>eabbf6a7-3c64-4b6a-8621-57ac7cf4a1c8</webElementGuid>
+      <webElementGuid>55f26991-42fc-4b4e-9a8f-6be89039ec51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xen</value>
-      <webElementGuid>d6561818-4838-4aaf-9081-80a2322f0e7d</webElementGuid>
+      <webElementGuid>26989dc5-fc51-47b7-960c-6ffe7e48af82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>08895721-2f44-4f62-8e50-fd7b0f1131c2</webElementGuid>
+      <webElementGuid>e8a4120e-3b1b-45ba-90e0-d1b654908877</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>BAG</value>
-      <webElementGuid>cc6cac0b-1da3-4674-a785-4ddfc5fc713f</webElementGuid>
+      <webElementGuid>e19cd971-328d-4f9f-af02-50b8e48f53ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sprimf:0:primaryUomCodeDispId::dropdownPopup::dropDownContent::db&quot;)/table[@class=&quot;x1hi&quot;]/tbody[1]/tr[@class=&quot;p_AFFocused xem p_AFSelected&quot;]/td[@class=&quot;xen&quot;]</value>
-      <webElementGuid>e8f377ee-61f4-4e8a-8229-1587235978fa</webElementGuid>
+      <webElementGuid>302af69f-c5d4-4bdb-b1e4-89704e7c9934</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sprimf:0:primaryUomCodeDispId::dropdownPopup::dropDownContent::db']/table/tbody/tr/td</value>
-      <webElementGuid>82530c2e-7fc5-4286-a900-bddf4de521ad</webElementGuid>
+      <webElementGuid>ea746115-5ab2-4c17-b819-fad6ca634e99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PrintMe'])[1]/following::td[4]</value>
-      <webElementGuid>576661df-6926-4e16-a5c3-1fbb174520ca</webElementGuid>
+      <webElementGuid>81078bf9-d127-490d-acd8-52c56df5b2a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Negative Deviation Factor'])[1]/following::td[12]</value>
-      <webElementGuid>782e04ae-a715-4fe7-888c-ff622036ad1a</webElementGuid>
+      <webElementGuid>978ef09e-2ee5-4abe-bee3-d54e5fb70691</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/preceding::td[1]</value>
-      <webElementGuid>049252aa-2643-48a0-9b12-70611487565b</webElementGuid>
+      <webElementGuid>317f80ee-7bc8-4c0d-9e9a-7c1b3f675116</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/table/tbody/tr/td</value>
-      <webElementGuid>7c2ffbc6-ae61-4910-b08f-d137694cb521</webElementGuid>
+      <webElementGuid>137e5f10-4542-4643-96de-5ff50b0f51a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'BAG' or . = 'BAG')]</value>
-      <webElementGuid>761119b2-7d5b-47a4-bef1-3828d349c868</webElementGuid>
+      <webElementGuid>c158e549-9438-4b81-96f1-b0f7a9358229</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

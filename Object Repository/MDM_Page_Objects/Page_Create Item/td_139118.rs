@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Revision Code'])[1]/following::td[3]</value>
+         <value>//td[contains(@class, 'xen')]/span[contains(@class, 'x2f0') and text()='139118']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>2b96881d-f5f2-48d5-ac4c-90f2de26bce7</webElementGuid>
+      <webElementGuid>00d1603b-c3ca-43c7-8792-5cd46137b8cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xen</value>
-      <webElementGuid>5bd34952-5118-4a20-8d8a-3e2fc4ecd8b7</webElementGuid>
+      <webElementGuid>a2e979a0-dfbd-4446-afb4-8f9df550f810</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>0e7e4954-3b38-4a98-8539-8e7b09776256</webElementGuid>
+      <webElementGuid>c8bb4100-7fa8-4bb0-9bd3-f748b0d7537a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>139118</value>
-      <webElementGuid>415d9c0a-df5f-4bce-be2e-1357195f6804</webElementGuid>
+      <webElementGuid>60f4bac2-1f70-4ad7-8a39-c188c43e0921</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sRelFl:1:RelatedItemResults:ip2:Popup1:0:Advan1:0:rstab:_ATp:table1::db&quot;)/table[@class=&quot;x1hi x1i6&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[@class=&quot;xen&quot;]</value>
-      <webElementGuid>2a8d536d-f531-49d4-ad7c-9a6f2e994c37</webElementGuid>
+      <webElementGuid>f2a8bf21-089d-4379-9a4c-d82330e70a75</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAt3:0:pt1:ap1:sRelFl:1:RelatedItemResults:ip2:Popup1:0:Advan1:0:rstab:_ATp:table1::db']/table/tbody/tr/td[3]</value>
-      <webElementGuid>e74cf88b-e643-4ab9-8466-03cedc6161d6</webElementGuid>
+      <webElementGuid>c9dfb937-b2e2-486c-ba08-6ecb4d19ea89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Revision Code'])[1]/following::td[3]</value>
-      <webElementGuid>82a73f1a-544b-4f6a-bd72-fd947d7b4380</webElementGuid>
+      <webElementGuid>15b18439-90e9-4751-a7b6-efc00358bfd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[2]/following::td[5]</value>
-      <webElementGuid>3680936d-6235-4e88-a0f9-b79b4ad12f5a</webElementGuid>
+      <webElementGuid>23f7799a-dfdf-48f5-ae48-57de85fc9c2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/table/tbody/tr/td[3]</value>
-      <webElementGuid>44b46e87-d352-426c-aff0-95de68c6c1d3</webElementGuid>
+      <webElementGuid>487b34f5-7953-4532-9da0-16c4900cceab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = '139118' or . = '139118')]</value>
-      <webElementGuid>a9bebde0-682b-419a-bf40-c035b602f88b</webElementGuid>
+      <webElementGuid>3795a5dd-74a1-4186-9d98-29dd6e2a7949</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -52,6 +52,12 @@ for (int i = 2; i <= totalRows; i++) {
 
         break
     }
+	def statusValue1 = testData.getValue(7, i)
+	// Skip if status already has any non-empty value
+	if (statusValue1 != null && !statusValue1.trim().isEmpty()) {
+		println("Row $i already processed (Status: $statusValue1). Skipping.")
+		continue
+	}
     
     String bulkOrderID = testData.getValue(1, i )// note the row and colunn no.)
 
