@@ -31,9 +31,10 @@ WebDriver driver = DriverFactory.getWebDriver()
 
 WebUI.click(findTestObject('Page_Transportation and Global Trade Management - Home/div_Fleet Management'))
 
-if (WebUI.verifyElementPresent(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/span_Driver Management'), 5, FailureHandling.OPTIONAL)) {
-	WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/span_Driver Management'))
-}
+WebUI.verifyElementPresent(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/span_Driver Management'), 5, FailureHandling.OPTIONAL)
+	
+WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/span_Driver Management'),  FailureHandling.OPTIONAL)
+
 
 WebUI.click(findTestObject('Page_Transportation and Global Trade Manage_3d15c4/span_Driver Manager'))
 
