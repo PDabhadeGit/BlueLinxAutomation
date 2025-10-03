@@ -6,12 +6,12 @@
    <elementGuidId>fd373a54-493d-49a6-b69b-a62918b7b30b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='BIPHTML']/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[10]/td/table/tbody/tr[2]/td[2]/p/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>td.c44 > p.c52 > span.c20</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@class='c54']/tbody[1]/tr[2]/td[2]/p[1]/span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b951f073-4557-4cb2-865e-189a1563ec1d</webElementGuid>
+      <webElementGuid>32da7028-4750-467c-9d13-cc0d551c742f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>c20</value>
-      <webElementGuid>2fafef7b-d4b8-4d99-823d-a88a0dd086db</webElementGuid>
+      <webElementGuid>79164155-59f0-49f5-9cea-dce889038e3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>1001436</value>
-      <webElementGuid>307b3501-a59a-479c-b7a1-83672f3df279</webElementGuid>
+      <webElementGuid>8d7e8ce2-bcca-458b-a5c6-36a7643fedd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;BIPHTML&quot;)/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[2]/table[@class=&quot;c65&quot;]/tbody[1]/tr[@class=&quot;c39&quot;]/td[@class=&quot;c0&quot;]/table[@class=&quot;c54&quot;]/tbody[1]/tr[@class=&quot;c51&quot;]/td[@class=&quot;c44&quot;]/p[@class=&quot;c52&quot;]/span[@class=&quot;c20&quot;]</value>
-      <webElementGuid>6de16786-f352-42d9-bedd-9a61af81a9fa</webElementGuid>
+      <webElementGuid>b9f7cf35-8e07-48e3-ade0-e7f70d96ff97</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='BIPHTML']/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[10]/td/table/tbody/tr[2]/td[2]/p/span</value>
-      <webElementGuid>637c222a-8ca1-4bf6-a67e-3258f268812b</webElementGuid>
+      <webElementGuid>c82bc0b4-d62c-433a-acad-c224a8a5be4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pack Type'])[1]/following::span[3]</value>
-      <webElementGuid>1f838044-82b2-443b-94c9-e9916e1d0156</webElementGuid>
+      <webElementGuid>80877efb-3440-42df-87e5-3bae42d93c22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Item Status'])[1]/following::span[4]</value>
-      <webElementGuid>70f0a1fd-19f9-43d9-ad8a-e613e97c0db3</webElementGuid>
+      <webElementGuid>8a19cb9a-d371-412d-bfe7-59246ca3f6ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='t test  Aluminum test STEEL NO 1'])[1]/preceding::span[1]</value>
-      <webElementGuid>8195578e-15b5-47d6-874f-18070a5b7146</webElementGuid>
+      <webElementGuid>2bbdc595-9029-42b4-a715-86dde2ad5186</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bar Mesh'])[1]/preceding::span[2]</value>
-      <webElementGuid>f32000a8-8f4e-436c-b757-bb87f103a032</webElementGuid>
+      <webElementGuid>6eea7393-87c0-433e-9f80-8fd747b22f6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='1001436']/parent::*</value>
-      <webElementGuid>a4cb5ee0-bc40-4967-9199-4a6be370c1b4</webElementGuid>
+      <webElementGuid>077790cb-6c58-4fb4-a6cd-eb5f200e3447</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[2]/p/span</value>
-      <webElementGuid>eab71711-4f1b-4311-a947-964524ff2c44</webElementGuid>
+      <webElementGuid>dce4b174-0fb9-482b-8358-3e6b9934736e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '1001436' or . = '1001436')]</value>
-      <webElementGuid>bc44d731-f327-4baa-a361-7f46f11fe1f9</webElementGuid>
+      <webElementGuid>21072ba4-845f-40e3-8945-6ebd16988f38</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,11 @@
    <elementGuidId>334af0e6-7c81-45a9-8914-40c91bd59476</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='pt1:_UISatr:0:lv4:0:cb2']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pt1:_UISatr:0:lv4:2:cb2&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3e0a599b-d28f-4935-a344-8e9dd63c5697</webElementGuid>
+      <webElementGuid>30066330-2dcf-4d1c-8228-671eae545859</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_UISatr:0:lv4:0:cb2</value>
-      <webElementGuid>08ae55c8-c107-45eb-804e-eb519a52d953</webElementGuid>
+      <webElementGuid>e4885acb-18c3-4979-a8a7-f887754634c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p_AFHoverTarget homebutton-primary x7j p_AFTextOnly</value>
-      <webElementGuid>a192b791-6ccd-4dd8-99dd-f1058694c705</webElementGuid>
+      <webElementGuid>fea299d5-ea48-482c-8607-aeb62fe73e8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>this.focus();return false;</value>
-      <webElementGuid>224c9d1e-7728-484f-bfbb-e3f5ab4451f6</webElementGuid>
+      <webElementGuid>1902c5d8-9012-4e66-b411-2bfb5fbd1529</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Approve   New Item Request NIR100372 Requires Approval</value>
-      <webElementGuid>53f10ca3-5d28-4882-8e4b-e7799cd2de12</webElementGuid>
+      <webElementGuid>0cb7387a-22da-4034-8bd3-b96e15f7f231</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +68,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Approve</value>
-      <webElementGuid>a0ac3ed7-0355-4c55-badd-b3bf48564905</webElementGuid>
+      <webElementGuid>cc766040-0241-40ad-b438-ec1f2c7c4044</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,70 +76,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_UISatr:0:lv4:0:cb2&quot;)</value>
-      <webElementGuid>26341e03-7247-4875-99b2-487ecb1cf2c6</webElementGuid>
+      <webElementGuid>bc0cbf63-ebdd-4441-9511-22e5d8803815</webElementGuid>
    </webElementProperties>
-   <webElementXpaths>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='pt1:_UISatr:0:lv4:0:cb2']</value>
-      <webElementGuid>fe3af834-eb41-4ab9-8d3c-07630f92b419</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='pt1:_UISatr:0:lv4:0:t2::oc']/table/tbody/tr/td[2]/button</value>
-      <webElementGuid>ab06445b-55c4-43a5-a2b3-f9d183cebe88</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sumit Shukla'])[11]/following::button[1]</value>
-      <webElementGuid>f49dfd02-fa4a-474f-bdfa-0faf456aa7ba</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action Required'])[11]/following::button[1]</value>
-      <webElementGuid>20f92441-8f11-4906-9353-62312160a5f7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[6]/preceding::button[1]</value>
-      <webElementGuid>8051b47a-1866-46c0-85d6-fd7d30f05e9f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action Required'])[12]/preceding::button[2]</value>
-      <webElementGuid>2cc3eda9-7a06-4a1b-a724-f45158e8f8c4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//td[2]/button</value>
-      <webElementGuid>268cc5ae-7e34-4c74-ad46-d11bf3316837</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@id = 'pt1:_UISatr:0:lv4:0:cb2' and @title = 'Approve   New Item Request NIR100372 Requires Approval' and (text() = 'Approve' or . = 'Approve')]</value>
-      <webElementGuid>f88a447d-7934-43e1-9d7b-f1febee51c4b</webElementGuid>
-   </webElementXpaths>
 </WebElementEntity>

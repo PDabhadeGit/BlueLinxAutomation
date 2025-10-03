@@ -6,12 +6,11 @@
    <elementGuidId>ec537ffe-9ad6-43c6-8c80-92ad307c63ed</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(@title, 'Requires Approval') and contains(@class, 'title')]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//a[contains(@title, 'Requires Approval') and contains(@class, 'title')])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>86220e34-4a80-4a1c-b637-e833eacd33e0</webElementGuid>
+      <webElementGuid>e947f2d7-83b1-48f3-b640-b2eb30eb8b26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_UISatr:0:lv4:1:cl4</value>
-      <webElementGuid>8fb82d03-3ab4-4245-8ef3-d0085eda9a58</webElementGuid>
+      <webElementGuid>2cc3442e-724a-4098-8d6c-e5088c700538</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>title</name>
       <type>Main</type>
       <value> New Item Request NIR100346 Requires Approval</value>
-      <webElementGuid>7aeee8d2-07a9-48ac-9242-ccd6b47b13ae</webElementGuid>
+      <webElementGuid>9d6d35b5-9aa3-4eb9-b50f-5fba1dfc50a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p_AFHoverTarget title unread x2t8 xmx</value>
-      <webElementGuid>4b34624e-3b84-411a-bae0-5966d6cef4bf</webElementGuid>
+      <webElementGuid>d7eaab95-72bf-487a-bd02-a2d3e3cb11fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>this.focus();return false;</value>
-      <webElementGuid>cba9ca58-2622-4c8c-88d5-e4d6e199d829</webElementGuid>
+      <webElementGuid>bb456a92-e78a-4a5a-9426-b8b8d9a8dfdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +68,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>a16d4772-2faf-4d34-9455-7d0c12cf3ef7</webElementGuid>
+      <webElementGuid>f27dbfc7-6b86-4646-b841-8da064e00c3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +76,7 @@
       <name>text</name>
       <type>Main</type>
       <value> New Item Request NIR100346 Requires Approval</value>
-      <webElementGuid>85a9eb84-eebe-4a31-b638-ea6b7bcabd88</webElementGuid>
+      <webElementGuid>ac9ee4b6-1833-4425-a3cf-fb969335045c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_UISatr:0:lv4:1:cl4&quot;)</value>
-      <webElementGuid>108da252-5d4e-4eb8-8639-3aad4bda1568</webElementGuid>
+      <webElementGuid>7dc74460-dba5-43e0-954c-0c683aa60303</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='pt1:_UISatr:0:lv4:1:cl4']</value>
-      <webElementGuid>ec721677-a368-4788-92b7-d829f5febec5</webElementGuid>
+      <webElementGuid>6c0b14ed-dcdb-4b59-a956-12fc01d5123f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='pt1:_UISatr:0:lv4:1:gc6']/a</value>
-      <webElementGuid>9f417f9e-0495-4f7e-a3bc-0e0d5c16a788</webElementGuid>
+      <webElementGuid>22f99e97-6cfb-45ac-a37d-a43a9c5c0649</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'New Item Request NIR100346 Requires Approval')])[3]</value>
-      <webElementGuid>86f98eab-5618-423e-bab5-5246bfc9e44d</webElementGuid>
+      <webElementGuid>ff9a277b-9617-43ae-b43f-2263edf6e55f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Action Required'])[9]/following::a[1]</value>
-      <webElementGuid>a8a2c3d3-f3f9-405c-adee-ebe0b7cb012c</webElementGuid>
+      <webElementGuid>6435136b-beb6-4d09-a445-3c206204da01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dismiss'])[3]/following::a[1]</value>
-      <webElementGuid>76f8c73d-9188-49d2-8afe-1d16c948f02c</webElementGuid>
+      <webElementGuid>72a33620-8c34-4174-91dd-f12c498bea48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +132,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sumit Shukla'])[9]/preceding::a[2]</value>
-      <webElementGuid>ab4f1a1a-a02b-416b-8a41-98ad01fe1092</webElementGuid>
+      <webElementGuid>9c265cb2-d14c-422f-832b-8e149d2f1bd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +140,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[4]/preceding::a[3]</value>
-      <webElementGuid>f84067e2-e42b-46d9-a48f-b4749ac8b4e4</webElementGuid>
+      <webElementGuid>68cc6f5a-7e70-4c45-901d-9d8d1f025b3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +148,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[84]</value>
-      <webElementGuid>1016c61e-146f-4631-a0ab-060a77518a50</webElementGuid>
+      <webElementGuid>0a15fdb5-bc51-44e7-b1a0-f18901c32b0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +156,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/table/tbody/tr[2]/td[2]/a</value>
-      <webElementGuid>0b6e0d32-eedb-4fed-a1ef-1cc54855095f</webElementGuid>
+      <webElementGuid>990b6e11-e23e-486f-8a38-009f3c756bd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,6 +164,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'pt1:_UISatr:0:lv4:1:cl4' and @title = ' New Item Request NIR100346 Requires Approval' and @href = '#' and (text() = ' New Item Request NIR100346 Requires Approval' or . = ' New Item Request NIR100346 Requires Approval')]</value>
-      <webElementGuid>98fc7fac-99aa-47df-8fb8-8bb62ee8152d</webElementGuid>
+      <webElementGuid>1baba85a-a67a-4ac5-92ad-b09ea659e81c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
