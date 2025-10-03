@@ -62,8 +62,8 @@ WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Ite
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item - Product Information Mana_e915c5/input_Product Type_pt1_FOr11_FONSr20MAt30pt_130a14'), 
     'test')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Item Class__FOpt1_FOr10_FONSr20MAt20itemC_59683c'), 
-    FailureHandling.OPTIONAL)
+//WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Item Class__FOpt1_FOr10_FONSr20MAt20itemC_59683c'), 
+  //  FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Primary Unit of Measure__FOpt1_FOr10_FONS_a4f085'))
 
