@@ -17,6 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
+import java.nio.file.Files as Files
+import java.nio.file.Paths as Paths
 
 //WebUI.click(findTestObject('Object Repository/Page_Oracle Fusion Cloud Applications/svg_UAT Environment_pt1_UISatr0cil1icon'))
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/svg_Notifications (188 unread)'))
@@ -32,13 +34,18 @@ String itemID = WebUI.getText(findTestObject('Object Repository/Page_New Item Re
 //KeywordUtil.logInfo('New Created item with ID: ' + itemID)
 KeywordUtil.logInfo("********** NEW ITEM ID: $itemID **********")
 
+// Save itemID to a fixed path
+Files.write(Paths.get('C:/BlueLinx_Automation_Master/itemID.txt'), itemID.getBytes())
+
 WebUI.takeFullPageScreenshot()
 
 WebUI.closeWindowIndex(1)
 
 WebUI.switchToWindowIndex(0)
 
-WebUI.delay(3)
+WebUI.delay(6)
+
+WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/svg_Notifications (188 unread)'))
 
 WebUI.click(findTestObject('Page_Oracle Fusion Cloud Applications/button_Approve'))
 

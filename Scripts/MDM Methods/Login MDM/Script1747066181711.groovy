@@ -19,8 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.delay(10)
-
 WebUI.navigateToUrl(GlobalVariable.mdm_url)
 
 WebUI.maximizeWindow()
