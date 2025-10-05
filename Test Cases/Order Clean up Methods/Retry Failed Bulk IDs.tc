@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Retry Failed Bulk IDs</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5602856-81d2-4aca-9aa9-a39ab99ea1fd</testCaseGuid>
+</TestCaseEntity>

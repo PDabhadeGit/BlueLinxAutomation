@@ -6,12 +6,12 @@
    <elementGuidId>47b52aa5-a51a-4989-858b-a2f1fd8d5f25</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='ui-id-4']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#ui-id-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ui-id-4']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>323a31d2-7d6f-4841-9e12-a7d4bf456bd9</webElementGuid>
+      <webElementGuid>819a127c-1662-4ccf-881a-adafc6a91041</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-button-text</value>
-      <webElementGuid>2c54f9ff-f667-48ad-936f-5a400bc755b3</webElementGuid>
+      <webElementGuid>168acf7b-bd16-4640-951d-9a3b7960f3bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ui-id-4</value>
-      <webElementGuid>4a2accd7-e816-4396-a436-146266bd03bc</webElementGuid>
+      <webElementGuid>80ca44a6-a5ed-4dec-b943-5b7d7cc5a59f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>b3dcc8e9-7beb-41ef-b505-eb8fc19f0e7f</webElementGuid>
+      <webElementGuid>8beff549-bae5-44b8-abb0-26f657b1968e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-id-4&quot;)</value>
-      <webElementGuid>2a5c381e-6997-4286-869e-5bab20a7fa77</webElementGuid>
+      <webElementGuid>abd93afd-60da-4b34-a17e-aac672bf96d3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='ui-id-4']</value>
-      <webElementGuid>e25cfc5a-fde8-4225-b2d4-ecdf5853248e</webElementGuid>
+      <webElementGuid>da165eae-1986-4b06-b3b6-0549f63c627b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//oj-button[@id='idcs-signin-basic-signin-form-submit']/button/div/span</value>
-      <webElementGuid>eecc8d74-938e-41eb-9a05-e8e33f1d5d4f</webElementGuid>
+      <webElementGuid>c9b8b212-4c8e-4240-bdd3-7cb971c6519e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me signed in'])[1]/preceding::span[1]</value>
-      <webElementGuid>6c662e1e-acef-471a-8cb7-de2a34e0df2a</webElementGuid>
+      <webElementGuid>4ca8c79c-693b-4f91-ae31-2ce20b042954</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>ae8e4514-3beb-4a0f-8542-deefaa4501e0</webElementGuid>
+      <webElementGuid>2477da9a-3e41-4636-a3ef-72912b332d23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/oj-button/button/div/span</value>
-      <webElementGuid>ceefad0a-8c84-4605-a857-7b464120f323</webElementGuid>
+      <webElementGuid>1072f3d1-53ce-4ae0-8d2b-2287a9b73551</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'ui-id-4' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>98d6a130-11dd-47ad-a243-fd5c3f068f3b</webElementGuid>
+      <webElementGuid>0cf2a694-0b9b-4d7a-bc8c-354db667496f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Prajyot Dabhade_pt1_UISatr0lv40cb2 (1)</name>
+   <tag></tag>
+   <elementGuidId>83bc23a0-cbab-460c-80aa-63ef0b0f5e5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[normalize-space(text())='Approve']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Approve   New Item Request NIR100427 Requires Approval&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a5b17660-c86f-4db6-9bb3-a8a4f1a5e04f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pt1:_UISatr:0:lv4:0:cb2</value>
+      <webElementGuid>4a0e703d-2ea2-4dbf-8b8e-f9311b92920c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget homebutton-primary x7j p_AFTextOnly</value>
+      <webElementGuid>5bd8ca62-b1f1-46da-afda-eabe28ab6cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>924b74f9-476e-4e1d-8c11-843f1915457d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Approve   New Item Request NIR100427 Requires Approval</value>
+      <webElementGuid>4e9bc2e5-5230-4f66-bb91-239bcf0f4a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve</value>
+      <webElementGuid>5610192d-9519-431a-b51c-b7f09ac0332c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_UISatr:0:lv4:0:cb2&quot;)</value>
+      <webElementGuid>9e354758-6b3e-4bf3-9a88-61aa07803cfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='pt1:_UISatr:0:lv4:0:cb2']</value>
+      <webElementGuid>942e0075-f0e8-43e0-bb0b-3cb5b686df8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pt1:_UISatr:0:lv4:0:t2::oc']/table/tbody/tr/td[2]/button</value>
+      <webElementGuid>4e111a04-ea33-4619-bedc-cba89c0f748a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prajyot Dabhade'])[5]/following::button[1]</value>
+      <webElementGuid>839fbe6e-e445-4c9f-909c-ed3384219274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action Required'])[7]/following::button[1]</value>
+      <webElementGuid>bc41c0d6-7292-4555-831a-4e44cf4fd0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[4]/preceding::button[1]</value>
+      <webElementGuid>e055c558-67ac-4185-8eb0-f658c26c2c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[2]/preceding::button[2]</value>
+      <webElementGuid>88042a14-84fd-4b1f-ad12-90a4be9451eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/button</value>
+      <webElementGuid>e35a094a-b8e1-4092-a2bc-1b194bec7342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'pt1:_UISatr:0:lv4:0:cb2' and @title = 'Approve   New Item Request NIR100427 Requires Approval' and (text() = 'Approve' or . = 'Approve')]</value>
+      <webElementGuid>3f6cd858-89e9-4bed-8747-6edc53b35a37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

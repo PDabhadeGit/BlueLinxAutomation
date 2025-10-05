@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>change Pickup-delivery date and time</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b99a246-a40e-4828-83b0-4d8c415dc20a</testCaseGuid>
+</TestCaseEntity>

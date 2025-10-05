@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_New Item Request NIR100346 Requires Approval</name>
+   <tag></tag>
+   <elementGuidId>ec537ffe-9ad6-43c6-8c80-92ad307c63ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@title, 'Requires Approval') and contains(@class, 'title')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Pending Notifications&quot;i] >> internal:role=link[name=&quot;New Item Request NIR100346 Requires Approval&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>86220e34-4a80-4a1c-b637-e833eacd33e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pt1:_UISatr:0:lv4:1:cl4</value>
+      <webElementGuid>8fb82d03-3ab4-4245-8ef3-d0085eda9a58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value> New Item Request NIR100346 Requires Approval</value>
+      <webElementGuid>7aeee8d2-07a9-48ac-9242-ccd6b47b13ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget title unread x2t8 xmx</value>
+      <webElementGuid>4b34624e-3b84-411a-bae0-5966d6cef4bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>cba9ca58-2622-4c8c-88d5-e4d6e199d829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a16d4772-2faf-4d34-9455-7d0c12cf3ef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> New Item Request NIR100346 Requires Approval</value>
+      <webElementGuid>85a9eb84-eebe-4a31-b638-ea6b7bcabd88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_UISatr:0:lv4:1:cl4&quot;)</value>
+      <webElementGuid>108da252-5d4e-4eb8-8639-3aad4bda1568</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='pt1:_UISatr:0:lv4:1:cl4']</value>
+      <webElementGuid>ec721677-a368-4788-92b7-d829f5febec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='pt1:_UISatr:0:lv4:1:gc6']/a</value>
+      <webElementGuid>9f417f9e-0495-4f7e-a3bc-0e0d5c16a788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'New Item Request NIR100346 Requires Approval')])[3]</value>
+      <webElementGuid>86f98eab-5618-423e-bab5-5246bfc9e44d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action Required'])[9]/following::a[1]</value>
+      <webElementGuid>a8a2c3d3-f3f9-405c-adee-ebe0b7cb012c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dismiss'])[3]/following::a[1]</value>
+      <webElementGuid>76f8c73d-9188-49d2-8afe-1d16c948f02c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sumit Shukla'])[9]/preceding::a[2]</value>
+      <webElementGuid>ab4f1a1a-a02b-416b-8a41-98ad01fe1092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[4]/preceding::a[3]</value>
+      <webElementGuid>f84067e2-e42b-46d9-a48f-b4749ac8b4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[84]</value>
+      <webElementGuid>1016c61e-146f-4631-a0ab-060a77518a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/table/tbody/tr[2]/td[2]/a</value>
+      <webElementGuid>0b6e0d32-eedb-4fed-a1ef-1cc54855095f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'pt1:_UISatr:0:lv4:1:cl4' and @title = ' New Item Request NIR100346 Requires Approval' and @href = '#' and (text() = ' New Item Request NIR100346 Requires Approval' or . = ' New Item Request NIR100346 Requires Approval')]</value>
+      <webElementGuid>98fc7fac-99aa-47df-8fb8-8bb62ee8152d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

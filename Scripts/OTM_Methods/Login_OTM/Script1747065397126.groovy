@@ -23,6 +23,8 @@ WebUI.navigateToUrl(GlobalVariable.otm_url)
 
 WebUI.maximizeWindow()
 
+WebUI.delay(10)
+
 WebUI.setText(findTestObject('Object Repository/Page_Cloud Sign In/input_User Name_idcs-signin-basic-signin-fo_93898c'), 
     GlobalVariable.username)
 
@@ -31,5 +33,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Cloud Sign In/inpu
 
 WebUI.click(findTestObject('Object Repository/Page_Cloud Sign In/span_Sign In'))
 
-WebUI.delay(30)
+WebUI.delay(10)
 
