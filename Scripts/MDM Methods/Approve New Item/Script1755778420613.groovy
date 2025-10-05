@@ -45,10 +45,9 @@ WebUI.closeWindowIndex(1)
 
 WebUI.switchToWindowIndex(0)
 
-WebUI.delay(6)
+WebUI.delay(5)
 
 //WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/svg_Notifications (188 unread)'))
-
 WebUI.click(findTestObject('Page_Oracle Fusion Cloud Applications/button_Approve'))
 
 WebUI.delay(3)
