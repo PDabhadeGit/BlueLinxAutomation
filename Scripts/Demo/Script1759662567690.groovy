@@ -31,6 +31,8 @@ WebUI.click(findTestObject('Object Repository/Export tool/Page_Oracle Fusion Clo
 
 WebUI.click(findTestObject('Object Repository/Export tool/Page_Oracle Fusion Cloud Applications/div_Setup and Maintenance_pt1_UISnvr0nvgpgl_9d7f62 (2)'))
 
+WebUI.delay(10)
+
 WebUI.click(findTestObject('Object Repository/Export tool/Page_Oracle Fusion Cloud Applications/span_Import Management_xmv (2)'))
 
 WebUI.click(findTestObject('Object Repository/Export tool/Page_Manage Exports - Export Management - O_98e4cb/button_Manage Exports__FOpt1_FOr10_FONSr20__9d949e (2)'))
