@@ -21,3 +21,5 @@ WebUI.callTestCase(findTestCase('MDM Methods/Login MDM'), [:], FailureHandling.S
 
 WebUI.callTestCase(findTestCase('MDM Methods/Edit Person Screen'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+

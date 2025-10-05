@@ -12,17 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>b4091395-e3bb-4a4b-9d9e-0c9619387edc</testSuiteGuid>
    <testCaseLink>
-      <guid>981a9f73-71b0-400b-aecd-8b4c9afb1476</guid>
+      <guid>ed30ee66-50ae-43f7-ba57-f8629f26c75b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MDM Methods/Login MDM</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>eac682c7-a29c-40ef-8b14-5189a931f567</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/MDM Methods/Approve New Item</testCaseId>
+      <testCaseId>Test Cases/MDM TestCases/TC_MDM_PDH_306_Create a new item through NIR</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

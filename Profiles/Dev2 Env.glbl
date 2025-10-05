@@ -20,7 +20,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Gaurav.prasad@bluelinxco.com'</initValue>
+      <initValue>'Prajyot.Dabhade@BlueLinxCo.com'</initValue>
       <name>username</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
@@ -34,7 +34,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'TCRrBFWPcdYfr+QHQbxu/A=='</initValue>
+      <initValue>'5hR7QmHaNRjZKO09Vh/dgg=='</initValue>
       <name>mdm_password</name>
       <protected>false</protected>
       <valueType>STRING</valueType>

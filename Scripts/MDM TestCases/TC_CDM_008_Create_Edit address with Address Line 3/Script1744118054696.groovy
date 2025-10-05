@@ -21,6 +21,8 @@ WebUI.callTestCase(findTestCase('MDM Methods/Login MDM'), [:], FailureHandling.S
 
 WebUI.callTestCase(findTestCase('MDM Methods/Search Organisation as Customer'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(5)
+
 WebUI.callTestCase(findTestCase('MDM Methods/Add Address'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5)

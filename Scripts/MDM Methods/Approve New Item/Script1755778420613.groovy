@@ -29,6 +29,8 @@ WebUI.switchToWindowIndex(1)
 
 WebUI.delay(3)
 
+WebUI.scrollToElement(findTestObject('Page_New Item Request NIR100346 Requires Approval/span_1001436'), 100)
+
 String itemID = WebUI.getText(findTestObject('Object Repository/Page_New Item Request NIR100346 Requires Approval/span_1001436'))
 
 //KeywordUtil.logInfo('New Created item with ID: ' + itemID)
@@ -45,7 +47,7 @@ WebUI.switchToWindowIndex(0)
 
 WebUI.delay(6)
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/svg_Notifications (188 unread)'))
+//WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/svg_Notifications (188 unread)'))
 
 WebUI.click(findTestObject('Page_Oracle Fusion Cloud Applications/button_Approve'))
 

@@ -17,45 +17,49 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/svg_Navigator'))
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Oracle Fusion Cloud Applications/svg_DEV - 2_pt1_UISmmLinkicon'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/div_Tools'))
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Oracle Fusion Cloud Applications/div_Setup and Maintenance_pt1_UISnvr0nvgpgl_9d7f62'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Oracle Fusion Cloud Applications/span_Export Management'))
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Oracle Fusion Cloud Applications/span_Import Management_xmv'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Exports/button_Create Export Activity'))
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Manage Exports - Export Management - O_98e4cb/button_Manage Exports__FOpt1_FOr10_FONSr20__9d949e'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/input_Name__FOpt1_FOr10_FONSr20MAnt21pt1AP1it1'), 
-    'Test Export')
-
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/input_Object__FOpt1_FOr10_FONSr20MAnt21pt1A_f7a7d3'), 
+WebUI.setText(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/input_Object__FOpt1_FOr10_FONSr20MAnt21pt1A_aa49ab'), 
     'Organization')
 
-WebUI.delay(2)
+WebUI.setText(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/input_Name__FOpt1_FOr10_FONSr20MAnt21pt1AP1_91d867'), 
+    'TEST EXPORT')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/li_Organization'))
+WebUI.delay(10)
 
-WebUI.delay(5)
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/button_B__FOpt1_FOr10_FONSr20MAnt21pt1AP1APnxb (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/button_Next'))
+WebUI.delay(10)
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/img_Organization_xv0'), FailureHandling.OPTIONAL)
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/img_Organization_xuy (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/body'), 
-    FailureHandling.OPTIONAL)
+//WebUI.click(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/img_Organization_xuy (2)'))
 
-WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/body'), 
-    'Address1=\'test\'<br>')
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/td_java.lang.String_xen (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/button_Save and Close'))
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/span_Fetching Data_xrk (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/button_Next_1'))
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/span_Validate Script_xrk (1)'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/button_Next_1'))
+WebUI.setText(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/body (2)'),
+	'Address1=\'test\' <br>')
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Export Activity/button_Submit'))
+//WebUI.click(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/button_My filters__FOpt1_FOr10_FONSr20MAnt2_650c13 (2)'))
+WebUI.delay(10)
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Manage Exports/img_Unsuccessful__FOpt1_FOr10_FONSr20_FOTsr_ffb4be'), FailureHandling.OPTIONAL)
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/button_My filters__FOpt1_FOr10_FONSr20MAnt2_650c13 (1)'))
 
-WebUI.takeFullPageScreenshot()
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/button_B__FOpt1_FOr10_FONSr20MAnt22pt1AP1APnxb'))
+
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Create Export Activity - Export Manage_e9b1a6/button_Create Export Activity  Review and S_c24da1'))
+
+WebUI.click(findTestObject('Object Repository/Export tool/Page_Manage Exports - Export Management - O_98e4cb/a_Unsuccessful__FOpt1_FOr10_FONSr20_FOTsr10_ffe4a6'))
+
+WebUI.closeBrowser()
 

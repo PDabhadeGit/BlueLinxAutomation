@@ -6,12 +6,11 @@
    <elementGuidId>cd8bd936-3495-4454-843c-8acef8beabda</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//img[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:ctb1::icon']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//img[@class='x1kb' and @title='Edit' and @alt='Edit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>7f94df25-9567-4ff0-be9f-e3815a593f6e</webElementGuid>
+      <webElementGuid>c327eb8f-8472-4f8f-813e-7779e37847dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:ctb1::icon</value>
-      <webElementGuid>cc213dc3-0c5c-4ea2-a3cf-04ea5dbb28e7</webElementGuid>
+      <webElementGuid>dc93c4c6-5385-4bfd-bc47-7547d293194d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/crmUI/images/func_pencil_16_ena.png</value>
-      <webElementGuid>ab67c645-115a-41e4-9585-85f68da6bd8a</webElementGuid>
+      <webElementGuid>ee36a894-b2c3-46d5-b465-344b46a80d40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Edit</value>
-      <webElementGuid>4dcdf967-e0a3-46a8-b89b-e431a0ba15b9</webElementGuid>
+      <webElementGuid>c329bf95-518c-40a1-bae8-b036574e7ceb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Edit</value>
-      <webElementGuid>206ada55-bb1d-41f0-8793-c0b8c59862fb</webElementGuid>
+      <webElementGuid>d70b3535-2299-444c-80f4-96955ed08454</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x1kd</value>
-      <webElementGuid>0f865801-9c1c-45aa-98ae-736e71335249</webElementGuid>
+      <webElementGuid>34aa4f36-b8ab-4886-9951-4b35e0d66c3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:ctb1::icon&quot;)</value>
-      <webElementGuid>43446511-e120-4991-9d0f-ff5f1b77b2be</webElementGuid>
+      <webElementGuid>e8c837e7-5e04-4a71-8986-58f4998c3c04</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//img[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:ctb1::icon']</value>
-      <webElementGuid>6cf48761-c715-48d3-aff2-f8315edd5270</webElementGuid>
+      <webElementGuid>cdbab8aa-18b5-4262-9735-78f863337e48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:ctb1']/table/tbody/tr/td/a/img</value>
-      <webElementGuid>3c9d7626-4943-4d22-b088-9ec9f9a058c5</webElementGuid>
+      <webElementGuid>f6d3f8f6-7fb6-44f7-bd82-8be907ed19af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Edit']</value>
-      <webElementGuid>0038baaa-332e-4ba9-b783-4b88acaccfa8</webElementGuid>
+      <webElementGuid>f7f7167e-abd3-447d-9748-4540b857fe33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a/img</value>
-      <webElementGuid>92e31367-7320-4bfb-9ae2-5c88eb563579</webElementGuid>
+      <webElementGuid>7caec59f-dbeb-4429-bba2-30d01974b060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +116,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@id = '_FOpt1:_FOr1:0:_FONSr2:0:MAnt2:1:r1:0:AP3:r5:0:AT1:_ATp:ctb1::icon' and @src = '/crmUI/images/func_pencil_16_ena.png' and @title = 'Edit' and @alt = 'Edit']</value>
-      <webElementGuid>59cf1996-e26b-4fc0-a945-090a2b617764</webElementGuid>
+      <webElementGuid>8dc106fa-2f8d-4dd5-95b1-23eedc0522de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

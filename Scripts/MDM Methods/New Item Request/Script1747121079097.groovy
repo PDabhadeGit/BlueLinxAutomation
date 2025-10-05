@@ -37,3 +37,9 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Items of New Item Request/span_Mark Complete'))
 
+WebUI.closeWindowIndex(2)
+
+WebUI.closeWindowIndex(1)
+
+WebUI.switchToWindowIndex(0)
+

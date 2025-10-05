@@ -19,7 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('MDM Methods/Login MDM'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('MDM Methods/Export Attachment'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.closeBrowser()
+WebUI.callTestCase(findTestCase('MDM Methods/View Export'), [:], FailureHandling.STOP_ON_FAILURE)
 
