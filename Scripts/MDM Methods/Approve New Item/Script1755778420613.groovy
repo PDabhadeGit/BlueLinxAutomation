@@ -29,9 +29,9 @@ WebUI.switchToWindowIndex(1)
 
 WebUI.delay(3)
 
-WebUI.scrollToElement(findTestObject('Page_New Item Request NIR100346 Requires Approval/span_1001436'), 100)
+WebUI.scrollToElement(findTestObject('Page_New Item Request/span_1001436'), 100)
 
-String itemID = WebUI.getText(findTestObject('Object Repository/Page_New Item Request NIR100346 Requires Approval/span_1001436'))
+String itemID = WebUI.getText(findTestObject('Object Repository/Page_New Item Request/span_1001436'))
 
 //KeywordUtil.logInfo('New Created item with ID: ' + itemID)
 KeywordUtil.logInfo("********** NEW ITEM ID: $itemID **********")
