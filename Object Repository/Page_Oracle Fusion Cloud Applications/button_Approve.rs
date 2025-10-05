@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;pt1:_UISatr:0:lv4:2:cb2&quot;]</value>
+         <value>//td[@class='x1ib']/button[normalize-space(text())='Approve']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>30066330-2dcf-4d1c-8228-671eae545859</webElementGuid>
+      <webElementGuid>1a73124e-6aa1-465b-8746-5abf73b50356</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_UISatr:0:lv4:0:cb2</value>
-      <webElementGuid>e4885acb-18c3-4979-a8a7-f887754634c9</webElementGuid>
+      <webElementGuid>9c7bfee4-4499-4399-aab4-6f46099d1215</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p_AFHoverTarget homebutton-primary x7j p_AFTextOnly</value>
-      <webElementGuid>fea299d5-ea48-482c-8607-aeb62fe73e8a</webElementGuid>
+      <webElementGuid>467f0013-a113-42f1-b150-98fa98deb2bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>this.focus();return false;</value>
-      <webElementGuid>1902c5d8-9012-4e66-b411-2bfb5fbd1529</webElementGuid>
+      <webElementGuid>c1e3ab17-f0b3-435c-82cd-522e10d0efac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Approve   New Item Request NIR100372 Requires Approval</value>
-      <webElementGuid>0cb7387a-22da-4034-8bd3-b96e15f7f231</webElementGuid>
+      <webElementGuid>cd524528-9208-4d50-92f6-dab6f8cc3087</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +68,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Approve</value>
-      <webElementGuid>cc766040-0241-40ad-b438-ec1f2c7c4044</webElementGuid>
+      <webElementGuid>06679f83-0a93-47b4-862d-51f2ee230068</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,6 +76,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_UISatr:0:lv4:0:cb2&quot;)</value>
-      <webElementGuid>bc0cbf63-ebdd-4441-9511-22e5d8803815</webElementGuid>
+      <webElementGuid>89a6a8c0-63a1-4973-9cca-8e394c182705</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
