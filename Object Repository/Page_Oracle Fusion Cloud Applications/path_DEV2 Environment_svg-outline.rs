@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_DEV2 Environment_svg-outline</name>
+   <tag></tag>
+   <elementGuidId>c299a92d-1f89-4d26-9c3b-e01436d73596</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Notifications (145 unread)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>5b0dc6ea-c208-4ddb-af2c-024753284978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-outline</value>
+      <webElementGuid>31be18ec-2aba-48a7-8c94-0fb3255caac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M10.6667 21.7778C12.0167 24.7578 16.0744 24.7244 17.3333 21.7778M20.6667 12.8889V10.6667C20.6667 6.98444 17.6811 4 14 4C10.3189 4 7.33333 6.98444 7.33333 10.6667V12.8889C7.33333 12.8889 7.33333 19 4 19H24C20.6667 19 20.6667 12.8889 20.6667 12.8889Z</value>
+      <webElementGuid>5a9039d5-3d63-45fc-abc3-38e094e5de6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_UISatr:0:cil1::icon&quot;)/g[4]/path[@class=&quot;svg-outline&quot;]</value>
+      <webElementGuid>e043def5-dfa0-44fa-99c5-4cbf9193fb79</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

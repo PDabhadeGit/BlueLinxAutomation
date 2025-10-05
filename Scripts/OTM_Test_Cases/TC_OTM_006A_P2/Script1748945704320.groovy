@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('OTM_Methods/Login_OTM'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('OTM_Methods/Search Created Order'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('OTM_Methods/Search required Order'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_Order Releases Result/input_Domain Name_Selected'))
 

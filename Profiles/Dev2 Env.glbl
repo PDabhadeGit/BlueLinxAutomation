@@ -27,7 +27,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'TCRrBFWPcdYfr+QHQbxu/A=='</initValue>
+      <initValue>'TCRrBFWPcdaKpFPJCVj6Vw=='</initValue>
       <name>otm_password</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
