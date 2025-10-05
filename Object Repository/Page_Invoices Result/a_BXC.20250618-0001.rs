@@ -6,11 +6,11 @@
    <elementGuidId>3c0d3cb8-d7bd-441d-b962-25acb36325d7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/following::a[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'BXC.20250618-0001')]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c6d76fe7-7393-4b34-9404-ea6f2ed48157</webElementGuid>
+      <webElementGuid>3cae5ad9-eb45-41f8-9b70-5e2e7c709e57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>rgSGSec.2.1.1.4.k</value>
-      <webElementGuid>59682270-2559-4c43-82c3-5e5ef31ed3fe</webElementGuid>
+      <webElementGuid>a7fed8bf-a880-4275-8b6e-bf1b00844152</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>40d7a6ae-9c96-49ae-a134-68601da0be9e</webElementGuid>
+      <webElementGuid>5d9da914-3f96-4645-8e3b-36f101aabfdb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,7 +52,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>95f80ed1-1021-4187-8083-95245d33b822</webElementGuid>
+      <webElementGuid>989ab401-cb88-465c-884c-a78348063912</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>OpenTarget('/GC3/InvoiceCustManagement?bcKey=MTc1MDI3OTc4OTE3MTox&amp;manager_layout_gid=INVOICE&amp;type=I&amp;invproc=S&amp;pk=BXC.20250618-0001&amp;finder_set_gid=INVOICE_INVOICE&amp;management_action=edit'); return addToRecentlyViewed(finderSetGid,'BXC.20250618\x2D0001', 'EDIT');</value>
-      <webElementGuid>8b6cb671-2f70-4fe5-b812-da36579b8add</webElementGuid>
+      <webElementGuid>37d89a64-7e16-4647-be1c-613993e168f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +68,7 @@
       <name>text</name>
       <type>Main</type>
       <value>BXC.20250618-0001</value>
-      <webElementGuid>62b201c8-b101-44a9-9b72-baee896d8f7f</webElementGuid>
+      <webElementGuid>cf29b235-2365-451c-ad4d-d69ce334aea4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;rgSGSec.2.1.1.4.k&quot;)</value>
-      <webElementGuid>c0764ed0-2539-4028-9036-8b619c8f9427</webElementGuid>
+      <webElementGuid>92ae9b17-6836-45ad-b357-24375db7f09c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -84,7 +84,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_Invoices Result/iframe_GAURAV.PRASADBLUELINXCO.COM_mainIFrame</value>
-      <webElementGuid>cf0fb713-5e87-4c4d-b4a2-b45ac1c03b4c</webElementGuid>
+      <webElementGuid>abebc227-230e-4aeb-bc26-32661aaadc8c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='rgSGSec.2.1.1.4.k']</value>
-      <webElementGuid>96c5388d-e22a-4ae7-8f0c-a5ba4a43f3a8</webElementGuid>
+      <webElementGuid>50d21f78-1759-44c1-a53d-e14da6efa91c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='rgSGSec.2.1.1.4']/a</value>
-      <webElementGuid>3163c790-b679-4a84-94bc-41111aa5e808</webElementGuid>
+      <webElementGuid>bff83cdf-8bbd-4939-8623-f2fa3aad4a4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'BXC.20250618-0001')]</value>
-      <webElementGuid>127269d6-fe65-4f55-8dfc-676b6bd660a3</webElementGuid>
+      <webElementGuid>f47dee27-44d2-4708-a376-292e16d2a169</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/following::a[2]</value>
-      <webElementGuid>b3340575-80ae-4a39-b9e0-df7ba3cf1980</webElementGuid>
+      <webElementGuid>6dde510b-0e92-4018-8b93-6d25a7ace73e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Domain Name'])[1]/following::a[3]</value>
-      <webElementGuid>ffc1c561-2044-4cc9-86a2-5bee35b605a2</webElementGuid>
+      <webElementGuid>4fd4d417-686a-4de6-a2d2-e159a3d6cc93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TESTINVOICE1234'])[1]/preceding::a[1]</value>
-      <webElementGuid>3609f092-fc46-4d42-81b7-242d3b28b609</webElementGuid>
+      <webElementGuid>94093a66-23aa-409d-b819-cc34b488e0b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/preceding::a[1]</value>
-      <webElementGuid>463f6e6d-7a3a-4e1d-be05-7b575415e28c</webElementGuid>
+      <webElementGuid>431ee67a-7e11-4250-b072-284b51de45e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='BXC.20250618-0001']/parent::*</value>
-      <webElementGuid>208443f2-7857-40cd-9a38-bae53f1a0d36</webElementGuid>
+      <webElementGuid>7b8bbc5b-949a-42ed-97ab-da11faeafd84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,7 +156,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0);')])[5]</value>
-      <webElementGuid>b37794c8-e662-400e-be80-0d9d318725a6</webElementGuid>
+      <webElementGuid>1f47354b-9c52-4616-8a43-e9e2fbe08faf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -164,7 +164,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/a</value>
-      <webElementGuid>642bebcb-9acc-4eda-9544-7e63cdb48e65</webElementGuid>
+      <webElementGuid>5a3dcfee-a73a-468b-b110-63ec5a4a40e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -172,6 +172,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'rgSGSec.2.1.1.4.k' and @href = 'javascript:void(0);' and (text() = 'BXC.20250618-0001' or . = 'BXC.20250618-0001')]</value>
-      <webElementGuid>ac01801f-45ff-41fe-8e03-4dccb4f4421a</webElementGuid>
+      <webElementGuid>a33c95d5-a995-4a54-8e3b-94c46e5e96f8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
