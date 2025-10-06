@@ -6,12 +6,11 @@
    <elementGuidId>5bbb10df-3d1f-43ba-a366-16231781a877</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:cb1']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//button[normalize-space(text())='Apply']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0bcc0a1a-afbb-47bc-818c-238cc0f54f26</webElementGuid>
+      <webElementGuid>0e685072-65d8-40e1-9f8a-dddae7438a88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:cb1</value>
-      <webElementGuid>0ccfec7b-6212-493f-a2f3-91b1eed2e440</webElementGuid>
+      <webElementGuid>cea48f07-79d6-472c-b323-c92b3448b0c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p_AFHoverTarget xuz p_AFTextOnly</value>
-      <webElementGuid>0c2eff27-9597-4abe-9424-b23a23177888</webElementGuid>
+      <webElementGuid>9254c02c-3142-427d-9967-d4ca83bd5b7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>this.focus();return false;</value>
-      <webElementGuid>2170c631-45e5-457a-a5ba-40631f11df22</webElementGuid>
+      <webElementGuid>4584a179-2998-438f-b3de-90afa4c13390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Apply</value>
-      <webElementGuid>3ff6783c-6b10-4387-8bcd-d5ad5caaff3b</webElementGuid>
+      <webElementGuid>235ca10f-9425-47de-8e6c-5887ebc72ad4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:cb1&quot;)</value>
-      <webElementGuid>45d174b8-8a2d-4cf8-8f17-6da1f1e91b52</webElementGuid>
+      <webElementGuid>ee586a96-06fb-469b-923a-9d7c5d5717ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:cb1']</value>
-      <webElementGuid>601357b7-a716-488e-ab2e-f20248bb7449</webElementGuid>
+      <webElementGuid>84b48480-f6f6-4d5e-8b65-c820d3cbf963</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:pgl17']/button</value>
-      <webElementGuid>cffd9990-88d9-4697-ae36-cb2b16ac0c72</webElementGuid>
+      <webElementGuid>c0b8f5d1-589d-49aa-8b73-338a60b2542a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detached Table'])[3]/following::button[1]</value>
-      <webElementGuid>2253eb4e-bd3d-4884-93e1-ad45b17dba75</webElementGuid>
+      <webElementGuid>7f9c0bbc-3742-4ff0-914f-2a8474a146f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Wrap'])[12]/following::button[1]</value>
-      <webElementGuid>5cbc6527-65ca-4417-b50f-6b91c05201bf</webElementGuid>
+      <webElementGuid>8383afc8-c3c5-4254-860e-55d675f2d2fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='C'])[2]/preceding::button[1]</value>
-      <webElementGuid>4d6ffcad-0401-4456-8c7a-b5f7db71cdcf</webElementGuid>
+      <webElementGuid>2f940db4-d701-4405-b454-51f67cdfca0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Apply']/parent::*</value>
-      <webElementGuid>cc1ce36d-1b39-4207-a4ff-5655975caf97</webElementGuid>
+      <webElementGuid>0d176839-7a7e-4da2-ac0c-eb106db1d4f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/button</value>
-      <webElementGuid>cd9b4e52-1b12-4b49-b08b-2a63f1810afe</webElementGuid>
+      <webElementGuid>88f7918f-400b-48c4-a933-9d4cd6a22731</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +132,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:cb1' and (text() = 'Apply' or . = 'Apply')]</value>
-      <webElementGuid>bee6b2ca-5d3a-45d2-8c06-afd71ac93b47</webElementGuid>
+      <webElementGuid>4672797e-66a8-48b0-8834-64fa5090756b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
