@@ -63,8 +63,7 @@ WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Ite
     'test')
 
 //WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Item Class__FOpt1_FOr10_FONSr20MAt20itemC_59683c'), 
-  //  FailureHandling.OPTIONAL)
-
+//  FailureHandling.OPTIONAL)
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Primary Unit of Measure__FOpt1_FOr10_FONS_a4f085'))
 
 WebUI.delay(3)
@@ -322,6 +321,8 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/button_OK_1_2_3'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/span_Save'))
+
+WebUI.scrollToElement(findTestObject('MDM_Page_Objects/Page_Create Item PIM/button_Apply'), 100)
 
 WebUI.click(findTestObject('MDM_Page_Objects/Page_Create Item PIM/button_Apply'), FailureHandling.OPTIONAL)
 

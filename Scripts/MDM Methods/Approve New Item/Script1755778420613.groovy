@@ -20,6 +20,7 @@ import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 import java.nio.file.Files as Files
 import java.nio.file.Paths as Paths
 
+
 //WebUI.click(findTestObject('Object Repository/Page_Oracle Fusion Cloud Applications/svg_UAT Environment_pt1_UISatr0cil1icon'))
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/svg_Notifications (188 unread)'))
 
@@ -47,10 +48,36 @@ WebUI.switchToWindowIndex(0)
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/svg_Notifications (188 unread)'))
+/*
+ * WebUI.scrollToElement(findTestObject('Page_Oracle Fusion Cloud
+ * Applications/td_Refresh_pt1_UISatr0panelHeader1_afrTtxt'), 50)
+ * 
+ * WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product
+ * Information/svg_Notifications (188 unread)'))
+ * 
+ * WebUI.click(findTestObject('Page_Oracle Fusion Cloud
+ * Applications/button_Approve'))
+ */
 
-//WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/svg_Notifications (188 unread)'))
-WebUI.click(findTestObject('Page_Oracle Fusion Cloud Applications/button_Approve'))
+// Define your TestObject references
+TestObject refreshElement = findTestObject('Page_Oracle Fusion Cloud Applications/td_Refresh_pt1_UISatr0panelHeader1_afrTtxt')
+TestObject notificationsIcon = findTestObject('Object Repository/MDM_Page_Objects/Page_Product Information/svg_Notifications (188 unread)')
+TestObject approveButton = findTestObject('Page_Oracle Fusion Cloud Applications/button_Approve')
+
+// Scroll to the refresh element (with timeout 50s)
+WebUI.scrollToElement(refreshElement, 10)
+
+// Check if the refresh element is visible (OPTIONAL so test doesn't fail if not found)
+boolean isRefreshVisible = WebUI.verifyElementVisible(refreshElement, FailureHandling.OPTIONAL)
+
+if (isRefreshVisible) {
+	// If refresh element is visible, skip clicking the Notifications icon
+	WebUI.click(approveButton)
+} else {
+	// Otherwise, click the Notifications icon first, then Approve
+	WebUI.click(notificationsIcon)
+	WebUI.click(approveButton)
+}
 
 WebUI.delay(3)
 
