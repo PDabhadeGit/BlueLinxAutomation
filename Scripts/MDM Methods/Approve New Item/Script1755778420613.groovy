@@ -65,7 +65,7 @@ TestObject notificationsIcon = findTestObject('Object Repository/MDM_Page_Object
 TestObject approveButton = findTestObject('Page_Oracle Fusion Cloud Applications/button_Approve')
 
 // Scroll to the refresh element (with timeout 50s)
-WebUI.scrollToElement(refreshElement, 10)
+//WebUI.scrollToElement(refreshElement, 10)
 
 // Check if the refresh element is visible (OPTIONAL so test doesn't fail if not found)
 boolean isRefreshVisible = WebUI.verifyElementVisible(refreshElement, FailureHandling.OPTIONAL)
