@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Aluminum</name>
+   <tag></tag>
+   <elementGuidId>19bbb1cd-09da-4a93-81df-ab351413bf18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.xen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@class='xen' and .//span[normalize-space(text())='Aluminum']]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Aluminum&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c83fdc8c-c068-4b5c-b6cc-d72b8253b6f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xen</value>
+      <webElementGuid>4aef5872-7ab0-46cf-acac-85a8e4d865ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>fa87f0cc-585a-44db-b937-d8fb3ff99988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aluminum</value>
+      <webElementGuid>2cde79ce-168f-4816-8b83-e4408069d48b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_finishItemEffBaseEO6_ATTRIBUTE_CHAR2::dropdownPopup::dropDownContent::db&quot;)/table[@class=&quot;x1hi&quot;]/tbody[1]/tr[@class=&quot;p_AFFocused xem p_AFSelected&quot;]/td[@class=&quot;xen&quot;]</value>
+      <webElementGuid>d89abe58-714a-4948-8906-c3d9b1243954</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:r1:0:dynamicFormLeft_finishItemEffBaseEO6_ATTRIBUTE_CHAR2::dropdownPopup::dropDownContent::db']/table/tbody/tr/td</value>
+      <webElementGuid>f23e6606-c03c-4ff9-9dae-5394ff7099e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PrintMe'])[1]/following::td[4]</value>
+      <webElementGuid>1d9e8169-31ca-450d-84cb-c4fd0e861dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Negative Deviation Factor'])[1]/following::td[12]</value>
+      <webElementGuid>1955477a-97a0-4570-907a-de10a3540fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aluminum'])[2]/preceding::td[1]</value>
+      <webElementGuid>8f37d245-91d0-4637-8a6a-de37c77c76b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/table/tbody/tr/td</value>
+      <webElementGuid>022d6efc-648b-4fa0-9ba5-73794a1a1bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Aluminum' or . = 'Aluminum')]</value>
+      <webElementGuid>ecfcfb68-6700-47b4-a086-bc0cbb4bfaa3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

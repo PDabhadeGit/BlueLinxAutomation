@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Additional Attributes</name>
+   <tag></tag>
+   <elementGuidId>9f430019-1f63-425e-9041-b2b9d8001b3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:tiaLink2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Additional Attributes&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>47fc4ca4-ca31-4b04-9bba-abb91defe705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:tiaLink2</value>
+      <webElementGuid>197d17e7-6f2c-45e3-a1db-afd98b0ac123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_AFHoverTarget xmx</value>
+      <webElementGuid>4efce740-4de6-4679-9f08-962750f47faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.focus();return false;</value>
+      <webElementGuid>c12c97d0-8970-4939-bab2-a795fc6535ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>f511bf89-2d2e-4d6a-aee7-67078096acc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Additional Attributes</value>
+      <webElementGuid>de50cb80-76da-4b8c-8bd1-c978178926af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:tiaLink2&quot;)</value>
+      <webElementGuid>6f686d90-db53-4bcc-8c77-8592039b3183</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:tiaLink2']</value>
+      <webElementGuid>358c8cef-25f6-46d8-aa9c-d7a8d52ec933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:tiaId']/table/tbody/tr/td/table/tbody/tr[3]/td[2]/a</value>
+      <webElementGuid>6e82e6be-ef4a-405c-970d-f7668250d7c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Additional Attributes')]</value>
+      <webElementGuid>09be23bf-a220-4cda-abe3-40bb7b233271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item'])[2]/following::a[2]</value>
+      <webElementGuid>053ed7b9-7efb-4770-8b74-049a6a2106f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation Date'])[1]/following::a[24]</value>
+      <webElementGuid>5b4fbd1a-21eb-422f-b068-3ee187f16711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item Revision'])[1]/preceding::a[7]</value>
+      <webElementGuid>fd6f6b18-cf7b-48d4-ba84-603c0904f98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item Organization'])[1]/preceding::a[11]</value>
+      <webElementGuid>7fe3a82a-8208-4240-8758-c139155a38ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Additional Attributes']/parent::*</value>
+      <webElementGuid>33d53261-ebaa-4d94-9ba4-120b528c826f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[56]</value>
+      <webElementGuid>0c087713-11af-4dac-a798-1a9accebbdb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/a</value>
+      <webElementGuid>f31fba3f-0e56-45c7-9f3d-12a907e56457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:sspecf:1:tiaLink2' and @href = '#' and (text() = 'Additional Attributes' or . = 'Additional Attributes')]</value>
+      <webElementGuid>c15464aa-3038-4ce7-bf07-467c5e5db456</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

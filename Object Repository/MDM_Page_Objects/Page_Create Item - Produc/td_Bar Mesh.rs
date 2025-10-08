@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Bar Mesh</name>
+   <tag></tag>
+   <elementGuidId>cd74cc1f-78f0-4602-a2ed-e0a10596184c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.p_AFSelected.p_AFFocused.xem > td.xen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:MAt2:0:itemClassId::dropdownPopup::dropDownContent::db']/table/tbody/tr[2]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>td >> internal:has-text=/^Bar Mesh$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>126c93ca-8302-48c1-a872-fd0bc24087c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xen</value>
+      <webElementGuid>6122891a-aa3c-4635-a8e1-6d0ca3f65fed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>237f3718-81ff-4a60-8b1e-c57b241e1707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bar Mesh</value>
+      <webElementGuid>34b06b58-c601-4dd6-b9b9-3cda708b2d71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt2:0:itemClassId::dropdownPopup::dropDownContent::db&quot;)/table[@class=&quot;x1hi&quot;]/tbody[1]/tr[@class=&quot;p_AFSelected p_AFFocused xem&quot;]/td[@class=&quot;xen&quot;]</value>
+      <webElementGuid>f529929f-7796-465d-b460-b90a2e6283d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:MAt2:0:itemClassId::dropdownPopup::dropDownContent::db']/table/tbody/tr[2]/td</value>
+      <webElementGuid>ee6f531a-fad0-4ad1-9234-804ce393a7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C'])[1]/following::td[6]</value>
+      <webElementGuid>280f7b25-d578-44ee-be4c-0f83f3ea5c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bar Mesh'])[2]/preceding::td[1]</value>
+      <webElementGuid>d029b5c7-625a-4651-8976-3346cf8f136b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[2]/td</value>
+      <webElementGuid>30b8d60e-9242-4482-a7ab-69d7574db1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Bar Mesh' or . = 'Bar Mesh')]</value>
+      <webElementGuid>be637c1a-318e-4e27-ba2c-43eb937886e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

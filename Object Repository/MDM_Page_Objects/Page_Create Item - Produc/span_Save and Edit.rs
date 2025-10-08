@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save and Edit</name>
+   <tag></tag>
+   <elementGuidId>734a7ebe-3964-4df2-b7b2-c56e67ea0cb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:SelCh:0:cb2']/table/tbody/tr/td/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Save and Edit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff1b2708-747c-4d9f-87a5-288d47024ba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xrm</value>
+      <webElementGuid>0d03cf1e-2f8d-445c-a27a-3a4558b6cab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save and Edit</value>
+      <webElementGuid>35a5812a-d972-47d4-986e-ce65b7cb67a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:SelCh:0:cb2&quot;)/table[1]/tbody[1]/tr[1]/td[@class=&quot;x33d&quot;]/a[@class=&quot;xri&quot;]/span[@class=&quot;xrm&quot;]</value>
+      <webElementGuid>91228dba-4997-467f-bc78-1fb7937118d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pt1:_FOr1:1:_FONSr2:0:MAt3:0:pt1:ap1:SelCh:0:cb2']/table/tbody/tr/td/a/span</value>
+      <webElementGuid>3ca64660-8eba-4265-a859-1313cf99985e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[1]/following::span[1]</value>
+      <webElementGuid>2f321e6f-f206-422a-8453-83b836ccff81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[2]/preceding::span[2]</value>
+      <webElementGuid>57bdafc4-a9a4-4719-85d6-34b5821c78ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save and Edit']/parent::*</value>
+      <webElementGuid>3676fe5d-86cd-4e7f-bcce-dcc5a12a3dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/div/table/tbody/tr/td/a/span</value>
+      <webElementGuid>7d94e9f5-b528-432d-a556-1b1850402316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save and Edit' or . = 'Save and Edit')]</value>
+      <webElementGuid>1e439197-732c-43a0-a9e3-b7f2faa8b13b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
