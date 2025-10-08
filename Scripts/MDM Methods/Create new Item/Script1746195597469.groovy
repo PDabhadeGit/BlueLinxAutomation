@@ -162,14 +162,14 @@ WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Ite
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Major Code__FOpt1_FOr10_FONSr20MAt30pt1ap_b289f8'))
 
-WebUI.delay(5)
+WebUI.delay(8)
 
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Major Code Description__FOpt1_FOr10_F_cdc073'), 
     '1')
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Mid Code__FOpt1_FOr10_FONSr20MAt30pt1ap1s_357fb4'))
 
-WebUI.delay(5)
+WebUI.delay(8)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/td_1_1'))
 
@@ -178,12 +178,14 @@ WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Ite
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Minor Code__FOpt1_FOr10_FONSr20MAt30pt1ap_d4d619'))
 
-WebUI.delay(5)
+WebUI.delay(8)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/td_AFL'))
 
 WebUI.setText(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/input_Minor Code Description__FOpt1_FOr10_F_e1ee4c'), 
     'TEST')
+
+WebUI.delay(8)
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Create Item/a_Stocked__FOpt1_FOr10_FONSr20MAt30pt1ap1ss_734a6a'))
 
