@@ -25,3 +25,5 @@ WebUI.callTestCase(findTestCase('MDM Methods/Create Notes for a Organization'), 
 
 WebUI.callTestCase(findTestCase('MDM Methods/Create Notes for a Person'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+

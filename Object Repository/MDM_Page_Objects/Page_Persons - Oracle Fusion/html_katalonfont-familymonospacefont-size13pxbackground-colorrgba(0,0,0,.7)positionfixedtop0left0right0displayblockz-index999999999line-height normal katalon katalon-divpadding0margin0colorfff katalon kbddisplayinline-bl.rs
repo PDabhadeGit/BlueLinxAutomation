@@ -6,12 +6,12 @@
    <elementGuidId>44620d5b-69cd-4b76-b8d7-51240a6e7185</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*/text()[normalize-space(.)='']/parent::*</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>html</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body[@dir='ltr' and @contenteditable='true' and @tabindex='0']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>html</value>
-      <webElementGuid>281a76ca-c9c5-4e08-ab9a-8e0c922ea460</webElementGuid>
+      <webElementGuid>c70bd001-6f44-4c6d-9b2e-a3e6c08a5f8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <type>Main</type>
       <value>#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon katalon-div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} katalon-div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} katalon-div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}
 </value>
-      <webElementGuid>d46e1ba9-a796-44f5-955c-01cad155e7b9</webElementGuid>
+      <webElementGuid>27ef867e-0d0f-47a1-ab06-26294cd6f2d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]</value>
-      <webElementGuid>5ca5fd1a-2357-493f-975d-2763ee63dae1</webElementGuid>
+      <webElementGuid>8f66a957-d953-44e4-b899-b5bda43be9a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/iframe_Remove Link_pt1_FOr11_FONSr20MAnt21r_939fb3</value>
-      <webElementGuid>2f2ef5e8-d0b2-48c4-bc4c-bf54b8847d9e</webElementGuid>
+      <webElementGuid>9da986cc-7d17-4ba5-bba8-2b1f93ec68d0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='']/parent::*</value>
-      <webElementGuid>06fce2ea-05ba-4312-900f-6089b1baebce</webElementGuid>
+      <webElementGuid>7393a30b-159d-4387-9af5-c8e47665ace0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//html</value>
-      <webElementGuid>bad5aec6-4f2d-4699-9724-920857374862</webElementGuid>
+      <webElementGuid>092af51f-380a-43a8-a857-c23328e67640</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,6 +80,6 @@
       <value>//html[(text() = '#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon katalon-div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} katalon-div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} katalon-div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}
 ' or . = '#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon katalon-div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} katalon-div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} katalon-div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}
 ')]</value>
-      <webElementGuid>b6527155-7e3e-4268-8ce1-409b2193b59e</webElementGuid>
+      <webElementGuid>09e8f4f1-5b13-4930-b063-d50b09a82c23</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

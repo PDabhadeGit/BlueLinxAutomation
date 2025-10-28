@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[15]</value>
+         <value>//a[@id='groupNode_customer_data_management']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>142c8dbd-6032-483d-bc74-ecbd76a36a86</webElementGuid>
+      <webElementGuid>e407da28-e616-49f9-adea-77bd694bb0de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>7f8f6a75-41d9-4775-af3b-eb770f52b4c7</webElementGuid>
+      <webElementGuid>421d3a38-c97f-47b7-9d7b-6f87a532a0e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>groupNode_customer_data_management</value>
-      <webElementGuid>7f36806e-7c82-4936-974f-055285bb5abb</webElementGuid>
+      <webElementGuid>7c3dc2f7-6df3-4cdd-848e-505a35479ab0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>groupNode_customer_data_management</value>
-      <webElementGuid>76c13c2e-0780-4b07-b938-9266ab4cee8f</webElementGuid>
+      <webElementGuid>6e0b8a64-4749-4ab3-b7d2-52ad63cb4348</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-index</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>aa885ac4-986a-4fbb-94a6-4fe5e8ea57fb</webElementGuid>
+      <webElementGuid>a33f2948-cc5e-4ba4-9cb6-f2b92720b006</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flat-tabs-text</value>
-      <webElementGuid>0bb916e0-39eb-4272-9ded-4cfd5c6c1d64</webElementGuid>
+      <webElementGuid>f4fd2f68-7ad5-4dd1-9837-ce9fba845695</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>ccd6175e-47bc-496e-affb-2770f26fe525</webElementGuid>
+      <webElementGuid>811f29af-eb29-43b9-b772-a90872da0120</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Customer Data Management</value>
-      <webElementGuid>a93ef17d-45ea-410e-a896-1df92ed51b1e</webElementGuid>
+      <webElementGuid>38342550-aadd-45ba-b210-dfe18189a46a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;groupNode_customer_data_management&quot;)</value>
-      <webElementGuid>0ff6f3fe-cb36-4492-a770-1948bcc333f9</webElementGuid>
+      <webElementGuid>6a5ee62a-a456-483c-a168-8a19403d7333</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='groupNode_customer_data_management']</value>
-      <webElementGuid>ed0af2a8-89b3-416d-8fc0-2a6d88ecb7a9</webElementGuid>
+      <webElementGuid>ba87ab6b-689f-42a4-9651-fd741b7755d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navmenu-container']/div[3]/a</value>
-      <webElementGuid>2877b29e-40fc-43d8-9113-5198f2c51f52</webElementGuid>
+      <webElementGuid>6732b18d-104b-42f1-b18a-df5db9578f22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Customer Data Management')]</value>
-      <webElementGuid>c281ff8b-9c72-4f78-a6be-124e75145156</webElementGuid>
+      <webElementGuid>4d95c068-02db-43e6-b566-4b0a098412f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Good afternoon, Prajyot Dabhade'])[1]/following::a[3]</value>
-      <webElementGuid>a571651b-e790-4781-ac8a-c4aa226f9ebb</webElementGuid>
+      <webElementGuid>bce25626-2fa2-481e-94b2-b04bbc947fae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DEV2 Environment'])[1]/following::a[20]</value>
-      <webElementGuid>c0fe0612-88b6-4903-a5bd-534f20a79fa8</webElementGuid>
+      <webElementGuid>9e8c6beb-16b0-4168-a2e2-be43910ded8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Actions'])[1]/preceding::a[5]</value>
-      <webElementGuid>d89a99d4-3779-4338-a25b-111a744cf8ae</webElementGuid>
+      <webElementGuid>10e44c78-104a-4058-9cc8-0347edbda8d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/preceding::a[16]</value>
-      <webElementGuid>b3363450-4657-4272-b253-f66078d0376a</webElementGuid>
+      <webElementGuid>e5bfc180-a124-44d9-9f16-3e9542b2179b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Customer Data Management']/parent::*</value>
-      <webElementGuid>beec6cc4-755c-47c0-8c7f-bd6b1e784851</webElementGuid>
+      <webElementGuid>7e5f2ef5-a9d0-4828-899f-8019f404889f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[15]</value>
-      <webElementGuid>cadd82a9-5542-423c-93fc-d1eb71e39c1e</webElementGuid>
+      <webElementGuid>6bcfa1ad-b6ff-45ee-8377-ce6140be6898</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/a</value>
-      <webElementGuid>fe18f728-7cfd-43ab-b8b7-0059d0abedaa</webElementGuid>
+      <webElementGuid>b148e4cb-2c0a-44e2-8e18-b1258531ca84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,7 +181,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @id = 'groupNode_customer_data_management' and @name = 'groupNode_customer_data_management' and (text() = 'Customer Data Management' or . = 'Customer Data Management')]</value>
-      <webElementGuid>11b290a3-bac2-4e55-ba53-f0dd1fb63513</webElementGuid>
+      <webElementGuid>74b52674-2d50-420f-a3c3-b1698c0992ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -189,7 +189,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navmenu-container']/div[7]/a</value>
-      <webElementGuid>e89ddcee-b674-4dbf-b358-03ee8ec1b183</webElementGuid>
+      <webElementGuid>8134d1d7-53a6-42d2-b1e8-49a4b2112c71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -197,7 +197,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Good morning, Prajyot Dabhade'])[1]/following::a[7]</value>
-      <webElementGuid>06750763-d54e-4b15-8c60-9feb7b414ea1</webElementGuid>
+      <webElementGuid>4e790818-34d4-4eab-a531-dde802b8f407</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -205,7 +205,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DEV2'])[1]/following::a[25]</value>
-      <webElementGuid>95189440-8f9d-4ee0-9ec4-acd5dddba895</webElementGuid>
+      <webElementGuid>9ac4c253-7306-4883-ba0e-62f9a1b0cb35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -213,7 +213,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/preceding::a[27]</value>
-      <webElementGuid>c57bffba-4494-4a2b-b392-f8e2706c2c3b</webElementGuid>
+      <webElementGuid>af1c1e41-8601-48c0-9eb8-f218f515265e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -221,7 +221,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[20]</value>
-      <webElementGuid>934b470b-d38b-4b65-823d-aa161cf5a128</webElementGuid>
+      <webElementGuid>844a30b4-88d9-499d-9cd9-815229fe22e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -229,7 +229,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/a</value>
-      <webElementGuid>083d778b-992c-4583-bcc6-7e754271d90e</webElementGuid>
+      <webElementGuid>4e83871f-df7e-48da-88f5-57b6cb6a9e01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -237,7 +237,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Good afternoon, Prajyot Dabhade'])[1]/following::a[7]</value>
-      <webElementGuid>0a6c6667-c343-463d-a2b2-ab7fe9ff2f91</webElementGuid>
+      <webElementGuid>bae24999-e1e5-4434-b795-1c953a71398b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -245,6 +245,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DEV2 TESTING ENVIRONMENT'])[1]/following::a[25]</value>
-      <webElementGuid>9a204772-91ea-4985-bc85-5ad7ccfdee29</webElementGuid>
+      <webElementGuid>769d5f5c-63e5-40bb-955f-167ea63d20e2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

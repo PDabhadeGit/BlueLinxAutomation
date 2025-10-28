@@ -23,7 +23,7 @@ WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Or
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/img_Reorder Columns_pt1_FOr11_FONSr20MAnt21_ac2e0e'))
 
-WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/td'))
+//WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/td'))
 
 WebUI.click(findTestObject('Object Repository/MDM_Page_Objects/Page_Persons - Oracle Fusion/html_katalonfont-familymonospacefont-size13pxbackground-colorrgba(0,0,0,.7)positionfixedtop0left0right0displayblockz-index999999999line-height normal katalon katalon-divpadding0margin0colorfff katalon kbddisplayinline-bl'))
 
